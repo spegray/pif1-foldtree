@@ -1,0 +1,33 @@
+# =============================================================================
+# pif1-foldtree .gitignore
+# Philosophy: commit the auditable pipeline (code, manifest, small seqs, docs,
+# final trees/logs). EXCLUDE bulky data that any script can regenerate, so the
+# repo stays small and clones fast onto the Windows/WSL2 folding box.
+# =============================================================================
+
+# --- Regenerable / bulky structure data --------------------------------------
+# AFDB cache: ~569 MB; re-fetch any time with workflow/03_fetch_structures.py
+data/structures/afdb/
+# Corecut structure slices: regenerated from afdb/ + af3/ at Stage 3
+data/structures/cores/
+# Folded gap predictions (Stage 2b output): produced on the 4090, transferred
+# back out-of-band (scp/rsync). Provenance is recorded in manifest.csv.
+data/structures/af3/*.pdb
+data/structures/af3/*.cif
+# ...but DO keep the gap input FASTA and the how-to that belong in git:
+!data/structures/af3/to_predict_129.faa
+!data/structures/af3/*.md
+
+# --- Whole reference proteomes (huge, regenerable from UniProt) ---------------
+data/proteomes/
+
+# --- Heavy phylogenetics intermediates (final .treefile/.iqtree/.log kept) ----
+*.ckp.gz
+*.uniqueseq.phy
+*.splits.nex
+
+# --- OS / editor / Python cruft ----------------------------------------------
+.DS_Store
+__pycache__/
+*.pyc
+*.swp

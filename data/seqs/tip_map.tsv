@@ -1,0 +1,958 @@
+tip_label	accession	taxid	organism	group	role	gene	core_from	core_to	full_len	core_len
+A0A0C7N4Y2_Lachancea	A0A0C7N4Y2	1245769	Lachancea lanzarotensis	ascomycota	ingroup	PIF1	264	470	864	207
+A0A0W4ZHZ4_Pneumocystis	A0A0W4ZHZ4	1408658	Pneumocystis carinii (strain B80) (Rat pneumocystis pneumonia agent) (Pneumocystis carinii f. sp. carinii)	ascomycota	ingroup	PIF1	287	493	787	207
+A0A0W4ZNJ0_Pneumocystis	A0A0W4ZNJ0	1408657	Pneumocystis jirovecii (strain RU7) (Human pneumocystis pneumonia agent)	ascomycota	ingroup	PIF1	321	528	811	208
+A0A1G4K4H6_Lachancea	A0A1G4K4H6	1072105	Lachancea dasiensis	ascomycota	ingroup	PIF1	286	492	886	207
+A0A2P7YPG7_Candidozyma	A0A2P7YPG7	418784	Candidozyma pseudohaemuli	ascomycota	ingroup	PIF1	209	424	787	216
+A5DHA1_Meyerozyma	A5DHA1	294746	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)	ascomycota	ingroup	PIF1	167	377	722	211
+B6K513_Schizosaccharomyces	B6K513	402676	Schizosaccharomyces japonicus (strain yFS275 / FY16936) (Fission yeast)	ascomycota	ingroup	pfh1	310	517	807	208
+C4R0P2_Komagataella	C4R0P2	644223	Komagataella phaffii (strain GS115 / ATCC 20864) (Yeast) (Pichia pastoris)	ascomycota	ingroup	PIF1	232	436	797	205
+G0V5V7_Naumovozyma	G0V5V7	27288	Naumovozyma castellii (Yeast) (Saccharomyces castellii)	ascomycota	ingroup	NCAS0A02870	278	484	870	207
+G0WAI2_Naumovozyma	G0WAI2	1071378	Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)	ascomycota	ingroup	NDAI0D04800	276	482	854	207
+G8BK92_Candida	G8BK92	578454	Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) (Yeast) (Monilia parapsilosis)	ascomycota	ingroup	PIF1	282	495	797	214
+G8BQC5_Tetrapisispora	G8BQC5	1071381	Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) (Yeast) (Fabospora phaffii)	ascomycota	ingroup	TPHA0B00500	351	556	948	206
+G8JMQ5_Eremothecium	G8JMQ5	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) (Yeast)	ascomycota	ingroup	PIF1	277	483	884	207
+G8ZST6_Torulaspora	G8ZST6	4950	Torulaspora delbrueckii (Yeast) (Candida colliculosa)	ascomycota	ingroup	TDEL0D00960	329	535	949	207
+H2AZM3_Kazachstania	H2AZM3	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) (Yeast) (Kluyveromyces africanus)	ascomycota	ingroup	KAFR0I00420	221	427	823	207
+I2H566_Henningerozyma	I2H566	1071380	Henningerozyma blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7) (Yeast) (Tetrapisispora blattae)	ascomycota	ingroup	TBLA0E04660	245	450	854	206
+J7S6X7_Huiozyma	J7S6X7	1071383	Huiozyma naganishii (strain ATCC MYA-139 / BCRC 22969 / CBS 8797 / KCTC 17520 / NBRC 10181 / NCYC 3082 / Yp74L-3) (Yeast) (Kazachstania naganishii)	ascomycota	ingroup	KNAG0E03960	254	460	853	207
+M7P7M8_Pneumocystis	M7P7M8	1069680	Pneumocystis murina (strain B123) (Mouse pneumocystis pneumonia agent) (Pneumocystis carinii f. sp. muris)	ascomycota	ingroup	PIF1	301	507	801	207
+P07271_Saccharomyces	P07271	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	ascomycota	ingroup	PIF1	236	442	859	207
+P38766_Saccharomyces	P38766	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	ascomycota	ingroup	RRM3	231	436	723	206
+Q59RQ0_Candida	Q59RQ0	237561	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	ascomycota	ingroup	PIF1	368	581	906	214
+Q6BQK7_Debaryomyces	Q6BQK7	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	ascomycota	ingroup	PIF1	271	489	832	219
+Q6FKI9_Nakaseomyces	Q6FKI9	284593	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	ascomycota	ingroup	PIF1	258	464	841	207
+Q9UUA2_Schizosaccharomyces	Q9UUA2	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	ascomycota	ingroup	pfh1	309	516	805	208
+S9PVT1_Schizosaccharomyces	S9PVT1	483514	Schizosaccharomyces octosporus (strain yFS286) (Fission yeast) (Octosporomyces octosporus)	ascomycota	ingroup	PIF1	296	503	788	208
+S9X0K1_Schizosaccharomyces	S9X0K1	653667	Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) (Fission yeast)	ascomycota	ingroup	PIF1	296	503	788	208
+W1QEW7_Ogataea	W1QEW7	871575	Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) (Yeast) (Hansenula polymorpha)	ascomycota	ingroup	PIF1	253	458	826	206
+W6MNR6_Kuraishia	W6MNR6	1382522	Kuraishia capsulata CBS 1993	ascomycota	ingroup	PIF1	215	419	765	205
+A0A066XBE3_Colletotrichum	A0A066XBE3	1173701	Colletotrichum sublineola (Sorghum anthracnose fungus)	ascomycota	ingroup	PIF1	319	528	844	210
+A0A098E1Q1_Fusarium	A0A098E1Q1	229533	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) (Wheat head blight fungus) (Fusarium graminearum)	ascomycota	ingroup	PIF1	358	567	872	210
+A0A0A8L254_Kluyveromyces	A0A0A8L254	1427455	Kluyveromyces dobzhanskii CBS 2104	ascomycota	ingroup	PIF1	207	413	823	207
+A0A0A8L495_Kluyveromyces	A0A0A8L495	1427455	Kluyveromyces dobzhanskii CBS 2104	ascomycota	ingroup	RRM3	204	411	711	208
+A0A0D2HCP1_Cladophialophora	A0A0D2HCP1	1442370	Cladophialophora bantiana (strain ATCC 10958 / CBS 173.52 / CDC B-1940 / NIH 8579) (Xylohypha bantiana)	ascomycota	ingroup	PIF1	257	464	771	208
+A0A0D2IYR0_Rhinocladiella	A0A0D2IYR0	1442369	Rhinocladiella mackenziei CBS 650.93	ascomycota	ingroup	PIF1	247	454	766	208
+A0A0E9NJD1_Saitoella	A0A0E9NJD1	698492	Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804)	ascomycota	ingroup	PIF1	424	630	951	207
+A0A0F8UK25_Aspergillus	A0A0F8UK25	138278	Aspergillus ochraceoroseus	ascomycota	ingroup	PIF1	245	452	753	208
+A0A0G2G6N1_Phaeomoniella	A0A0G2G6N1	158046	Phaeomoniella chlamydospora (Phaeoacremonium chlamydosporum)	ascomycota	ingroup	PIF1	235	443	754	209
+A0A0G4N7A9_Verticillium	A0A0G4N7A9	100787	Verticillium longisporum (Verticillium dahliae var. longisporum)	ascomycota	ingroup	PIF1	337	547	876	211
+A0A0G4PIW6_Penicillium	A0A0G4PIW6	1429867	Penicillium camemberti (strain FM 013)	ascomycota	ingroup	PIF1	268	476	761	209
+A0A0X8HVB8_Eremothecium	A0A0X8HVB8	45286	Eremothecium sinecaudum	ascomycota	ingroup	PIF1	230	436	834	207
+A0A135UEW1_Colletotrichum	A0A135UEW1	1209931	Colletotrichum salicis	ascomycota	ingroup	PIF1	307	516	835	210
+A0A162ZNR2_Ascochyta	A0A162ZNR2	5454	Didymella rabiei (Chickpea ascochyta blight fungus) (Mycosphaerella rabiei)	ascomycota	ingroup	pif1	308	514	802	207
+A0A166QWJ6_Colletotrichum	A0A166QWJ6	1573173	Colletotrichum incanum (Soybean anthracnose fungus)	ascomycota	ingroup	PIF1	364	573	889	210
+A0A167DT29_Sugiyamaella	A0A167DT29	796027	Sugiyamaella lignohabitans	ascomycota	ingroup	RRM3	218	418	706	201
+A0A178CX55_Fonsecaea	A0A178CX55	856822	Fonsecaea nubica	ascomycota	ingroup	PIF1	250	457	764	208
+A0A178FD44_Trichophyton	A0A178FD44	34388	Trichophyton violaceum	ascomycota	ingroup	PIF1	256	462	760	207
+A0A1B2JBB9_Komagataella	A0A1B2JBB9	4922	Komagataella pastoris (Yeast) (Pichia pastoris)	ascomycota	ingroup	PIF1	255	459	820	205
+A0A1E3B484_Aspergillus	A0A1E3B484	573508	Aspergillus cristatus (Chinese Fuzhuan brick tea-fermentation fungus) (Eurotium cristatum)	ascomycota	ingroup	PIF1	223	430	720	208
+A0A1F8AAX5_Aspergillus	A0A1F8AAX5	109264	Aspergillus bombycis	ascomycota	ingroup	PIF1	234	441	736	208
+A0A1G4B3T3_Colletotrichum	A0A1G4B3T3	1209926	Colletotrichum orchidophilum	ascomycota	ingroup	PIF1	352	561	882	210
+A0A1G4J9Z3_Lachancea	A0A1G4J9Z3	1230905	Lachancea mirantina	ascomycota	ingroup	RRM3	198	405	696	208
+A0A1G4M6R4_Lachancea	A0A1G4M6R4	4955	Lachancea fermentati (Zygosaccharomyces fermentati)	ascomycota	ingroup	RRM3	203	410	701	208
+A0A1J9QLP1_Diplodia	A0A1J9QLP1	236234	Diplodia corticola	ascomycota	ingroup	PIF1	169	375	623	207
+A0A1L7WWW9_Phialocephala	A0A1L7WWW9	576137	Phialocephala subalpina	ascomycota	ingroup	PIF1	400	610	917	211
+A0A1V6U152_Penicillium	A0A1V6U152	303698	Penicillium steckii	ascomycota	ingroup	PIF1	274	481	771	208
+A0A1W5D893_Lasallia	A0A1W5D893	136370	Lasallia pustulata	ascomycota	ingroup	PIF1	349	555	865	207
+A0A2A9PT09_Ophiocordyceps	A0A2A9PT09	268505	Ophiocordyceps unilateralis (Zombie-ant fungus) (Torrubia unilateralis)	ascomycota	ingroup	PIF1	323	532	855	210
+A0A2C5WV42_Ceratocystis	A0A2C5WV42	1035309	Ceratocystis fimbriata CBS 114723	ascomycota	ingroup	pif1	322	530	804	209
+A0A2C5Z163_Ophiocordyceps	A0A2C5Z163	2004952	Ophiocordyceps camponoti-rufipedis	ascomycota	ingroup	PIF1	279	488	791	210
+A0A2G7FQB8_Aspergillus	A0A2G7FQB8	656916	Aspergillus arachidicola	ascomycota	ingroup	PIF1	234	442	736	209
+A0A2S4L8F3_Tolypocladium	A0A2S4L8F3	94208	Tolypocladium paradoxum	ascomycota	ingroup	PIF1	299	508	820	210
+A0A2S4Q1N6_Erysiphe	A0A2S4Q1N6	225359	Erysiphe pulchra	ascomycota	ingroup	PIF1	384	594	868	211
+A0A2T0FEC6_Wickerhamiella	A0A2T0FEC6	45607	Wickerhamiella sorbophila	ascomycota	ingroup	PIF1	112	312	589	201
+A0A2U9RAS2_Pichia	A0A2U9RAS2	4909	Pichia kudriavzevii (Yeast) (Issatchenkia orientalis)	ascomycota	ingroup	PIF1	183	386	676	204
+A0A370TV91_Venustampulla	A0A370TV91	2656787	Venustampulla echinocandica	ascomycota	ingroup	PIF1	359	569	872	211
+A0A3D8QMU0_Aspergillus	A0A3D8QMU0	1810919	Aspergillus mulundensis	ascomycota	ingroup	PIF1	241	448	750	208
+A0A401KJ13_Aspergillus	A0A401KJ13	105351	Aspergillus awamori (Black koji mold)	ascomycota	ingroup	PIF1	240	447	754	208
+A0A420Y4N6_Coniochaeta	A0A420Y4N6	177199	Coniochaeta pulveracea	ascomycota	ingroup	PIF1	366	576	869	211
+A0A423X8J6_Cytospora	A0A423X8J6	448051	Cytospora schulzeri	ascomycota	ingroup	PIF1	244	452	755	209
+A0A4P6XHN0_Metschnikowia	A0A4P6XHN0	2163413	Metschnikowia aff. pulcherrima	ascomycota	ingroup	MPUL0A14290	186	391	686	206
+A0A4Q4SNS4_Alternaria	A0A4Q4SNS4	156630	Alternaria arborescens	ascomycota	ingroup	PIF1	294	501	782	208
+A0A4Q4SW76_Monosporascus	A0A4Q4SW76	155417	Monosporascus ibericus	ascomycota	ingroup	PIF1	295	504	810	210
+A0A4R8TC14_Colletotrichum	A0A4R8TC14	1347389	Colletotrichum sidae	ascomycota	ingroup	pif1	316	525	840	210
+A0A4T0X234_Pichia	A0A4T0X234	52247	Pichia inconspicua	ascomycota	ingroup	PIF1	172	379	670	208
+A0A4Z1I1P6_Botryotinia	A0A4Z1I1P6	278944	Botryotinia narcissicola	ascomycota	ingroup	PIF1	384	594	910	211
+A0A5E8BJL0_Magnusiomyces	A0A5E8BJL0	2606893	Magnusiomyces paraingens	ascomycota	ingroup	PIF1	142	355	755	214
+A0A5M3Z9B9_Aspergillus	A0A5M3Z9B9	33178	Aspergillus terreus	ascomycota	ingroup	PIF1	246	454	753	209
+A0A6H0XK98_Peltaster	A0A6H0XK98	286661	Peltaster fructicola	ascomycota	ingroup	PIF1	299	506	803	208
+A0A7D8YNF5_Lachnellula	A0A7D8YNF5	1316786	Lachnellula cervina	ascomycota	ingroup	pif1_0	397	607	920	211
+A0A8E5HVQ8_Ustilaginoidea	A0A8E5HVQ8	1159556	Ustilaginoidea virens (Rice false smut fungus) (Villosiclava virens)	ascomycota	ingroup	PIF1	346	555	858	210
+A0A8H3WE31_Colletotrichum	A0A8H3WE31	702518	Colletotrichum asianum	ascomycota	ingroup	PIF1	329	538	853	210
+A0A8H5T131_Fusarium	A0A8H5T131	48507	Fusarium denticulatum	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8J2T8D0_Zygosaccharomyces	A0A8J2T8D0	1333698	Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227)	ascomycota	ingroup	RRM3	154	349	642	196
+A0A8J8WMJ2_Penicillium	A0A8J8WMJ2	2839758	Penicillium ucsense	ascomycota	ingroup	PIF1	236	444	727	209
+A0A8K0LFH0_Elsinoe	A0A8K0LFH0	2601811	Elsinoe batatas	ascomycota	ingroup	PIF1	411	618	916	208
+A0A8T9C083_Lachnellula	A0A8T9C083	602035	Lachnellula suecica	ascomycota	ingroup	pif1	365	575	889	211
+A0A9N9L4M2_Hymenoscyphus	A0A9N9L4M2	746836	Hymenoscyphus fraxineus	ascomycota	ingroup	PIF1	396	606	914	211
+A0A9P5AP51_Fusarium	A0A9P5AP51	44412	Fusarium beomiforme	ascomycota	ingroup	PIF1	304	513	818	210
+A0A9P5F6D8_Colletotrichum	A0A9P5F6D8	690259	Colletotrichum siamense (Anthracnose fungus)	ascomycota	ingroup	pif1-2	329	538	853	210
+A0A9P5IFU8_Botrytis	A0A9P5IFU8	139641	Botrytis byssoidea	ascomycota	ingroup	PIF1	384	594	910	211
+A0A9P7HAM0_Fusarium	A0A9P7HAM0	40199	Fusarium avenaceum	ascomycota	ingroup	PIF1	305	514	819	210
+A0A9P8NYE8_Ogataea	A0A9P8NYE8	1378263	Ogataea philodendri	ascomycota	ingroup	PIF1	261	465	834	205
+A0A9P8TS07_Trichoderma	A0A9P8TS07	654480	Trichoderma cornu-damae	ascomycota	ingroup	PIF1	349	558	855	210
+A0A9Q8LAV6_Fulvia	A0A9Q8LAV6	5499	Fulvia fulva (Tomato leaf mold) (Passalora fulva)	ascomycota	ingroup	PIF1	407	613	911	207
+A0A9Q8QLM5_Purpureocillium	A0A9Q8QLM5	2060973	Purpureocillium takamizusanense	ascomycota	ingroup	PIF1	348	557	868	210
+A0A9W9HYZ6_Penicillium	A0A9W9HYZ6	189055	Penicillium canariense	ascomycota	ingroup	PIF1	236	444	730	209
+A0A9W9RW94_Penicillium	A0A9W9RW94	5074	Penicillium brevicompactum	ascomycota	ingroup	PIF1	259	467	754	209
+A0AAD9T215_Diplocarpon	A0AAD9T215	946125	Diplocarpon rosae	ascomycota	ingroup	PIF1	406	616	932	211
+A0AAI9SXC1_Candida	A0AAI9SXC1	497107	Candida oxycetoniae	ascomycota	ingroup	PIF1	148	353	638	206
+Q5AXT5_Aspergillus	Q5AXT5	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)	ascomycota	ingroup	pif1	239	446	745	208
+A0A010SLY8_Colletotrichum	A0A010SLY8	1445577	Colletotrichum fioriniae PJ7	ascomycota	ingroup	PIF1	393	602	921	210
+A0A0A2KKZ8_Penicillium	A0A0A2KKZ8	40296	Penicillium italicum (Blue mold)	ascomycota	ingroup	PIF1	227	435	720	209
+A0A0C7N9H1_Lachancea	A0A0C7N9H1	1245769	Lachancea lanzarotensis	ascomycota	ingroup	RRM3	173	379	680	207
+A0A0D2AM31_Verruconis	A0A0D2AM31	253628	Verruconis gallopava	ascomycota	ingroup	PIF1	642	847	1165	206
+A0A0D2CU01_Cladophialophora	A0A0D2CU01	569365	Cladophialophora immunda	ascomycota	ingroup	PIF1	277	484	792	208
+A0A0F4GSW0_Zymoseptoria	A0A0F4GSW0	1047168	Zymoseptoria brevis	ascomycota	ingroup	PIF1	380	587	886	208
+A0A0F7TPW7_Penicillium	A0A0F7TPW7	104259	Penicillium brasilianum	ascomycota	ingroup	PIF1	236	444	723	209
+A0A0F8V674_Aspergillus	A0A0F8V674	308745	Aspergillus rambellii	ascomycota	ingroup	PIF1	291	498	799	208
+A0A0J9X617_Geotrichum	A0A0J9X617	1173061	Geotrichum candidum (Oospora lactis) (Dipodascus geotrichum)	ascomycota	ingroup	PIF1	239	447	768	209
+A0A0J9XD28_Geotrichum	A0A0J9XD28	1173061	Geotrichum candidum (Oospora lactis) (Dipodascus geotrichum)	ascomycota	ingroup	PIF1	307	541	997	235
+A0A0L1J6G6_Aspergillus	A0A0L1J6G6	1509407	Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93)	ascomycota	ingroup	PIF1	236	443	738	208
+A0A0P1KUZ5_Lachancea	A0A0P1KUZ5	1654605	Lachancea quebecensis	ascomycota	ingroup	RRM3	197	406	695	210
+A0A0U1LMZ8_Talaromyces	A0A0U1LMZ8	28573	Talaromyces islandicus (Penicillium islandicum)	ascomycota	ingroup	PIF1	244	452	745	209
+A0A0U5FW00_Aspergillus	A0A0U5FW00	454130	Aspergillus calidoustus	ascomycota	ingroup	PIF1	289	497	803	209
+A0A179UY81_Blastomyces	A0A179UY81	559298	Blastomyces gilchristii (strain SLH14081) (Blastomyces dermatitidis)	ascomycota	ingroup	PIF1	257	463	798	207
+A0A194VFA7_Cytospora	A0A194VFA7	578113	Cytospora mali (Apple Valsa canker fungus) (Valsa mali)	ascomycota	ingroup	PIF1	311	519	818	209
+A0A1E1KHD1_Rhynchosporium	A0A1E1KHD1	2792576	Rhynchosporium graminicola	ascomycota	ingroup	PIF1	366	575	899	210
+A0A1E5R2E4_Hanseniaspora	A0A1E5R2E4	56408	Hanseniaspora osmophila	ascomycota	ingroup	PIF1	274	479	781	206
+A0A1E5RH49_Hanseniaspora	A0A1E5RH49	56408	Hanseniaspora osmophila	ascomycota	ingroup	PIF1	352	567	931	216
+A0A1E5RYU5_Hanseniaspora	A0A1E5RYU5	29833	Hanseniaspora uvarum (Yeast) (Kloeckera apiculata)	ascomycota	ingroup	PIF1	266	469	762	204
+A0A1G4JAR2_Lachancea	A0A1G4JAR2	1266667	Lachancea meyersii CBS 8951	ascomycota	ingroup	RRM3	191	400	689	210
+A0A1G4JJ13_Lachancea	A0A1G4JJ13	1266667	Lachancea meyersii CBS 8951	ascomycota	ingroup	PIF1	283	489	883	207
+A0A1G4KK60_Lachancea	A0A1G4KK60	1266666	Lachancea nothofagi CBS 11611	ascomycota	ingroup	PIF1	276	482	876	207
+A0A1G4M6E1_Lachancea	A0A1G4M6E1	4955	Lachancea fermentati (Zygosaccharomyces fermentati)	ascomycota	ingroup	PIF1	344	550	950	207
+A0A1J9QG29_Blastomyces	A0A1J9QG29	1658174	Blastomyces percursus	ascomycota	ingroup	PIF1	258	464	795	207
+A0A1L0D0Q5_Hanseniaspora	A0A1L0D0Q5	56406	Hanseniaspora guilliermondii	ascomycota	ingroup	PIF1	263	469	759	207
+A0A1L7VNC0_Fusarium	A0A1L7VNC0	1227346	Fusarium proliferatum (strain ET1) (Orchid endophyte fungus)	ascomycota	ingroup	PIF1	307	516	821	210
+A0A1X7R554_Maudiozyma	A0A1X7R554	1789683	Maudiozyma saulgeensis	ascomycota	ingroup	RRM3	266	475	762	210
+A0A218YVE5_Diplocarpon	A0A218YVE5	2795749	Diplocarpon coronariae	ascomycota	ingroup	PIF1	355	565	880	211
+A0A232LWR6_Elaphomyces	A0A232LWR6	519963	Elaphomyces granulatus	ascomycota	ingroup	PIF1	265	473	781	209
+A0A292Q3K7_Tuber	A0A292Q3K7	59557	Tuber aestivum (summer truffle)	ascomycota	ingroup	PIF1	365	593	909	229
+A0A2B7WVK7_Helicocarpus	A0A2B7WVK7	1447875	Helicocarpus griseus UAMH5409	ascomycota	ingroup	PIF1	241	448	752	208
+A0A2D3UXI5_Ramularia	A0A2D3UXI5	112498	Ramularia collo-cygni	ascomycota	ingroup	PIF1	328	535	834	208
+A0A2K1QRC5_Sphaceloma	A0A2K1QRC5	2082308	Sphaceloma murrayae	ascomycota	ingroup	PIF1	341	548	847	208
+A0A2S6CBW7_Cercospora	A0A2S6CBW7	357750	Cercospora berteroae	ascomycota	ingroup	PIF1	417	623	928	207
+A0A2V1A9H7_Candidozyma	A0A2V1A9H7	1231522	Candidozyma duobushaemuli	ascomycota	ingroup	PIF1	209	424	791	216
+A0A2V1ALF0_Candidozyma	A0A2V1ALF0	45357	Candidozyma haemuli	ascomycota	ingroup	PIF1	232	447	811	216
+A0A2W1ERC3_Pyrenophora	A0A2W1ERC3	45151	Pyrenophora tritici-repentis	ascomycota	ingroup	PIF1	298	503	788	206
+A0A364L1Q7_Talaromyces	A0A364L1Q7	1196081	Talaromyces amestolkiae	ascomycota	ingroup	PIF1	292	500	800	209
+A0A367L4D8_Ophiocordyceps	A0A367L4D8	1330021	Ophiocordyceps polyrhachis-furcata BCC 54312	ascomycota	ingroup	PIF1	327	536	1521	210
+A0A367YDY7_Candida	A0A367YDY7	5486	Candida viswanathii	ascomycota	ingroup	PIF1_1	254	463	749	210
+A0A384JQ16_Botrytis	A0A384JQ16	332648	Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)	ascomycota	ingroup	PIF1	386	596	914	211
+A0A423WMC8_Cytospora	A0A423WMC8	448051	Cytospora schulzeri	ascomycota	ingroup	PIF1	108	315	599	208
+A0A448YGA8_Brettanomyces	A0A448YGA8	13370	Brettanomyces naardenensis (Yeast)	ascomycota	ingroup	PIF1	284	488	866	205
+A0A448YPH1_Brettanomyces	A0A448YPH1	13370	Brettanomyces naardenensis (Yeast)	ascomycota	ingroup	PIF1	140	345	652	206
+A0A4Y8D3B0_Botryotinia	A0A4Y8D3B0	38488	Botryotinia calthae	ascomycota	ingroup	PIF1	384	594	909	211
+A0A4Z0Z973_Xylaria	A0A4Z0Z973	37992	Xylaria hypoxylon	ascomycota	ingroup	PIF1	327	535	839	209
+A0A507AHL1_Thyridium	A0A507AHL1	1093900	Thyridium curvatum	ascomycota	ingroup	PIF1	330	539	857	210
+A0A5Q4C7C0_Colletotrichum	A0A5Q4C7C0	2078593	Colletotrichum shisoi	ascomycota	ingroup	Pif1-1	317	526	838	210
+A0A6A6V6U0_Sporormia	A0A6A6V6U0	1340428	Sporormia fimetaria CBS 119925	ascomycota	ingroup	PIF1	338	543	851	206
+A0A6V8H3K1_Talaromyces	A0A6V8H3K1	128442	Talaromyces pinophilus (Penicillium pinophilum)	ascomycota	ingroup	PIF1	251	459	743	209
+A0A7H8QY08_Talaromyces	A0A7H8QY08	121627	Talaromyces rugulosus (Penicillium rugulosum)	ascomycota	ingroup	PIF1	286	494	793	209
+A0A8G0PM48_Trichoderma	A0A8G0PM48	1491479	Trichoderma simmonsii	ascomycota	ingroup	PIF1	335	544	840	210
+A0A8H2ZKI7_Maudiozyma	A0A8H2ZKI7	61262	Maudiozyma barnettii	ascomycota	ingroup	PIF1	287	493	877	207
+A0A8H4ISW3_Botryosphaeria	A0A8H4ISW3	55169	Botryosphaeria dothidea	ascomycota	ingroup	PIF1	349	555	861	207
+A0A8H4KSP0_Fusarium	A0A8H4KSP0	2364996	Fusarium austroafricanum	ascomycota	ingroup	PIF1	309	517	822	209
+A0A8H4L6X0_Fusarium	A0A8H4L6X0	1237068	Fusarium albosuccineum	ascomycota	ingroup	PIF1	298	507	806	210
+A0A8H4XL08_Fusarium	A0A8H4XL08	1053134	Fusarium zealandicum	ascomycota	ingroup	PIF1	342	551	1692	210
+A0A8H5VWV3_Fusarium	A0A8H5VWV3	1567544	Fusarium tjaetaba	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H5XTU0_Fusarium	A0A8H5XTU0	78864	Fusarium globosum	ascomycota	ingroup	PIF1	307	516	821	210
+A0A8H6U8X2_Colletotrichum	A0A8H6U8X2	2175873	Colletotrichum musicola	ascomycota	ingroup	PIF1	363	572	883	210
+A0A8H6UTP6_Aspergillus	A0A8H6UTP6	1287682	Aspergillus felis	ascomycota	ingroup	PIF1	238	446	744	209
+A0A8H6VE95_Pseudocercospora	A0A8H6VE95	685502	Pseudocercospora fuligena	ascomycota	ingroup	PIF1	423	630	942	208
+A0A9N8P9K6_Aureobasidium	A0A9N8P9K6	2773714	Aureobasidium mustum	ascomycota	ingroup	PIF1	401	608	883	208
+A0A9N9LYP1_Hymenoscyphus	A0A9N9LYP1	595503	Hymenoscyphus albidus	ascomycota	ingroup	PIF1	396	606	914	211
+A0A9N9Y4Q8_Clonostachys	A0A9N9Y4Q8	160290	Clonostachys byssicola	ascomycota	ingroup	PIF1	297	506	799	210
+A0A9P0QRK9_Kurtzmaniella	A0A9P0QRK9	45579	[Candida] railenensis	ascomycota	ingroup	PIF1	246	464	821	219
+A0A9P4YU51_Geosmithia	A0A9P4YU51	1094350	Geosmithia morbida	ascomycota	ingroup	PIF1	359	568	846	210
+A0A9P8M8W8_Metarhizium	A0A9P8M8W8	2596975	Metarhizium humberi	ascomycota	ingroup	PIF1	299	507	815	209
+A0A9P8SF62_Hirsutella	A0A9P8SF62	111463	Hirsutella rhossiliensis	ascomycota	ingroup	PIF1	271	481	786	211
+A0A9P9XSS9_Colletotrichum	A0A9P9XSS9	1671311	Colletotrichum abscissum	ascomycota	ingroup	PIF1	306	515	834	210
+A0A9W7DE56_Ambrosiozyma	A0A9W7DE56	43982	Ambrosiozyma monospora (Yeast) (Endomycopsis monosporus)	ascomycota	ingroup	PIF1	265	469	890	205
+A0A9W7SU85_Teratosphaeria	A0A9W7SU85	418781	Teratosphaeria destructans	ascomycota	ingroup	PIF1	334	541	844	208
+A0A9W8N7W2_Xylaria	A0A9W8N7W2	114810	Xylaria arbuscula	ascomycota	ingroup	PIF1	224	432	742	209
+A0A9W9FVK9_Penicillium	A0A9W9FVK9	116970	Penicillium angulare	ascomycota	ingroup	PIF1	230	437	732	208
+A0A9W9KB48_Penicillium	A0A9W9KB48	1131581	Penicillium argentinense	ascomycota	ingroup	PIF1	236	444	733	209
+A0A9W9TVT2_Penicillium	A0A9W9TVT2	5077	Penicillium citrinum	ascomycota	ingroup	PIF1	208	414	704	207
+A0A9W9WZB3_Penicillium	A0A9W9WZB3	1303715	Penicillium desertorum	ascomycota	ingroup	PIF1	270	478	763	209
+A0A9W9XDN3_Penicillium	A0A9W9XDN3	2819901	Penicillium diatomitis	ascomycota	ingroup	PIF1	207	374	657	168
+A0AA35IR82_Saccharomyces	A0AA35IR82	226126	Saccharomyces mikatae IFO 1815	ascomycota	ingroup	SMKI13G0710	236	442	859	207
+A0AAV9SU16_Colletotrichum	A0AAV9SU16	1209068	Colletotrichum tabaci	ascomycota	ingroup	PIF1	318	527	839	210
+A0AAV9UWD6_Orbilia	A0AAV9UWD6	3140254	Orbilia brochopaga	ascomycota	ingroup	PIF1	304	508	829	205
+A0AB34KML8_Cladosporium	A0AB34KML8	1052096	Cladosporium halotolerans	ascomycota	ingroup	pif1	386	593	895	208
+A0ABN8WKL1_Saccharomyces	A0ABN8WKL1	230603	Saccharomyces uvarum (Yeast) (Saccharomyces bayanus var. uvarum)	ascomycota	ingroup	SUVZ15G1840	239	446	731	208
+A0ABQ8N742_Pyricularia	A0ABQ8N742	148305	Pyricularia grisea (Crabgrass-specific blast fungus) (Magnaporthe grisea)	ascomycota	ingroup	PIF1	353	562	864	210
+A0ABQ8WGQ7_Penicillium	A0ABQ8WGQ7	5076	Penicillium chrysogenum (Penicillium notatum)	ascomycota	ingroup	PIF1	227	435	720	209
+A0ABR2V6U6_Seiridium	A0ABR2V6U6	138068	Seiridium unicorne	ascomycota	ingroup	PIF1	362	570	872	209
+A0ABY6SM04_Podospora	A0ABY6SM04	48703	Podospora comata	ascomycota	ingroup	PIF1	317	524	835	208
+B3LLJ4_Saccharomyces	B3LLJ4	285006	Saccharomyces cerevisiae (strain RM11-1a) (Baker's yeast)	ascomycota	ingroup	PIF1	236	442	859	207
+B6Q6C2_Talaromyces	B6Q6C2	441960	Talaromyces marneffei (strain ATCC 18224 / CBS 334.59 / QM 7333) (Penicillium marneffei)	ascomycota	ingroup	PIF1	291	499	802	209
+C5DFL7_Lachancea	C5DFL7	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) (Yeast) (Kluyveromyces thermotolerans)	ascomycota	ingroup	PIF1	291	497	899	207
+C5DM92_Lachancea	C5DM92	559295	Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) (Yeast) (Kluyveromyces thermotolerans)	ascomycota	ingroup	RRM3	197	406	693	210
+C5MAG5_Candida	C5MAG5	294747	Candida tropicalis (strain ATCC MYA-3404 / T1) (Yeast)	ascomycota	ingroup	PIF1	313	520	781	208
+E4V3W1_Nannizzia	E4V3W1	535722	Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893) (Microsporum gypseum)	ascomycota	ingroup	PIF1	256	462	760	207
+E9ETX6_Metarhizium	E9ETX6	655844	Metarhizium robertsii (strain ARSEF 23 / ATCC MYA-3075) (Metarhizium anisopliae (strain ARSEF 23))	ascomycota	ingroup	PIF1	299	507	813	209
+G4N540_Pyricularia	G4N540	242507	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice blast fungus) (Magnaporthe oryzae)	ascomycota	ingroup	PIF1	353	562	864	210
+J5JW44_Beauveria	J5JW44	655819	Beauveria bassiana (strain ARSEF 2860) (White muscardine disease fungus) (Tritirachium shiotae)	ascomycota	ingroup	PIF1	314	522	798	209
+M1WCW3_Claviceps	M1WCW3	1111077	Claviceps purpurea (strain 20.1) (Ergot fungus) (Sphacelia segetum)	ascomycota	ingroup	PIF1	313	521	800	209
+Q6CEU3_Yarrowia	Q6CEU3	284591	Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)	ascomycota	ingroup	PIF1	531	694	1113	164
+W9CKN3_Sclerotinia	W9CKN3	1432307	Sclerotinia borealis (strain F-4128)	ascomycota	ingroup	PIF1	376	586	898	211
+A0A022Y865_Trichophyton	A0A022Y865	1215331	Trichophyton soudanense CBS 452.61	ascomycota	ingroup	PIF1	256	462	780	207
+A0A0A1TS53_tx1531966	A0A0A1TS53	1531966	[Torrubiella] hemipterigena	ascomycota	ingroup	PIF1	361	569	844	209
+A0A0D2H657_Fonsecaea	A0A0D2H657	1442368	Fonsecaea pedrosoi CBS 271.37	ascomycota	ingroup	PIF1	250	457	764	208
+A0A0H1B6P3_Blastomyces	A0A0H1B6P3	2060906	Blastomyces silverae	ascomycota	ingroup	PIF1	257	464	798	208
+A0A0L0NDI1_Tolypocladium	A0A0L0NDI1	1163406	Tolypocladium ophioglossoides (strain CBS 100239) (Snaketongue truffleclub) (Elaphocordyceps ophioglossoides)	ascomycota	ingroup	PIF1	339	547	860	209
+A0A0M8P8W8_Penicillium	A0A0M8P8W8	229535	Penicillium nordicum	ascomycota	ingroup	PIF1	199	407	682	209
+A0A0P1KKU7_Lachancea	A0A0P1KKU7	1654605	Lachancea quebecensis	ascomycota	ingroup	PIF1	290	496	899	207
+A0A135TU94_Colletotrichum	A0A135TU94	1460502	Colletotrichum nymphaeae SA-01	ascomycota	ingroup	PIF1	306	515	834	210
+A0A168CGZ8_Cordyceps	A0A168CGZ8	1081104	Cordyceps fumosorosea (strain ARSEF 2679) (Isaria fumosorosea)	ascomycota	ingroup	PIF1	313	521	804	209
+A0A168ISU5_Akanthomyces	A0A168ISU5	1081108	Akanthomyces lecanii RCEF 1005	ascomycota	ingroup	PIF1	318	526	803	209
+A0A177FGZ4_Fonsecaea	A0A177FGZ4	254056	Fonsecaea monophora	ascomycota	ingroup	PIF1	250	457	764	208
+A0A1B8AKF1_Fusarium	A0A1B8AKF1	36050	Fusarium poae	ascomycota	ingroup	PIF1	304	513	819	210
+A0A1E1KSW3_Rhynchosporium	A0A1E1KSW3	914238	Rhynchosporium agropyri	ascomycota	ingroup	PIF1	366	575	899	210
+A0A1W2TKN4_Rosellinia	A0A1W2TKN4	77044	Rosellinia necatrix (White root-rot fungus)	ascomycota	ingroup	PIF1	306	514	796	209
+A0A1Z5T4Y1_Hortaea	A0A1Z5T4Y1	1157616	Hortaea werneckii EXF-2000	ascomycota	ingroup	PIF1	404	611	912	208
+A0A2B7X4F7_Blastomyces	A0A2B7X4F7	2060905	Blastomyces parvus	ascomycota	ingroup	PIF1	257	464	798	208
+A0A2H0ZLB1_Candidozyma	A0A2H0ZLB1	498019	Candidozyma auris (Yeast) (Candida auris)	ascomycota	ingroup	PIF1	268	476	780	209
+A0A2H2ZNG2_Trichoderma	A0A2H2ZNG2	858221	Trichoderma parareesei (Filamentous fungus)	ascomycota	ingroup	PIF1	350	559	855	210
+A0A2N3NCB3_Lomentospora	A0A2N3NCB3	41688	Lomentospora prolificans	ascomycota	ingroup	PIF1	360	552	1670	193
+A0A2P7Z3W1_Elsinoe	A0A2P7Z3W1	40998	Elsinoe australis	ascomycota	ingroup	PIF1	341	548	844	208
+A0A366QY50_Fusarium	A0A366QY50	231269	Fusarium coffeatum	ascomycota	ingroup	PIF1	305	514	819	210
+A0A376BA80_Saccharomycodes	A0A376BA80	36035	Saccharomycodes ludwigii	ascomycota	ingroup	PIF1	248	453	763	206
+A0A395SEG8_Fusarium	A0A395SEG8	5514	Fusarium sporotrichioides	ascomycota	ingroup	PIF1	307	516	822	210
+A0A3A2ZL16_Aspergillus	A0A3A2ZL16	2070753	Aspergillus sclerotialis	ascomycota	ingroup	PIF1	242	450	746	209
+A0A3D8SQV1_Coleophoma	A0A3D8SQV1	1849047	Coleophoma cylindrospora	ascomycota	ingroup	PIF1	350	560	870	211
+A0A420HWK8_Erysiphe	A0A420HWK8	212602	Erysiphe neolycopersici	ascomycota	ingroup	PIF1	401	611	885	211
+A0A484FKH5_Colletotrichum	A0A484FKH5	1213857	Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) (Cucumber anthracnose fungus) (Colletotrichum lagenarium)	ascomycota	ingroup	pif1-1	593	802	1117	210
+A0A4Q4P3R5_Alternaria	A0A4Q4P3R5	119927	Alternaria tenuissima	ascomycota	ingroup	PIF1	294	501	782	208
+A0A4Z1FQZ2_Botrytis	A0A4Z1FQZ2	278948	Botrytis paeoniae	ascomycota	ingroup	PIF1	381	591	907	211
+A0A4Z1H1E5_Botrytis	A0A4Z1H1E5	278943	Botrytis hyacinthi	ascomycota	ingroup	PIF1	384	594	910	211
+A0A4Z1I5K8_Botryotinia	A0A4Z1I5K8	54673	Botryotinia convoluta	ascomycota	ingroup	PIF1	384	594	910	211
+A0A4Z1JM45_Botrytis	A0A4Z1JM45	278938	Botrytis elliptica	ascomycota	ingroup	PIF1	385	595	911	211
+A0A4Z1NVH7_Venturia	A0A4Z1NVH7	86259	Venturia nashicola	ascomycota	ingroup	PIF1	484	696	1004	213
+A0A5E8B6K8_Magnusiomyces	A0A5E8B6K8	2606893	Magnusiomyces paraingens	ascomycota	ingroup	PIF1	98	306	647	209
+A0A5N6K1H9_Monilinia	A0A5N6K1H9	61186	Monilinia laxa (Brown rot fungus) (Sclerotinia laxa)	ascomycota	ingroup	PIF1	382	592	903	211
+A0A642UJS9_Trichomonascus	A0A642UJS9	44093	Trichomonascus ciferrii	ascomycota	ingroup	PIF1	358	577	853	220
+A0A7C8MWI0_Xylaria	A0A7C8MWI0	323545	Xylaria multiplex	ascomycota	ingroup	PIF1	117	325	628	209
+A0A7G3ZIW5_Torulaspora	A0A7G3ZIW5	48254	Torulaspora globosa	ascomycota	ingroup	RRM3	182	385	677	204
+A0A7U2QU03_Aspergillus	A0A7U2QU03	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)	ascomycota	ingroup	PIF1	252	460	754	209
+A0A8H2ZM85_Sclerotinia	A0A8H2ZM85	28548	Sclerotinia trifoliorum	ascomycota	ingroup	PIF1	385	595	906	211
+A0A8H4Q9J7_Ophiocordyceps	A0A8H4Q9J7	2030778	Ophiocordyceps camponoti-floridani	ascomycota	ingroup	PIF1	283	492	795	210
+A0A8H4T2Y1_Fusarium	A0A8H4T2Y1	1208366	Fusarium sarcochroum	ascomycota	ingroup	PIF1	307	516	821	210
+A0A8H4YPP2_Fusarium	A0A8H4YPP2	48485	Fusarium anthophilum	ascomycota	ingroup	PIF1	307	516	821	210
+A0A8H5J614_Fusarium	A0A8H5J614	42672	Fusarium napiforme	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H5UR89_Fusarium	A0A8H5UR89	56676	Fusarium pseudocircinatum	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H6KXX6_Colletotrichum	A0A8H6KXX6	2175906	Colletotrichum plurivorum	ascomycota	ingroup	PIF1	372	581	892	210
+A0A8H8RV52_Lachnellula	A0A8H8RV52	215460	Lachnellula occidentalis	ascomycota	ingroup	pif1	356	566	879	211
+A0A8J2TAJ9_Zygosaccharomyces	A0A8J2TAJ9	1333698	Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227)	ascomycota	ingroup	PIF1	254	460	874	207
+A0A8T9B5J8_Lachnellula	A0A8T9B5J8	1316785	Lachnellula arida	ascomycota	ingroup	pif1	360	570	883	211
+A0A9P0QU44_Kurtzmaniella	A0A9P0QU44	45579	[Candida] railenensis	ascomycota	ingroup	PIF1	211	417	714	207
+A0A9P3CP80_Cercospora	A0A9P3CP80	84275	Cercospora kikuchii	ascomycota	ingroup	PIF1	417	624	928	208
+A0A9P6VJM9_Hyphodiscus	A0A9P6VJM9	353542	Hyphodiscus hymeniophilus	ascomycota	ingroup	PIF1	354	564	873	211
+A0A9P8Q4R9_Wickerhamomyces	A0A9P8Q4R9	599730	Wickerhamomyces pijperi (Yeast) (Pichia pijperi)	ascomycota	ingroup	PIF1	196	401	687	206
+A0A9Q8SIE6_Colletotrichum	A0A9Q8SIE6	145971	Colletotrichum lupini	ascomycota	ingroup	PIF1	395	604	923	210
+A0A9Q9EGB7_Septoria	A0A9Q9EGB7	215465	Septoria linicola	ascomycota	ingroup	PIF1	336	543	852	208
+A0A9W4UE87_Periconia	A0A9W4UE87	1303443	Periconia digitata	ascomycota	ingroup	PIF1	368	573	854	206
+A0AA35J0E4_Saccharomyces	A0AA35J0E4	226126	Saccharomyces mikatae IFO 1815	ascomycota	ingroup	SMKI08G0740	231	438	723	208
+A0AAD4IFY3_Alternaria	A0AAD4IFY3	48097	Alternaria panax	ascomycota	ingroup	PIF1	294	501	783	208
+A0AAD5BBM1_Candida	A0AAD5BBM1	1198502	Candida theae	ascomycota	ingroup	PIF1	378	591	892	214
+A0AAD6GIB4_Penicillium	A0AAD6GIB4	3151616	Penicillium frequentans	ascomycota	ingroup	PIF1	278	474	768	197
+A0AAD9AKZ3_Colletotrichum	A0AAD9AKZ3	1836956	Colletotrichum chrysophilum	ascomycota	ingroup	PIF1	372	581	897	210
+A0AAD9Y213_Colletotrichum	A0AAD9Y213	34407	Colletotrichum kahawae (Coffee berry disease fungus)	ascomycota	ingroup	PIF1	362	571	886	210
+A0AAE9W8S9_Schizosaccharomyces	A0AAE9W8S9	2545709	Schizosaccharomyces osmophilus	ascomycota	ingroup	pfh1	296	503	788	208
+A0AAI9TIH2_Penicillium	A0AAI9TIH2	293382	Penicillium thymicola	ascomycota	ingroup	PIF1	198	406	681	209
+A0AAV5QDJ4_Saccharomycopsis	A0AAV5QDJ4	43959	Saccharomycopsis crataegensis	ascomycota	ingroup	PIF1	176	385	682	210
+A0AAV5QKF6_Saccharomycopsis	A0AAV5QKF6	43959	Saccharomycopsis crataegensis	ascomycota	ingroup	PIF1	396	610	985	215
+A0AAX4HF17_Australozyma	A0AAX4HF17	291208	Australozyma saopauloensis	ascomycota	ingroup	PIF1	173	376	674	204
+A0AB34G0U3_Purpureocillium	A0AB34G0U3	1247861	Purpureocillium lavendulum	ascomycota	ingroup	PIF1	980	1189	1502	210
+A0ABP2EZZ6_Blastomyces	A0ABP2EZZ6	559297	Ajellomyces dermatitidis (strain ER-3 / ATCC MYA-2586) (Blastomyces dermatitidis)	ascomycota	ingroup	PIF1	257	463	798	207
+A0ABQ7RSC4_Ogataea	A0ABQ7RSC4	870730	Pichia angusta (Yeast) (Hansenula polymorpha)	ascomycota	ingroup	PIF1	253	458	825	206
+A0ABQ9SFB4_Colletotrichum	A0ABQ9SFB4	1914294	Colletotrichum paranaense	ascomycota	ingroup	PIF1	306	515	834	210
+A0ABR0HK82_Podospora	A0ABR0HK82	2609844	Podospora pseudoanserina	ascomycota	ingroup	PIF1	382	589	895	208
+A0ABR0TKY5_Aureobasidium	A0ABR0TKY5	5580	Aureobasidium pullulans (Black yeast) (Pullularia pullulans)	ascomycota	ingroup	PIF1	423	630	933	208
+A0ABR1PTT1_Apiospora	A0ABR1PTT1	335848	Apiospora aurea	ascomycota	ingroup	PIF1	371	579	877	209
+A0ABR1RLE4_Apiospora	A0ABR1RLE4	335849	Apiospora marii	ascomycota	ingroup	PIF1	309	517	817	209
+A0ABR1VZW9_Apiospora	A0ABR1VZW9	2905665	Apiospora phragmitis	ascomycota	ingroup	PIF1	289	497	772	209
+A0ABR3DMS4_Neurospora	A0ABR3DMS4	5142	Neurospora intermedia	ascomycota	ingroup	PIF1	413	624	928	212
+A0ABR3Y3X8_Phialemonium	A0ABR3Y3X8	223376	Phialemonium thermophilum	ascomycota	ingroup	PIF1	303	512	805	210
+A0ABR4P0R8_Nakaseomyces	A0ABR4P0R8	273131	Nakaseomyces bracarensis	ascomycota	ingroup	RRM3	190	396	692	207
+A0ABX6EXJ8_Kluyveromyces	A0ABX6EXJ8	4911	Kluyveromyces marxianus (Yeast) (Candida kefyr)	ascomycota	ingroup	PIF1	238	444	852	207
+A0ABX6F0Q7_Kluyveromyces	A0ABX6F0Q7	4911	Kluyveromyces marxianus (Yeast) (Candida kefyr)	ascomycota	ingroup	RRM3	201	408	703	208
+A0ABX8I2X5_Candidozyma	A0ABX8I2X5	45357	Candidozyma haemuli	ascomycota	ingroup	PIF1	166	369	2755	204
+A0ABX8I4W3_Candidozyma	A0ABX8I4W3	45357	Candidozyma haemuli	ascomycota	ingroup	PIF1	209	424	791	216
+A2R3M6_Aspergillus	A2R3M6	425011	Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)	ascomycota	ingroup	PIF1	286	494	800	209
+C4JUZ0_Uncinocarpus	C4JUZ0	336963	Uncinocarpus reesii (strain UAMH 1704) (Gymnoascus siglerae)	ascomycota	ingroup	PIF1	180	346	1465	167
+D4B4E8_Trichophyton	D4B4E8	663331	Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) (Trichophyton mentagrophytes)	ascomycota	ingroup	PIF1	256	462	780	207
+D4DAK6_Trichophyton	D4DAK6	663202	Trichophyton verrucosum (strain HKI 0517)	ascomycota	ingroup	PIF1	256	462	780	207
+F2PR25_Trichophyton	F2PR25	559882	Trichophyton equinum (strain ATCC MYA-4606 / CBS 127.97) (Horse ringworm fungus)	ascomycota	ingroup	PIF1	294	497	794	204
+F2S1K4_Trichophyton	F2S1K4	647933	Trichophyton tonsurans (strain CBS 112818) (Scalp ringworm fungus)	ascomycota	ingroup	PIF1	255	458	753	204
+G0S6L7_Thermochaetoides	G0S6L7	759272	Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) (Chaetomium thermophilum)	ascomycota	ingroup	PIF1	300	509	809	210
+G1WZ06_Orbilia	G1WZ06	756982	Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) (Nematode-trapping fungus) (Didymozoophaga oligospora)	ascomycota	ingroup	PIF1	432	636	947	205
+I2H165_Henningerozyma	I2H165	1071380	Henningerozyma blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7) (Yeast) (Tetrapisispora blattae)	ascomycota	ingroup	TBLA0C03130	221	430	717	210
+K0KM86_Wickerhamomyces	K0KM86	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10) (Yeast) (Pichia ciferrii)	ascomycota	ingroup	PIF1	422	628	1022	207
+K3UQF6_Fusarium	K3UQF6	1028729	Fusarium pseudograminearum (strain CS3096) (Wheat and barley crown-rot fungus)	ascomycota	ingroup	PIF1	307	516	821	210
+N1RU73_Fusarium	N1RU73	2502994	Fusarium oxysporum f. sp. cubense (strain race 4) (Panama disease fungus)	ascomycota	ingroup	PIF1	306	515	820	210
+R4XBB5_Taphrina	R4XBB5	1097556	Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)	ascomycota	ingroup	PIF1	282	485	821	204
+S7ZUF7_Penicillium	S7ZUF7	933388	Penicillium oxalicum (strain 114-2 / CGMCC 5302) (Penicillium decumbens)	ascomycota	ingroup	PIF1	237	445	727	209
+U1GI40_Endocarpon	U1GI40	1263415	Endocarpon pusillum (strain Z07020 / HMAS-L-300199) (Lichen-forming fungus)	ascomycota	ingroup	PIF1	215	421	732	207
+W6MM08_Kuraishia	W6MM08	1382522	Kuraishia capsulata CBS 1993	ascomycota	ingroup	PIF1	200	402	693	203
+W7HWQ6_Drechslerella	W7HWQ6	1043628	Drechslerella stenobrocha 248	ascomycota	ingroup	PIF1	183	387	694	205
+A0A086SVX6_Hapsidospora	A0A086SVX6	857340	Hapsidospora chrysogenum (strain ATCC 11550 / CBS 779.69 / DSM 880 / IAM 14645 / JCM 23072 / IMI 49137) (Acremonium chrysogenum)	ascomycota	ingroup	PIF1	289	497	792	209
+A0A090CWN8_Podospora	A0A090CWN8	515849	Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383) (Pleurage anserina)	ascomycota	ingroup	PIF1	317	524	835	208
+A0A0A2KQC3_Penicillium	A0A0A2KQC3	27334	Penicillium expansum (Blue mold rot fungus)	ascomycota	ingroup	PIF1	227	435	720	209
+A0A0D9NSG7_Metarhizium	A0A0D9NSG7	1291518	Metarhizium anisopliae BRIP 53293	ascomycota	ingroup	PIF1	299	507	813	209
+A0A0F4YPA8_Rasamsonia	A0A0F4YPA8	1408163	Rasamsonia emersonii (strain ATCC 16479 / CBS 393.64 / IMI 116815)	ascomycota	ingroup	PIF1	193	401	709	209
+A0A0F4ZHF8_Thielaviopsis	A0A0F4ZHF8	72032	Thielaviopsis punctulata	ascomycota	ingroup	PIF1	213	421	697	209
+A0A0G4KXU7_Verticillium	A0A0G4KXU7	100787	Verticillium longisporum (Verticillium dahliae var. longisporum)	ascomycota	ingroup	PIF1	337	547	876	211
+A0A0M9VTS8_Escovopsis	A0A0M9VTS8	150374	Escovopsis weberi	ascomycota	ingroup	PIF1	328	537	839	210
+A0A0N0DEY4_Fusarium	A0A0N0DEY4	179993	Fusarium langsethiae	ascomycota	ingroup	PIF1	307	516	822	210
+A0A0P7BBB4_Neonectria	A0A0P7BBB4	78410	Neonectria ditissima	ascomycota	ingroup	PIF1	309	517	827	209
+A0A135LFH1_Penicillium	A0A135LFH1	5078	Penicillium patulum (Penicillium griseofulvum)	ascomycota	ingroup	PIF1	226	434	719	209
+A0A139HGG1_Pseudocercospora	A0A139HGG1	321146	Pseudocercospora eumusae	ascomycota	ingroup	PIF1	362	569	858	208
+A0A139IDY3_Pseudocercospora	A0A139IDY3	113226	Pseudocercospora musae	ascomycota	ingroup	PIF1	406	613	921	208
+A0A151GWK7_Drechmeria	A0A151GWK7	98403	Drechmeria coniospora (Nematophagous fungus) (Meria coniospora)	ascomycota	ingroup	PIF1	347	557	878	211
+A0A166NVT2_Colletotrichum	A0A166NVT2	708197	Colletotrichum tofieldiae	ascomycota	ingroup	PIF1	319	528	844	210
+A0A166U4T1_Moelleriella	A0A166U4T1	1081109	Moelleriella libera RCEF 2490	ascomycota	ingroup	PIF1	986	1195	1499	210
+A0A168C8M9_Ascosphaera	A0A168C8M9	392613	Ascosphaera apis ARSEF 7405	ascomycota	ingroup	PIF1	335	546	957	212
+A0A1C1C9U7_Cladophialophora	A0A1C1C9U7	86049	Cladophialophora carrionii	ascomycota	ingroup	pif1	246	453	763	208
+A0A1E5R8N0_Hanseniaspora	A0A1E5R8N0	211096	Hanseniaspora opuntiae	ascomycota	ingroup	PIF1	263	467	759	205
+A0A1G4KDP5_Lachancea	A0A1G4KDP5	1230905	Lachancea mirantina	ascomycota	ingroup	PIF1	224	430	814	207
+A0A1G4KMC5_Lachancea	A0A1G4KMC5	1266666	Lachancea nothofagi CBS 11611	ascomycota	ingroup	RRM3	179	388	677	210
+A0A1J9QQT4_Diplodia	A0A1J9QQT4	236234	Diplodia corticola	ascomycota	ingroup	PIF1	142	351	618	210
+A0A1J9S2U9_Diplodia	A0A1J9S2U9	236234	Diplodia corticola	ascomycota	ingroup	PIF1	347	553	859	207
+A0A1L0BTK2_Sungouiella	A0A1L0BTK2	45354	Sungouiella intermedia	ascomycota	ingroup	PIF1	172	375	667	204
+A0A1Q2YI20_Pichia	A0A1Q2YI20	4926	Pichia membranifaciens	ascomycota	ingroup	PIF1	226	430	908	205
+A0A1Q8RAQ6_Colletotrichum	A0A1Q8RAQ6	708187	Colletotrichum chlorophyti	ascomycota	ingroup	PIF1	319	528	842	210
+A0A1T3CVP8_Trichoderma	A0A1T3CVP8	1491466	Trichoderma guizhouense	ascomycota	ingroup	PIF1	335	544	840	210
+A0A1V6QBT2_Penicillium	A0A1V6QBT2	416450	Penicillium antarcticum	ascomycota	ingroup	PIF1	221	428	716	208
+A0A1V6RMZ5_Penicillium	A0A1V6RMZ5	60172	Penicillium solitum	ascomycota	ingroup	PIF1	225	433	718	209
+A0A1V6RZK0_Penicillium	A0A1V6RZK0	29845	Penicillium vulpinum	ascomycota	ingroup	PIF1	269	477	762	209
+A0A1V6V0V5_Penicillium	A0A1V6V0V5	36646	Penicillium coprophilum	ascomycota	ingroup	PIF1	225	430	715	206
+A0A1V6Z3Y5_Penicillium	A0A1V6Z3Y5	60175	Penicillium nalgiovense	ascomycota	ingroup	PIF1	270	478	763	209
+A0A1X7RKD9_Zymoseptoria	A0A1X7RKD9	1276538	Zymoseptoria tritici (strain ST99CH_3D7)	ascomycota	ingroup	PIF1	327	534	833	208
+A0A1Y2M700_Epicoccum	A0A1Y2M700	105696	Epicoccum nigrum (Soil fungus) (Epicoccum purpurascens)	ascomycota	ingroup	PIF1	306	512	802	207
+A0A2C5XF89_Ophiocordyceps	A0A2C5XF89	1399860	Ophiocordyceps australis	ascomycota	ingroup	PIF1	308	517	830	210
+A0A2K0WHU4_Fusarium	A0A2K0WHU4	42673	Gibberella nygamai (Bean root rot disease fungus) (Fusarium nygamai)	ascomycota	ingroup	PIF1	307	516	821	210
+A0A2K3Q965_Tolypocladium	A0A2K3Q965	45235	Tolypocladium capitatum	ascomycota	ingroup	PIF1	340	549	1851	210
+A0A2P6FGS0_Pseudogymnoascus	A0A2P6FGS0	342668	Pseudogymnoascus verrucosus	ascomycota	ingroup	PIF1	451	658	974	208
+A0A2T4GQX9_Fusarium	A0A2T4GQX9	5516	Fusarium culmorum	ascomycota	ingroup	PIF1	342	551	856	210
+A0A2U3EBL3_Purpureocillium	A0A2U3EBL3	33203	Purpureocillium lilacinum (Paecilomyces lilacinus)	ascomycota	ingroup	PIF1	439	648	1123	210
+A0A2V1AQV1_Candidozyma	A0A2V1AQV1	45357	Candidozyma haemuli	ascomycota	ingroup	PIF1	172	375	1266	204
+A0A367YAA9_Candida	A0A367YAA9	5486	Candida viswanathii	ascomycota	ingroup	RRM3_1	127	328	609	202
+A0A367YJV1_Candida	A0A367YJV1	5486	Candida viswanathii	ascomycota	ingroup	RRM3_0	127	328	609	202
+A0A367YKM2_Candida	A0A367YKM2	5486	Candida viswanathii	ascomycota	ingroup	PIF1_0	254	463	749	210
+A0A395NCI1_Trichoderma	A0A395NCI1	490622	Trichoderma arundinaceum	ascomycota	ingroup	PIF1	335	544	840	210
+A0A423XFI1_Cytospora	A0A423XFI1	1230097	Cytospora leucostoma	ascomycota	ingroup	PIF1	259	467	766	209
+A0A423XK23_Cytospora	A0A423XK23	1230097	Cytospora leucostoma	ascomycota	ingroup	PIF1	70	278	501	209
+A0A9W8UIP0_Akanthomyces	A0A9W8UIP0	2231603	Akanthomyces muscarius (Entomopathogenic fungus) (Lecanicillium muscarium)	ascomycota	ingroup	PIF1	318	526	803	209
+A0A9W9RAK9_Penicillium	A0A9W9RAK9	293559	Penicillium concentricum	ascomycota	ingroup	PIF1	268	476	761	209
+A0A9W9XR84_Penicillium	A0A9W9XR84	1882269	Penicillium fimorum	ascomycota	ingroup	PIF1	269	477	762	209
+A0AA35NL61_Saccharomyces	A0AA35NL61	226230	Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)	ascomycota	ingroup	SKDI13G0780	236	442	857	207
+A0AA38VV67_Coniochaeta	A0AA38VV67	91930	Coniochaeta hoffmannii	ascomycota	ingroup	PIF1	313	521	825	209
+A0AA39L6U6_Sarocladium	A0AA39L6U6	5046	Sarocladium strictum (Black bundle disease fungus) (Acremonium strictum)	ascomycota	ingroup	PIF1	344	553	866	210
+A0AAD5RWL4_Zalerion	A0AAD5RWL4	339359	Zalerion maritima	ascomycota	ingroup	PIF1	381	591	919	211
+A0AAD6H8K2_Penicillium	A0AAD6H8K2	40994	Penicillium hordei	ascomycota	ingroup	PIF1	225	433	718	209
+A0AAD6MU90_Penicillium	A0AAD6MU90	1324776	Penicillium malachiteum	ascomycota	ingroup	PIF1	264	472	766	209
+A0AAD9I3P7_Phyllachora	A0AAD9I3P7	1825666	Phyllachora maydis	ascomycota	ingroup	PIF1	24	233	562	210
+A0AAE8SVQ8_Cephalotrichum	A0AAE8SVQ8	2041049	Cephalotrichum gorgonifer	ascomycota	ingroup	PIF1	331	539	854	209
+A0AAI8YJ59_Anthostomella	A0AAI8YJ59	933095	Anthostomella pinea	ascomycota	ingroup	PIF1	354	562	879	209
+A0AAI9XWQ1_Colletotrichum	A0AAI9XWQ1	1209925	Colletotrichum melonis	ascomycota	ingroup	PIF1	306	515	834	210
+A0AAQ3M7G8_Acrodontium	A0AAQ3M7G8	150365	Acrodontium crateriforme	ascomycota	ingroup	PIF1	349	556	848	208
+A0AAV5R7D5_Pichia	A0AAV5R7D5	36015	Pichia kluyveri (Yeast)	ascomycota	ingroup	PIF1	192	401	690	210
+A0AAV9X1R8_Orbilia	A0AAV9X1R8	2528407	Orbilia ellipsospora	ascomycota	ingroup	PIF1	467	671	989	205
+A0AAX4HXM9_Colletotrichum	A0AAX4HXM9	34406	Colletotrichum destructivum	ascomycota	ingroup	PIF1	363	572	884	210
+A0ABN8VSG3_Saccharomyces	A0ABN8VSG3	1080349	Saccharomyces eubayanus (Yeast)	ascomycota	ingroup	U6500O01980	239	446	731	208
+A0ABP0EFL8_Kurtzmaniella	A0ABP0EFL8	148631	[Candida] anglica	ascomycota	ingroup	PIF1	341	561	909	221
+A0ABQ7IPQ8_Botrytis	A0ABQ7IPQ8	2478750	Botrytis deweyae	ascomycota	ingroup	PIF1	385	595	911	211
+A0ABQ9RPP9_Colletotrichum	A0ABQ9RPP9	1209934	Colletotrichum tamarilloi	ascomycota	ingroup	PIF1	306	515	834	210
+A0ABR0F5M0_Podospora	A0ABR0F5M0	2093777	Podospora bellae-mahoneyi	ascomycota	ingroup	PIF1	382	589	900	208
+A0ABR0G3Y6_Podospora	A0ABR0G3Y6	2093779	Podospora pseudocomata	ascomycota	ingroup	PIF1	382	589	900	208
+A0ABR0SAG8_Cladobotryum	A0ABR0SAG8	491253	Cladobotryum mycophilum	ascomycota	ingroup	PIF1	324	533	832	210
+A0ABR1RWV5_Apiospora	A0ABR1RWV5	990691	Apiospora rasikravindrae	ascomycota	ingroup	PIF1	370	578	876	209
+A0ABR3P4W3_Neodothiora	A0ABR3P4W3	2781224	Neodothiora populina	ascomycota	ingroup	PIF1	357	563	870	207
+A0ABR4D136_Oculimacula	A0ABR4D136	86028	Oculimacula yallundae	ascomycota	ingroup	PIF1	443	652	970	210
+A0ABR4F3V5_Diaporthe	A0ABR4F3V5	105482	Diaporthe vaccinii	ascomycota	ingroup	PIF1	74	282	516	209
+A0ABR4MDG3_Ceratocystis	A0ABR4MDG3	2019550	Ceratocystis lukuohia	ascomycota	ingroup	PIF1	269	477	751	209
+A0ABR4NXG5_Nakaseomyces	A0ABR4NXG5	273131	Nakaseomyces bracarensis	ascomycota	ingroup	PIF1	336	542	919	207
+A0ABY0HA38_Monosporascus	A0ABY0HA38	155416	Monosporascus cannonballus	ascomycota	ingroup	PIF1	288	497	803	210
+A0ABY6US88_Clonostachys	A0ABY6US88	29856	Bionectria ochroleuca (Gliocladium roseum)	ascomycota	ingroup	PIF1	297	506	799	210
+A7EDF0_Sclerotinia	A7EDF0	665079	Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1) (White mold) (Whetzelinia sclerotiorum)	ascomycota	ingroup	PIF1	386	596	907	211
+A7TJ00_Vanderwaltozyma	A7TJ00	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	ascomycota	ingroup	RRM3	240	445	732	206
+B3LSF2_Saccharomyces	B3LSF2	285006	Saccharomyces cerevisiae (strain RM11-1a) (Baker's yeast)	ascomycota	ingroup	RRM3	231	436	723	206
+B8LYE9_Talaromyces	B8LYE9	441959	Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) (Penicillium stipitatum)	ascomycota	ingroup	PIF1	297	505	808	209
+B9WMD7_Candida	B9WMD7	573826	Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) (Yeast)	ascomycota	ingroup	PIF1	369	582	907	214
+C1GI25_Paracoccidioides	C1GI25	502780	Paracoccidioides brasiliensis (strain Pb18)	ascomycota	ingroup	PIF1	274	481	797	208
+C5E0W3_Zygosaccharomyces	C5E0W3	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	ascomycota	ingroup	RRM3	153	350	642	198
+E9DY51_Metarhizium	E9DY51	655827	Metarhizium acridum (strain CQMa 102)	ascomycota	ingroup	PIF1	403	611	915	209
+F0XHJ8_Leptographium	F0XHJ8	655863	Grosmannia clavigera (strain kw1407 / UAMH 11150) (Blue stain fungus) (Graphiocladiella clavigera)	ascomycota	ingroup	PIF1	331	537	819	207
+F2T115_Trichophyton	F2T115	559305	Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete's foot fungus)	ascomycota	ingroup	PIF1	256	462	780	207
+G0W9L4_Naumovozyma	G0W9L4	1071378	Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)	ascomycota	ingroup	NDAI0D01610	266	472	759	207
+G3JM88_Cordyceps	G3JM88	983644	Cordyceps militaris (strain CM01) (Caterpillar fungus)	ascomycota	ingroup	PIF1	322	464	853	143
+G8JWH4_Eremothecium	G8JWH4	931890	Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) (Yeast)	ascomycota	ingroup	RRM3	232	439	730	208
+G8ZVF0_Torulaspora	G8ZVF0	4950	Torulaspora delbrueckii (Yeast) (Candida colliculosa)	ascomycota	ingroup	TDEL0E03510	174	383	669	210
+H6BKX2_Exophiala	H6BKX2	858893	Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656) (Black yeast) (Wangiella dermatitidis)	ascomycota	ingroup	PIF1	263	470	798	208
+J7S460_Huiozyma	J7S460	1071383	Huiozyma naganishii (strain ATCC MYA-139 / BCRC 22969 / CBS 8797 / KCTC 17520 / NBRC 10181 / NCYC 3082 / Yp74L-3) (Yeast) (Kazachstania naganishii)	ascomycota	ingroup	KNAG0M01440	227	434	719	208
+K1WPA9_Drepanopeziza	K1WPA9	1072389	Marssonina brunnea f. sp. multigermtubi (strain MB_m1) (Marssonina leaf spot fungus)	ascomycota	ingroup	PIF1	365	575	873	211
+L2G0F7_Colletotrichum	L2G0F7	1213859	Colletotrichum fructicola (strain Nara gc5) (Anthracnose fungus) (Colletotrichum gloeosporioides (strain Nara gc5))	ascomycota	ingroup	pif1-2	329	538	853	210
+Q4WVU7_Aspergillus	Q4WVU7	330879	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) (Neosartorya fumigata)	ascomycota	ingroup	PIF1	282	490	788	209
+Q6FPW0_Nakaseomyces	Q6FPW0	284593	Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)	ascomycota	ingroup	RRM3	210	420	705	211
+Q756Y6_Eremothecium	Q756Y6	284811	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii)	ascomycota	ingroup	PIF1	196	402	802	207
+A0A084APH7_Stachybotrys	A0A084APH7	1280523	Stachybotrys chartarum (strain CBS 109288 / IBT 7711) (Toxic black mold) (Stilbospora chartarum)	ascomycota	ingroup	PIF1	291	500	805	210
+A0A084GDF4_Scedosporium	A0A084GDF4	563466	Pseudallescheria apiosperma (Scedosporium apiospermum)	ascomycota	ingroup	PIF1	1417	1625	1901	209
+A0A084QU30_Stachybotrys	A0A084QU30	1283841	Stachybotrys chlorohalonatus (strain IBT 40285)	ascomycota	ingroup	PIF1	292	501	806	210
+A0A0B1PEI0_Erysiphe	A0A0B1PEI0	52586	Erysiphe necator (Grape powdery mildew) (Uncinula necator)	ascomycota	ingroup	PIF1	358	568	842	211
+A0A0B2X4N9_Metarhizium	A0A0B2X4N9	1081103	Metarhizium album (strain ARSEF 1941)	ascomycota	ingroup	PIF1	290	499	803	210
+A0A0C4EG66_Magnaporthiopsis	A0A0C4EG66	644358	Magnaporthiopsis poae (strain ATCC 64411 / 73-15) (Kentucky bluegrass fungus) (Magnaporthe poae)	ascomycota	ingroup	PIF1	381	590	890	210
+A0A0D1ZHZ9_Exophiala	A0A0D1ZHZ9	212818	Exophiala mesophila (Black yeast-like fungus)	ascomycota	ingroup	PIF1	303	510	825	208
+A0A0D2J3X0_Fonsecaea	A0A0D2J3X0	1442371	Fonsecaea multimorphosa CBS 102226	ascomycota	ingroup	PIF1	252	459	766	208
+A0A0D8JVN0_Coccidioides	A0A0D8JVN0	246410	Coccidioides immitis (strain RS) (Valley fever fungus)	ascomycota	ingroup	PIF1	216	423	725	208
+A0A0F7ZTC5_Hirsutella	A0A0F7ZTC5	1043627	Hirsutella minnesotensis 3608	ascomycota	ingroup	PIF1	338	548	831	211
+A0A0F8DHR2_Ceratocystis	A0A0F8DHR2	88771	Ceratocystis fimbriata f. sp. platani	ascomycota	ingroup	pif1	204	412	686	209
+A0A0G2I193_Diaporthe	A0A0G2I193	1214573	Diaporthe ampelina	ascomycota	ingroup	PIF1	304	512	813	209
+A0A0N1NVW2_Cyphellophora	A0A0N1NVW2	1664694	Cyphellophora attinorum	ascomycota	ingroup	PIF1	208	415	713	208
+A0A101MLQ9_Penicillium	A0A101MLQ9	48697	Penicillium freii	ascomycota	ingroup	PIF1	225	433	718	209
+A0A109UW77_Eremothecium	A0A109UW77	45286	Eremothecium sinecaudum	ascomycota	ingroup	RRM3	200	407	702	208
+A0A135SIN3_Colletotrichum	A0A135SIN3	703756	Colletotrichum simmondsii	ascomycota	ingroup	PIF1	306	515	829	210
+A0A161HKE9_Sugiyamaella	A0A161HKE9	796027	Sugiyamaella lignohabitans	ascomycota	ingroup	PIF1	425	638	1019	214
+A0A167F3J3_Metarhizium	A0A167F3J3	1649241	Metarhizium rileyi (Nomuraea rileyi)	ascomycota	ingroup	PIF1	345	554	858	210
+A0A167H2R5_Beauveria	A0A167H2R5	1081107	Beauveria brongniartii RCEF 3172	ascomycota	ingroup	PIF1	315	523	799	209
+A0A167TDW9_Niveomyces	A0A167TDW9	1081102	Niveomyces insectorum RCEF 264	ascomycota	ingroup	PIF1	430	638	935	209
+A0A175VPZ7_Madurella	A0A175VPZ7	100816	Madurella mycetomatis	ascomycota	ingroup	PIF1	314	523	823	210
+A0A178ZSD6_Fonsecaea	A0A178ZSD6	1367422	Fonsecaea erecta	ascomycota	ingroup	PIF1	270	477	783	208
+A0A179FR29_Pochonia	A0A179FR29	1380566	Pochonia chlamydosporia 170	ascomycota	ingroup	PIF1	313	522	821	210
+A0A4P6XSZ4_Metschnikowia	A0A4P6XSZ4	2163413	Metschnikowia aff. pulcherrima	ascomycota	ingroup	MPUL0F02240	378	593	968	216
+A0A4R8QEN4_Colletotrichum	A0A4R8QEN4	1347390	Colletotrichum spinosum	ascomycota	ingroup	pif1-1	601	810	1125	210
+A0A4S8RIP6_Botrytis	A0A4S8RIP6	278940	Botrytis galanthina	ascomycota	ingroup	PIF1	384	594	910	211
+A0A4V3HXL6_Colletotrichum	A0A4V3HXL6	5466	Colletotrichum trifolii	ascomycota	ingroup	pif1-0	316	525	840	210
+A0A4V3UMW7_Aspergillus	A0A4V3UMW7	1220188	Aspergillus tanneri	ascomycota	ingroup	PIF1	233	431	733	199
+A0A4Z1EL52_Botrytis	A0A4Z1EL52	87230	Botrytis tulipae	ascomycota	ingroup	PIF1	384	594	910	211
+A0A4Z1L1J9_Botrytis	A0A4Z1L1J9	87229	Botrytis porri	ascomycota	ingroup	PIF1	335	545	861	211
+A0A5M9JJ09_Monilinia	A0A5M9JJ09	38448	Monilinia fructicola (Brown rot fungus) (Ciboria fructicola)	ascomycota	ingroup	PIF1	383	557	868	175
+A0A5N5DHG1_Lasiodiplodia	A0A5N5DHG1	45133	Lasiodiplodia theobromae	ascomycota	ingroup	pif1_1	355	562	870	208
+A0A7D5Z7W4_Metarhizium	A0A7D5Z7W4	500148	Metarhizium brunneum	ascomycota	ingroup	pif1_1	298	506	813	209
+A0A7H9AW24_Zygotorulaspora	A0A7H9AW24	42260	Zygotorulaspora mrakii (Zygosaccharomyces mrakii)	ascomycota	ingroup	RRM3	206	415	704	210
+A0A7H9B3W0_Zygotorulaspora	A0A7H9B3W0	42260	Zygotorulaspora mrakii (Zygosaccharomyces mrakii)	ascomycota	ingroup	PIF1	370	576	964	207
+A0A8H4NYZ8_Fusarium	A0A8H4NYZ8	78861	Fusarium acutatum	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H4PTP3_Ophiocordyceps	A0A8H4PTP3	72228	Ophiocordyceps sinensis	ascomycota	ingroup	PIF1	340	550	819	211
+A0A8H4T3M7_Fusarium	A0A8H4T3M7	282569	Fusarium gaditjirri	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H5N1Z6_Fusarium	A0A8H5N1Z6	751941	Fusarium mexicanum	ascomycota	ingroup	PIF1	307	516	821	210
+A0A8H5UMM3_Fusarium	A0A8H5UMM3	48490	Fusarium circinatum (Pitch canker fungus) (Gibberella circinata)	ascomycota	ingroup	PIF1	307	516	821	210
+A0A8H5V583_Fusarium	A0A8H5V583	48495	Fusarium pseudoanthophilum	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H5X4H1_Fusarium	A0A8H5X4H1	42747	Fusarium heterosporum	ascomycota	ingroup	PIF1	305	514	819	210
+A0A8H8D9N3_Candida	A0A8H8D9N3	273372	Candida metapsilosis	ascomycota	ingroup	PIF1	337	550	851	214
+A0A8H8QV95_Lachnellula	A0A8H8QV95	1316788	Lachnellula hyalina	ascomycota	ingroup	pfh1_1	399	609	922	211
+A0A8H8RJD5_Lachnellula	A0A8H8RJD5	602034	Lachnellula subtilissima	ascomycota	ingroup	pif1_0	399	609	922	211
+A0A9N9YLT0_Clonostachys	A0A9N9YLT0	160324	Clonostachys rhizophaga	ascomycota	ingroup	PIF1	297	506	799	210
+A0A9P4X3G5_Trichoderma	A0A9P4X3G5	1567552	Trichoderma lentiforme	ascomycota	ingroup	PIF1	339	548	844	210
+A0A9P7IRT1_Fusarium	A0A9P7IRT1	221167	Fusarium xylarioides	ascomycota	ingroup	PIF1	333	542	847	210
+A0A9W9HNM9_Penicillium	A0A9W9HNM9	69766	Penicillium capsulatum	ascomycota	ingroup	PIF1	266	474	759	209
+A0A9W9JQ30_Penicillium	A0A9W9JQ30	2972120	Penicillium cf. griseofulvum	ascomycota	ingroup	PIF1	269	477	762	209
+A0A9W9M2N2_Penicillium	A0A9W9M2N2	2972119	Penicillium cf. viridicatum	ascomycota	ingroup	PIF1	223	431	716	209
+A0A9W9PWX5_Penicillium	A0A9W9PWX5	1132637	Penicillium atrosanguineum	ascomycota	ingroup	PIF1	237	445	728	209
+A0A9W9V6L1_Penicillium	A0A9W9V6L1	2100454	Penicillium cataractarum	ascomycota	ingroup	PIF1	236	444	728	209
+A0A9X0BA58_Penicillium	A0A9X0BA58	1131564	Penicillium cosmopolitanum	ascomycota	ingroup	PIF1	286	493	786	208
+A0AAD6E3Q9_Penicillium	A0AAD6E3Q9	911720	Penicillium hetheringtonii	ascomycota	ingroup	PIF1	208	414	704	207
+A0AAD6IDC6_Penicillium	A0AAD6IDC6	5083	Penicillium canescens	ascomycota	ingroup	PIF1	263	470	758	208
+A0AAE1J0Y1_Trichoderma	A0AAE1J0Y1	173218	Trichoderma aggressivum f. europaeum	ascomycota	ingroup	PIF1	341	550	846	210
+A0AAE8M1S2_Fusarium	A0AAE8M1S2	33205	Fusarium torulosum	ascomycota	ingroup	PIF1	305	514	819	210
+A0AAI9UII0_Colletotrichum	A0AAI9UII0	1209917	Colletotrichum cuscutae	ascomycota	ingroup	PIF1	306	515	834	210
+A0AAJ0E579_Colletotrichum	A0AAJ0E579	1209916	Colletotrichum costaricense	ascomycota	ingroup	PIF1	306	515	834	210
+A0AAN5Z088_Fusarium	A0AAN5Z088	282268	Fusarium austroamericanum	ascomycota	ingroup	PIF1	359	568	873	210
+A0AAN6NX75_Pseudoneurospora	A0AAN6NX75	241081	Pseudoneurospora amorphoporcata	ascomycota	ingroup	PIF1	413	624	930	212
+A0AAN7BLM5_Podospora	A0AAN7BLM5	252190	Podospora fimiseda	ascomycota	ingroup	PIF1	328	535	838	208
+A0AAV5QX45_Pichia	A0AAV5QX45	36015	Pichia kluyveri (Yeast)	ascomycota	ingroup	PIF1	284	488	932	205
+A0AAV5RMN1_Starmerella	A0AAV5RMN1	1247836	Starmerella bacillaris (Yeast) (Candida zemplinina)	ascomycota	ingroup	PIF1	163	381	652	219
+A0AAV9HLS5_Cladorrhinum	A0AAV9HLS5	585594	Cladorrhinum samala	ascomycota	ingroup	PIF1	341	548	851	208
+A0AAV9UWK0_Orbilia	A0AAV9UWK0	1796055	Orbilia blumenaviensis	ascomycota	ingroup	PIF1	475	678	1015	204
+A0AAW0R3B8_Apiospora	A0AAW0R3B8	1337665	Apiospora kogelbergensis	ascomycota	ingroup	PIF1	363	545	843	183
+A0AAX4HB97_Australozyma	A0AAX4HB97	291208	Australozyma saopauloensis	ascomycota	ingroup	PIF1	303	518	870	216
+A0ABN8VEY2_Saccharomyces	A0ABN8VEY2	1080349	Saccharomyces eubayanus (Yeast)	ascomycota	ingroup	U6500M00850	236	442	859	207
+A0ABN8WPA3_Saccharomyces	A0ABN8WPA3	230603	Saccharomyces uvarum (Yeast) (Saccharomyces bayanus var. uvarum)	ascomycota	ingroup	SUVZ13G0790	236	442	859	207
+A0ABP0EH01_Kurtzmaniella	A0ABP0EH01	148631	[Candida] anglica	ascomycota	ingroup	RRM3	202	407	714	206
+A0ABP0ZHK7_Lodderomyces	A0ABP0ZHK7	1775926	Lodderomyces beijingensis	ascomycota	ingroup	PIF1	358	571	896	214
+A0ABQ0GRH5_Madurella	A0ABQ0GRH5	1157608	Madurella fahalii	ascomycota	ingroup	PIF1	313	522	820	210
+A0ABQ7RB90_Ogataea	A0ABQ7RB90	1937702	Ogataea haglerorum	ascomycota	ingroup	PIF1	257	462	830	206
+A0ABQ9PW01_Colletotrichum	A0ABQ9PW01	1209924	Colletotrichum limetticola	ascomycota	ingroup	PIF1	306	515	834	210
+A0ABR1UF14_Apiospora	A0ABR1UF14	335842	Apiospora saccharicola	ascomycota	ingroup	PIF1	361	569	868	209
+A0ABR4DNY3_Remersonia	A0ABR4DNY3	72144	Remersonia thermophila	ascomycota	ingroup	PIF1	345	555	859	211
+A0ABR4PIR0_Phlyctema	A0ABR4PIR0	108571	Phlyctema vagabunda	ascomycota	ingroup	PIF1	78	288	592	211
+A0ABZ2WRY7_Fusarium	A0ABZ2WRY7	5515	Fusarium acuminatum	ascomycota	ingroup	PIF1	358	567	872	210
+A1DDJ4_Aspergillus	A1DDJ4	331117	Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) (Neosartorya fischeri)	ascomycota	ingroup	PIF1	238	446	744	209
+A7TMC2_Vanderwaltozyma	A7TMC2	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	ascomycota	ingroup	PIF1	30	234	632	205
+C0NFA5_Histoplasma	C0NFA5	447093	Ajellomyces capsulatus (strain G186AR / H82 / ATCC MYA-2454 / RMSCC 2432) (Darling's disease fungus) (Histoplasma capsulatum)	ascomycota	ingroup	PIF1	259	465	794	207
+C5FMN5_Microsporum	C5FMN5	554155	Arthroderma otae (strain ATCC MYA-4605 / CBS 113480) (Microsporum canis)	ascomycota	ingroup	PIF1	257	463	780	207
+C5M8S6_Candida	C5M8S6	294747	Candida tropicalis (strain ATCC MYA-3404 / T1) (Yeast)	ascomycota	ingroup	PIF1	120	324	558	205
+E3S321_Pyrenophora	E3S321	861557	Pyrenophora teres f. teres (strain 0-1) (Barley net blotch fungus) (Drechslera teres f. teres)	ascomycota	ingroup	PIF1	292	497	782	206
+F2QT11_Komagataella	F2QT11	981350	Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) (Yeast) (Pichia pastoris)	ascomycota	ingroup	PIF1	229	433	794	205
+G0V6X7_Naumovozyma	G0V6X7	27288	Naumovozyma castellii (Yeast) (Saccharomyces castellii)	ascomycota	ingroup	NCAS0A06670	270	476	761	207
+G8Y8Q1_Millerozyma	G8Y8Q1	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) (Hybrid yeast)	ascomycota	ingroup	Piso0_004404	222	436	775	215
+H0GH54_Saccharomyces	H0GH54	1095631	Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) (Yeast)	ascomycota	ingroup	RRM3	231	436	723	206
+H0GLS5_Saccharomyces	H0GLS5	1095631	Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) (Yeast)	ascomycota	ingroup	PIF1	236	442	859	207
+H2AVD6_Kazachstania	H2AVD6	1071382	Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) (Yeast) (Kluyveromyces africanus)	ascomycota	ingroup	KAFR0E01820	209	413	702	205
+J8PMR0_Saccharomyces	J8PMR0	1160507	Saccharomyces arboricola (strain H-6 / AS 2.3317 / CBS 10644) (Yeast)	ascomycota	ingroup	RRM3	233	440	725	208
+L8FZR6_Pseudogymnoascus	L8FZR6	658429	Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21) (Bat white-nose syndrome fungus) (Geomyces destructans)	ascomycota	ingroup	PIF1	430	637	955	208
+M3IP21_Candida	M3IP21	1245528	Candida maltosa (strain Xu316) (Yeast)	ascomycota	ingroup	PIF1	209	425	759	217
+Q6CWC6_Kluyveromyces	Q6CWC6	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	ascomycota	ingroup	PIF1	257	463	872	207
+R8BS17_Phaeoacremonium	R8BS17	1286976	Phaeoacremonium minimum (strain UCR-PA7) (Esca disease fungus) (Togninia minima)	ascomycota	ingroup	PIF1	323	532	841	210
+S8BV51_Dactylellina	S8BV51	1284197	Dactylellina haptotyla (strain CBS 200.50) (Nematode-trapping fungus) (Monacrosporium haptotylum)	ascomycota	ingroup	PIF1	297	501	826	205
+U4KVV4_Pyronema	U4KVV4	1076935	Pyronema omphalodes (strain CBS 100304) (Pyronema confluens)	ascomycota	ingroup	PIF1	387	594	874	208
+V5FX47_Paecilomyces	V5FX47	1356009	Paecilomyces variotii (strain NBRC 109023 / No. 5) (Byssochlamys spectabilis)	ascomycota	ingroup	PIF1	336	543	843	208
+A0A179IKE1_Akanthomyces	A0A179IKE1	2714763	Cordyceps confragosa (Lecanicillium lecanii)	ascomycota	ingroup	PIF1	317	525	806	209
+A0A1B7YNX9_Colletotrichum	A0A1B7YNX9	759273	Colletotrichum higginsianum (strain IMI 349063) (Crucifer anthracnose fungus)	ascomycota	ingroup	PIF1	362	571	883	210
+A0A1E1LUZ6_Rhynchosporium	A0A1E1LUZ6	38038	Rhynchosporium secalis (Barley scald fungus)	ascomycota	ingroup	PIF1	366	575	899	210
+A0A1F5LX58_Penicillium	A0A1F5LX58	1835702	Penicillium arizonense	ascomycota	ingroup	PIF1	222	429	717	208
+A0A1G4JCZ1_Lachancea	A0A1G4JCZ1	1072105	Lachancea dasiensis	ascomycota	ingroup	RRM3	179	385	677	207
+A0A1L7TYF3_Fusarium	A0A1L7TYF3	192010	Fusarium mangiferae (Mango malformation disease fungus)	ascomycota	ingroup	PIF1	307	516	821	210
+A0A1L9RR32_Aspergillus	A0A1L9RR32	1073089	Aspergillus wentii DTO 134E9	ascomycota	ingroup	PIF1	186	393	690	208
+A0A1Q5UPN3_Penicillium	A0A1Q5UPN3	1316194	Penicillium subrubescens	ascomycota	ingroup	PIF1	236	444	728	209
+A0A1V6PDM4_Penicillium	A0A1V6PDM4	69771	Penicillium decumbens	ascomycota	ingroup	PIF1	277	485	773	209
+A0A1V6U1M2_Penicillium	A0A1V6U1M2	254877	Penicillium flavigenum	ascomycota	ingroup	PIF1	270	478	763	209
+A0A1X7QZ68_Maudiozyma	A0A1X7QZ68	1789683	Maudiozyma saulgeensis	ascomycota	ingroup	PIF1	298	504	888	207
+A0A1Z5T0V7_Hortaea	A0A1Z5T0V7	1157616	Hortaea werneckii EXF-2000	ascomycota	ingroup	PIF1	405	613	913	209
+A0A225ACG2_Talaromyces	A0A225ACG2	1441469	Talaromyces atroroseus	ascomycota	ingroup	PIF1	244	452	758	209
+A0A2B7ZAZ8_Emergomyces	A0A2B7ZAZ8	73230	[Emmonsia] crescens	ascomycota	ingroup	PIF1	257	463	802	207
+A0A2C5Z3Z6_Ophiocordyceps	A0A2C5Z3Z6	1399860	Ophiocordyceps australis	ascomycota	ingroup	PIF1	351	560	873	210
+A0A2L2TT35_Fusarium	A0A2L2TT35	56646	Fusarium venenatum	ascomycota	ingroup	PIF1	358	567	873	210
+A0A2P4ZPZ5_Trichoderma	A0A2P4ZPZ5	398673	Trichoderma gamsii	ascomycota	ingroup	PIF1	327	536	818	210
+A0A2P5IG66_Diaporthe	A0A2P5IG66	158607	Diaporthe helianthi	ascomycota	ingroup	PIF1	307	515	816	209
+A0A2P7YYZ7_Candidozyma	A0A2P7YYZ7	418784	Candidozyma pseudohaemuli	ascomycota	ingroup	PIF1	166	369	1269	204
+A0A395MU31_Fusarium	A0A395MU31	2675880	Fusarium flagelliforme	ascomycota	ingroup	PIF1	304	513	818	210
+A0A395SH18_Fusarium	A0A395SH18	694270	Fusarium longipes	ascomycota	ingroup	PIF1	302	511	816	210
+A0A3D8T9P5_Coleophoma	A0A3D8T9P5	565419	Coleophoma crateriformis	ascomycota	ingroup	PIF1	401	611	921	211
+A0A420HI51_Golovinomyces	A0A420HI51	62708	Golovinomyces cichoracearum	ascomycota	ingroup	PIF1	374	584	858	211
+A0A437A639_Arthrobotrys	A0A437A639	97331	Arthrobotrys flagrans (Nematode-trapping fungus) (Trichothecium flagrans)	ascomycota	ingroup	PIF1	380	584	893	205
+A0A4T0X4S6_Pichia	A0A4T0X4S6	52247	Pichia inconspicua	ascomycota	ingroup	PIF1	165	382	863	218
+A0A4U6XDE4_Colletotrichum	A0A4U6XDE4	1306861	Colletotrichum tanaceti	ascomycota	ingroup	pif1	364	573	885	210
+A0A545VF71_Cordyceps	A0A545VF71	43265	Cordyceps javanica	ascomycota	ingroup	PIF1	315	523	803	209
+A0A553I2H5_Xylaria	A0A553I2H5	2512241	Xylaria flabelliformis	ascomycota	ingroup	PIF1	294	502	1556	209
+A0A642UC18_Diutina	A0A642UC18	5481	Diutina rugosa (Yeast) (Candida rugosa)	ascomycota	ingroup	PIF1	351	559	851	209
+A0A6P8AS74_Pyricularia	A0A6P8AS74	148305	Pyricularia grisea (Crabgrass-specific blast fungus) (Magnaporthe grisea)	ascomycota	ingroup	PIF1	353	562	863	210
+A0A7D9D0S1_Brettanomyces	A0A7D9D0S1	5007	Dekkera bruxellensis (Brettanomyces custersii)	ascomycota	ingroup	PIF1	405	614	933	210
+A0A7D9H4X7_Brettanomyces	A0A7D9H4X7	5007	Dekkera bruxellensis (Brettanomyces custersii)	ascomycota	ingroup	PIF1	330	535	925	206
+A0A7G3ZFX8_Torulaspora	A0A7G3ZFX8	48254	Torulaspora globosa	ascomycota	ingroup	PIF1	339	545	961	207
+A0A7H9HQ67_Torulaspora	A0A7H9HQ67	48254	Torulaspora globosa	ascomycota	ingroup	PIF1	320	526	938	207
+A0A8A3PQR8_Monilinia	A0A8A3PQR8	61207	Monilinia vaccinii-corymbosi	ascomycota	ingroup	PIF1	314	524	835	211
+A0A8E2ECP4_Lepidopterella	A0A8E2ECP4	1314670	Lepidopterella palustris CBS 459.81	ascomycota	ingroup	PIF1	414	620	929	207
+A0A8H2VG31_Maudiozyma	A0A8H2VG31	61262	Maudiozyma barnettii	ascomycota	ingroup	RRM3	260	471	756	212
+A0A8H4M5R7_Aspergillus	A0A8H4M5R7	340414	Aspergillus fumigatiaffinis	ascomycota	ingroup	PIF1	238	446	744	209
+A0A8H4RP39_Cudoniella	A0A8H4RP39	354080	Cudoniella acicularis	ascomycota	ingroup	PIF1	627	837	1146	211
+A0A8H5K2L9_Fusarium	A0A8H5K2L9	47803	Fusarium phyllophilum	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H5V246_Fusarium	A0A8H5V246	42677	Gibberella subglutinans (Fusarium subglutinans)	ascomycota	ingroup	PIF1	311	520	825	210
+A0A8H6DJK2_Fusarium	A0A8H6DJK2	1567541	Fusarium mundagurra	ascomycota	ingroup	PIF1	306	515	820	210
+A0A8H6EMB0_Botrytis	A0A8H6EMB0	1964551	Botrytis fragariae	ascomycota	ingroup	PIF1	384	594	910	211
+A0A8H6MX16_Colletotrichum	A0A8H6MX16	2175907	Colletotrichum sojae	ascomycota	ingroup	PIF1	378	587	898	210
+A0A8H6P867_Aspergillus	A0A8H6P867	1194566	Aspergillus hiratsukae	ascomycota	ingroup	PIF1	242	468	765	227
+A0A8H7B4D1_Alternaria	A0A8H7B4D1	1187904	Alternaria burnsii	ascomycota	ingroup	PIF1	294	501	782	208
+A0A8H7MC09_Ascochyta	A0A8H7MC09	205686	Ascochyta lentis	ascomycota	ingroup	PIF1	336	542	829	207
+A0A8J2N2S3_Alternaria	A0A8J2N2S3	119953	Alternaria atra	ascomycota	ingroup	PIF1	294	501	781	208
+A0A9N8P4J7_Aureobasidium	A0A9N8P4J7	2773715	Aureobasidium vineae	ascomycota	ingroup	PIF1	378	572	875	195
+A0A9N8PPA1_Aureobasidium	A0A9N8PPA1	2773716	Aureobasidium uvarum	ascomycota	ingroup	PIF1	369	573	876	205
+A0A9P5H1A3_Cylindrodendrum	A0A9P5H1A3	595255	Cylindrodendrum hubeiense	ascomycota	ingroup	PIF1	346	555	878	210
+A0A9P6I5L3_Colletotrichum	A0A9P6I5L3	1095194	Colletotrichum karsti	ascomycota	ingroup	PIF1	327	536	850	210
+A0A9P7UDJ2_Colletotrichum	A0A9P7UDJ2	1209932	Colletotrichum scovillei	ascomycota	ingroup	PIF1	352	561	880	210
+A0A9P8KRB0_Trichoderma	A0A9P8KRB0	1491008	Trichoderma semiorbis	ascomycota	ingroup	PIF1	337	546	842	210
+A0A9P8PN42_Wickerhamomyces	A0A9P8PN42	1378264	Wickerhamomyces mucosus	ascomycota	ingroup	PIF1	310	531	947	222
+A0A9P8PWM7_Ogataea	A0A9P8PWM7	460523	Ogataea polymorpha	ascomycota	ingroup	PIF1	253	458	825	206
+A0A9P8Q2R3_Wickerhamomyces	A0A9P8Q2R3	599730	Wickerhamomyces pijperi (Yeast) (Pichia pijperi)	ascomycota	ingroup	PIF1	552	760	1245	209
+A0A9P8TBX6_Wickerhamomyces	A0A9P8TBX6	1378264	Wickerhamomyces mucosus	ascomycota	ingroup	PIF1	189	395	676	207
+A0A9P9XX88_Emericellopsis	A0A9P9XX88	2686198	Emericellopsis cladophorae	ascomycota	ingroup	PIF1	281	490	797	210
+A0A9Q0AR35_Neoarthrinium	A0A9Q0AR35	1658444	Neoarthrinium moseri	ascomycota	ingroup	PIF1	334	542	843	209
+A0A9W4TRY8_Candida	A0A9W4TRY8	1227364	Candida verbasci	ascomycota	ingroup	PIF1	162	367	658	206
+A0A9W4TSQ7_Candida	A0A9W4TSQ7	1227364	Candida verbasci	ascomycota	ingroup	PIF1	505	717	1019	213
+A0A9W6SUB1_Ogataea	A0A9W6SUB1	5477	Candida boidinii (Yeast)	ascomycota	ingroup	PIF1	480	685	1067	206
+A0A9W8NAJ3_Xylaria	A0A9W8NAJ3	114810	Xylaria arbuscula	ascomycota	ingroup	PIF1	139	347	888	209
+A0A9W9E386_Trichoderma	A0A9W9E386	2034170	Trichoderma breve	ascomycota	ingroup	PIF1	309	518	814	210
+A0A9W9GHH5_Penicillium	A0A9W9GHH5	126998	Penicillium bovifimosum	ascomycota	ingroup	PIF1	272	478	773	207
+A0A9W9KDN3_Penicillium	A0A9W9KDN3	1506179	Penicillium alfredii	ascomycota	ingroup	PIF1	279	485	773	207
+A0A9W9NF67_Penicillium	A0A9W9NF67	70096	Penicillium cinerascens	ascomycota	ingroup	PIF1	237	444	733	208
+A0A9W9PGZ8_Penicillium	A0A9W9PGZ8	63820	Penicillium chermesinum	ascomycota	ingroup	PIF1	231	439	726	209
+A0AA35M823_Clonostachys	A0AA35M823	1926264	Clonostachys chloroleuca	ascomycota	ingroup	PIF1	297	506	799	210
+A0AA38R6I5_Pleurostoma	A0AA38R6I5	41990	Pleurostoma richardsiae	ascomycota	ingroup	PIF1	317	526	829	210
+A0AA39QRC0_Cladonia	A0AA39QRC0	184061	Cladonia borealis	ascomycota	ingroup	PIF1	352	558	869	207
+A0AA40CH22_Lasiodiplodia	A0AA40CH22	869390	Lasiodiplodia hormozganensis	ascomycota	ingroup	pif1_3	352	559	867	208
+A0AAD6BVQ3_Penicillium	A0AAD6BVQ3	63821	Penicillium daleae	ascomycota	ingroup	PIF1	236	444	727	209
+A0AAD9W185_Diaporthe	A0AAD9W185	1214568	Diaporthe amygdali (Fusicoccum amygdali)	ascomycota	ingroup	PIF1	360	568	869	209
+A0AAI8YTU8_Lecanosticta	A0AAI8YTU8	111012	Lecanosticta acicola	ascomycota	ingroup	PIF1	355	561	859	207
+A0AAI9SW46_Candida	A0AAI9SW46	497107	Candida oxycetoniae	ascomycota	ingroup	PIF1	413	626	934	214
+A0AAN6BNB4_Aspergillus	A0AAN6BNB4	293939	Aspergillus lentulus	ascomycota	ingroup	PIF1	238	446	744	209
+A0AAN6PR26_Parachaetomium	A0AAN6PR26	2588326	Parachaetomium inaequale	ascomycota	ingroup	PIF1	306	525	764	220
+A0AAV5RQD8_Maudiozyma	A0AAV5RQD8	51915	Maudiozyma humilis (Sour dough yeast) (Kazachstania humilis)	ascomycota	ingroup	PIF1	271	477	857	207
+A0AAV5RS12_Starmerella	A0AAV5RS12	1247836	Starmerella bacillaris (Yeast) (Candida zemplinina)	ascomycota	ingroup	PIF1	94	299	893	206
+A0AAV5S599_Maudiozyma	A0AAV5S599	51915	Maudiozyma humilis (Sour dough yeast) (Kazachstania humilis)	ascomycota	ingroup	RRM3	264	474	760	211
+A0ABP0ZI86_Lodderomyces	A0ABP0ZI86	1775926	Lodderomyces beijingensis	ascomycota	ingroup	PIF1	182	386	671	205
+A0ABQ0CIR6_Epichloe	A0ABQ0CIR6	79588	Epichloe bromicola	ascomycota	ingroup	g1738	315	523	824	209
+A0ABQ1A1P2_Aspergillus	A0ABQ1A1P2	91492	Aspergillus udagawae	ascomycota	ingroup	PIF1	238	446	744	209
+A0ABR0H0U4_Podospora	A0ABR0H0U4	2093780	Podospora pseudopauciseta	ascomycota	ingroup	PIF1	382	589	895	208
+A0ABR1X8Q2_Apiospora	A0ABR1X8Q2	1337664	Apiospora hydei	ascomycota	ingroup	PIF1	279	487	785	209
+A0ABR2HLJ4_Apiospora	A0ABR2HLJ4	335852	Apiospora arundinis	ascomycota	ingroup	PIF1	364	572	870	209
+A0ABR2XV60_Seiridium	A0ABR2XV60	138064	Seiridium cardinale	ascomycota	ingroup	PIF1	360	568	870	209
+A0ABR3VRV6_Mycothermus	A0ABR3VRV6	85995	Humicola insolens (Soft-rot fungus)	ascomycota	ingroup	PIF1	310	517	815	208
+A0ABR4DQT9_Diaporthe	A0ABR4DQT9	105482	Diaporthe vaccinii	ascomycota	ingroup	PIF1	357	565	866	209
+A1CBS2_Aspergillus	A1CBS2	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)	ascomycota	ingroup	PIF1	241	449	747	209
+A5E709_Lodderomyces	A5E709	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	ascomycota	ingroup	PIF1	511	724	1047	214
+A7TNQ0_Vanderwaltozyma	A7TNQ0	436907	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)	ascomycota	ingroup	PIF1	356	562	958	207
+B0Y232_Aspergillus	B0Y232	451804	Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) (Neosartorya fumigata)	ascomycota	ingroup	PIF1	282	490	788	209
+B6HL55_Penicillium	B6HL55	500485	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) (Penicillium chrysogenum)	ascomycota	ingroup	PIF1	270	478	763	209
+C1GVB7_Paracoccidioides	C1GVB7	502779	Paracoccidioides lutzii (strain ATCC MYA-826 / Pb01) (Paracoccidioides brasiliensis)	ascomycota	ingroup	PIF1	274	481	797	208
+C4YMF4_Candida	C4YMF4	294748	Candida albicans (strain WO-1) (Yeast)	ascomycota	ingroup	PIF1	368	581	906	214
+C5DS62_Zygosaccharomyces	C5DS62	559307	Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)	ascomycota	ingroup	PIF1	244	450	864	207
+E3Q2W0_Colletotrichum	E3Q2W0	645133	Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) (Maize anthracnose fungus) (Glomerella graminicola)	ascomycota	ingroup	PIF1	314	523	839	210
+A0A074S981_Rhizoctonia	A0A074S981	1423351	Rhizoctonia solani 123E	basidiomycota	outgroup	PIF1	174	379	634	206
+A0A081CCF7_Moesziomyces	A0A081CCF7	84753	Moesziomyces antarcticus (Yeast) (Pseudozyma antarctica)	basidiomycota	outgroup	PIF1	340	546	793	207
+A0A0B7FZH9_Rhizoctonia	A0A0B7FZH9	1108050	Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)	basidiomycota	outgroup	PIF1	162	366	623	205
+A0A0B7G372_Rhizoctonia	A0A0B7G372	1108050	Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)	basidiomycota	outgroup	PIF1	254	462	809	209
+A0A0D0VFI3_Cryptococcus	A0A0D0VFI3	1296110	Cryptococcus deuterogattii Ram5	basidiomycota	outgroup	PIF1	198	404	669	207
+A0A0D6ENE9_Sporobolomyces	A0A0D6ENE9	5005	Sporidiobolus salmonicolor (Yeast-like fungus) (Sporobolomyces salmonicolor)	basidiomycota	outgroup	SPOSA6832_02946	229	471	733	243
+A0A0K3C6U0_Rhodotorula	A0A0K3C6U0	5286	Rhodotorula toruloides (Yeast) (Rhodosporidium toruloides)	basidiomycota	outgroup	PIF1	211	426	681	216
+A0A0K6FND2_Rhizoctonia	A0A0K6FND2	456999	Rhizoctonia solani	basidiomycota	outgroup	PIF1	560	759	1059	200
+A0A1B9GFU3_Kwoniella	A0A1B9GFU3	1296100	Kwoniella bestiolae CBS 10118	basidiomycota	outgroup	PIF1	240	446	710	207
+A0A1Q3E2N1_Lentinula	A0A1Q3E2N1	5353	Lentinula edodes (Shiitake mushroom) (Lentinus edodes)	basidiomycota	outgroup	PIF1	128	336	639	209
+A0A2G8RUN7_Ganoderma	A0A2G8RUN7	1077348	Ganoderma sinense ZZ0214-1	basidiomycota	outgroup	PIF1	152	357	608	206
+A0A2G8S4W6_Ganoderma	A0A2G8S4W6	1077348	Ganoderma sinense ZZ0214-1	basidiomycota	outgroup	PIF1	66	275	615	210
+A0A369J1H4_Hypsizygus	A0A369J1H4	39966	Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)	basidiomycota	outgroup	pif1_6	165	370	637	206
+A0A5B0MRD7_Puccinia	A0A5B0MRD7	56615	Puccinia graminis f. sp. tritici	basidiomycota	outgroup	PIF1	192	396	699	205
+A0A5M3MBB2_Coniophora	A0A5M3MBB2	741705	Coniophora puteana (strain RWD-64-598) (Brown rot fungus)	basidiomycota	outgroup	PIF1	63	269	729	207
+A0A8H3TUW7_Naganishia	A0A8H3TUW7	104408	Naganishia liquefaciens	basidiomycota	outgroup	PIF1	177	382	658	206
+A0A8H3U0A2_Naganishia	A0A8H3U0A2	104408	Naganishia liquefaciens	basidiomycota	outgroup	PIF1	215	434	735	220
+A0A8H5CYE4_Tetrapyrgos	A0A8H5CYE4	182062	Tetrapyrgos nigripes	basidiomycota	outgroup	PIF1	777	983	1261	207
+A0A8H5EYD2_Psilocybe	A0A8H5EYD2	2480587	Psilocybe cf. subviscida	basidiomycota	outgroup	PIF1	150	356	617	207
+F7VS34_Sordaria	F7VS34	771870	Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)	ascomycota	ingroup	PIF1	418	631	932	214
+G8BSI5_Tetrapisispora	G8BSI5	1071381	Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) (Yeast) (Fabospora phaffii)	ascomycota	ingroup	TPHA0D01660	255	462	748	208
+H8XAL7_Candida	H8XAL7	1136231	Candida orthopsilosis (strain 90-125) (Yeast)	ascomycota	ingroup	PIF1	418	631	933	214
+J3NIB7_Gaeumannomyces	J3NIB7	644352	Gaeumannomyces tritici (strain R3-111a-1) (Wheat and barley take-all root rot fungus) (Gaeumannomyces graminis var. tritici)	ascomycota	ingroup	20341457	281	490	784	210
+K9GB17_Penicillium	K9GB17	1170229	Penicillium digitatum (strain PHI26 / CECT 20796) (Green mold)	ascomycota	ingroup	PIF1	227	435	720	209
+N1J746_Blumeria	N1J746	546991	Blumeria graminis f. sp. hordei (strain DH14) (Barley powdery mildew) (Oidium monilioides f. sp. hordei)	ascomycota	ingroup	PIF1	353	563	830	211
+Q6CQY1_Kluyveromyces	Q6CQY1	284590	Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)	ascomycota	ingroup	RRM3	207	413	707	207
+Q756M1_Eremothecium	Q756M1	284811	Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii)	ascomycota	ingroup	RRM3	192	399	691	208
+Q7RXT1_Neurospora	Q7RXT1	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	ascomycota	ingroup	PIF1	413	624	931	212
+S0E8T2_Fusarium	S0E8T2	1279085	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831) (Bakanae and foot rot disease fungus) (Fusarium fujikuroi)	ascomycota	ingroup	PIF1	307	516	821	210
+S3DLT2_Glarea	S3DLT2	1116229	Glarea lozoyensis (strain ATCC 20868 / MF5171)	ascomycota	ingroup	PIF1	408	618	931	211
+W3WI34_Pestalotiopsis	W3WI34	1229662	Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)	ascomycota	ingroup	PIF1	408	616	915	209
+W6QMY6_Penicillium	W6QMY6	1365484	Penicillium roqueforti (strain FM164)	ascomycota	ingroup	PIF1	270	478	764	209
+A0A0B4FVA9_Metarhizium	A0A0B4FVA9	3151832	Metarhizium anisopliae (strain ARSEF 549)	ascomycota	ingroup	MAN_02140	342	550	856	209
+A0A0P7BLB4_Neonectria	A0A0P7BLB4	78410	Neonectria ditissima	ascomycota	ingroup	PIF1	79	286	553	208
+A0A0V1Q2Z0_Debaryomyces	A0A0V1Q2Z0	58627	Debaryomyces fabryi	ascomycota	ingroup	PIF1	228	445	788	218
+A0A1L0BLG4_Sungouiella	A0A1L0BLG4	45354	Sungouiella intermedia	ascomycota	ingroup	PIF1	148	374	746	227
+A0A1U7LSY4_Neolecta	A0A1U7LSY4	1198029	Neolecta irregularis (strain DAH-3)	ascomycota	ingroup	NEOLI_004011	12	219	1360	208
+A0A2P5HGU5_Diaporthe	A0A2P5HGU5	158607	Diaporthe helianthi	ascomycota	ingroup	PIF1	77	285	523	209
+A0A2T0FMF4_Wickerhamiella	A0A2T0FMF4	45607	Wickerhamiella sorbophila	ascomycota	ingroup	PIF1	178	385	748	208
+A0A2U9QZ99_Pichia	A0A2U9QZ99	4909	Pichia kudriavzevii (Yeast) (Issatchenkia orientalis)	ascomycota	ingroup	PIF1	272	478	925	207
+A0A376BAK2_Saccharomycodes	A0A376BAK2	36035	Saccharomycodes ludwigii	ascomycota	ingroup	PIF1	225	434	818	210
+A0A395J7K7_Monilinia	A0A395J7K7	38457	Monilinia fructigena	ascomycota	ingroup	PIF1	205	406	673	202
+A0A3E2GT96_Scytalidium	A0A3E2GT96	5539	Scytalidium lignicola (Hyphomycete)	ascomycota	ingroup	B7463_g12002	390	600	930	211
+A0A3N4JMV7_Choiromyces	A0A3N4JMV7	1336337	Choiromyces venosus 120613-1	ascomycota	ingroup	L873DRAFT_1569971	213	422	682	210
+A0A559MKX1_Lachnellula	A0A559MKX1	215461	Lachnellula willkommii	ascomycota	ingroup	pif1_1	407	617	927	211
+A0A5E8BI10_Magnusiomyces	A0A5E8BI10	2606893	Magnusiomyces paraingens	ascomycota	ingroup	PIF1	143	361	702	219
+A0A642UMB7_Diutina	A0A642UMB7	5481	Diutina rugosa (Yeast) (Candida rugosa)	ascomycota	ingroup	PIF1	145	347	626	203
+A0A642V5E7_Trichomonascus	A0A642V5E7	44093	Trichomonascus ciferrii	ascomycota	ingroup	PIF1	200	406	689	207
+A0A7H9HUR2_Torulaspora	A0A7H9HUR2	48254	Torulaspora globosa	ascomycota	ingroup	RRM3	181	387	676	207
+A0A8H4CLQ5_Colletotrichum	A0A8H4CLQ5	474922	Colletotrichum gloeosporioides (Anthracnose fungus) (Glomerella cingulata)	ascomycota	ingroup	GCG54_00005947	380	589	904	210
+A0A8H4T4I9_Fusarium	A0A8H4T4I9	282569	Fusarium gaditjirri	ascomycota	ingroup	PIF1	81	289	550	209
+A0A8H5WXE6_Fusarium	A0A8H5WXE6	42747	Fusarium heterosporum	ascomycota	ingroup	PIF1	87	296	570	210
+A0A9N9W2U8_Clonostachys	A0A9N9W2U8	160281	Clonostachys solani	ascomycota	ingroup	CSOL1703_00009253	335	544	836	210
+A0A9P5HJJ0_Cylindrodendrum	A0A9P5HJJ0	595255	Cylindrodendrum hubeiense	ascomycota	ingroup	PIF1	403	612	858	210
+A0A9P8F6U8_Aureobasidium	A0A9P8F6U8	46634	Aureobasidium melanogenum (Aureobasidium pullulans var. melanogenum)	ascomycota	ingroup	KCU98_g17622	390	597	900	208
+A0A9W4RWK1_Colletotrichum	A0A9W4RWK1	2664923	Colletotrichum noveboracense	ascomycota	ingroup	CGXH109_LOCUS71195	381	590	906	210
+A0AA35JJF7_Saccharomyces	A0AA35JJF7	226230	Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)	ascomycota	ingroup	SKDI08G0740	229	436	721	208
+A0AAD9SP23_Diaporthe	A0AAD9SP23	1214568	Diaporthe amygdali (Fusicoccum amygdali)	ascomycota	ingroup	PIF1	74	281	507	208
+A0ABR1QZN4_Apiospora	A0ABR1QZN4	335849	Apiospora marii	ascomycota	ingroup	PIF1	38	247	508	210
+A0ABR1X8H1_Apiospora	A0ABR1X8H1	1337664	Apiospora hydei	ascomycota	ingroup	PIF1	38	247	508	210
+A0ABY2H3J9_Trichoderma	A0ABY2H3J9	65468	Trichoderma ghanense	ascomycota	ingroup	CCMA1212_005992	375	584	880	210
+A0ACA9TUV3_Clonostachys	A0ACA9TUV3	1349383	Clonostachys rosea f. rosea IK726	ascomycota	ingroup	PIF1	297	506	799	210
+A0ACA9Y7U7_Yamadazyma	A0ACA9Y7U7	467808	[Candida] jaroonii	ascomycota	ingroup	PIF1	215	429	750	215
+A0ACA9YCX0_Yamadazyma	A0ACA9YCX0	467808	[Candida] jaroonii	ascomycota	ingroup	PIF1	218	422	710	205
+A0ACB5SA82_Neofusicoccum	A0ACB5SA82	310453	Neofusicoccum parvum	ascomycota	ingroup	g3055	215	422	730	208
+A0ACB6V604_Geotrichum	A0ACB6V604	27317	Geotrichum galactomycetum	ascomycota	ingroup	PIF1	86	320	779	235
+A0ACB6V835_Geotrichum	A0ACB6V835	27317	Geotrichum galactomycetum	ascomycota	ingroup	PIF1	239	447	768	209
+A0ACC0QR54_Fusarium	A0ACC0QR54	1328300	Fusarium keratoplasticum	ascomycota	ingroup	PIF1	343	551	850	209
+A0ACC1N0K5_Zarea	A0ACC1N0K5	93591	Zarea fungicola	ascomycota	ingroup	PIF1	360	568	843	209
+A0ACC1PT71_Xylaria	A0ACC1PT71	42375	Xylaria curta	ascomycota	ingroup	PIF1	628	817	1102	190
+A0ACC1RAE9_Lecanicillium	A0ACC1RAE9	468837	Lecanicillium saksenae	ascomycota	ingroup	PIF1	363	571	846	209
+A0ACC1RL04_Fusarium	A0ACC1RL04	57161	Fusarium decemcellulare	ascomycota	ingroup	PIF1	298	495	794	198
+A0ACC2HQW4_Boeremia	A0ACC2HQW4	749465	Boeremia exigua	ascomycota	ingroup	PIF1	295	502	791	208
+A0ACC3TRB3_Lipomyces	A0ACC3TRB3	1233043	Lipomyces orientalis	ascomycota	ingroup	PIF1	338	546	849	209
+A0ACC3YGM8_Colletotrichum	A0ACC3YGM8	5467	Colletotrichum truncatum (Anthracnose fungus) (Colletotrichum capsici)	ascomycota	ingroup	PIF1	369	578	893	210
+A0ACD3Z1H8_Fusarium	A0ACD3Z1H8	2747967	Fusarium solani subsp. cucurbitae (Neocosmosporum cucurbitae)	ascomycota	ingroup	PIF1	343	551	850	209
+J6EEG6_Saccharomyces	J6EEG6	226230	Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)	ascomycota	ingroup	YHR031C	229	436	721	208
+M3JT10_Candida	M3JT10	1245528	Candida maltosa (strain Xu316) (Yeast)	ascomycota	ingroup	PIF1	56	259	550	204
+A0A0V1Q0J3_Debaryomyces	A0A0V1Q0J3	58627	Debaryomyces fabryi	ascomycota	ingroup	AC631_02188	189	392	688	204
+A0A1D8PRM6_Candida	A0A1D8PRM6	237561	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	ascomycota	ingroup	CAALFM_CR00060CA	125	329	618	205
+A0A1G4KQ33_Komagataella	A0A1G4KQ33	981350	Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) (Yeast) (Pichia pastoris)	ascomycota	ingroup	RRM3	200	405	691	206
+A0A2V1AIT0_Candidozyma	A0A2V1AIT0	1231522	Candidozyma duobushaemuli	ascomycota	ingroup	CXQ87_000493	166	369	2734	204
+A0A8H8D8N2_Candida	A0A8H8D8N2	273372	Candida metapsilosis	ascomycota	ingroup	I9W82_005584	155	358	645	204
+A0A8J5QH60_Spathaspora	A0A8J5QH60	561895	[Candida] subhashii	ascomycota	ingroup	J8A68_004426	215	417	715	203
+A0A9P8P3R0_Ogataea	A0A9P8P3R0	460523	Ogataea polymorpha	ascomycota	ingroup	OGATHE_003294	173	380	666	208
+A0A9P8T4U6_Ogataea	A0A9P8T4U6	1378263	Ogataea philodendri	ascomycota	ingroup	OGAPHI_004507	174	381	668	208
+A0AAD5BCG9_Candida	A0AAD5BCG9	1198502	Candida theae	ascomycota	ingroup	KGF57_003887	156	358	643	203
+A0ABQ7RA53_Ogataea	A0ABQ7RA53	1937702	Ogataea haglerorum	ascomycota	ingroup	KL946_005047	173	380	666	208
+A0ABQ7S1B0_Ogataea	A0ABQ7S1B0	870730	Pichia angusta (Yeast) (Hansenula polymorpha)	ascomycota	ingroup	KL940_000670	173	380	666	208
+A5DRR3_Lodderomyces	A5DRR3	379508	Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)	ascomycota	ingroup	LELG_00049	176	380	668	205
+B9WKK1_Candida	B9WKK1	573826	Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) (Yeast)	ascomycota	ingroup	Cd36_25080	99	302	588	204
+C4R014_Komagataella	C4R014	644223	Komagataella phaffii (strain GS115 / ATCC 20864) (Yeast) (Pichia pastoris)	ascomycota	ingroup	PAS_chr2-1_0228	245	450	736	206
+C4Y757_Clavispora	C4Y757	306902	Clavispora lusitaniae (strain ATCC 42720) (Yeast) (Candida lusitaniae)	ascomycota	ingroup	CLUG_03991	132	336	640	205
+C4YNB1_Candida	C4YNB1	294748	Candida albicans (strain WO-1) (Yeast)	ascomycota	ingroup	CAWG_01367	103	307	596	205
+G8BBJ1_Candida	G8BBJ1	578454	Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) (Yeast) (Monilia parapsilosis)	ascomycota	ingroup	CPAR2_800580	155	356	643	202
+G8YJN4_Millerozyma	G8YJN4	559304	Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) (Hybrid yeast)	ascomycota	ingroup	Piso0_003648	178	382	677	205
+H8WVI4_Candida	H8WVI4	1136231	Candida orthopsilosis (strain 90-125) (Yeast)	ascomycota	ingroup	CORT_0A00660	155	357	643	203
+K0KZ61_Wickerhamomyces	K0KZ61	1206466	Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10) (Yeast) (Pichia ciferrii)	ascomycota	ingroup	BN7_5996	264	469	747	206
+Q6BNW6_Debaryomyces	Q6BNW6	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)	ascomycota	ingroup	DEHA2E18458g	189	392	688	204
+W1QFA7_Ogataea	W1QFA7	871575	Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) (Yeast) (Hansenula polymorpha)	ascomycota	ingroup	HPODL_00179	173	380	666	208
+A0A060SM94_Trametes	A0A060SM94	5643	Pycnoporus cinnabarinus (Cinnabar-red polypore) (Trametes cinnabarina)	basidiomycota	outgroup	PIF1	154	359	612	206
+A0A074S1G0_Rhizoctonia	A0A074S1G0	1423351	Rhizoctonia solani 123E	basidiomycota	outgroup	PIF1	245	458	839	214
+A0A0D1DZD7_Mycosarcoma	A0A0D1DZD7	5270	Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)	basidiomycota	outgroup	PIF1	252	459	706	208
+A0A0K6G7K7_Rhizoctonia	A0A0K6G7K7	456999	Rhizoctonia solani	basidiomycota	outgroup	PIF1	171	374	631	204
+A0A0L6V131_Puccinia	A0A0L6V131	27349	Puccinia sorghi	basidiomycota	outgroup	PIF1	206	410	716	205
+A0A0P1BIQ6_Ceraceosorus	A0A0P1BIQ6	401625	Ceraceosorus bombacis	basidiomycota	outgroup	PIF1	210	419	702	210
+A0A1B9FTK0_Kwoniella	A0A1B9FTK0	1296100	Kwoniella bestiolae CBS 10118	basidiomycota	outgroup	PIF1	119	353	623	235
+A0A1B9HTQ2_Kwoniella	A0A1B9HTQ2	1296096	Kwoniella pini CBS 10737	basidiomycota	outgroup	PIF1	232	439	702	208
+A0A1C7MA88_Grifola	A0A1C7MA88	5627	Grifola frondosa (Maitake) (Polyporus frondosus)	basidiomycota	outgroup	pif1_6	163	369	600	207
+A0A1E3HRY9_Cryptococcus	A0A1E3HRY9	1295531	Cryptococcus depauperatus CBS 7841	basidiomycota	outgroup	PIF1	181	387	652	207
+A0A1K0G3T0_Ustilago	A0A1K0G3T0	307758	Ustilago bromivora	basidiomycota	outgroup	PIF1	264	471	718	208
+A0A1M2VF04_Trametes	A0A1M2VF04	154538	Trametes pubescens (White-rot fungus)	basidiomycota	outgroup	PIF1	167	416	725	250
+A0A1Q3EGR3_Lentinula	A0A1Q3EGR3	5353	Lentinula edodes (Shiitake mushroom) (Lentinus edodes)	basidiomycota	outgroup	PIF1	50	256	582	207
+A0A238F8L5_Microbotryum	A0A238F8L5	269621	Microbotryum intermedium	basidiomycota	outgroup	PIF1	283	489	758	207
+A0A284R575_Armillaria	A0A284R575	47428	Armillaria ostoyae (Armillaria root rot fungus)	basidiomycota	outgroup	PIF1	139	341	605	203
+A0A2R6NMH7_Hermanssonia	A0A2R6NMH7	98765	Hermanssonia centrifuga	basidiomycota	outgroup	PIF1	63	271	583	209
+A0A2R6NTT4_Hermanssonia	A0A2R6NTT4	98765	Hermanssonia centrifuga	basidiomycota	outgroup	PIF1	147	352	647	206
+A0A2S5BEQ4_Rhodotorula	A0A2S5BEQ4	741276	Rhodotorula taiwanensis	basidiomycota	outgroup	PIF1	234	449	709	216
+A0A2X0KA56_Microbotryum	A0A2X0KA56	289078	Microbotryum saponariae	basidiomycota	outgroup	PIF1	272	482	751	211
+A0A2X0LW32_Microbotryum	A0A2X0LW32	796604	Microbotryum silenes-dioicae	basidiomycota	outgroup	BQ5605_C013g07329	258	479	748	222
+A0A409W7F6_Gymnopilus	A0A409W7F6	231916	Gymnopilus dilepis	basidiomycota	outgroup	PIF1	163	369	642	207
+A0A4Q1BV97_Tremella	A0A4Q1BV97	5217	Tremella mesenterica (Jelly fungus)	basidiomycota	outgroup	PIF1	181	388	650	208
+A0A4S4KLM9_Hermanssonia	A0A4S4KLM9	98765	Hermanssonia centrifuga	basidiomycota	outgroup	PIF1	147	352	605	206
+A0A4S4LSC0_Bondarzewia	A0A4S4LSC0	1095465	Bondarzewia mesenterica	basidiomycota	outgroup	PIF1	166	376	634	211
+A0A4S4MT59_Antrodiella	A0A4S4MT59	2447956	Antrodiella citrinella	basidiomycota	outgroup	PIF1	63	271	592	209
+A0A4T0FNF2_Wallemia	A0A4T0FNF2	1540922	Wallemia hederae	basidiomycota	outgroup	PIF1	149	355	621	207
+A0A4Y9YC71_Dentipellis	A0A4Y9YC71	205917	Dentipellis fragilis	basidiomycota	outgroup	PIF1	159	365	639	207
+A0A4Y9YGX5_Dentipellis	A0A4Y9YGX5	205917	Dentipellis fragilis	basidiomycota	outgroup	PIF1	134	327	602	194
+A0A5B0N1Q3_Puccinia	A0A5B0N1Q3	56615	Puccinia graminis f. sp. tritici	basidiomycota	outgroup	PIF1	194	398	701	205
+A0A5C3E4B2_Ustilago	A0A5C3E4B2	86804	Ustilago trichophora	basidiomycota	outgroup	PIF1	281	488	737	208
+A0A5C3E832_Ustilago	A0A5C3E832	86804	Ustilago trichophora	basidiomycota	outgroup	PIF1	281	487	737	207
+A0A5C3FLB2_Moesziomyces	A0A5C3FLB2	84753	Moesziomyces antarcticus (Yeast) (Pseudozyma antarctica)	basidiomycota	outgroup	PIF1	239	445	692	207
+A0A5M6C3F7_Kwoniella	A0A5M6C3F7	1734106	Kwoniella shandongensis	basidiomycota	outgroup	PIF1	221	427	692	207
+A0A5N5QIE1_Ceratobasidium	A0A5N5QIE1	1582974	Ceratobasidium theobromae	basidiomycota	outgroup	PIF1	117	1039	1357	923
+A0A5N5QIV7_Ceratobasidium	A0A5N5QIV7	1582974	Ceratobasidium theobromae	basidiomycota	outgroup	PIF1	252	459	2119	208
+A0A5N5QSQ7_Ceratobasidium	A0A5N5QSQ7	1582974	Ceratobasidium theobromae	basidiomycota	outgroup	PIF1	167	370	707	204
+A0A8H5D9L0_Leucocoprinus	A0A8H5D9L0	201217	Leucocoprinus leucothites	basidiomycota	outgroup	PIF1	107	319	598	213
+A0A8H5FIS4_Ephemerocybe	A0A8H5FIS4	980116	Ephemerocybe angulata	basidiomycota	outgroup	PIF1	151	355	614	205
+A0A8H5H1J4_Tetrapyrgos	A0A8H5H1J4	182062	Tetrapyrgos nigripes	basidiomycota	outgroup	PIF1	129	330	652	202
+A0A8H5HHS9_Tricholomella	A0A8H5HHS9	117010	Tricholomella constricta	basidiomycota	outgroup	PIF1	603	808	1057	206
+A0A8H5HYM6_Collybiopsis	A0A8H5HYM6	2823264	Collybiopsis confluens	basidiomycota	outgroup	PIF1	49	255	597	207
+A0A8H5LZH5_Tetrapyrgos	A0A8H5LZH5	182062	Tetrapyrgos nigripes	basidiomycota	outgroup	PIF1	102	312	596	211
+A0A8H5M8P6_Collybiopsis	A0A8H5M8P6	2823264	Collybiopsis confluens	basidiomycota	outgroup	PIF1	120	345	641	226
+A0A8H6X7X8_Mycena	A0A8H6X7X8	230812	Mycena sanguinolenta	basidiomycota	outgroup	PIF1	142	353	598	212
+A0A8H7CZF7_Mycena	A0A8H7CZF7	2733690	Mycena venus	basidiomycota	outgroup	PIF1	151	357	612	207
+A0A8X7NC76_Tilletia	A0A8X7NC76	117179	Tilletia walkeri	basidiomycota	outgroup	PIF1	176	381	648	206
+A0A8X7SWK2_Tilletia	A0A8X7SWK2	13291	Tilletia controversa (dwarf bunt fungus)	basidiomycota	outgroup	PIF1	171	376	656	206
+A0A9N8MAE1_Tilletia	A0A9N8MAE1	157183	Tilletia laevis	basidiomycota	outgroup	PIF1	171	376	656	206
+A0A9P3G2I0_Phanerochaete	A0A9P3G2I0	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	131	367	649	237
+A0A9P3G4R7_Phanerochaete	A0A9P3G4R7	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	139	385	643	247
+A0A9P3G5D9_Phanerochaete	A0A9P3G5D9	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	103	308	581	206
+A0A9P3G9Z6_Phanerochaete	A0A9P3G9Z6	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	159	362	618	204
+A0A9P3GEL8_Phanerochaete	A0A9P3GEL8	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	55	263	569	209
+A0A9P3UJ47_Lyophyllum	A0A9P3UJ47	47721	Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)	basidiomycota	outgroup	PIF1	102	311	604	210
+A0A9Q3CGN2_Austropuccinia	A0A9Q3CGN2	1389203	Austropuccinia psidii MF-1	basidiomycota	outgroup	PIF1	238	443	718	206
+A0A9Q3DCC3_Austropuccinia	A0A9Q3DCC3	1389203	Austropuccinia psidii MF-1	basidiomycota	outgroup	PIF1	297	503	761	207
+A0AA38HDX6_Dioszegia	A0AA38HDX6	4972	Dioszegia hungarica	basidiomycota	outgroup	PIF1	180	386	649	207
+A0AA48QVP0_Cutaneotrichosporon	A0AA48QVP0	279322	Cutaneotrichosporon cavernicola	basidiomycota	outgroup	PIF1	213	420	686	208
+A0AAD3TY69_Cutaneotrichosporon	A0AAD3TY69	1672016	Cutaneotrichosporon spelunceum	basidiomycota	outgroup	PIF1	194	401	664	208
+A0AAD5VW10_Leucocoprinus	A0AAD5VW10	56174	Leucocoprinus birnbaumii	basidiomycota	outgroup	PIF1	158	338	587	181
+A0AAD7TST6_Trametes	A0AAD7TST6	1111947	Trametes cubensis	basidiomycota	outgroup	PIF1	65	273	587	209
+A0AAD7TZE9_Trametes	A0AAD7TZE9	1111947	Trametes cubensis	basidiomycota	outgroup	PIF1	152	401	722	250
+A0AAF0Y8C4_Vanrija	A0AAF0Y8C4	143232	Vanrija pseudolonga	basidiomycota	outgroup	pfh1_0	209	413	681	205
+A0AAJ4XLQ0_Melanopsichium	A0AAJ4XLQ0	63383	Melanopsichium pennsylvanicum	basidiomycota	outgroup	PIF1	252	459	710	208
+A0AAJ8KXR9_Kwoniella	A0AAJ8KXR9	1296121	Kwoniella dejecticola CBS 10117	basidiomycota	outgroup	PIF1	117	350	617	234
+A0AAW0BFE3_Favolaschia	A0AAW0BFE3	2862362	Favolaschia claudopus	basidiomycota	outgroup	PIF1	352	528	1096	177
+A0AAW0E6V9_Favolaschia	A0AAW0E6V9	2862362	Favolaschia claudopus	basidiomycota	outgroup	PIF1	51	257	573	207
+A0AAW0YJW9_Kwoniella	A0AAW0YJW9	1651941	Kwoniella newhampshirensis	basidiomycota	outgroup	PIF1	217	423	688	207
+A0AAX4K6B3_Kwoniella	A0AAX4K6B3	1295534	Kwoniella dendrophila CBS 6074	basidiomycota	outgroup	PIF1	235	442	705	208
+A0AAX4K8N5_Kwoniella	A0AAX4K8N5	1295534	Kwoniella dendrophila CBS 6074	basidiomycota	outgroup	PIF1	118	352	622	235
+A0AAX4KL96_Kwoniella	A0AAX4KL96	1423913	Kwoniella europaea PYCC6329	basidiomycota	outgroup	PIF1	247	453	717	207
+A0ABP1CKG3_Somion	A0ABP1CKG3	3059160	Somion occarium	basidiomycota	outgroup	PIF1	118	353	623	236
+A0ABP1DQJ8_Somion	A0ABP1DQJ8	3059160	Somion occarium	basidiomycota	outgroup	PIF1	54	262	572	209
+A0ABP1E5U3_Somion	A0ABP1E5U3	3059160	Somion occarium	basidiomycota	outgroup	PIF1	141	345	596	205
+A0ABP1E5U8_Somion	A0ABP1E5U8	3059160	Somion occarium	basidiomycota	outgroup	PIF1	141	345	605	205
+A0ABP1E5X9_Somion	A0ABP1E5X9	3059160	Somion occarium	basidiomycota	outgroup	PIF1	97	301	552	205
+A0ABR3BXI1_Cryptococcus	A0ABR3BXI1	1296105	Cryptococcus tetragattii IND107	basidiomycota	outgroup	PIF1	198	404	669	207
+A0ABR3JDG0_Hohenbuehelia	A0ABR3JDG0	104357	Hohenbuehelia grisea	basidiomycota	outgroup	PIF1	144	349	609	206
+A0ABR5B432_Cryptococcus	A0ABR5B432	1296111	Cryptococcus bacillisporus CA1873	basidiomycota	outgroup	PIF1	187	421	691	235
+A0ABR5C231_Cryptococcus	A0ABR5C231	1296103	Cryptococcus gattii EJB2	basidiomycota	outgroup	PIF1	198	404	669	207
+A0ABY7D8X9_Puccinia	A0ABY7D8X9	208348	Puccinia triticina	basidiomycota	outgroup	PIF1	196	399	703	204
+A0ABZ2AN38_Cryptococcus	A0ABZ2AN38	1859122	Cryptococcus decagattii	basidiomycota	outgroup	PIF1	198	404	669	207
+A8N288_Coprinopsis	A8N288	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)	basidiomycota	outgroup	PIF1	125	334	641	210
+A8N8Y7_Coprinopsis	A8N8Y7	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)	basidiomycota	outgroup	PIF1	159	364	622	206
+D6RJX6_Coprinopsis	D6RJX6	240176	Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)	basidiomycota	outgroup	PIF1	99	306	617	208
+E3LA34_Puccinia	E3LA34	418459	Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) (Black stem rust fungus)	basidiomycota	outgroup	PIF1	204	408	711	205
+E6RE98_Cryptococcus	E6RE98	367775	Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) (Filobasidiella gattii) (Cryptococcus bacillisporus)	basidiomycota	outgroup	PIF1	187	421	691	235
+E7A0V7_Sporisorium	E7A0V7	999809	Sporisorium reilianum (strain SRZ2) (Maize head smut fungus)	basidiomycota	outgroup	PIF1	272	479	726	208
+G4TC19_Serendipita	G4TC19	1109443	Serendipita indica (strain DSM 11827) (Root endophyte fungus) (Piriformospora indica)	basidiomycota	outgroup	PIF1	61	266	560	206
+G4TCR9_Serendipita	G4TCR9	1109443	Serendipita indica (strain DSM 11827) (Root endophyte fungus) (Piriformospora indica)	basidiomycota	outgroup	PIF1	181	388	639	208
+G7DW85_Mixia	G7DW85	764103	Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)	basidiomycota	outgroup	Mo01426	241	448	705	208
+J4G0H3_Fibroporia	J4G0H3	599839	Fibroporia radiculosa	basidiomycota	outgroup	PIF1	147	350	600	204
+J9VZB8_Cryptococcus	J9VZB8	235443	Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) (Cryptococcus neoformans var. grubii serotype A)	basidiomycota	outgroup	PIF1	198	404	669	207
+J9W1Z3_Cryptococcus	J9W1Z3	235443	Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) (Cryptococcus neoformans var. grubii serotype A)	basidiomycota	outgroup	PIF1	187	420	691	234
+M7X6D4_Rhodotorula	M7X6D4	1130832	Rhodotorula toruloides (strain NP11) (Yeast) (Rhodosporidium toruloides)	basidiomycota	outgroup	PIF1	198	413	680	216
+Q5KCW7_Cryptococcus	Q5KCW7	214684	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) (Cryptococcus neoformans var. neoformans serotype D)	basidiomycota	outgroup	PIF1	187	420	691	234
+R7RYN2_Stereum	R7RYN2	721885	Stereum hirsutum (strain FP-91666) (White-rot fungus)	basidiomycota	outgroup	PIF1	158	364	623	207
+R9NXM4_Pseudozyma	R9NXM4	1305764	Pseudozyma hubeiensis (strain SY62) (Yeast)	basidiomycota	outgroup	PIF1	265	472	719	208
+V2Z1H8_Moniliophthora	V2Z1H8	1381753	Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)	basidiomycota	outgroup	PIF1	164	371	641	208
+W3VVA0_Moesziomyces	W3VVA0	84754	Moesziomyces aphidis (Pseudozyma aphidis)	basidiomycota	outgroup	PIF1	240	446	693	207
+A0A060SCN9_Trametes	A0A060SCN9	5643	Pycnoporus cinnabarinus (Cinnabar-red polypore) (Trametes cinnabarina)	basidiomycota	outgroup	PIF1	65	273	533	209
+A0A067Q5M5_Jaapia	A0A067Q5M5	933084	Jaapia argillacea MUCL 33604	basidiomycota	outgroup	PIF1	178	383	644	206
+A0A095CAP8_Cryptococcus	A0A095CAP8	294750	Cryptococcus deuterogattii (strain R265) (Cryptococcus gattii VGII (strain R265))	basidiomycota	outgroup	PIF1	198	404	669	207
+A0A0D7BMU1_Cylindrobasidium	A0A0D7BMU1	1314674	Cylindrobasidium torrendii FP15055 ss-10	basidiomycota	outgroup	PIF1	130	334	587	205
+A0A0F7RVL5_Sporisorium	A0A0F7RVL5	49012	Sporisorium scitamineum	basidiomycota	outgroup	SSCI14450.1	279	486	733	208
+A0A0K6G747_Rhizoctonia	A0A0K6G747	456999	Rhizoctonia solani	basidiomycota	outgroup	PIF1	243	451	838	209
+A0A0L0V172_Puccinia	A0A0L0V172	1165861	Puccinia striiformis f. sp. tritici PST-78	basidiomycota	outgroup	PIF1	124	327	640	204
+A0A177TH00_Tilletia	A0A177TH00	43049	Tilletia indica	basidiomycota	outgroup	PIF1	174	379	646	206
+A0A177V7P0_Tilletia	A0A177V7P0	13290	Tilletia caries (wheat bunt fungus)	basidiomycota	outgroup	PIF1	171	376	656	206
+A0A180GTA2_Puccinia	A0A180GTA2	630390	Puccinia triticina (isolate 1-1 / race 1 (BBBD)) (Brown leaf rust fungus)	basidiomycota	outgroup	PIF1	196	399	703	204
+A0A1A5ZVX6_Kwoniella	A0A1A5ZVX6	1296121	Kwoniella dejecticola CBS 10117	basidiomycota	outgroup	PIF1	230	437	700	208
+A0A1B9GQY0_Kwoniella	A0A1B9GQY0	1296120	Kwoniella heveanensis BCC8398	basidiomycota	outgroup	PIF1	131	368	645	238
+A0A1B9GYC6_Kwoniella	A0A1B9GYC6	1296120	Kwoniella heveanensis BCC8398	basidiomycota	outgroup	PIF1	239	445	708	207
+A0A1B9IG44_Kwoniella	A0A1B9IG44	1331196	Kwoniella mangroviensis CBS 10435	basidiomycota	outgroup	PIF1	247	454	717	208
+A0A1E3I3G1_Cryptococcus	A0A1E3I3G1	1295533	Cryptococcus amylolentus CBS 6039	basidiomycota	outgroup	PIF1	188	392	656	205
+A0A1E3JFJ4_Cryptococcus	A0A1E3JFJ4	1295528	Cryptococcus wingfieldii CBS 7118	basidiomycota	outgroup	PIF1	190	394	658	205
+A0A1J8Q9H0_Rhizopogon	A0A1J8Q9H0	180088	Rhizopogon vesiculosus	basidiomycota	outgroup	PIF1	133	331	612	199
+A0A1M2VTG0_Trametes	A0A1M2VTG0	154538	Trametes pubescens (White-rot fungus)	basidiomycota	outgroup	PIF1	226	410	665	185
+A0A1M8AB69_Malassezia	A0A1M8AB69	1230383	Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated yeast)	basidiomycota	outgroup	PIF1	117	323	586	207
+A0A1Q3E1Z4_Lentinula	A0A1Q3E1Z4	5353	Lentinula edodes (Shiitake mushroom) (Lentinus edodes)	basidiomycota	outgroup	PIF1	103	306	571	204
+A0A284RQ68_Armillaria	A0A284RQ68	47428	Armillaria ostoyae (Armillaria root rot fungus)	basidiomycota	outgroup	PIF1	58	264	625	207
+A0A286UKZ0_Pyrrhoderma	A0A286UKZ0	2282107	Pyrrhoderma noxium	basidiomycota	outgroup	PIF1	170	375	625	206
+A0A2S4URQ4_Puccinia	A0A2S4URQ4	27350	Puccinia striiformis	basidiomycota	outgroup	PIF1	130	333	646	204
+A0A369K4X4_Hypsizygus	A0A369K4X4	39966	Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)	basidiomycota	outgroup	pif1_1	107	317	591	211
+A0A369KAK7_Hypsizygus	A0A369KAK7	39966	Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)	basidiomycota	outgroup	pif1_2	159	363	674	205
+A0A3G2S9J2_Malassezia	A0A3G2S9J2	425264	Malassezia restricta (strain ATCC 96810 / NBRC 103918 / CBS 7877) (Seborrheic dermatitis infection agent)	basidiomycota	outgroup	pif1	138	343	597	206
+A0A401G8C9_Sparassis	A0A401G8C9	139825	Sparassis crispa	basidiomycota	outgroup	PIF1	125	362	682	238
+A0A401H636_Sparassis	A0A401H636	139825	Sparassis crispa	basidiomycota	outgroup	PIF1	57	265	575	209
+A0A409VCH1_Gymnopilus	A0A409VCH1	231916	Gymnopilus dilepis	basidiomycota	outgroup	PIF1	10	219	507	210
+A0A409Y7J2_Panaeolus	A0A409Y7J2	181874	Panaeolus cyanescens	basidiomycota	outgroup	PIF1	162	367	626	206
+A0A4Q2DRZ9_Candolleomyces	A0A4Q2DRZ9	2316362	Candolleomyces aberdarensis	basidiomycota	outgroup	PIF1	551	756	1013	206
+A0A4S4LHT0_Phellinidium	A0A4S4LHT0	167371	Phellinidium pouzarii	basidiomycota	outgroup	PIF1	186	392	635	207
+A0A4U7KPQ9_Sporisorium	A0A4U7KPQ9	280036	Sporisorium graminicola	basidiomycota	outgroup	PIF1	269	476	724	208
+A0A4V3XJE3_Antrodiella	A0A4V3XJE3	2447956	Antrodiella citrinella	basidiomycota	outgroup	PIF1	138	344	589	207
+A0A5B0N0I5_Puccinia	A0A5B0N0I5	56615	Puccinia graminis f. sp. tritici	basidiomycota	outgroup	PIF1	212	416	719	205
+A0A5C3EV21_Pseudozyma	A0A5C3EV21	84751	Pseudozyma flocculosa	basidiomycota	outgroup	PIF1	107	319	718	213
+A0A5C3EZA1_Pseudozyma	A0A5C3EZA1	84751	Pseudozyma flocculosa	basidiomycota	outgroup	PIF1	215	419	673	205
+A0A5D3AUK3_Cryptococcus	A0A5D3AUK3	2591691	Cryptococcus floricola	basidiomycota	outgroup	PIF1	188	392	655	205
+A0A5M6C8X0_Kwoniella	A0A5M6C8X0	1734106	Kwoniella shandongensis	basidiomycota	outgroup	PIF1	126	367	639	242
+A0A8H4VJS1_Agrocybe	A0A8H4VJS1	84607	Agrocybe pediades	basidiomycota	outgroup	PIF1	163	368	632	206
+A0A8H5B4L3_Psilocybe	A0A8H5B4L3	2480587	Psilocybe cf. subviscida	basidiomycota	outgroup	PIF1	217	423	671	207
+A0A8H5GCJ7_Leucocoprinus	A0A8H5GCJ7	201217	Leucocoprinus leucothites	basidiomycota	outgroup	PIF1	172	370	620	199
+A0A8H5HQ47_Collybiopsis	A0A8H5HQ47	2823264	Collybiopsis confluens	basidiomycota	outgroup	PIF1	156	359	599	204
+A0A8H6T2J5_Mycena	A0A8H6T2J5	658473	Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)	basidiomycota	outgroup	PIF1	145	350	622	206
+A0A8H6WB99_Mycena	A0A8H6WB99	2126181	Mycena indigotica	basidiomycota	outgroup	PIF1	145	350	610	206
+A0A8H6WYH6_Mycena	A0A8H6WYH6	2733690	Mycena venus	basidiomycota	outgroup	PIF1	75	280	597	206
+A0A8H6Z6T2_Mycena	A0A8H6Z6T2	230812	Mycena sanguinolenta	basidiomycota	outgroup	PIF1	136	342	597	207
+A0A9P3G3Y6_Phanerochaete	A0A9P3G3Y6	48140	Phanerochaete sordida	basidiomycota	outgroup	PIF1	165	409	691	245
+A0A9P3US95_Lyophyllum	A0A9P3US95	47721	Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)	basidiomycota	outgroup	PIF1	166	371	613	206
+A0A9Q5HZ83_Sanghuangporus	A0A9Q5HZ83	108892	Sanghuangporus baumii (Phellinus baumii)	basidiomycota	outgroup	PIF1	149	354	602	206
+A0AAD2HQZ9_Mycena	A0AAD2HQZ9	2018698	Mycena citricolor	basidiomycota	outgroup	PIF1	38	244	552	207
+A0AAD2HTN7_Mycena	A0AAD2HTN7	2018698	Mycena citricolor	basidiomycota	outgroup	PIF1	131	341	626	211
+A0AAD5VEU9_Meripilus	A0AAD5VEU9	2056292	Meripilus lineatus	basidiomycota	outgroup	PIF1	135	341	579	207
+A0AAD5W3A8_Leucocoprinus	A0AAD5W3A8	56174	Leucocoprinus birnbaumii	basidiomycota	outgroup	PIF1	115	327	629	213
+A0AAD5YMS7_Meripilus	A0AAD5YMS7	2056292	Meripilus lineatus	basidiomycota	outgroup	PIF1	135	377	660	243
+A0AAD7TYJ6_Trametes	A0AAD7TYJ6	1111947	Trametes cubensis	basidiomycota	outgroup	PIF1	157	362	610	206
+A0AAJ8M2S8_Cryptococcus	A0AAJ8M2S8	1295531	Cryptococcus depauperatus CBS 7841	basidiomycota	outgroup	PIF1	106	341	610	236
+A0AAW0YQW8_Kwoniella	A0AAW0YQW8	1651941	Kwoniella newhampshirensis	basidiomycota	outgroup	PIF1	118	364	636	247
+A0ABP1DQU6_Somion	A0ABP1DQU6	3059160	Somion occarium	basidiomycota	outgroup	PIF1	2	200	515	199
+A0ABP1DT00_Somion	A0ABP1DT00	3059160	Somion occarium	basidiomycota	outgroup	PIF1	54	262	577	209
+A0ABQ0L4N8_Mycena	A0ABQ0L4N8	658473	Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)	basidiomycota	outgroup	PIF1	1448	1654	1997	207
+A0ABQ0M0T4_Mycena	A0ABQ0M0T4	658473	Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)	basidiomycota	outgroup	PIF1	1298	1503	1775	206
+A0ABR3BM64_Cryptococcus	A0ABR3BM64	1296105	Cryptococcus tetragattii IND107	basidiomycota	outgroup	PIF1	187	421	691	235
+A0ABR5BG99_Cryptococcus	A0ABR5BG99	1296111	Cryptococcus bacillisporus CA1873	basidiomycota	outgroup	PIF1	198	404	669	207
+A0ABR5BLN6_Cryptococcus	A0ABR5BLN6	1296103	Cryptococcus gattii EJB2	basidiomycota	outgroup	PIF1	187	421	691	235
+A0ABZ1DBQ0_Kwoniella	A0ABZ1DBQ0	564305	Kwoniella shivajii	basidiomycota	outgroup	PIF1	227	440	704	214
+A0ABZ2B030_Cryptococcus	A0ABZ2B030	1859122	Cryptococcus decagattii	basidiomycota	outgroup	PIF1	187	421	691	235
+E6R3E7_Cryptococcus	E6R3E7	367775	Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) (Filobasidiella gattii) (Cryptococcus bacillisporus)	basidiomycota	outgroup	PIF1	198	404	669	207
+G7DW84_Mixia	G7DW84	764103	Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)	basidiomycota	outgroup	Mo01427	238	445	702	208
+I2G1B8_Ustilago	I2G1B8	120017	Ustilago hordei (Barley covered smut fungus)	basidiomycota	outgroup	PIF1	263	470	717	208
+J4I8G7_Fibroporia	J4I8G7	599839	Fibroporia radiculosa	basidiomycota	outgroup	PIF1	62	270	572	209
+K1WDM8_Trichosporon	K1WDM8	1220162	Trichosporon asahii var. asahii (strain CBS 8904) (Yeast)	basidiomycota	outgroup	PIF1	173	374	634	202
+Q5KKJ1_Cryptococcus	Q5KKJ1	214684	Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) (Cryptococcus neoformans var. neoformans serotype D)	basidiomycota	outgroup	PIF1	198	404	669	207
+R9AGB8_Wallemia	R9AGB8	1299270	Wallemia ichthyophaga (strain EXF-994 / CBS 113033)	basidiomycota	outgroup	PIF1	142	348	614	207
+U5H9L9_Microbotryum	U5H9L9	683840	Microbotryum lychnidis-dioicae (strain p1A1 Lamole / MvSl-1064) (Anther smut fungus)	basidiomycota	outgroup	PIF1	260	441	711	182
+V2XGD7_Moniliophthora	V2XGD7	1381753	Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)	basidiomycota	outgroup	PIF1	114	325	641	212
+V5GHH8_Kalmanozyma	V5GHH8	1365824	Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)	basidiomycota	outgroup	PIF1	279	486	734	208
+A0A0B7G341_Rhizoctonia	A0A0B7G341	1108050	Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)	basidiomycota	outgroup	PIF1	135	331	640	197
+A0A0K6G754_Rhizoctonia	A0A0K6G754	456999	Rhizoctonia solani	basidiomycota	outgroup	PIF1	633	830	1132	198
+A0A0K6GA87_Rhizoctonia	A0A0K6GA87	456999	Rhizoctonia solani	basidiomycota	outgroup	PIF1	56	268	534	213
+A0A1Y2IYW8_Trametes	A0A1Y2IYW8	1353009	Trametes coccinea (strain BRFM310) (Pycnoporus coccineus)	basidiomycota	outgroup	PIF1	153	402	706	250
+A0A284RAN9_Armillaria	A0A284RAN9	47428	Armillaria ostoyae (Armillaria root rot fungus)	basidiomycota	outgroup	PIF1	153	364	630	212
+A0A286UR16_Pyrrhoderma	A0A286UR16	2282107	Pyrrhoderma noxium	basidiomycota	outgroup	PIF1	139	347	635	209
+A0A4S4LN17_Bondarzewia	A0A4S4LN17	1095465	Bondarzewia mesenterica	basidiomycota	outgroup	PIF1	140	369	665	230
+A0A4S4MSG5_Antrodiella	A0A4S4MSG5	2447956	Antrodiella citrinella	basidiomycota	outgroup	PIF1	101	342	610	242
+A0A4Y9YSR9_Dentipellis	A0A4Y9YSR9	205917	Dentipellis fragilis	basidiomycota	outgroup	PIF1	74	282	564	209
+A0A8H5M0W8_Tricholomella	A0A8H5M0W8	117010	Tricholomella constricta	basidiomycota	outgroup	PIF1	123	332	632	210
+A0A8H6YXU7_Mycena	A0A8H6YXU7	230812	Mycena sanguinolenta	basidiomycota	outgroup	PIF1	121	333	598	213
+A0A8H7DCL8_Mycena	A0A8H7DCL8	230812	Mycena sanguinolenta	basidiomycota	outgroup	PIF1	21	228	550	208
+A0A9P8AFI1_Marasmius	A0A9P8AFI1	181124	Marasmius oreades (fairy-ring Marasmius)	basidiomycota	outgroup	PIF1	125	335	676	211
+A0A9P8AFL8_Marasmius	A0A9P8AFL8	181124	Marasmius oreades (fairy-ring Marasmius)	basidiomycota	outgroup	PIF1	37	247	588	211
+A0A9W8ML86_Candolleomyces	A0A9W8ML86	2828524	Candolleomyces eurysporus	basidiomycota	outgroup	H1R20_g2311	567	772	1029	206
+A0AAD5UZ43_Meripilus	A0AAD5UZ43	2056292	Meripilus lineatus	basidiomycota	outgroup	PIF1	63	270	575	208
+A0ABP1CKG6_Somion	A0ABP1CKG6	3059160	Somion occarium	basidiomycota	outgroup	PIF1	79	312	602	234
+A0ABP1CNA1_Somion	A0ABP1CNA1	3059160	Somion occarium	basidiomycota	outgroup	PIF1	79	312	598	234
+A0ABP1CNE3_Somion	A0ABP1CNE3	3059160	Somion occarium	basidiomycota	outgroup	PIF1	10	243	533	234
+A0ABQ0KXJ8_Mycena	A0ABQ0KXJ8	658473	Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)	basidiomycota	outgroup	PIF1	102	314	579	213
+A0ACB7IKH0_Pleurotus	A0ACB7IKH0	5321	Pleurotus cornucopiae (Cornucopia mushroom)	basidiomycota	outgroup	PIF1	58	270	582	213
+A0ACC1P622_Trametes	A0ACC1P622	158606	Trametes sanguinea	basidiomycota	outgroup	PIF1	161	336	586	176
+V2XWW7_Moniliophthora	V2XWW7	1381753	Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)	basidiomycota	outgroup	PIF1	146	357	650	212
+I1BKX4_Rhizopus	I1BKX4	246409	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) (Mucormycosis agent) (Rhizopus arrhizus var. delemar)	mucoromycota	outgroup	PIF1	174	377	618	204
+Q9H611_Homo	Q9H611	9606	Homo sapiens (Human)	human	outgroup	PIF1	206	405	641	200
+A0A015N2M8_Rhizophagus	A0A015N2M8	1432141	Rhizophagus irregularis (strain DAOM 197198w) (Glomus intraradices)	mucoromycota	outgroup	PIF1	217	419	656	203
+A0A0B7N3L9_Parasitella	A0A0B7N3L9	35722	Parasitella parasitica	mucoromycota	outgroup	PARPA_03734.1	293	496	741	204
+A0A0B7NVF9_Parasitella	A0A0B7NVF9	35722	Parasitella parasitica	mucoromycota	outgroup	PARPA_13826.1	217	423	635	207
+A0A0C9MZV3_Mucor	A0A0C9MZV3	91626	Mucor ambiguus	mucoromycota	outgroup	PIF1	302	507	755	206
+A0A0L0HTH8_Spizellomyces	A0A0L0HTH8	645134	Spizellomyces punctatus (strain DAOM BR117)	chytridiomycota	outgroup	PIF1	226	428	642	203
+A0A168NJR9_Absidia	A0A168NJR9	4829	Absidia glauca (Pin mould)	mucoromycota	outgroup	ABSGL_06389.1	227	427	666	201
+A0A1C7NKC8_Choanephora	A0A1C7NKC8	101091	Choanephora cucurbitarum	mucoromycota	outgroup	pfh1_1	291	493	732	203
+A0A1C7NS85_Choanephora	A0A1C7NS85	101091	Choanephora cucurbitarum	mucoromycota	outgroup	pfh1_0	107	311	520	205
+A0A2Z6Q637_Rhizophagus	A0A2Z6Q637	94130	Rhizophagus clarus	mucoromycota	outgroup	PIF1	209	411	648	203
+A0A507E7A0_Powellomyces	A0A507E7A0	109895	Powellomyces hirtus	chytridiomycota	outgroup	PIF1	250	452	674	203
+A0A507FMG7_Chytriomyces	A0A507FMG7	246404	Chytriomyces confervae	chytridiomycota	outgroup	PIF1	247	449	672	203
+A0A8H4A8B1_Gigaspora	A0A8H4A8B1	4874	Gigaspora margarita	mucoromycota	outgroup	PIF1	184	397	643	214
+A0A8H7Q426_Umbelopsis	A0A8H7Q426	44442	Umbelopsis vinacea	mucoromycota	outgroup	PIF1	271	475	717	205
+A0A8H7QRS8_Mucor	A0A8H7QRS8	97098	Mucor plumbeus	mucoromycota	outgroup	PIF1	294	496	741	203
+A0A8H7RPV3_Mucor	A0A8H7RPV3	97098	Mucor plumbeus	mucoromycota	outgroup	PIF1	214	420	629	207
+A0A8H7S720_Circinella	A0A8H7S720	1195481	Circinella minor	mucoromycota	outgroup	PIF1	338	541	783	204
+A0A8H7V8V8_Mucor	A0A8H7V8V8	64648	Mucor saturninus	mucoromycota	outgroup	PIF1	1547	1749	1989	203
+A0A9N8Z8P5_Diversispora	A0A9N8Z8P5	1213867	Diversispora eburnea	mucoromycota	outgroup	PIF1	188	393	728	206
+A0A9N8ZA40_Funneliformis	A0A9N8ZA40	27381	Funneliformis mosseae (Endomycorrhizal fungus) (Glomus mosseae)	mucoromycota	outgroup	PIF1	221	424	656	204
+A0A9N8ZJ08_Ambispora	A0A9N8ZJ08	144530	Ambispora gerdemannii	mucoromycota	outgroup	PIF1	300	503	739	204
+A0A9N9HM59_Dentiscutata	A0A9N9HM59	1348616	Dentiscutata erythropus	mucoromycota	outgroup	PIF1	125	339	585	215
+A0A9P3HAH0_Entomortierella	A0A9P3HAH0	205924	Entomortierella parvispora	mucoromycota	outgroup	PIF1	155	324	1094	170
+A0A9P3HF53_Entomortierella	A0A9P3HF53	205924	Entomortierella parvispora	mucoromycota	outgroup	PIF1	420	632	930	213
+A0A9P3HK37_Entomortierella	A0A9P3HK37	205924	Entomortierella parvispora	mucoromycota	outgroup	PIF1	597	818	1080	222
+A0A9P3HK44_Entomortierella	A0A9P3HK44	205924	Entomortierella parvispora	mucoromycota	outgroup	PIF1	476	695	957	220
+A0A9P3HKJ7_Entomortierella	A0A9P3HKJ7	205924	Entomortierella parvispora	mucoromycota	outgroup	PIF1	622	843	1110	222
+A0A9P6YYP4_Rhizopus	A0A9P6YYP4	936053	Rhizopus delemar	mucoromycota	outgroup	PIF1	283	486	727	204
+A0A9P7BV71_Rhizopus	A0A9P7BV71	64495	Rhizopus oryzae (Mucormycosis agent) (Rhizopus arrhizus var. delemar)	mucoromycota	outgroup	PIF1	284	487	728	204
+A0A9W4WTA5_Funneliformis	A0A9W4WTA5	1117311	Funneliformis geosporum	mucoromycota	outgroup	PIF1	230	433	665	204
+A0AAD7XWI0_Lichtheimia	A0AAD7XWI0	688661	Lichtheimia ornata	mucoromycota	outgroup	PIF1	285	489	730	205
+A0AAN7D3L5_Mucor	A0AAN7D3L5	708070	Mucor velutinosus	mucoromycota	outgroup	PIF1	307	508	756	202
+A0AAN7D484_Mucor	A0AAN7D484	708070	Mucor velutinosus	mucoromycota	outgroup	PIF1	238	442	667	205
+A0ABQ8ESF1_Batrachochytrium	A0ABQ8ESF1	1357716	Batrachochytrium salamandrivorans	chytridiomycota	outgroup	PIF1	352	549	778	198
+A0A015KD19_Rhizophagus	A0A015KD19	1432141	Rhizophagus irregularis (strain DAOM 197198w) (Glomus intraradices)	mucoromycota	outgroup	PIF1	57	262	492	206
+A0A1M2VH00_Trametes	A0A1M2VH00	154538	Trametes pubescens (White-rot fungus)	basidiomycota	outgroup	PIF1	66	274	576	209
+A0A1Q3E2E1_Lentinula	A0A1Q3E2E1	5353	Lentinula edodes (Shiitake mushroom) (Lentinus edodes)	basidiomycota	outgroup	PIF1	113	319	597	207
+A0A261Y8L7_Bifiguratus	A0A261Y8L7	1938954	Bifiguratus adelaidae	mucoromycota	outgroup	BZG36_00001	585	787	1204	203
+A0A8H5FHN3_Ephemerocybe	A0A8H5FHN3	980116	Ephemerocybe angulata	basidiomycota	outgroup	PIF1	175	383	648	209
+A0A8H7Q1B8_Umbelopsis	A0A8H7Q1B8	91625	Mortierella isabellina (Filamentous fungus) (Umbelopsis isabellina)	mucoromycota	outgroup	INT43_006559	91	294	545	204
+A0A9N9IT00_Cetraspora	A0A9N9IT00	1433469	Cetraspora pellucida	mucoromycota	outgroup	CPELLU_LOCUS14573	127	341	583	215
+A0A9P3UKB6_Lyophyllum	A0A9P3UKB6	47721	Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)	basidiomycota	outgroup	PIF1	155	359	677	205
+A0ACB7J0F3_Pleurotus	A0ACB7J0F3	5321	Pleurotus cornucopiae (Cornucopia mushroom)	basidiomycota	outgroup	PIF1	1302	1507	1770	206
+A0ACC1QDJ0_Trametes	A0ACC1QDJ0	158606	Trametes sanguinea	basidiomycota	outgroup	PIF1	153	402	714	250
+A0ACC1T3Q8_Phlebia	A0ACC1T3Q8	194682	Phlebia brevispora	basidiomycota	outgroup	PIF1	774	979	1246	206
+A0ACC1T620_Phlebia	A0ACC1T620	194682	Phlebia brevispora	basidiomycota	outgroup	PIF1	63	271	762	209
+A8PUE9_Malassezia	A8PUE9	425265	Malassezia globosa (strain ATCC MYA-4612 / CBS 7966) (Dandruff-associated fungus)	basidiomycota	outgroup	PIF1	83	289	546	207
+J4H1T8_Fibroporia	J4H1T8	599839	Fibroporia radiculosa	basidiomycota	outgroup	PIF1	114	358	634	245
+A0A0C3AWH9_Serendipita	A0A0C3AWH9	933852	Serendipita vermifera MAFF 305830	basidiomycota	outgroup	M408DRAFT_69085	59	263	566	205
+A0A0D7ANQ6_Fistulina	A0A0D7ANQ6	1128425	Fistulina hepatica ATCC 64428	basidiomycota	outgroup	FISHEDRAFT_7136	2	215	468	214
+A0A0H2RNB9_Schizopora	A0A0H2RNB9	27342	Schizopora paradoxa	basidiomycota	outgroup	SCHPADRAFT_808206	1	206	424	206
+A0A0H2S6Y4_Schizopora	A0A0H2S6Y4	27342	Schizopora paradoxa	basidiomycota	outgroup	SCHPADRAFT_808166	10	215	515	206
+A0A2A9NU72_Amanita	A0A2A9NU72	703135	Amanita thiersii Skay4041	basidiomycota	outgroup	AMATHDRAFT_114475	9	214	459	206
+A0A4S8MSI0_Dendrothele	A0A4S8MSI0	1314807	Dendrothele bispora (strain CBS 962.96)	basidiomycota	outgroup	K435DRAFT_626600	56	269	546	214
+A0A9N9DSD6_Ambispora	A0A9N9DSD6	144679	Ambispora leptoticha	mucoromycota	outgroup	ALEPTO_LOCUS9997	151	353	590	203
+A0ACA9NG08_Acaulospora	A0ACA9NG08	27376	Acaulospora colombiana	mucoromycota	outgroup	ACOLOM_LOCUS8377	187	391	751	205
