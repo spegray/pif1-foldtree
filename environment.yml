@@ -1,0 +1,45 @@
+# Conda environment for the PIF1/RRM3 dating pipeline.
+#
+# IMPORTANT (Apple Silicon / arm64): bioconda has incomplete osx-arm64 coverage,
+# and some tools below (quicktree, fastme, generax) ship only Intel (osx-64) builds.
+# The reliable approach on this Mac is a Rosetta (osx-64) environment, which exposes
+# the full bioconda catalog. Create it like this:
+#
+#     CONDA_SUBDIR=osx-64 conda env create -f environment.yml
+#     conda activate pif1
+#     conda config --env --set subdir osx-64    # keep future installs on osx-64
+#     conda list > env.lock.txt                 # <- record exact versions for the audit trail
+#
+# If you prefer native arm64, drop quicktree/fastme/generax here and use the FoldTree
+# Colab notebook (Stage 4b) + GeneRax via Docker instead. See README "Platform notes".
+#
+# The data-acquisition scripts (workflow/01,02,03) need NONE of this -- they are
+# stdlib-only and run on base Python. This env is for Stages 3-6 (align/trim/tree/
+# structure-tree/reconcile).
+name: pif1
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  # --- sequence side (Stage 3,4a,5) ---
+  - hmmer            # hmmsearch/hmmscan: domain boundaries for corecut; optional re-search
+  - mafft            # L-INS-i alignment of helicase cores
+  - muscle           # alternative aligner (MUSCLE5)
+  - trimal           # alignment trimming (--automated1)
+  - iqtree           # IQ-TREE 2: ML gene tree + ModelFinder + UFBoot/SH-aLRT
+  # --- structure side (Stage 4b), if running FoldTree locally instead of Colab ---
+  - foldseek         # 3Di structural alphabet + all-vs-all (the FoldTree engine)
+  - quicktree        # NJ distance tree from the Foldseek distance matrix
+  - fastme           # alternative distance-tree builder (used in the paper)
+  # --- reconciliation (Stage 6) ---
+  - generax          # joint ML gene-tree + species-tree reconciliation (dup/loss[/transfer])
+  # NOTE: NOTUNG is a Java JAR, not a conda package -- download separately (see README),
+  # needs a JRE: `conda install -c conda-forge openjdk` or system Java.
+  # --- utilities ---
+  - seqkit           # FASTA wrangling
+  - biopython        # structure/core trimming, sequence I/O
+  - dendropy         # species-tree pruning by tip label (robust, pure-Python)
+  - pandas           # manifest handling
+  - requests
+  - snakemake-minimal # optional: to run the fold_tree Snakemake pipeline
