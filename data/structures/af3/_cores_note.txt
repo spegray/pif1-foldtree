@@ -1,0 +1,4 @@
+accession	full_len	env_from	env_to	core_len	note
+A0A5N5QIV7	2119	252	459	208	core_only PF05970 env 252-459
+A0A2V1AIT0	2734	166	369	204	core_only PF05970 env 166-369
+A0ABX8I2X5	2755	166	369	204	core_only PF05970 env 166-369
