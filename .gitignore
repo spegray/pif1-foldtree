@@ -31,3 +31,14 @@ data/proteomes/
 __pycache__/
 *.pyc
 *.swp
+
+# --- ColabFold run intermediates & accidental installs (regenerable; never commit) ---
+data/structures/af3/out/
+data/structures/af3/out_cores/
+data/structures/af3/out_smoketest/
+data/structures/af3/_*.faa
+data/structures/af3/to_predict_129.clean.faa
+/localcolabfold/
+/install_colabbatch_linux.sh
+/out/
+/to_predict_129.clean.faa
