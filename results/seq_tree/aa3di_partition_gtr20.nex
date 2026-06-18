@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset AA = 1-209;
+  charset TDi = 210-418;
+  charpartition pif1 = LG+G:AA, GTR20+FO+G:TDi;
+end;
