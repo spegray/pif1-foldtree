@@ -1,0 +1,43 @@
+GeneRax was called as follow:
+generax -f results/reconciliation/aa3di_supp/families.txt -s data/species_tree/ncbi_species.covered.nwk -r UndatedDL --unrooted-gene-tree --strategy EVAL --seed 42 -p results/reconciliation/aa3di_supp/eval 
+
+General information:
+- Output prefix: results/reconciliation/aa3di_supp/eval
+- Families information: results/reconciliation/aa3di_supp/families.txt
+- Species tree: data/species_tree/ncbi_species.covered.nwk
+- MPI Ranks: 1
+- Random seed: 42
+- Reconciliation model: UndatedDL
+- DTL rates: global rates
+- Infer ML reconciliation: ON
+- Unrooted reconciliation likelihood: ON
+- Prune species tree mode: OFF
+
+Gene tree correction information:
+- Gene tree strategy: EVAL
+- Max gene SPR radius: 0
+
+[00:00:00] Filtering invalid families...
+
+End of instance initialization
+[00:00:00] Starting species tree initialization...
+[00:00:00] End of species tree initialization
+[00:00:00] Filtering invalid families based on the starting species tree...
+
+[00:00:00] Gathering statistics about the families...
+[00:00:00] Input data information:
+- Number of gene families: 1
+- Number of species: 719
+- Total number of genes: 941
+- Average number of genes per family: 941
+- Maximum number of genes per family: 941
+- Species covered with the smallest family coverage: "9606" (covered by 1/1 families)
+- Average (over species) species family coverage: 1
+
+[00:00:00] Reconciling gene trees with the species tree...
+[00:00:00] Terminating the instance..
+
+[00:00:00] DT rates: D=0.2 L= 0.2
+[00:00:00] Reconciliation likelihood: 0
+[00:00:00] Results directory: results/reconciliation/aa3di_supp/eval
+[00:00:00] End of GeneRax execution
