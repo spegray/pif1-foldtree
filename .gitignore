@@ -42,3 +42,14 @@ data/structures/af3/to_predict_129.clean.faa
 /install_colabbatch_linux.sh
 /out/
 /to_predict_129.clean.faa
+
+# --- Large regenerable reconciliation/structural-search intermediates ---
+results/struct_tree/res.m8
+results/struct_tree/tmp/
+data/3di/coresdb*
+taxdump.tar.gz
+tools/
+*.ufboot
+*.mldist
+*.bionj
+results/struct_tree/*_distmat.phy
