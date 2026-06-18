@@ -103,18 +103,48 @@ mushroom duplication; (absolute date `[PENDING]`).
   node from kingdom-level to subphylum-level — a clean demonstration of the FoldTree thesis.
   *(Fig. 3b — the key figure; AA-vs-AA+3Di side by side.)*
 
-### R4 — Reconciliation places the PIF1/RRM3 duplication on the Saccharomycotina branch
-- Species-overlap reconciliation maps the duplication to the **Saccharomycotina** ancestor.
-- GeneRax confirmation + loss pattern (which lineages retain both paralogs vs one) + stem-vs-crown:
-  `[PENDING]`. *(Fig. 4 — duplication mapped onto the species tree, with losses.)*
+### R4 — GeneRax reconciliation places the duplication on the Saccharomycotina ancestor
+- Gold-standard ML reconciliation (GeneRax 2.0.4, `UndatedDL`, `--unrooted-gene-tree`) of the AA+3Di
+  gene tree maps the PIF1/RRM3 duplication to **`node_448` — the MRCA of all 104 sampled
+  Saccharomycotina** (the budding-yeast common ancestor) — confirming the species-overlap result with
+  an independent, error-tolerant method.
+- **Robust to gene-tree wobble:** the same placement holds on the bootstrap-supported AA+3Di tree;
+  although the duplication node is UFBoot-weak (29; SH-aLRT 98 — expected for a deep, saturated split),
+  reconciliation (which integrates over gene-tree error) places it at Saccharomycotina regardless.
+- **Stem, just crown-ward:** both daughter (Pif1, Rrm3) clades contain members of **8/9 sampled
+  Saccharomycotina families** (only Dipodascaceae is Pif1-only); the earliest-branching sample
+  (Lipomycetales) is single-copy → the duplication sits on the Saccharomycotina stem near the crown
+  (caveat: sparse early-diverging-lineage sampling).
+- *Honest note:* the global event totals are high (D ≈ 464; ~3,226 speciation-losses) because
+  reconciliation absorbs residual deep gene-tree noise as many small D/L events; the interpretable
+  signal is the anchor's placement on the Saccharomycotina node, not the global counts.
+  *(Fig. 4 — duplication + losses mapped onto the species tree.)*
 
-### R5 — The two-copy mushrooms are an independent duplication
-- Across all trees, Agaricomycetes (mushroom) PIF1 duplications form a separate event, not orthologs
-  of yeast Pif1/Rrm3 — copy-number convergence, resolved by the tree. *(Fig. 4 inset / Fig. S3.)*
+### R5 — An independent mushroom duplication, and RRM3 as the derived paralog
+- The two-copy **mushrooms (Agaricomycetes) are a separate duplication**: `node_578` carries the single
+  largest per-node duplication count (**D = 23**), distinct from the yeast Pif1/Rrm3 event — copy-number
+  convergence, invisible to copy-counting but resolved by the tree. *(Fig. 4 inset / Fig. S3.)*
+- **RRM3 is the more-derived paralog.** Single-copy PIF1s outside Saccharomycotina are co-orthologs of
+  *both* yeast paralogs by descent (0/536 nest inside either clade), but lean toward Pif1 by sequence
+  (442/536 closer to ScPif1; mean core identity 54.5% vs 52.3%; *S. pombe* Pfh1 55.1 vs 53.2) — i.e.
+  Pif1 retained more of the ancestral state while RRM3 diverged further.
 
-### R6 — Absolute timing — [PENDING]
-- Map the Saccharomycotina branch onto a calibrated fungal time tree (bracket) + an independent
-  relaxed-clock estimate (treePL/MCMCtree). *(Fig. 5.)*
+### R6 — Absolute timing: a Devonian (~400-Myr-old) duplication, long predating the WGD
+**Approach — read the age off a published, fossil-calibrated time tree rather than re-estimate it.**
+The duplication maps to the Saccharomycotina stem, and the Y1000+ budding-yeast molecular clock
+(Shen et al. 2018, *Cell*; 332 genomes) already dates exactly this node:
+- **Point estimate ≈ 400 Mya** (Devonian) — the budding-yeast common ancestor (BYCA) age (Shen et al.
+  2018); the event is just crown-ward of it.
+- **Bracket:** lower = BYCA (~400 Mya); upper = the **Saccharomycotina–Pezizomycotina divergence**
+  (older; Ascomycota-wide clocks place major Ascomycota splits in the ~450–590 Mya range — read exact
+  node ages off Shen 2018 / Mende et al. 2021 *Sci Adv* at finalization).
+- **Independent sanity check:** ~3–4× older than the *Saccharomyces* **whole-genome duplication
+  (~100 Mya**, a crown-Saccharomycetaceae event) — consistent with RRM3 occurring across budding yeasts
+  *including* pre-WGD lineages (*Kluyveromyces*, *Lachancea*). The ordering (duplication ≫ WGD) is robust
+  to the exact calibration.
+- **Optional own relaxed clock** (only if a de-novo estimate is wanted): treePL or MCMCtree on a
+  calibrated species tree with secondary calibrations from Shen 2018 — but Y1000+ already did this
+  rigorously for this subphylum, so the marginal value is low. *(Fig. 5 — calibrated placement.)*
 
 ---
 
