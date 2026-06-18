@@ -1,0 +1,1147 @@
+IQ-TREE version 3.1.2 for MacOS ARM 64-bit built May  7 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Spencers-MacBook-Pro-594.local (SSE4.2, 16 GB RAM)
+Command: tools/iqtree-3.1.2-macOS-arm/bin/iqtree3 -s results/seq_tree/aln.trim.fasta -z results/seq_tree/au_trees2.nwk -m LG+I+G4 -n 0 -zb 10000 -au -zw -T 4 -seed 42 -pre results/seq_tree/au_constrained -redo
+Seed:    42 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Jun 18 10:41:44 2026
+Kernel:  SSE2 - 4 threads (10 CPU cores detected)
+
+Reading alignment file results/seq_tree/aln.trim.fasta ... Fasta format detected
+Reading fasta file: done in 0.003649 secs using 62.84% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00116396 secs using 81.88% CPU
+Alignment has 957 sequences with 209 columns, 209 distinct patterns
+180 parsimony-informative, 14 singleton sites, 15 constant sites
+                                Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000332832 secs using 109.4% CPU
+   1  A0A0C7N4Y2_Lachancea              1.44%    passed     85.99%
+   2  A0A0W4ZHZ4_Pneumocystis           0.96%    passed     92.93%
+   3  A0A0W4ZNJ0_Pneumocystis           0.48%    passed     95.15%
+   4  A0A1G4K4H6_Lachancea              1.44%    passed     99.48%
+   5  A0A2P7YPG7_Candidozyma            1.91%    passed     67.42%
+   6  A5DHA1_Meyerozyma                 1.91%    passed     90.96%
+   7  B6K513_Schizosaccharomyces        0.48%    passed     92.86%
+   8  C4R0P2_Komagataella               2.39%    passed     95.74%
+   9  G0V5V7_Naumovozyma                1.44%    passed     99.56%
+  10  G0WAI2_Naumovozyma                1.44%    passed     93.72%
+  11  G8BK92_Candida                    1.91%    passed     99.52%
+  12  G8BQC5_Tetrapisispora             1.91%    passed     68.45%
+  13  G8JMQ5_Eremothecium               1.91%    passed     94.79%
+  14  G8ZST6_Torulaspora                1.44%    passed     99.57%
+  15  H2AZM3_Kazachstania               1.44%    passed     73.03%
+  16  I2H566_Henningerozyma             2.39%    passed     67.35%
+  17  J7S6X7_Huiozyma                   1.44%    passed     89.82%
+  18  M7P7M8_Pneumocystis               0.96%    passed     96.75%
+  19  P07271_Saccharomyces              1.44%    passed     90.29%
+  20  P38766_Saccharomyces              2.39%    passed     52.62%
+  21  Q59RQ0_Candida                    1.91%    passed     89.03%
+  22  Q6BQK7_Debaryomyces               1.44%    passed     53.97%
+  23  Q6FKI9_Nakaseomyces               1.44%    passed     95.73%
+  24  Q9UUA2_Schizosaccharomyces        0.48%    passed     76.37%
+  25  S9PVT1_Schizosaccharomyces        0.48%    passed     99.63%
+  26  S9X0K1_Schizosaccharomyces        0.48%    passed     99.40%
+  27  W1QEW7_Ogataea                    2.39%    passed     99.93%
+  28  W6MNR6_Kuraishia                  2.39%    passed     30.74%
+  29  A0A066XBE3_Colletotrichum         0.00%    passed     99.98%
+  30  A0A098E1Q1_Fusarium               0.00%    passed     99.89%
+  31  A0A0A8L254_Kluyveromyces          1.91%    passed     92.25%
+  32  A0A0A8L495_Kluyveromyces          1.44%    passed     72.93%
+  33  A0A0D2HCP1_Cladophialophora       0.48%    passed     99.97%
+  34  A0A0D2IYR0_Rhinocladiella         0.48%    passed     98.33%
+  35  A0A0E9NJD1_Saitoella              0.96%    passed     98.46%
+  36  A0A0F8UK25_Aspergillus            0.48%    passed     92.83%
+  37  A0A0G2G6N1_Phaeomoniella          0.96%    passed     99.89%
+  38  A0A0G4N7A9_Verticillium           0.00%    passed     99.64%
+  39  A0A0G4PIW6_Penicillium            0.00%    passed     99.69%
+  40  A0A0X8HVB8_Eremothecium           1.91%    passed     77.46%
+  41  A0A135UEW1_Colletotrichum         0.00%    passed     99.79%
+  42  A0A162ZNR2_Ascochyta              0.96%    passed     99.90%
+  43  A0A166QWJ6_Colletotrichum         0.00%    passed     99.91%
+  44  A0A167DT29_Sugiyamaella           6.70%    passed     98.42%
+  45  A0A178CX55_Fonsecaea              0.48%    passed     99.99%
+  46  A0A178FD44_Trichophyton           0.96%    passed    100.00%
+  47  A0A1B2JBB9_Komagataella           2.39%    passed     94.18%
+  48  A0A1E3B484_Aspergillus            0.48%    passed     99.93%
+  49  A0A1F8AAX5_Aspergillus            0.48%    passed     99.88%
+  50  A0A1G4B3T3_Colletotrichum         0.00%    passed     99.60%
+  51  A0A1G4J9Z3_Lachancea              1.91%    passed     98.88%
+  52  A0A1G4M6R4_Lachancea              1.91%    passed     91.44%
+  53  A0A1J9QLP1_Diplodia               2.39%    passed     68.41%
+  54  A0A1L7WWW9_Phialocephala          0.00%    passed     99.54%
+  55  A0A1V6U152_Penicillium            0.48%    passed     99.97%
+  56  A0A1W5D893_Lasallia               0.96%    passed     99.97%
+  57  A0A2A9PT09_Ophiocordyceps         0.00%    passed     99.86%
+  58  A0A2C5WV42_Ceratocystis           0.00%    passed     99.61%
+  59  A0A2C5Z163_Ophiocordyceps         0.00%    passed     99.48%
+  60  A0A2G7FQB8_Aspergillus            0.00%    passed     99.99%
+  61  A0A2S4L8F3_Tolypocladium          0.00%    passed     99.82%
+  62  A0A2S4Q1N6_Erysiphe               0.00%    passed     99.96%
+  63  A0A2T0FEC6_Wickerhamiella         5.74%    passed     51.09%
+  64  A0A2U9RAS2_Pichia                 4.31%    passed     27.35%
+  65  A0A370TV91_Venustampulla          0.00%    passed     99.99%
+  66  A0A3D8QMU0_Aspergillus            0.48%    passed     99.62%
+  67  A0A401KJ13_Aspergillus            0.48%    passed     99.99%
+  68  A0A420Y4N6_Coniochaeta            0.00%    passed     99.95%
+  69  A0A423X8J6_Cytospora              0.00%    passed     99.67%
+  70  A0A4P6XHN0_Metschnikowia          3.35%    passed     97.45%
+  71  A0A4Q4SNS4_Alternaria             0.48%    passed     99.86%
+  72  A0A4Q4SW76_Monosporascus          0.00%    passed     99.82%
+  73  A0A4R8TC14_Colletotrichum         0.00%    passed     99.94%
+  74  A0A4T0X234_Pichia                 3.35%    passed     19.12%
+  75  A0A4Z1I1P6_Botryotinia            0.00%    passed     99.61%
+  76  A0A5E8BJL0_Magnusiomyces          2.87%    passed     81.04%
+  77  A0A5M3Z9B9_Aspergillus            0.00%    passed     99.84%
+  78  A0A6H0XK98_Peltaster              0.48%    passed     99.54%
+  79  A0A7D8YNF5_Lachnellula            0.00%    passed     99.96%
+  80  A0A8E5HVQ8_Ustilaginoidea         0.00%    passed     99.10%
+  81  A0A8H3WE31_Colletotrichum         0.00%    passed     99.04%
+  82  A0A8H5T131_Fusarium               0.00%    passed     99.97%
+  83  A0A8J2T8D0_Zygosaccharomyces      6.70%    passed     73.42%
+  84  A0A8J8WMJ2_Penicillium            0.00%    passed     99.27%
+  85  A0A8K0LFH0_Elsinoe                0.48%    passed     98.04%
+  86  A0A8T9C083_Lachnellula            0.00%    passed     99.47%
+  87  A0A9N9L4M2_Hymenoscyphus          0.00%    passed     99.98%
+  88  A0A9P5AP51_Fusarium               0.00%    passed     99.97%
+  89  A0A9P5F6D8_Colletotrichum         0.00%    passed     99.04%
+  90  A0A9P5IFU8_Botrytis               0.00%    passed     99.07%
+  91  A0A9P7HAM0_Fusarium               0.00%    passed     99.94%
+  92  A0A9P8NYE8_Ogataea                2.39%    passed     99.05%
+  93  A0A9P8TS07_Trichoderma            0.00%    passed     99.96%
+  94  A0A9Q8LAV6_Fulvia                 0.96%    passed     99.00%
+  95  A0A9Q8QLM5_Purpureocillium        0.00%    passed     99.99%
+  96  A0A9W9HYZ6_Penicillium            0.00%    passed     98.76%
+  97  A0A9W9RW94_Penicillium            0.00%    passed     96.87%
+  98  A0AAD9T215_Diplocarpon            0.00%    passed     99.68%
+  99  A0AAI9SXC1_Candida                3.83%    passed     88.02%
+ 100  Q5AXT5_Aspergillus                0.96%    passed     99.95%
+ 101  A0A010SLY8_Colletotrichum         0.00%    passed     98.42%
+ 102  A0A0A2KKZ8_Penicillium            0.00%    passed     99.56%
+ 103  A0A0C7N9H1_Lachancea              2.39%    passed     81.60%
+ 104  A0A0D2AM31_Verruconis             1.44%    passed     92.85%
+ 105  A0A0D2CU01_Cladophialophora       0.48%    passed     99.96%
+ 106  A0A0F4GSW0_Zymoseptoria           0.48%    passed     99.61%
+ 107  A0A0F7TPW7_Penicillium            0.00%    passed     95.68%
+ 108  A0A0F8V674_Aspergillus            0.48%    passed     92.83%
+ 109  A0A0J9X617_Geotrichum             2.87%    passed     87.09%
+ 110  A0A0J9XD28_Geotrichum             0.00%    passed     94.03%
+ 111  A0A0L1J6G6_Aspergillus            0.48%    passed     99.93%
+ 112  A0A0P1KUZ5_Lachancea              0.96%    passed     69.49%
+ 113  A0A0U1LMZ8_Talaromyces            0.00%    passed     99.98%
+ 114  A0A0U5FW00_Aspergillus            0.00%    passed     99.48%
+ 115  A0A179UY81_Blastomyces            0.96%    passed    100.00%
+ 116  A0A194VFA7_Cytospora              2.39%    passed     99.99%
+ 117  A0A1E1KHD1_Rhynchosporium         0.48%    passed    100.00%
+ 118  A0A1E5R2E4_Hanseniaspora          2.39%    passed     75.62%
+ 119  A0A1E5RH49_Hanseniaspora          1.91%    passed     81.47%
+ 120  A0A1E5RYU5_Hanseniaspora          3.35%    passed     60.28%
+ 121  A0A1G4JAR2_Lachancea              0.96%    passed     49.45%
+ 122  A0A1G4JJ13_Lachancea              1.44%    passed     97.16%
+ 123  A0A1G4KK60_Lachancea              1.44%    passed     90.27%
+ 124  A0A1G4M6E1_Lachancea              1.44%    passed     98.64%
+ 125  A0A1J9QG29_Blastomyces            0.96%    passed     99.99%
+ 126  A0A1L0D0Q5_Hanseniaspora          1.91%    passed     32.51%
+ 127  A0A1L7VNC0_Fusarium               0.00%    passed     99.99%
+ 128  A0A1X7R554_Maudiozyma             1.91%    passed     74.41%
+ 129  A0A218YVE5_Diplocarpon            0.00%    passed     99.77%
+ 130  A0A232LWR6_Elaphomyces            0.48%    passed     96.54%
+ 131  A0A292Q3K7_Tuber                  0.48%    passed     86.76%
+ 132  A0A2B7WVK7_Helicocarpus           0.48%    passed     99.97%
+ 133  A0A2D3UXI5_Ramularia              0.48%    passed     98.36%
+ 134  A0A2K1QRC5_Sphaceloma             0.48%    passed     99.90%
+ 135  A0A2S6CBW7_Cercospora             0.96%    passed     97.83%
+ 136  A0A2V1A9H7_Candidozyma            1.91%    passed     70.79%
+ 137  A0A2V1ALF0_Candidozyma            1.91%    passed     96.56%
+ 138  A0A2W1ERC3_Pyrenophora            1.44%    passed     99.92%
+ 139  A0A364L1Q7_Talaromyces            0.00%    passed     99.93%
+ 140  A0A367L4D8_Ophiocordyceps         0.00%    passed     99.99%
+ 141  A0A367YDY7_Candida                2.39%    passed     60.01%
+ 142  A0A384JQ16_Botrytis               0.00%    passed     99.27%
+ 143  A0A423WMC8_Cytospora              1.44%    passed     92.48%
+ 144  A0A448YGA8_Brettanomyces          2.39%    passed     99.99%
+ 145  A0A448YPH1_Brettanomyces          2.39%    passed     74.17%
+ 146  A0A4Y8D3B0_Botryotinia            0.00%    passed     99.57%
+ 147  A0A4Z0Z973_Xylaria                0.00%    passed     99.91%
+ 148  A0A507AHL1_Thyridium              0.00%    passed     99.92%
+ 149  A0A5Q4C7C0_Colletotrichum         0.00%    passed     99.94%
+ 150  A0A6A6V6U0_Sporormia              1.44%    passed     98.35%
+ 151  A0A6V8H3K1_Talaromyces            0.00%    passed     99.87%
+ 152  A0A7H8QY08_Talaromyces            0.00%    passed     99.92%
+ 153  A0A8G0PM48_Trichoderma            0.00%    passed     99.72%
+ 154  A0A8H2ZKI7_Maudiozyma             1.44%    passed     82.75%
+ 155  A0A8H4ISW3_Botryosphaeria         0.96%    passed     98.19%
+ 156  A0A8H4KSP0_Fusarium               0.00%    passed     99.93%
+ 157  A0A8H4L6X0_Fusarium               0.00%    passed    100.00%
+ 158  A0A8H4XL08_Fusarium               0.00%    passed     99.97%
+ 159  A0A8H5VWV3_Fusarium               0.00%    passed     99.85%
+ 160  A0A8H5XTU0_Fusarium               0.00%    passed     99.99%
+ 161  A0A8H6U8X2_Colletotrichum         0.00%    passed     98.70%
+ 162  A0A8H6UTP6_Aspergillus            0.00%    passed     99.50%
+ 163  A0A8H6VE95_Pseudocercospora       0.48%    passed     98.38%
+ 164  A0A9N8P9K6_Aureobasidium          0.48%    passed     99.96%
+ 165  A0A9N9LYP1_Hymenoscyphus          0.00%    passed     99.98%
+ 166  A0A9N9Y4Q8_Clonostachys           0.00%    passed     99.66%
+ 167  A0A9P0QRK9_Kurtzmaniella          1.44%    passed     47.67%
+ 168  A0A9P4YU51_Geosmithia             0.00%    passed     99.71%
+ 169  A0A9P8M8W8_Metarhizium            0.00%    passed     99.82%
+ 170  A0A9P8SF62_Hirsutella             0.00%    passed     99.98%
+ 171  A0A9P9XSS9_Colletotrichum         0.00%    passed     97.31%
+ 172  A0A9W7DE56_Ambrosiozyma           2.39%    passed     95.27%
+ 173  A0A9W7SU85_Teratosphaeria         0.48%    passed     99.29%
+ 174  A0A9W8N7W2_Xylaria                0.00%    passed     99.49%
+ 175  A0A9W9FVK9_Penicillium            0.48%    passed     99.98%
+ 176  A0A9W9KB48_Penicillium            0.00%    passed     94.71%
+ 177  A0A9W9TVT2_Penicillium            0.96%    passed     99.92%
+ 178  A0A9W9WZB3_Penicillium            0.00%    passed     99.95%
+ 179  A0A9W9XDN3_Penicillium           19.62%    passed     97.47%
+ 180  A0AA35IR82_Saccharomyces          1.44%    passed     91.99%
+ 181  A0AAV9SU16_Colletotrichum         0.00%    passed     99.94%
+ 182  A0AAV9UWD6_Orbilia                1.91%    passed     99.78%
+ 183  A0AB34KML8_Cladosporium           0.48%    passed     99.58%
+ 184  A0ABN8WKL1_Saccharomyces          1.44%    passed     68.99%
+ 185  A0ABQ8N742_Pyricularia            0.00%    passed     99.69%
+ 186  A0ABQ8WGQ7_Penicillium            0.00%    passed    100.00%
+ 187  A0ABR2V6U6_Seiridium              0.00%    passed     99.91%
+ 188  A0ABY6SM04_Podospora              0.96%    passed    100.00%
+ 189  B3LLJ4_Saccharomyces              1.44%    passed     90.29%
+ 190  B6Q6C2_Talaromyces                0.00%    passed     99.43%
+ 191  C5DFL7_Lachancea                  1.44%    passed     94.77%
+ 192  C5DM92_Lachancea                  0.96%    passed     57.95%
+ 193  C5MAG5_Candida                    3.35%    passed     98.19%
+ 194  E4V3W1_Nannizzia                  0.96%    passed    100.00%
+ 195  E9ETX6_Metarhizium                0.00%    passed     99.82%
+ 196  G4N540_Pyricularia                0.00%    passed     99.69%
+ 197  J5JW44_Beauveria                  0.00%    passed     99.99%
+ 198  M1WCW3_Claviceps                  0.00%    passed     96.64%
+ 199  Q6CEU3_Yarrowia                  22.49%    passed     93.44%
+ 200  W9CKN3_Sclerotinia                0.00%    passed     99.09%
+ 201  A0A022Y865_Trichophyton           0.96%    passed    100.00%
+ 202  A0A0A1TS53_tx1531966              0.00%    passed     99.98%
+ 203  A0A0D2H657_Fonsecaea              0.48%    passed     99.99%
+ 204  A0A0H1B6P3_Blastomyces            0.48%    passed    100.00%
+ 205  A0A0L0NDI1_Tolypocladium          0.48%    passed     99.99%
+ 206  A0A0M8P8W8_Penicillium            0.00%    passed     99.90%
+ 207  A0A0P1KKU7_Lachancea              1.44%    passed     96.99%
+ 208  A0A135TU94_Colletotrichum         0.00%    passed     97.70%
+ 209  A0A168CGZ8_Cordyceps              0.00%    passed     99.50%
+ 210  A0A168ISU5_Akanthomyces           0.00%    passed    100.00%
+ 211  A0A177FGZ4_Fonsecaea              0.48%    passed     99.99%
+ 212  A0A1B8AKF1_Fusarium               0.00%    passed     99.99%
+ 213  A0A1E1KSW3_Rhynchosporium         0.48%    passed    100.00%
+ 214  A0A1W2TKN4_Rosellinia             0.00%    passed     99.17%
+ 215  A0A1Z5T4Y1_Hortaea                0.48%    passed     96.90%
+ 216  A0A2B7X4F7_Blastomyces            0.48%    passed     99.39%
+ 217  A0A2H0ZLB1_Candidozyma            3.83%    passed     89.93%
+ 218  A0A2H2ZNG2_Trichoderma            0.00%    passed     99.92%
+ 219  A0A2N3NCB3_Lomentospora           7.66%    passed     93.53%
+ 220  A0A2P7Z3W1_Elsinoe                0.48%    passed     99.95%
+ 221  A0A366QY50_Fusarium               0.00%    passed     99.99%
+ 222  A0A376BA80_Saccharomycodes        2.87%    passed     40.33%
+ 223  A0A395SEG8_Fusarium               0.00%    passed     99.99%
+ 224  A0A3A2ZL16_Aspergillus            0.00%    passed     99.97%
+ 225  A0A3D8SQV1_Coleophoma             0.00%    passed     99.98%
+ 226  A0A420HWK8_Erysiphe               0.00%    passed     99.97%
+ 227  A0A484FKH5_Colletotrichum         0.00%    passed     99.94%
+ 228  A0A4Q4P3R5_Alternaria             0.48%    passed     99.86%
+ 229  A0A4Z1FQZ2_Botrytis               0.00%    passed     99.53%
+ 230  A0A4Z1H1E5_Botrytis               0.00%    passed     99.53%
+ 231  A0A4Z1I5K8_Botryotinia            0.00%    passed     99.53%
+ 232  A0A4Z1JM45_Botrytis               0.00%    passed     99.79%
+ 233  A0A4Z1NVH7_Venturia               0.48%    passed     92.97%
+ 234  A0A5E8B6K8_Magnusiomyces          3.83%    passed     85.73%
+ 235  A0A5N6K1H9_Monilinia              0.00%    passed     99.83%
+ 236  A0A642UJS9_Trichomonascus         0.96%    passed     75.82%
+ 237  A0A7C8MWI0_Xylaria                0.00%    passed     99.93%
+ 238  A0A7G3ZIW5_Torulaspora            3.83%    passed     59.64%
+ 239  A0A7U2QU03_Aspergillus            0.00%    passed     99.97%
+ 240  A0A8H2ZM85_Sclerotinia            0.00%    passed     99.44%
+ 241  A0A8H4Q9J7_Ophiocordyceps         0.00%    passed     99.63%
+ 242  A0A8H4T2Y1_Fusarium               0.00%    passed     99.41%
+ 243  A0A8H4YPP2_Fusarium               0.00%    passed     99.98%
+ 244  A0A8H5J614_Fusarium               0.00%    passed     99.85%
+ 245  A0A8H5UR89_Fusarium               0.00%    passed     99.97%
+ 246  A0A8H6KXX6_Colletotrichum         0.00%    passed     98.70%
+ 247  A0A8H8RV52_Lachnellula            0.00%    passed     99.88%
+ 248  A0A8J2TAJ9_Zygosaccharomyces      1.44%    passed     95.72%
+ 249  A0A8T9B5J8_Lachnellula            0.00%    passed     99.79%
+ 250  A0A9P0QU44_Kurtzmaniella          3.35%    passed     82.15%
+ 251  A0A9P3CP80_Cercospora             0.48%    passed     97.73%
+ 252  A0A9P6VJM9_Hyphodiscus            0.00%    passed    100.00%
+ 253  A0A9P8Q4R9_Wickerhamomyces        2.39%    passed     85.60%
+ 254  A0A9Q8SIE6_Colletotrichum         0.00%    passed     97.31%
+ 255  A0A9Q9EGB7_Septoria               0.48%    passed     97.47%
+ 256  A0A9W4UE87_Periconia              1.44%    passed     99.95%
+ 257  A0AA35J0E4_Saccharomyces          1.44%    passed     38.68%
+ 258  A0AAD4IFY3_Alternaria             0.48%    passed     99.96%
+ 259  A0AAD5BBM1_Candida                1.91%    passed     99.27%
+ 260  A0AAD6GIB4_Penicillium            5.74%    passed     99.90%
+ 261  A0AAD9AKZ3_Colletotrichum         0.00%    passed     99.04%
+ 262  A0AAD9Y213_Colletotrichum         0.00%    passed     99.04%
+ 263  A0AAE9W8S9_Schizosaccharomyces    0.48%    passed     99.23%
+ 264  A0AAI9TIH2_Penicillium            0.00%    passed     99.75%
+ 265  A0AAV5QDJ4_Saccharomycopsis       0.96%    passed     99.36%
+ 266  A0AAV5QKF6_Saccharomycopsis       1.44%    passed     76.85%
+ 267  A0AAX4HF17_Australozyma           4.31%    passed     85.72%
+ 268  A0AB34G0U3_Purpureocillium        0.00%    passed     99.96%
+ 269  A0ABP2EZZ6_Blastomyces            0.96%    passed    100.00%
+ 270  A0ABQ7RSC4_Ogataea                2.39%    passed     99.91%
+ 271  A0ABQ9SFB4_Colletotrichum         0.00%    passed     97.03%
+ 272  A0ABR0HK82_Podospora              0.96%    passed    100.00%
+ 273  A0ABR0TKY5_Aureobasidium          0.48%    passed     99.96%
+ 274  A0ABR1PTT1_Apiospora              0.00%    passed     97.53%
+ 275  A0ABR1RLE4_Apiospora              0.00%    passed     99.73%
+ 276  A0ABR1VZW9_Apiospora              0.00%    passed     98.70%
+ 277  A0ABR3DMS4_Neurospora             1.44%    passed     99.99%
+ 278  A0ABR3Y3X8_Phialemonium           0.00%    passed     99.76%
+ 279  A0ABR4P0R8_Nakaseomyces           1.91%    passed      8.07%
+ 280  A0ABX6EXJ8_Kluyveromyces          1.91%    passed     91.43%
+ 281  A0ABX6F0Q7_Kluyveromyces          1.44%    passed     62.73%
+ 282  A0ABX8I2X5_Candidozyma            4.31%    passed     70.69%
+ 283  A0ABX8I4W3_Candidozyma            1.91%    passed     70.79%
+ 284  A2R3M6_Aspergillus                0.00%    passed     99.98%
+ 285  C4JUZ0_Uncinocarpus              23.44%    passed     96.76%
+ 286  D4B4E8_Trichophyton               0.96%    passed    100.00%
+ 287  D4DAK6_Trichophyton               0.96%    passed    100.00%
+ 288  F2PR25_Trichophyton               2.39%    passed     99.99%
+ 289  F2S1K4_Trichophyton               2.39%    passed     99.99%
+ 290  G0S6L7_Thermochaetoides           0.00%    passed     99.96%
+ 291  G1WZ06_Orbilia                    1.91%    passed     99.86%
+ 292  I2H165_Henningerozyma             0.96%    passed     77.45%
+ 293  K0KM86_Wickerhamomyces            1.91%    passed     75.95%
+ 294  K3UQF6_Fusarium                   0.00%    passed     99.99%
+ 295  N1RU73_Fusarium                   0.00%    passed     99.99%
+ 296  R4XBB5_Taphrina                   2.39%    passed     94.45%
+ 297  S7ZUF7_Penicillium                0.00%    passed     99.56%
+ 298  U1GI40_Endocarpon                 0.96%    passed     99.91%
+ 299  W6MM08_Kuraishia                  5.26%    passed      9.79%
+ 300  W7HWQ6_Drechslerella              1.91%    passed     98.35%
+ 301  A0A086SVX6_Hapsidospora           0.00%    passed     99.99%
+ 302  A0A090CWN8_Podospora              0.96%    passed    100.00%
+ 303  A0A0A2KQC3_Penicillium            0.00%    passed     99.75%
+ 304  A0A0D9NSG7_Metarhizium            0.00%    passed     99.82%
+ 305  A0A0F4YPA8_Rasamsonia             0.00%    passed     99.68%
+ 306  A0A0F4ZHF8_Thielaviopsis          0.00%    passed     98.07%
+ 307  A0A0G4KXU7_Verticillium           0.00%    passed     99.79%
+ 308  A0A0M9VTS8_Escovopsis             0.00%    passed     98.92%
+ 309  A0A0N0DEY4_Fusarium               0.00%    passed     99.99%
+ 310  A0A0P7BBB4_Neonectria             0.00%    passed     99.71%
+ 311  A0A135LFH1_Penicillium            0.00%    passed     99.97%
+ 312  A0A139HGG1_Pseudocercospora       0.48%    passed     98.89%
+ 313  A0A139IDY3_Pseudocercospora       0.48%    passed     98.21%
+ 314  A0A151GWK7_Drechmeria             0.00%    passed     99.99%
+ 315  A0A166NVT2_Colletotrichum         0.00%    passed     99.91%
+ 316  A0A166U4T1_Moelleriella           0.00%    passed    100.00%
+ 317  A0A168C8M9_Ascosphaera            0.00%    passed     99.51%
+ 318  A0A1C1C9U7_Cladophialophora       0.48%    passed     98.84%
+ 319  A0A1E5R8N0_Hanseniaspora          2.39%    passed     27.80%
+ 320  A0A1G4KDP5_Lachancea              1.44%    passed     85.36%
+ 321  A0A1G4KMC5_Lachancea              0.96%    passed     94.39%
+ 322  A0A1J9QQT4_Diplodia               0.96%    passed     95.72%
+ 323  A0A1J9S2U9_Diplodia               0.96%    passed     91.44%
+ 324  A0A1L0BTK2_Sungouiella            4.31%    passed     99.76%
+ 325  A0A1Q2YI20_Pichia                 3.83%    passed     99.69%
+ 326  A0A1Q8RAQ6_Colletotrichum         0.00%    passed     98.38%
+ 327  A0A1T3CVP8_Trichoderma            0.00%    passed     99.35%
+ 328  A0A1V6QBT2_Penicillium            0.48%    passed     99.98%
+ 329  A0A1V6RMZ5_Penicillium            0.00%    passed     99.75%
+ 330  A0A1V6RZK0_Penicillium            0.00%    passed     99.07%
+ 331  A0A1V6V0V5_Penicillium            1.44%    passed     99.85%
+ 332  A0A1V6Z3Y5_Penicillium            0.00%    passed     99.95%
+ 333  A0A1X7RKD9_Zymoseptoria           0.48%    passed     99.61%
+ 334  A0A1Y2M700_Epicoccum              0.96%    passed     99.82%
+ 335  A0A2C5XF89_Ophiocordyceps         0.00%    passed    100.00%
+ 336  A0A2K0WHU4_Fusarium               0.00%    passed     99.97%
+ 337  A0A2K3Q965_Tolypocladium          0.00%    passed     99.98%
+ 338  A0A2P6FGS0_Pseudogymnoascus       0.48%    passed     99.66%
+ 339  A0A2T4GQX9_Fusarium               0.00%    passed     99.89%
+ 340  A0A2U3EBL3_Purpureocillium        0.00%    passed    100.00%
+ 341  A0A2V1AQV1_Candidozyma            4.31%    passed     83.59%
+ 342  A0A367YAA9_Candida                5.26%    passed     11.89%
+ 343  A0A367YJV1_Candida                5.26%    passed     33.60%
+ 344  A0A367YKM2_Candida                2.39%    passed     65.78%
+ 345  A0A395NCI1_Trichoderma            0.00%    passed     98.72%
+ 346  A0A423XFI1_Cytospora              0.00%    passed     99.99%
+ 347  A0A423XK23_Cytospora              0.96%    passed     90.24%
+ 348  A0A9W8UIP0_Akanthomyces           0.00%    passed    100.00%
+ 349  A0A9W9RAK9_Penicillium            0.00%    passed     99.91%
+ 350  A0A9W9XR84_Penicillium            0.00%    passed     99.89%
+ 351  A0AA35NL61_Saccharomyces          1.44%    passed     86.58%
+ 352  A0AA38VV67_Coniochaeta            0.00%    passed     99.98%
+ 353  A0AA39L6U6_Sarocladium            0.00%    passed     99.11%
+ 354  A0AAD5RWL4_Zalerion               0.00%    passed     98.02%
+ 355  A0AAD6H8K2_Penicillium            0.00%    passed     99.75%
+ 356  A0AAD6MU90_Penicillium            0.00%    passed     99.68%
+ 357  A0AAD9I3P7_Phyllachora            0.00%    passed     99.61%
+ 358  A0AAE8SVQ8_Cephalotrichum         0.00%    passed     99.75%
+ 359  A0AAI8YJ59_Anthostomella          0.00%    passed     99.72%
+ 360  A0AAI9XWQ1_Colletotrichum         0.00%    passed     97.03%
+ 361  A0AAQ3M7G8_Acrodontium            0.48%    passed     99.94%
+ 362  A0AAV5R7D5_Pichia                 1.44%    failed      0.08%
+ 363  A0AAV9X1R8_Orbilia                1.91%    passed     99.49%
+ 364  A0AAX4HXM9_Colletotrichum         0.00%    passed     99.94%
+ 365  A0ABN8VSG3_Saccharomyces          1.44%    passed     63.77%
+ 366  A0ABP0EFL8_Kurtzmaniella          1.44%    passed     97.70%
+ 367  A0ABQ7IPQ8_Botrytis               0.00%    passed     99.67%
+ 368  A0ABQ9RPP9_Colletotrichum         0.00%    passed     97.03%
+ 369  A0ABR0F5M0_Podospora              0.96%    passed    100.00%
+ 370  A0ABR0G3Y6_Podospora              0.96%    passed    100.00%
+ 371  A0ABR0SAG8_Cladobotryum           0.00%    passed     99.98%
+ 372  A0ABR1RWV5_Apiospora              0.00%    passed     96.39%
+ 373  A0ABR3P4W3_Neodothiora            0.96%    passed     99.77%
+ 374  A0ABR4D136_Oculimacula            0.48%    passed    100.00%
+ 375  A0ABR4F3V5_Diaporthe              0.96%    passed     96.97%
+ 376  A0ABR4MDG3_Ceratocystis           0.00%    passed     99.73%
+ 377  A0ABR4NXG5_Nakaseomyces           1.44%    passed     93.79%
+ 378  A0ABY0HA38_Monosporascus          0.00%    passed     99.67%
+ 379  A0ABY6US88_Clonostachys           0.00%    passed     96.96%
+ 380  A7EDF0_Sclerotinia                0.00%    passed     99.44%
+ 381  A7TJ00_Vanderwaltozyma            2.39%    passed     41.26%
+ 382  B3LSF2_Saccharomyces              2.39%    passed     54.74%
+ 383  B8LYE9_Talaromyces                0.00%    passed     99.28%
+ 384  B9WMD7_Candida                    1.91%    passed     91.21%
+ 385  C1GI25_Paracoccidioides           0.48%    passed     99.97%
+ 386  C5E0W3_Zygosaccharomyces          5.74%    passed     89.56%
+ 387  E9DY51_Metarhizium                0.00%    passed     99.93%
+ 388  F0XHJ8_Leptographium              1.44%    passed     99.80%
+ 389  F2T115_Trichophyton               0.96%    passed    100.00%
+ 390  G0W9L4_Naumovozyma                1.91%    passed     87.00%
+ 391  G3JM88_Cordyceps                 31.58%    passed     94.16%
+ 392  G8JWH4_Eremothecium               1.91%    passed     99.00%
+ 393  G8ZVF0_Torulaspora                0.96%    passed     96.51%
+ 394  H6BKX2_Exophiala                  0.48%    passed     99.98%
+ 395  J7S460_Huiozyma                   0.96%    passed     72.53%
+ 396  K1WPA9_Drepanopeziza              0.00%    passed     99.93%
+ 397  L2G0F7_Colletotrichum             0.00%    passed     99.04%
+ 398  Q4WVU7_Aspergillus                0.00%    passed     99.91%
+ 399  Q6FPW0_Nakaseomyces               1.44%    failed      1.18%
+ 400  Q756Y6_Eremothecium               1.91%    passed     92.53%
+ 401  A0A084APH7_Stachybotrys           0.00%    passed     99.91%
+ 402  A0A084GDF4_Scedosporium           0.00%    passed     90.46%
+ 403  A0A084QU30_Stachybotrys           0.00%    passed    100.00%
+ 404  A0A0B1PEI0_Erysiphe               0.00%    passed     99.99%
+ 405  A0A0B2X4N9_Metarhizium            0.00%    passed     99.98%
+ 406  A0A0C4EG66_Magnaporthiopsis       0.00%    passed     97.04%
+ 407  A0A0D1ZHZ9_Exophiala              0.48%    passed     99.95%
+ 408  A0A0D2J3X0_Fonsecaea              0.48%    passed     99.97%
+ 409  A0A0D8JVN0_Coccidioides           0.48%    passed     99.73%
+ 410  A0A0F7ZTC5_Hirsutella             0.00%    passed     99.98%
+ 411  A0A0F8DHR2_Ceratocystis           0.00%    passed     99.73%
+ 412  A0A0G2I193_Diaporthe              0.00%    passed     99.96%
+ 413  A0A0N1NVW2_Cyphellophora          0.48%    passed     99.72%
+ 414  A0A101MLQ9_Penicillium            0.00%    passed     99.93%
+ 415  A0A109UW77_Eremothecium           1.91%    passed     99.07%
+ 416  A0A135SIN3_Colletotrichum         0.00%    passed     99.96%
+ 417  A0A161HKE9_Sugiyamaella           0.96%    passed     86.07%
+ 418  A0A167F3J3_Metarhizium            0.00%    passed     99.90%
+ 419  A0A167H2R5_Beauveria              0.00%    passed     99.99%
+ 420  A0A167TDW9_Niveomyces             0.00%    passed     99.95%
+ 421  A0A175VPZ7_Madurella              0.00%    passed     99.97%
+ 422  A0A178ZSD6_Fonsecaea              0.48%    passed     99.99%
+ 423  A0A179FR29_Pochonia               0.00%    passed     99.89%
+ 424  A0A4P6XSZ4_Metschnikowia          1.44%    passed     99.73%
+ 425  A0A4R8QEN4_Colletotrichum         0.00%    passed     99.94%
+ 426  A0A4S8RIP6_Botrytis               0.00%    passed     99.53%
+ 427  A0A4V3HXL6_Colletotrichum         0.00%    passed     99.94%
+ 428  A0A4V3UMW7_Aspergillus            4.78%    passed     99.55%
+ 429  A0A4Z1EL52_Botrytis               0.00%    passed     99.27%
+ 430  A0A4Z1L1J9_Botrytis               0.00%    passed     98.81%
+ 431  A0A5M9JJ09_Monilinia             17.22%    passed     98.91%
+ 432  A0A5N5DHG1_Lasiodiplodia          0.48%    passed     95.68%
+ 433  A0A7D5Z7W4_Metarhizium            0.00%    passed     99.64%
+ 434  A0A7H9AW24_Zygotorulaspora        2.39%    passed     90.33%
+ 435  A0A7H9B3W0_Zygotorulaspora        1.44%    passed     96.20%
+ 436  A0A8H4NYZ8_Fusarium               0.00%    passed     99.97%
+ 437  A0A8H4PTP3_Ophiocordyceps         0.00%    passed    100.00%
+ 438  A0A8H4T3M7_Fusarium               0.00%    passed     99.97%
+ 439  A0A8H5N1Z6_Fusarium               0.00%    passed     99.92%
+ 440  A0A8H5UMM3_Fusarium               0.00%    passed     99.92%
+ 441  A0A8H5V583_Fusarium               0.00%    passed     99.97%
+ 442  A0A8H5X4H1_Fusarium               0.00%    passed     99.98%
+ 443  A0A8H8D9N3_Candida                1.91%    passed     99.67%
+ 444  A0A8H8QV95_Lachnellula            0.00%    passed     99.30%
+ 445  A0A8H8RJD5_Lachnellula            0.00%    passed     99.53%
+ 446  A0A9N9YLT0_Clonostachys           0.00%    passed     97.69%
+ 447  A0A9P4X3G5_Trichoderma            0.00%    passed     99.35%
+ 448  A0A9P7IRT1_Fusarium               0.00%    passed     99.97%
+ 449  A0A9W9HNM9_Penicillium            0.00%    passed     99.94%
+ 450  A0A9W9JQ30_Penicillium            0.00%    passed     99.75%
+ 451  A0A9W9M2N2_Penicillium            0.00%    passed     99.72%
+ 452  A0A9W9PWX5_Penicillium            0.00%    passed     99.79%
+ 453  A0A9W9V6L1_Penicillium            0.00%    passed     97.80%
+ 454  A0A9X0BA58_Penicillium            0.48%    passed     99.75%
+ 455  A0AAD6E3Q9_Penicillium            0.96%    passed     99.92%
+ 456  A0AAD6IDC6_Penicillium            0.48%    passed     99.95%
+ 457  A0AAE1J0Y1_Trichoderma            0.00%    passed     99.72%
+ 458  A0AAE8M1S2_Fusarium               0.00%    passed     99.92%
+ 459  A0AAI9UII0_Colletotrichum         0.00%    passed     95.91%
+ 460  A0AAJ0E579_Colletotrichum         0.00%    passed     97.03%
+ 461  A0AAN5Z088_Fusarium               0.00%    passed     99.89%
+ 462  A0AAN6NX75_Pseudoneurospora       0.00%    passed     99.99%
+ 463  A0AAN7BLM5_Podospora              0.96%    passed     99.93%
+ 464  A0AAV5QX45_Pichia                 3.83%    passed     88.82%
+ 465  A0AAV5RMN1_Starmerella            1.44%    passed     96.34%
+ 466  A0AAV9HLS5_Cladorrhinum           0.96%    passed    100.00%
+ 467  A0AAV9UWK0_Orbilia                2.39%    passed     96.93%
+ 468  A0AAW0R3B8_Apiospora             12.44%    passed     99.42%
+ 469  A0AAX4HB97_Australozyma           1.44%    passed     98.65%
+ 470  A0ABN8VEY2_Saccharomyces          1.44%    passed     86.58%
+ 471  A0ABN8WPA3_Saccharomyces          1.44%    passed     86.58%
+ 472  A0ABP0EH01_Kurtzmaniella          3.83%    passed     43.27%
+ 473  A0ABP0ZHK7_Lodderomyces           1.91%    passed     99.09%
+ 474  A0ABQ0GRH5_Madurella              0.00%    passed    100.00%
+ 475  A0ABQ7RB90_Ogataea                2.39%    passed     99.74%
+ 476  A0ABQ9PW01_Colletotrichum         0.00%    passed     97.03%
+ 477  A0ABR1UF14_Apiospora              0.00%    passed     96.16%
+ 478  A0ABR4DNY3_Remersonia             0.00%    passed     99.99%
+ 479  A0ABR4PIR0_Phlyctema              0.00%    passed     99.98%
+ 480  A0ABZ2WRY7_Fusarium               0.00%    passed     99.94%
+ 481  A1DDJ4_Aspergillus                0.00%    passed     99.82%
+ 482  A7TMC2_Vanderwaltozyma            4.31%    passed     79.49%
+ 483  C0NFA5_Histoplasma                0.96%    passed     99.99%
+ 484  C5FMN5_Microsporum                0.96%    passed     99.96%
+ 485  C5M8S6_Candida                    5.26%    failed      3.97%
+ 486  E3S321_Pyrenophora                1.44%    passed     99.92%
+ 487  F2QT11_Komagataella               2.39%    passed     95.74%
+ 488  G0V6X7_Naumovozyma                1.91%    passed     94.80%
+ 489  G8Y8Q1_Millerozyma                1.91%    passed     71.35%
+ 490  H0GH54_Saccharomyces              2.39%    passed     52.62%
+ 491  H0GLS5_Saccharomyces              1.44%    passed     90.29%
+ 492  H2AVD6_Kazachstania               2.39%    passed     94.39%
+ 493  J8PMR0_Saccharomyces              1.44%    passed     43.69%
+ 494  L8FZR6_Pseudogymnoascus           0.48%    passed     99.97%
+ 495  M3IP21_Candida                    1.44%    passed     98.66%
+ 496  Q6CWC6_Kluyveromyces              1.91%    passed     97.79%
+ 497  R8BS17_Phaeoacremonium            0.00%    passed     99.91%
+ 498  S8BV51_Dactylellina               1.91%    passed     97.83%
+ 499  U4KVV4_Pyronema                   0.48%    passed     98.62%
+ 500  V5FX47_Paecilomyces               0.48%    passed     99.87%
+ 501  A0A179IKE1_Akanthomyces           0.00%    passed     99.97%
+ 502  A0A1B7YNX9_Colletotrichum         0.00%    passed     99.94%
+ 503  A0A1E1LUZ6_Rhynchosporium         0.48%    passed    100.00%
+ 504  A0A1F5LX58_Penicillium            0.48%    passed     99.95%
+ 505  A0A1G4JCZ1_Lachancea              2.39%    passed     73.41%
+ 506  A0A1L7TYF3_Fusarium               0.00%    passed     99.99%
+ 507  A0A1L9RR32_Aspergillus            0.48%    passed     99.73%
+ 508  A0A1Q5UPN3_Penicillium            0.00%    passed     97.77%
+ 509  A0A1V6PDM4_Penicillium            0.00%    passed     99.98%
+ 510  A0A1V6U1M2_Penicillium            0.00%    passed     99.94%
+ 511  A0A1X7QZ68_Maudiozyma             1.44%    passed     66.58%
+ 512  A0A1Z5T0V7_Hortaea                0.00%    passed     96.81%
+ 513  A0A225ACG2_Talaromyces            0.00%    passed     99.34%
+ 514  A0A2B7ZAZ8_Emergomyces            0.96%    passed     99.99%
+ 515  A0A2C5Z3Z6_Ophiocordyceps         0.00%    passed     99.99%
+ 516  A0A2L2TT35_Fusarium               0.00%    passed     99.99%
+ 517  A0A2P4ZPZ5_Trichoderma            0.00%    passed     99.18%
+ 518  A0A2P5IG66_Diaporthe              0.00%    passed    100.00%
+ 519  A0A2P7YYZ7_Candidozyma            4.31%    passed     69.67%
+ 520  A0A395MU31_Fusarium               0.00%    passed     99.95%
+ 521  A0A395SH18_Fusarium               0.00%    passed     99.98%
+ 522  A0A3D8T9P5_Coleophoma             0.00%    passed    100.00%
+ 523  A0A420HI51_Golovinomyces          0.00%    passed     99.96%
+ 524  A0A437A639_Arthrobotrys           1.91%    passed     99.22%
+ 525  A0A4T0X4S6_Pichia                 1.91%    passed     65.30%
+ 526  A0A4U6XDE4_Colletotrichum         0.00%    passed     99.90%
+ 527  A0A545VF71_Cordyceps              0.00%    passed     99.97%
+ 528  A0A553I2H5_Xylaria                0.00%    passed     99.80%
+ 529  A0A642UC18_Diutina                2.39%    passed     81.00%
+ 530  A0A6P8AS74_Pyricularia            0.00%    passed     98.87%
+ 531  A0A7D9D0S1_Brettanomyces          3.35%    passed     38.55%
+ 532  A0A7D9H4X7_Brettanomyces          2.39%    passed     96.50%
+ 533  A0A7G3ZFX8_Torulaspora            1.44%    passed     99.90%
+ 534  A0A7H9HQ67_Torulaspora            1.44%    passed     99.37%
+ 535  A0A8A3PQR8_Monilinia              0.00%    passed     98.02%
+ 536  A0A8E2ECP4_Lepidopterella         0.96%    passed     96.61%
+ 537  A0A8H2VG31_Maudiozyma             0.96%    passed     70.73%
+ 538  A0A8H4M5R7_Aspergillus            0.00%    passed     99.82%
+ 539  A0A8H4RP39_Cudoniella             0.00%    passed     99.73%
+ 540  A0A8H5K2L9_Fusarium               0.00%    passed     99.97%
+ 541  A0A8H5V246_Fusarium               0.00%    passed     99.92%
+ 542  A0A8H6DJK2_Fusarium               0.00%    passed     99.97%
+ 543  A0A8H6EMB0_Botrytis               0.00%    passed     99.53%
+ 544  A0A8H6MX16_Colletotrichum         0.00%    passed     98.70%
+ 545  A0A8H6P867_Aspergillus            0.00%    passed     99.32%
+ 546  A0A8H7B4D1_Alternaria             0.48%    passed     99.86%
+ 547  A0A8H7MC09_Ascochyta              0.96%    passed     99.68%
+ 548  A0A8J2N2S3_Alternaria             0.48%    passed     99.99%
+ 549  A0A9N8P4J7_Aureobasidium          6.70%    passed     99.89%
+ 550  A0A9N8PPA1_Aureobasidium          4.78%    passed     99.70%
+ 551  A0A9P5H1A3_Cylindrodendrum        0.00%    passed     99.97%
+ 552  A0A9P6I5L3_Colletotrichum         0.00%    passed     99.93%
+ 553  A0A9P7UDJ2_Colletotrichum         0.00%    passed     97.57%
+ 554  A0A9P8KRB0_Trichoderma            0.00%    passed     99.35%
+ 555  A0A9P8PN42_Wickerhamomyces        1.44%    passed     39.69%
+ 556  A0A9P8PWM7_Ogataea                2.39%    passed     99.92%
+ 557  A0A9P8Q2R3_Wickerhamomyces        1.44%    passed     60.32%
+ 558  A0A9P8TBX6_Wickerhamomyces        1.91%    passed     96.56%
+ 559  A0A9P9XX88_Emericellopsis         0.00%    passed     99.09%
+ 560  A0A9Q0AR35_Neoarthrinium          0.00%    passed     98.91%
+ 561  A0A9W4TRY8_Candida                3.83%    passed      8.08%
+ 562  A0A9W4TSQ7_Candida                2.39%    passed     63.07%
+ 563  A0A9W6SUB1_Ogataea                1.91%    passed     18.70%
+ 564  A0A9W8NAJ3_Xylaria                0.00%    passed     94.77%
+ 565  A0A9W9E386_Trichoderma            0.00%    passed     99.35%
+ 566  A0A9W9GHH5_Penicillium            0.96%    passed     99.99%
+ 567  A0A9W9KDN3_Penicillium            0.96%    passed     99.99%
+ 568  A0A9W9NF67_Penicillium            0.48%    passed     99.91%
+ 569  A0A9W9PGZ8_Penicillium            0.00%    passed     99.99%
+ 570  A0AA35M823_Clonostachys           0.00%    passed     98.76%
+ 571  A0AA38R6I5_Pleurostoma            0.00%    passed     99.66%
+ 572  A0AA39QRC0_Cladonia               0.96%    passed    100.00%
+ 573  A0AA40CH22_Lasiodiplodia          0.48%    passed     96.42%
+ 574  A0AAD6BVQ3_Penicillium            0.00%    passed     99.55%
+ 575  A0AAD9W185_Diaporthe              0.00%    passed    100.00%
+ 576  A0AAI8YTU8_Lecanosticta           0.96%    passed     94.38%
+ 577  A0AAI9SW46_Candida                1.91%    passed     97.29%
+ 578  A0AAN6BNB4_Aspergillus            0.00%    passed     99.82%
+ 579  A0AAN6PR26_Parachaetomium         1.44%    passed     97.91%
+ 580  A0AAV5RQD8_Maudiozyma             1.44%    passed     56.56%
+ 581  A0AAV5RS12_Starmerella            3.35%    passed     63.53%
+ 582  A0AAV5S599_Maudiozyma             1.44%    passed     89.08%
+ 583  A0ABP0ZI86_Lodderomyces           4.31%    passed     69.02%
+ 584  A0ABQ0CIR6_Epichloe               0.00%    passed     99.41%
+ 585  A0ABQ1A1P2_Aspergillus            0.00%    passed     99.51%
+ 586  A0ABR0H0U4_Podospora              0.96%    passed    100.00%
+ 587  A0ABR1X8Q2_Apiospora              0.00%    passed     97.53%
+ 588  A0ABR2HLJ4_Apiospora              0.00%    passed     99.81%
+ 589  A0ABR2XV60_Seiridium              0.00%    passed     99.91%
+ 590  A0ABR3VRV6_Mycothermus            1.44%    passed    100.00%
+ 591  A0ABR4DQT9_Diaporthe              0.00%    passed    100.00%
+ 592  A1CBS2_Aspergillus                0.00%    passed     99.99%
+ 593  A5E709_Lodderomyces               1.91%    passed     99.37%
+ 594  A7TNQ0_Vanderwaltozyma            1.44%    passed     94.43%
+ 595  B0Y232_Aspergillus                0.00%    passed     99.91%
+ 596  B6HL55_Penicillium                0.00%    passed     99.99%
+ 597  C1GVB7_Paracoccidioides           0.48%    passed     99.97%
+ 598  C4YMF4_Candida                    1.91%    passed     93.77%
+ 599  C5DS62_Zygosaccharomyces          1.44%    passed     98.15%
+ 600  E3Q2W0_Colletotrichum             0.00%    passed     99.98%
+ 601  A0A074S981_Rhizoctonia            1.44%    passed     99.61%
+ 602  A0A081CCF7_Moesziomyces           0.96%    passed     99.41%
+ 603  A0A0B7FZH9_Rhizoctonia            1.91%    passed     99.79%
+ 604  A0A0B7G372_Rhizoctonia            1.91%    passed     94.29%
+ 605  A0A0D0VFI3_Cryptococcus           1.44%    passed     99.83%
+ 606  A0A0D6ENE9_Sporobolomyces         0.96%    passed     99.86%
+ 607  A0A0K3C6U0_Rhodotorula            0.96%    passed     86.90%
+ 608  A0A0K6FND2_Rhizoctonia            5.74%    passed     93.78%
+ 609  A0A1B9GFU3_Kwoniella              1.44%    passed     93.27%
+ 610  A0A1Q3E2N1_Lentinula              4.31%    passed     97.02%
+ 611  A0A2G8RUN7_Ganoderma              1.44%    passed     99.91%
+ 612  A0A2G8S4W6_Ganoderma              0.96%    passed     99.93%
+ 613  A0A369J1H4_Hypsizygus             1.44%    passed     99.76%
+ 614  A0A5B0MRD7_Puccinia               1.91%    passed     77.74%
+ 615  A0A5M3MBB2_Coniophora             1.91%    passed     98.29%
+ 616  A0A8H3TUW7_Naganishia             1.91%    passed     97.92%
+ 617  A0A8H3U0A2_Naganishia             2.87%    passed     90.68%
+ 618  A0A8H5CYE4_Tetrapyrgos            1.44%    passed     76.28%
+ 619  A0A8H5EYD2_Psilocybe              0.96%    passed     86.75%
+ 620  F7VS34_Sordaria                   1.44%    passed     99.96%
+ 621  G8BSI5_Tetrapisispora             1.44%    passed     95.43%
+ 622  H8XAL7_Candida                    1.91%    passed     99.81%
+ 623  J3NIB7_Gaeumannomyces             0.00%    passed     99.10%
+ 624  K9GB17_Penicillium                0.00%    passed     99.69%
+ 625  N1J746_Blumeria                   0.00%    passed     99.94%
+ 626  Q6CQY1_Kluyveromyces              1.91%    passed     33.37%
+ 627  Q756M1_Eremothecium               1.91%    passed     51.62%
+ 628  Q7RXT1_Neurospora                 0.00%    passed     99.99%
+ 629  S0E8T2_Fusarium                   0.00%    passed     99.99%
+ 630  S3DLT2_Glarea                     0.00%    passed    100.00%
+ 631  W3WI34_Pestalotiopsis             0.00%    passed     97.53%
+ 632  W6QMY6_Penicillium                0.00%    passed     99.36%
+ 633  A0A0B4FVA9_Metarhizium            0.00%    passed     99.77%
+ 634  A0A0P7BLB4_Neonectria             1.44%    passed     74.03%
+ 635  A0A0V1Q2Z0_Debaryomyces           1.91%    passed     56.37%
+ 636  A0A1L0BLG4_Sungouiella            1.44%    passed     99.56%
+ 637  A0A1U7LSY4_Neolecta               0.48%    passed     80.77%
+ 638  A0A2P5HGU5_Diaporthe              0.96%    passed     97.18%
+ 639  A0A2T0FMF4_Wickerhamiella         1.44%    passed     94.13%
+ 640  A0A2U9QZ99_Pichia                 3.83%    failed      2.56%
+ 641  A0A376BAK2_Saccharomycodes        2.39%    passed     95.78%
+ 642  A0A395J7K7_Monilinia              4.31%    passed     99.00%
+ 643  A0A3E2GT96_Scytalidium            0.00%    passed     99.97%
+ 644  A0A3N4JMV7_Choiromyces            0.48%    passed     97.57%
+ 645  A0A559MKX1_Lachnellula            0.00%    passed     99.79%
+ 646  A0A5E8BI10_Magnusiomyces          0.96%    passed     78.85%
+ 647  A0A642UMB7_Diutina                4.31%    passed     79.83%
+ 648  A0A642V5E7_Trichomonascus         1.91%    passed     93.42%
+ 649  A0A7H9HUR2_Torulaspora            2.39%    passed     82.52%
+ 650  A0A8H4CLQ5_Colletotrichum         0.00%    passed     99.04%
+ 651  A0A8H4T4I9_Fusarium               0.96%    passed     98.01%
+ 652  A0A8H5WXE6_Fusarium               0.48%    passed     90.91%
+ 653  A0A9N9W2U8_Clonostachys           0.00%    passed     98.11%
+ 654  A0A9P5HJJ0_Cylindrodendrum        0.48%    passed     84.30%
+ 655  A0A9P8F6U8_Aureobasidium          0.48%    passed     99.87%
+ 656  A0A9W4RWK1_Colletotrichum         0.00%    passed     99.04%
+ 657  A0AA35JJF7_Saccharomyces          1.44%    passed     63.43%
+ 658  A0AAD9SP23_Diaporthe              1.44%    passed     99.72%
+ 659  A0ABR1QZN4_Apiospora              0.48%    passed     97.81%
+ 660  A0ABR1X8H1_Apiospora              0.48%    passed     97.91%
+ 661  A0ABY2H3J9_Trichoderma            0.00%    passed     99.78%
+ 662  A0ACA9TUV3_Clonostachys           0.00%    passed     98.95%
+ 663  A0ACA9Y7U7_Yamadazyma             1.44%    passed     87.57%
+ 664  A0ACA9YCX0_Yamadazyma             3.83%    passed     82.29%
+ 665  A0ACB5SA82_Neofusicoccum          0.48%    passed     98.80%
+ 666  A0ACB6V604_Geotrichum             0.00%    passed     92.32%
+ 667  A0ACB6V835_Geotrichum             2.87%    passed     92.42%
+ 668  A0ACC0QR54_Fusarium               0.00%    passed     99.98%
+ 669  A0ACC1N0K5_Zarea                  0.00%    passed    100.00%
+ 670  A0ACC1PT71_Xylaria                9.09%    passed     99.01%
+ 671  A0ACC1RAE9_Lecanicillium          0.00%    passed     99.95%
+ 672  A0ACC1RL04_Fusarium               5.74%    passed     99.99%
+ 673  A0ACC2HQW4_Boeremia               0.48%    passed     99.90%
+ 674  A0ACC3TRB3_Lipomyces              0.00%    passed     99.10%
+ 675  A0ACC3YGM8_Colletotrichum         0.00%    passed     98.57%
+ 676  A0ACD3Z1H8_Fusarium               0.00%    passed     99.70%
+ 677  J6EEG6_Saccharomyces              1.44%    passed     63.43%
+ 678  M3JT10_Candida                    4.31%    passed     97.22%
+ 679  A0A0V1Q0J3_Debaryomyces           4.31%    passed     79.49%
+ 680  A0A1D8PRM6_Candida                3.83%    passed     66.27%
+ 681  A0A1G4KQ33_Komagataella           2.39%    passed     17.81%
+ 682  A0A2V1AIT0_Candidozyma            4.31%    passed     70.69%
+ 683  A0A8H8D8N2_Candida                4.31%    passed     87.95%
+ 684  A0A8J5QH60_Spathaspora            4.78%    passed     61.07%
+ 685  A0A9P8P3R0_Ogataea                3.35%    passed     57.94%
+ 686  A0A9P8T4U6_Ogataea                3.35%    passed     98.77%
+ 687  A0AAD5BCG9_Candida                4.78%    passed     96.57%
+ 688  A0ABQ7RA53_Ogataea                3.35%    passed     44.66%
+ 689  A0ABQ7S1B0_Ogataea                3.35%    passed     40.09%
+ 690  A5DRR3_Lodderomyces               4.31%    passed     42.79%
+ 691  B9WKK1_Candida                    4.31%    passed     47.59%
+ 692  C4R014_Komagataella               2.39%    passed     17.81%
+ 693  C4Y757_Clavispora                 3.83%    passed     95.12%
+ 694  C4YNB1_Candida                    3.83%    passed     60.73%
+ 695  G8BBJ1_Candida                    5.26%    passed     96.40%
+ 696  G8YJN4_Millerozyma                3.83%    passed     10.48%
+ 697  H8WVI4_Candida                    4.78%    passed     81.19%
+ 698  K0KZ61_Wickerhamomyces            2.39%    passed     61.87%
+ 699  Q6BNW6_Debaryomyces               4.31%    passed     70.83%
+ 700  W1QFA7_Ogataea                    3.35%    passed     61.86%
+ 701  A0A060SM94_Trametes               1.44%    passed     99.99%
+ 702  A0A074S1G0_Rhizoctonia            0.48%    passed     69.20%
+ 703  A0A0D1DZD7_Mycosarcoma            0.96%    passed     98.94%
+ 704  A0A0K6G7K7_Rhizoctonia            2.39%    passed     99.32%
+ 705  A0A0L6V131_Puccinia               1.91%    passed     86.06%
+ 706  A0A0P1BIQ6_Ceraceosorus           1.44%    passed     98.73%
+ 707  A0A1B9FTK0_Kwoniella              1.91%    passed     93.61%
+ 708  A0A1B9HTQ2_Kwoniella              0.96%    passed     92.34%
+ 709  A0A1C7MA88_Grifola                0.96%    passed     97.73%
+ 710  A0A1E3HRY9_Cryptococcus           1.44%    passed     99.99%
+ 711  A0A1K0G3T0_Ustilago               0.96%    passed     95.62%
+ 712  A0A1M2VF04_Trametes               2.39%    passed     89.87%
+ 713  A0A1Q3EGR3_Lentinula              1.91%    passed     97.92%
+ 714  A0A238F8L5_Microbotryum           1.91%    passed     98.86%
+ 715  A0A284R575_Armillaria             2.87%    passed     98.21%
+ 716  A0A2R6NMH7_Hermanssonia           0.96%    passed     99.42%
+ 717  A0A2R6NTT4_Hermanssonia           1.44%    passed     99.99%
+ 718  A0A2S5BEQ4_Rhodotorula            0.48%    passed     99.96%
+ 719  A0A2X0KA56_Microbotryum           1.91%    passed     99.99%
+ 720  A0A2X0LW32_Microbotryum           1.91%    passed     99.96%
+ 721  A0A409W7F6_Gymnopilus             0.96%    passed     90.67%
+ 722  A0A4Q1BV97_Tremella               0.96%    passed     98.87%
+ 723  A0A4S4KLM9_Hermanssonia           1.44%    passed     99.97%
+ 724  A0A4S4LSC0_Bondarzewia            0.96%    passed     99.76%
+ 725  A0A4S4MT59_Antrodiella            0.96%    passed     99.32%
+ 726  A0A4T0FNF2_Wallemia               2.39%    passed     77.20%
+ 727  A0A4Y9YC71_Dentipellis            0.96%    passed     96.12%
+ 728  A0A4Y9YGX5_Dentipellis           12.44%    passed     97.20%
+ 729  A0A5B0N1Q3_Puccinia               1.91%    passed     77.74%
+ 730  A0A5C3E4B2_Ustilago               0.96%    passed     99.87%
+ 731  A0A5C3E832_Ustilago               1.44%    passed     99.90%
+ 732  A0A5C3FLB2_Moesziomyces           0.96%    passed     99.41%
+ 733  A0A5M6C3F7_Kwoniella              1.44%    passed     99.71%
+ 734  A0A5N5QIE1_Ceratobasidium         2.87%    passed     79.79%
+ 735  A0A5N5QIV7_Ceratobasidium         2.87%    passed     73.34%
+ 736  A0A5N5QSQ7_Ceratobasidium         2.39%    passed     99.95%
+ 737  A0A8H5D9L0_Leucocoprinus          2.87%    passed     96.52%
+ 738  A0A8H5FIS4_Ephemerocybe           1.91%    passed     98.83%
+ 739  A0A8H5H1J4_Tetrapyrgos            7.66%    passed     69.63%
+ 740  A0A8H5HHS9_Tricholomella          1.44%    passed     98.85%
+ 741  A0A8H5HYM6_Collybiopsis           1.91%    passed     76.74%
+ 742  A0A8H5LZH5_Tetrapyrgos            4.78%    passed     92.56%
+ 743  A0A8H5M8P6_Collybiopsis           3.83%    passed     97.72%
+ 744  A0A8H6X7X8_Mycena                 7.18%    passed     47.98%
+ 745  A0A8H7CZF7_Mycena                 0.96%    passed     84.90%
+ 746  A0A8X7NC76_Tilletia               1.44%    passed     91.87%
+ 747  A0A8X7SWK2_Tilletia               1.44%    passed     98.12%
+ 748  A0A9N8MAE1_Tilletia               1.44%    passed     98.12%
+ 749  A0A9P3G2I0_Phanerochaete          3.35%    passed     98.86%
+ 750  A0A9P3G4R7_Phanerochaete          3.83%    passed     98.30%
+ 751  A0A9P3G5D9_Phanerochaete          4.78%    passed     99.02%
+ 752  A0A9P3G9Z6_Phanerochaete          2.39%    passed     99.81%
+ 753  A0A9P3GEL8_Phanerochaete          0.96%    passed     99.12%
+ 754  A0A9P3UJ47_Lyophyllum             4.31%    passed     99.34%
+ 755  A0A9Q3CGN2_Austropuccinia         2.87%    passed     93.70%
+ 756  A0A9Q3DCC3_Austropuccinia         5.26%    passed     54.72%
+ 757  A0AA38HDX6_Dioszegia              1.44%    passed     85.82%
+ 758  A0AA48QVP0_Cutaneotrichosporon    0.96%    passed     99.34%
+ 759  A0AAD3TY69_Cutaneotrichosporon    0.96%    passed     98.67%
+ 760  A0AAD5VW10_Leucocoprinus         16.75%    passed     92.40%
+ 761  A0AAD7TST6_Trametes               0.96%    passed     93.24%
+ 762  A0AAD7TZE9_Trametes               2.39%    passed     67.46%
+ 763  A0AAF0Y8C4_Vanrija                1.91%    passed     99.06%
+ 764  A0AAJ4XLQ0_Melanopsichium         0.96%    passed     99.83%
+ 765  A0AAJ8KXR9_Kwoniella              1.91%    passed     72.65%
+ 766  A0AAW0BFE3_Favolaschia           16.27%    passed     96.22%
+ 767  A0AAW0E6V9_Favolaschia            1.91%    passed     92.07%
+ 768  A0AAW0YJW9_Kwoniella              1.44%    passed     97.46%
+ 769  A0AAX4K6B3_Kwoniella              0.96%    passed     92.46%
+ 770  A0AAX4K8N5_Kwoniella              1.91%    passed     86.29%
+ 771  A0AAX4KL96_Kwoniella              1.44%    passed     89.38%
+ 772  A0ABP1CKG3_Somion                 3.35%    passed     99.24%
+ 773  A0ABP1DQJ8_Somion                 0.96%    passed     98.77%
+ 774  A0ABP1E5U3_Somion                 1.91%    passed     99.92%
+ 775  A0ABP1E5U8_Somion                 1.91%    passed     99.92%
+ 776  A0ABP1E5X9_Somion                 1.91%    passed     99.92%
+ 777  A0ABR3BXI1_Cryptococcus           1.44%    passed     99.72%
+ 778  A0ABR3JDG0_Hohenbuehelia          1.44%    passed     99.74%
+ 779  A0ABR5B432_Cryptococcus           3.35%    passed     97.71%
+ 780  A0ABR5C231_Cryptococcus           1.44%    passed     99.64%
+ 781  A0ABY7D8X9_Puccinia               2.39%    passed     91.33%
+ 782  A0ABZ2AN38_Cryptococcus           1.44%    passed     99.79%
+ 783  A8N288_Coprinopsis                1.91%    passed     99.85%
+ 784  A8N8Y7_Coprinopsis                1.91%    passed     96.38%
+ 785  D6RJX6_Coprinopsis                5.74%    passed     75.46%
+ 786  E3LA34_Puccinia                   1.91%    passed     77.74%
+ 787  E6RE98_Cryptococcus               3.35%    passed     99.15%
+ 788  E7A0V7_Sporisorium                0.96%    passed     99.63%
+ 789  G4TC19_Serendipita                3.35%    passed     95.78%
+ 790  G4TCR9_Serendipita                2.87%    passed     98.94%
+ 791  G7DW85_Mixia                      2.39%    passed     96.22%
+ 792  J4G0H3_Fibroporia                 2.39%    passed     99.32%
+ 793  J9VZB8_Cryptococcus               1.44%    passed     99.96%
+ 794  J9W1Z3_Cryptococcus               3.83%    passed     99.77%
+ 795  M7X6D4_Rhodotorula                0.96%    passed     83.54%
+ 796  Q5KCW7_Cryptococcus               3.83%    passed     96.69%
+ 797  R7RYN2_Stereum                    0.96%    passed     86.61%
+ 798  R9NXM4_Pseudozyma                 0.96%    passed     96.54%
+ 799  V2Z1H8_Moniliophthora             0.48%    passed     99.95%
+ 800  W3VVA0_Moesziomyces               0.96%    passed     99.50%
+ 801  A0A060SCN9_Trametes               0.96%    passed     95.56%
+ 802  A0A067Q5M5_Jaapia                 1.44%    passed     99.98%
+ 803  A0A095CAP8_Cryptococcus           1.44%    passed     99.83%
+ 804  A0A0D7BMU1_Cylindrobasidium       1.91%    passed     96.46%
+ 805  A0A0F7RVL5_Sporisorium            0.96%    passed     98.65%
+ 806  A0A0K6G747_Rhizoctonia            1.91%    passed     84.08%
+ 807  A0A0L0V172_Puccinia               2.39%    passed     83.73%
+ 808  A0A177TH00_Tilletia               1.44%    passed     91.87%
+ 809  A0A177V7P0_Tilletia               1.44%    passed     98.12%
+ 810  A0A180GTA2_Puccinia               2.39%    passed     91.33%
+ 811  A0A1A5ZVX6_Kwoniella              0.96%    passed     89.41%
+ 812  A0A1B9GQY0_Kwoniella              1.44%    passed     96.39%
+ 813  A0A1B9GYC6_Kwoniella              1.44%    passed     99.34%
+ 814  A0A1B9IG44_Kwoniella              0.96%    passed     80.78%
+ 815  A0A1E3I3G1_Cryptococcus           1.91%    passed     97.43%
+ 816  A0A1E3JFJ4_Cryptococcus           1.91%    passed     93.31%
+ 817  A0A1J8Q9H0_Rhizopogon             9.57%    passed     93.37%
+ 818  A0A1M2VTG0_Trametes              11.48%    passed     99.82%
+ 819  A0A1M8AB69_Malassezia             1.44%    passed     91.80%
+ 820  A0A1Q3E1Z4_Lentinula              2.39%    passed     97.66%
+ 821  A0A284RQ68_Armillaria             1.91%    passed     58.42%
+ 822  A0A286UKZ0_Pyrrhoderma            1.91%    passed     83.17%
+ 823  A0A2S4URQ4_Puccinia               2.39%    passed     83.73%
+ 824  A0A369K4X4_Hypsizygus             3.83%    passed     92.22%
+ 825  A0A369KAK7_Hypsizygus             3.83%    passed     90.50%
+ 826  A0A3G2S9J2_Malassezia             1.44%    passed     67.34%
+ 827  A0A401G8C9_Sparassis              2.39%    passed     98.62%
+ 828  A0A401H636_Sparassis              0.96%    passed     94.79%
+ 829  A0A409VCH1_Gymnopilus             1.44%    passed     84.59%
+ 830  A0A409Y7J2_Panaeolus              1.44%    passed     85.79%
+ 831  A0A4Q2DRZ9_Candolleomyces         1.44%    passed     92.83%
+ 832  A0A4S4LHT0_Phellinidium           1.44%    passed     99.75%
+ 833  A0A4U7KPQ9_Sporisorium            0.96%    passed     96.06%
+ 834  A0A4V3XJE3_Antrodiella            0.96%    passed     99.93%
+ 835  A0A5B0N0I5_Puccinia               1.91%    passed     77.74%
+ 836  A0A5C3EV21_Pseudozyma             8.61%    passed     96.19%
+ 837  A0A5C3EZA1_Pseudozyma             2.39%    passed     78.22%
+ 838  A0A5D3AUK3_Cryptococcus           1.91%    passed     83.20%
+ 839  A0A5M6C8X0_Kwoniella              1.91%    passed     68.58%
+ 840  A0A8H4VJS1_Agrocybe               1.44%    passed     95.98%
+ 841  A0A8H5B4L3_Psilocybe              1.44%    passed     91.31%
+ 842  A0A8H5GCJ7_Leucocoprinus         16.75%    passed     97.39%
+ 843  A0A8H5HQ47_Collybiopsis           2.39%    passed     99.29%
+ 844  A0A8H6T2J5_Mycena                 1.44%    passed     98.68%
+ 845  A0A8H6WB99_Mycena                 1.44%    passed     99.07%
+ 846  A0A8H6WYH6_Mycena                 1.91%    passed     63.39%
+ 847  A0A8H6Z6T2_Mycena                 0.96%    passed     96.86%
+ 848  A0A9P3G3Y6_Phanerochaete          3.35%    passed     97.58%
+ 849  A0A9P3US95_Lyophyllum             1.44%    passed     95.27%
+ 850  A0A9Q5HZ83_Sanghuangporus         1.91%    passed     97.43%
+ 851  A0AAD2HQZ9_Mycena                 2.87%    passed     46.29%
+ 852  A0AAD2HTN7_Mycena                 3.35%    passed     90.48%
+ 853  A0AAD5VEU9_Meripilus              0.96%    passed     94.45%
+ 854  A0AAD5W3A8_Leucocoprinus          2.87%    passed     97.42%
+ 855  A0AAD5YMS7_Meripilus              2.87%    passed     99.46%
+ 856  A0AAD7TYJ6_Trametes               1.44%    passed     99.99%
+ 857  A0AAJ8M2S8_Cryptococcus           4.31%    passed     85.89%
+ 858  A0AAW0YQW8_Kwoniella              1.91%    passed     90.82%
+ 859  A0ABP1DQU6_Somion                 5.74%    passed     93.59%
+ 860  A0ABP1DT00_Somion                 0.96%    passed     98.77%
+ 861  A0ABQ0L4N8_Mycena                 1.44%    passed     87.32%
+ 862  A0ABQ0M0T4_Mycena                 1.44%    passed     98.68%
+ 863  A0ABR3BM64_Cryptococcus           3.35%    passed     98.12%
+ 864  A0ABR5BG99_Cryptococcus           1.44%    passed     99.72%
+ 865  A0ABR5BLN6_Cryptococcus           3.35%    passed     99.15%
+ 866  A0ABZ1DBQ0_Kwoniella              1.44%    passed     95.20%
+ 867  A0ABZ2B030_Cryptococcus           3.35%    passed     98.09%
+ 868  E6R3E7_Cryptococcus               1.44%    passed     99.64%
+ 869  G7DW84_Mixia                      2.39%    passed     96.22%
+ 870  I2G1B8_Ustilago                   0.96%    passed     97.41%
+ 871  J4I8G7_Fibroporia                 0.96%    passed     96.10%
+ 872  K1WDM8_Trichosporon               3.83%    passed     99.64%
+ 873  Q5KKJ1_Cryptococcus               1.44%    passed     99.99%
+ 874  R9AGB8_Wallemia                   2.39%    passed     60.48%
+ 875  U5H9L9_Microbotryum              15.79%    passed     99.46%
+ 876  V2XGD7_Moniliophthora             0.48%    passed     92.84%
+ 877  V5GHH8_Kalmanozyma                0.96%    passed     97.17%
+ 878  A0A0B7G341_Rhizoctonia            7.18%    passed     60.84%
+ 879  A0A0K6G754_Rhizoctonia            6.70%    passed     99.31%
+ 880  A0A0K6GA87_Rhizoctonia            1.91%    passed     81.46%
+ 881  A0A1Y2IYW8_Trametes               2.39%    passed     88.22%
+ 882  A0A284RAN9_Armillaria             3.35%    passed     99.87%
+ 883  A0A286UR16_Pyrrhoderma            3.35%    passed     95.81%
+ 884  A0A4S4LN17_Bondarzewia            3.83%    passed     90.67%
+ 885  A0A4S4MSG5_Antrodiella            4.31%    passed     99.89%
+ 886  A0A4Y9YSR9_Dentipellis            0.96%    passed     85.83%
+ 887  A0A8H5M0W8_Tricholomella          4.31%    passed     92.67%
+ 888  A0A8H6YXU7_Mycena                 3.35%    passed     99.89%
+ 889  A0A8H7DCL8_Mycena                 2.39%    passed     95.17%
+ 890  A0A9P8AFI1_Marasmius              0.96%    failed      3.78%
+ 891  A0A9P8AFL8_Marasmius              0.96%    failed      3.78%
+ 892  A0A9W8ML86_Candolleomyces         1.44%    passed     95.96%
+ 893  A0AAD5UZ43_Meripilus              1.44%    passed     99.99%
+ 894  A0ABP1CKG6_Somion                 2.39%    passed     74.14%
+ 895  A0ABP1CNA1_Somion                 2.39%    passed     74.14%
+ 896  A0ABP1CNE3_Somion                 2.39%    passed     74.14%
+ 897  A0ABQ0KXJ8_Mycena                 3.83%    passed     57.60%
+ 898  A0ACB7IKH0_Pleurotus              1.44%    passed     96.10%
+ 899  A0ACC1P622_Trametes              17.22%    passed     98.32%
+ 900  V2XWW7_Moniliophthora             4.31%    passed    100.00%
+ 901  I1BKX4_Rhizopus                   4.31%    passed     99.85%
+ 902  Q9H611_Homo                       6.22%    failed      0.27%
+ 903  A0A015N2M8_Rhizophagus            3.35%    passed     96.70%
+ 904  A0A0B7N3L9_Parasitella            3.83%    passed     95.10%
+ 905  A0A0B7NVF9_Parasitella            1.91%    passed      5.88%
+ 906  A0A0C9MZV3_Mucor                  4.78%    passed     70.85%
+ 907  A0A0L0HTH8_Spizellomyces          3.35%    passed     54.17%
+ 908  A0A168NJR9_Absidia                4.31%    passed     99.98%
+ 909  A0A1C7NKC8_Choanephora            4.31%    passed     98.21%
+ 910  A0A1C7NS85_Choanephora            4.31%    passed     61.21%
+ 911  A0A2Z6Q637_Rhizophagus            3.35%    passed     96.37%
+ 912  A0A507E7A0_Powellomyces           3.35%    passed     89.18%
+ 913  A0A507FMG7_Chytriomyces           2.87%    passed     94.08%
+ 914  A0A8H4A8B1_Gigaspora              1.44%    passed     86.16%
+ 915  A0A8H7Q426_Umbelopsis             3.83%    passed     93.05%
+ 916  A0A8H7QRS8_Mucor                  4.31%    passed     99.57%
+ 917  A0A8H7RPV3_Mucor                  1.91%    passed     21.13%
+ 918  A0A8H7S720_Circinella             4.31%    passed     94.19%
+ 919  A0A8H7V8V8_Mucor                  4.78%    passed     96.94%
+ 920  A0A9N8Z8P5_Diversispora           3.35%    passed     60.22%
+ 921  A0A9N8ZA40_Funneliformis          3.83%    passed     99.32%
+ 922  A0A9N8ZJ08_Ambispora              4.31%    passed     94.29%
+ 923  A0A9N9HM59_Dentiscutata           1.44%    passed     99.16%
+ 924  A0A9P3HAH0_Entomortierella       19.14%    passed     96.29%
+ 925  A0A9P3HF53_Entomortierella        3.35%    passed     44.84%
+ 926  A0A9P3HK37_Entomortierella        3.83%    passed     97.07%
+ 927  A0A9P3HK44_Entomortierella        3.35%    passed     71.95%
+ 928  A0A9P3HKJ7_Entomortierella        3.35%    passed     94.67%
+ 929  A0A9P6YYP4_Rhizopus               4.31%    passed     99.85%
+ 930  A0A9P7BV71_Rhizopus               4.31%    passed     96.72%
+ 931  A0A9W4WTA5_Funneliformis          3.83%    passed     93.55%
+ 932  A0AAD7XWI0_Lichtheimia            2.39%    passed     97.82%
+ 933  A0AAN7D3L5_Mucor                  4.78%    passed     81.85%
+ 934  A0AAN7D484_Mucor                  4.31%    failed      3.37%
+ 935  A0ABQ8ESF1_Batrachochytrium       7.18%    passed     85.36%
+ 936  A0A015KD19_Rhizophagus            4.78%    passed     29.48%
+ 937  A0A1M2VH00_Trametes               0.96%    passed     88.64%
+ 938  A0A1Q3E2E1_Lentinula              2.87%    passed     98.06%
+ 939  A0A261Y8L7_Bifiguratus            4.78%    passed     97.36%
+ 940  A0A8H5FHN3_Ephemerocybe           4.31%    passed     49.65%
+ 941  A0A8H7Q1B8_Umbelopsis             3.83%    passed     99.71%
+ 942  A0A9N9IT00_Cetraspora             1.44%    passed     69.06%
+ 943  A0A9P3UKB6_Lyophyllum             3.83%    passed     42.82%
+ 944  A0ACB7J0F3_Pleurotus              1.44%    passed     98.60%
+ 945  A0ACC1QDJ0_Trametes               2.87%    passed     89.49%
+ 946  A0ACC1T3Q8_Phlebia                1.91%    passed     99.67%
+ 947  A0ACC1T620_Phlebia                0.96%    passed     97.75%
+ 948  A8PUE9_Malassezia                 1.44%    passed     44.27%
+ 949  J4H1T8_Fibroporia                 2.87%    passed     60.99%
+ 950  A0A0C3AWH9_Serendipita            3.83%    passed     83.06%
+ 951  A0A0D7ANQ6_Fistulina              1.91%    passed     99.94%
+ 952  A0A0H2RNB9_Schizopora             1.91%    passed     90.09%
+ 953  A0A0H2S6Y4_Schizopora             4.31%    passed     60.95%
+ 954  A0A2A9NU72_Amanita                1.44%    passed     85.34%
+ 955  A0A4S8MSI0_Dendrothele            3.83%    passed     96.35%
+ 956  A0A9N9DSD6_Ambispora              4.78%    passed     79.23%
+ 957  A0ACA9NG08_Acaulospora            3.35%    passed     99.98%
+****  TOTAL                             1.65%  8 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: F2QT11_Komagataella is identical to C4R0P2_Komagataella but kept for subsequent analysis
+NOTE: B3LLJ4_Saccharomyces is identical to P07271_Saccharomyces but kept for subsequent analysis
+NOTE: H0GH54_Saccharomyces is identical to P38766_Saccharomyces but kept for subsequent analysis
+NOTE: A0A2T4GQX9_Fusarium is identical to A0A098E1Q1_Fusarium but kept for subsequent analysis
+NOTE: A0A0F8V674_Aspergillus is identical to A0A0F8UK25_Aspergillus but kept for subsequent analysis
+NOTE: K9GB17_Penicillium is identical to A0A0G4PIW6_Penicillium but kept for subsequent analysis
+NOTE: A0A166NVT2_Colletotrichum is identical to A0A166QWJ6_Colletotrichum but kept for subsequent analysis
+NOTE: A0A0D2H657_Fonsecaea is identical to A0A178CX55_Fonsecaea but kept for subsequent analysis
+NOTE: A0A022Y865_Trichophyton is identical to A0A178FD44_Trichophyton but kept for subsequent analysis
+NOTE: A0A4Q4P3R5_Alternaria is identical to A0A4Q4SNS4_Alternaria but kept for subsequent analysis
+NOTE: A0A484FKH5_Colletotrichum is identical to A0A4R8TC14_Colletotrichum but kept for subsequent analysis
+NOTE: A0A9P5F6D8_Colletotrichum is identical to A0A8H3WE31_Colletotrichum but kept for subsequent analysis
+NOTE: A0A8H5UR89_Fusarium is identical to A0A8H5T131_Fusarium but kept for subsequent analysis
+NOTE: A0ABZ2WRY7_Fusarium is identical to A0A9P7HAM0_Fusarium but kept for subsequent analysis
+NOTE: A0A1X7RKD9_Zymoseptoria is identical to A0A0F4GSW0_Zymoseptoria but kept for subsequent analysis
+NOTE: A0ABP2EZZ6_Blastomyces is identical to A0A179UY81_Blastomyces but kept for subsequent analysis
+NOTE: A0A1E1KSW3_Rhynchosporium is identical to A0A1E1KHD1_Rhynchosporium but kept for subsequent analysis
+NOTE: A0A8H5XTU0_Fusarium is identical to A0A1L7VNC0_Fusarium but kept for subsequent analysis
+NOTE: A0ABX8I4W3_Candidozyma is identical to A0A2V1A9H7_Candidozyma but kept for subsequent analysis
+NOTE: E3S321_Pyrenophora is identical to A0A2W1ERC3_Pyrenophora but kept for subsequent analysis
+NOTE: A0A4Z1EL52_Botrytis is identical to A0A384JQ16_Botrytis but kept for subsequent analysis
+NOTE: A0AAV9SU16_Colletotrichum is identical to A0A5Q4C7C0_Colletotrichum but kept for subsequent analysis
+NOTE: A0AAE1J0Y1_Trichoderma is identical to A0A8G0PM48_Trichoderma but kept for subsequent analysis
+NOTE: A0A8H5J614_Fusarium is identical to A0A8H5VWV3_Fusarium but kept for subsequent analysis
+NOTE: A0A8H6KXX6_Colletotrichum is identical to A0A8H6U8X2_Colletotrichum but kept for subsequent analysis
+NOTE: E9ETX6_Metarhizium is identical to A0A9P8M8W8_Metarhizium but kept for subsequent analysis
+NOTE: A0A9Q8SIE6_Colletotrichum is identical to A0A9P9XSS9_Colletotrichum but kept for subsequent analysis
+NOTE: A0AAD6E3Q9_Penicillium is identical to A0A9W9TVT2_Penicillium but kept for subsequent analysis
+NOTE: G4N540_Pyricularia is identical to A0ABQ8N742_Pyricularia but kept for subsequent analysis
+NOTE: A0ABR2XV60_Seiridium is identical to A0ABR2V6U6_Seiridium but kept for subsequent analysis
+NOTE: A0A9W8UIP0_Akanthomyces is identical to A0A168ISU5_Akanthomyces but kept for subsequent analysis
+NOTE: A0A0N0DEY4_Fusarium is identical to A0A395SEG8_Fusarium but kept for subsequent analysis
+NOTE: A0A4Z1H1E5_Botrytis is identical to A0A4Z1FQZ2_Botrytis but kept for subsequent analysis
+NOTE: A7EDF0_Sclerotinia is identical to A0A8H2ZM85_Sclerotinia but kept for subsequent analysis
+NOTE: A0A0A2KQC3_Penicillium is identical to A0AAI9TIH2_Penicillium but kept for subsequent analysis
+NOTE: A0AAI9XWQ1_Colletotrichum is identical to A0ABQ9SFB4_Colletotrichum but kept for subsequent analysis
+NOTE: A0ABR0H0U4_Podospora is identical to A0ABR0HK82_Podospora but kept for subsequent analysis
+NOTE: A0ABR1X8Q2_Apiospora is identical to A0ABR1PTT1_Apiospora but kept for subsequent analysis
+NOTE: A0A2V1AIT0_Candidozyma is identical to A0ABX8I2X5_Candidozyma but kept for subsequent analysis
+NOTE: D4DAK6_Trichophyton is identical to D4B4E8_Trichophyton but kept for subsequent analysis
+NOTE: F2S1K4_Trichophyton is identical to F2PR25_Trichophyton but kept for subsequent analysis
+NOTE: A0ABR0F5M0_Podospora is identical to A0A090CWN8_Podospora but kept for subsequent analysis
+NOTE: A0A9P4X3G5_Trichoderma is identical to A0A1T3CVP8_Trichoderma but kept for subsequent analysis
+NOTE: A0A0F8DHR2_Ceratocystis is identical to A0ABR4MDG3_Ceratocystis but kept for subsequent analysis
+NOTE: A0A8H5UMM3_Fusarium is identical to A0A8H5N1Z6_Fusarium but kept for subsequent analysis
+NOTE: A0A1F5LX58_Penicillium is identical to A0AAD6IDC6_Penicillium but kept for subsequent analysis
+NOTE: A0ABN8WPA3_Saccharomyces is identical to A0ABN8VEY2_Saccharomyces but kept for subsequent analysis
+NOTE: A0A8H4M5R7_Aspergillus is identical to A1DDJ4_Aspergillus but kept for subsequent analysis
+NOTE: A0A5C3FLB2_Moesziomyces is identical to A0A081CCF7_Moesziomyces but kept for subsequent analysis
+NOTE: A0A095CAP8_Cryptococcus is identical to A0A0D0VFI3_Cryptococcus but kept for subsequent analysis
+NOTE: A0A5B0N1Q3_Puccinia is identical to A0A5B0MRD7_Puccinia but kept for subsequent analysis
+NOTE: J6EEG6_Saccharomyces is identical to A0AA35JJF7_Saccharomyces but kept for subsequent analysis
+NOTE: C4R014_Komagataella is identical to A0A1G4KQ33_Komagataella but kept for subsequent analysis
+NOTE: A0A177TH00_Tilletia is identical to A0A8X7NC76_Tilletia but kept for subsequent analysis
+NOTE: A0A9N8MAE1_Tilletia is identical to A0A8X7SWK2_Tilletia but kept for subsequent analysis
+NOTE: A0ABP1DT00_Somion is identical to A0ABP1DQJ8_Somion but kept for subsequent analysis
+NOTE: A0ABP1E5U8_Somion is identical to A0ABP1E5U3_Somion but kept for subsequent analysis
+NOTE: A0ABR5BG99_Cryptococcus is identical to A0ABR3BXI1_Cryptococcus but kept for subsequent analysis
+NOTE: E6R3E7_Cryptococcus is identical to A0ABR5C231_Cryptococcus but kept for subsequent analysis
+NOTE: A0A180GTA2_Puccinia is identical to A0ABY7D8X9_Puccinia but kept for subsequent analysis
+NOTE: A0ABR5BLN6_Cryptococcus is identical to E6RE98_Cryptococcus but kept for subsequent analysis
+NOTE: G7DW84_Mixia is identical to G7DW85_Mixia but kept for subsequent analysis
+NOTE: A0A2S4URQ4_Puccinia is identical to A0A0L0V172_Puccinia but kept for subsequent analysis
+NOTE: A0ABQ0M0T4_Mycena is identical to A0A8H6T2J5_Mycena but kept for subsequent analysis
+NOTE: A0A9P8AFL8_Marasmius is identical to A0A9P8AFI1_Marasmius but kept for subsequent analysis
+NOTE: A0ABP1CNA1_Somion is identical to A0ABP1CKG6_Somion but kept for subsequent analysis
+NOTE: A0A9P6YYP4_Rhizopus is identical to I1BKX4_Rhizopus but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00262904 secs using 81.93% CPU
+Identifying sites to remove: done in 0.00142813 secs using 75.76% CPU
+NOTE: 40 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: H0GLS5_Saccharomyces (identical to P07271_Saccharomyces) is ignored but added at the end
+NOTE: A0AAN5Z088_Fusarium (identical to A0A098E1Q1_Fusarium) is ignored but added at the end
+NOTE: A0A177FGZ4_Fonsecaea (identical to A0A178CX55_Fonsecaea) is ignored but added at the end
+NOTE: A0A8H7B4D1_Alternaria (identical to A0A4Q4SNS4_Alternaria) is ignored but added at the end
+NOTE: A0A4R8QEN4_Colletotrichum (identical to A0A4R8TC14_Colletotrichum) is ignored but added at the end
+NOTE: A0A4V3HXL6_Colletotrichum (identical to A0A4R8TC14_Colletotrichum) is ignored but added at the end
+NOTE: A0AAD9AKZ3_Colletotrichum (identical to A0A8H3WE31_Colletotrichum) is ignored but added at the end
+NOTE: A0AAD9Y213_Colletotrichum (identical to A0A8H3WE31_Colletotrichum) is ignored but added at the end
+NOTE: L2G0F7_Colletotrichum (identical to A0A8H3WE31_Colletotrichum) is ignored but added at the end
+NOTE: A0A8H4CLQ5_Colletotrichum (identical to A0A8H3WE31_Colletotrichum) is ignored but added at the end
+NOTE: A0A9W4RWK1_Colletotrichum (identical to A0A8H3WE31_Colletotrichum) is ignored but added at the end
+NOTE: A0A2K0WHU4_Fusarium (identical to A0A8H5T131_Fusarium) is ignored but added at the end
+NOTE: A0A8H4NYZ8_Fusarium (identical to A0A8H5T131_Fusarium) is ignored but added at the end
+NOTE: A0A9P7IRT1_Fusarium (identical to A0A8H5T131_Fusarium) is ignored but added at the end
+NOTE: A0A8H5K2L9_Fusarium (identical to A0A8H5T131_Fusarium) is ignored but added at the end
+NOTE: A0A8H6DJK2_Fusarium (identical to A0A8H5T131_Fusarium) is ignored but added at the end
+NOTE: A0A1E1LUZ6_Rhynchosporium (identical to A0A1E1KHD1_Rhynchosporium) is ignored but added at the end
+NOTE: A0A1L7TYF3_Fusarium (identical to A0A1L7VNC0_Fusarium) is ignored but added at the end
+NOTE: S0E8T2_Fusarium (identical to A0A1L7VNC0_Fusarium) is ignored but added at the end
+NOTE: A0AAX4HXM9_Colletotrichum (identical to A0A5Q4C7C0_Colletotrichum) is ignored but added at the end
+NOTE: A0A1B7YNX9_Colletotrichum (identical to A0A5Q4C7C0_Colletotrichum) is ignored but added at the end
+NOTE: A0A8H6MX16_Colletotrichum (identical to A0A8H6U8X2_Colletotrichum) is ignored but added at the end
+NOTE: A0A0D9NSG7_Metarhizium (identical to A0A9P8M8W8_Metarhizium) is ignored but added at the end
+NOTE: A0A4Z1I5K8_Botryotinia (identical to A0A4Z1FQZ2_Botrytis) is ignored but added at the end
+NOTE: A0A4S8RIP6_Botrytis (identical to A0A4Z1FQZ2_Botrytis) is ignored but added at the end
+NOTE: A0A8H6EMB0_Botrytis (identical to A0A4Z1FQZ2_Botrytis) is ignored but added at the end
+NOTE: A0A1V6RMZ5_Penicillium (identical to A0AAI9TIH2_Penicillium) is ignored but added at the end
+NOTE: A0AAD6H8K2_Penicillium (identical to A0AAI9TIH2_Penicillium) is ignored but added at the end
+NOTE: A0ABQ9RPP9_Colletotrichum (identical to A0ABQ9SFB4_Colletotrichum) is ignored but added at the end
+NOTE: A0AAJ0E579_Colletotrichum (identical to A0ABQ9SFB4_Colletotrichum) is ignored but added at the end
+NOTE: A0ABQ9PW01_Colletotrichum (identical to A0ABQ9SFB4_Colletotrichum) is ignored but added at the end
+NOTE: A0ABR0G3Y6_Podospora (identical to A0A090CWN8_Podospora) is ignored but added at the end
+NOTE: A0A9P8KRB0_Trichoderma (identical to A0A1T3CVP8_Trichoderma) is ignored but added at the end
+NOTE: A0A9W9E386_Trichoderma (identical to A0A1T3CVP8_Trichoderma) is ignored but added at the end
+NOTE: A0AAN6BNB4_Aspergillus (identical to A1DDJ4_Aspergillus) is ignored but added at the end
+NOTE: E3LA34_Puccinia (identical to A0A5B0MRD7_Puccinia) is ignored but added at the end
+NOTE: A0A5B0N0I5_Puccinia (identical to A0A5B0MRD7_Puccinia) is ignored but added at the end
+NOTE: A0A177V7P0_Tilletia (identical to A0A8X7SWK2_Tilletia) is ignored but added at the end
+NOTE: A0ABP1E5X9_Somion (identical to A0ABP1E5U3_Somion) is ignored but added at the end
+NOTE: A0ABP1CNE3_Somion (identical to A0ABP1CKG6_Somion) is ignored but added at the end
+Alignment was printed to results/seq_tree/au_constrained.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/seq_tree/au_constrained.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.324 seconds
+
+NOTE: 130 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.292
+Init pinv, alpha: 0.008, 1.000 / Estimate: 0.072, 0.782 / LogL: -96116.292
+Init pinv, alpha: 0.016, 1.000 / Estimate: 0.072, 0.782 / LogL: -96116.293
+Init pinv, alpha: 0.024, 1.000 / Estimate: 0.072, 0.782 / LogL: -96116.293
+Init pinv, alpha: 0.032, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.293
+Init pinv, alpha: 0.040, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.294
+Init pinv, alpha: 0.048, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.294
+Init pinv, alpha: 0.056, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.295
+Init pinv, alpha: 0.064, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.295
+Init pinv, alpha: 0.072, 1.000 / Estimate: 0.072, 0.781 / LogL: -96116.296
+Optimal pinv,alpha: 0.072, 0.781 / LogL: -96116.292
+
+Parameters optimization took 38.986 sec
+Wrote distance file to... 
+BEST SCORE FOUND : -96116.292
+Total tree length: 146.785
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 76.350 sec (0h:1m:16s)
+Total wall-clock time used: 39.329 sec (0h:0m:39s)
+Reading trees in results/seq_tree/au_trees2.nwk ...
+
+2 trees detected
+Note: 8.283 MB of RAM required!
+Creating 10000 bootstrap replicates...
+done
+Tree 1 / LogL: -95220.662
+Tree 2 / LogL: -95363.445
+Performing RELL-BP test...
+Performing KH and SH test...
+Computing pairwise logl difference variance ...
+Performing WKH and WSH test...
+Performing ELW test...
+Performing approximately unbiased (AU) test...
+1 MB required for AU test
+Generating 10 x 10000 multiscale bootstrap replicates... 0.034 seconds
+TreeID	AU	RSS	d	c
+1	0.967	10.835	-1.814	0.027
+2	0.033	10.835	1.814	-0.027
+Time for AU test: 0.034 seconds
+Time for evaluating all trees: 3.603 sec.
+
+Analysis results written to: 
+  IQ-TREE report:                results/seq_tree/au_constrained.iqtree
+  Maximum-likelihood tree:       results/seq_tree/au_constrained.treefile
+  Evaluated user trees:          results/seq_tree/au_constrained.trees
+  Screen log file:               results/seq_tree/au_constrained.log
+
+Date and Time: Thu Jun 18 10:42:27 2026
