@@ -1,0 +1,8 @@
+#nexus
+begin sets;
+  charset AA = AA, 1-209;
+  charset TDi = 210-418;
+  charpartition mymodels =
+    LG+G4{0.682584}: AA{132.027},
+    /Users/spencergray/Desktop/pif1-foldtree/data/3di/3di_substmat.txt+G4{0.836773}: TDi{102.01};
+end;

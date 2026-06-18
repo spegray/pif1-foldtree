@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+  charset AA = 1-209;
+  charset TDi = 210-418;
+  charpartition pif1 = LG+G:AA, data/3di/3di_substmat.txt+G:TDi;
+end;
