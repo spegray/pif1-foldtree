@@ -160,11 +160,14 @@ is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage it
 **Approach — read the age off a published, fossil-calibrated time tree rather than re-estimate it.**
 The duplication maps to the Saccharomycotina stem, and the Y1000+ budding-yeast molecular clock
 (Shen et al. 2018, *Cell*; 332 genomes) already dates exactly this node:
-- **Point estimate ≈ 400 Mya** (Devonian) — the budding-yeast common ancestor (BYCA) age (Shen et al.
-  2018); the event is just crown-ward of it.
-- **Bracket:** lower = BYCA (~400 Mya); upper = the **Saccharomycotina–Pezizomycotina divergence**
-  (older; Ascomycota-wide clocks place major Ascomycota splits in the ~450–590 Mya range — read exact
-  node ages off Shen 2018 / Mende et al. 2021 *Sci Adv* at finalization).
+- **Direct placement (this study, `workflow/17_place_on_timetree.py`):** mapping the duplication's
+  species set onto Shen's calibrated tree puts its MRCA at a node subtending ~96% of budding yeasts
+  (317/330 tips, 54 of our species matched), dated **crown 326 Mya, stem 383 Mya** (tree root / BYCA
+  404 Mya). The duplication sits on that stem branch → **~330–383 Mya (Devonian–Carboniferous), in the
+  early Saccharomycotina crown, just crown-ward of the ~404-Mya budding-yeast common ancestor.** The
+  earliest-diverging budding yeasts fall outside the clade, consistent with their single-copy state.
+  This refines (and supersedes) the borrowed "~400 Mya" estimate with a direct read off the calibrated
+  phylogenomic tree.
 - **Independent sanity check:** ~3–4× older than the *Saccharomyces* **whole-genome duplication
   (~100 Mya**, a crown-Saccharomycetaceae event) — consistent with RRM3 occurring across budding yeasts
   *including* pre-WGD lineages (*Kluyveromyces*, *Lachancea*). The ordering (duplication ≫ WGD) is robust

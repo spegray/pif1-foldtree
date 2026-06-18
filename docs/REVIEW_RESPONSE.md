@@ -44,9 +44,17 @@ Searched PubMed and Consensus (≈200M papers; Semantic Scholar/Scopus/PubMed/ar
 **Verdict:** the bare claim "RRM3 is a budding-yeast paralog of an ancestral PIF1" is **not novel**
 (implicit in the reviews). A **rigorous, fungi-wide phylogenetic placement + reconciliation + dating**
 of that duplication was **not found** → that, plus the methods angle (B2/B3), is the defensible
-contribution. **Caveat: first-pass search.** Before claiming novelty in print, search the budding-yeast
-comparative-genomics literature (Y1000+/Shen 2018/Opulente gene-family analyses) for any explicit
-statement of RRM3's Saccharomycotina-restriction or duplication timing.
+contribution. **Y1000+ / comparative-genomics check (done):** the large budding-yeast
+gene-family-evolution studies that would have caught this target metabolic/signaling families, not
+PIF1 — histidine kinases across 82 Saccharomycotina (Hérivaux 2017,
+https://doi.org/10.1007/s00294-017-0797-1), sugar transporters across 332 (Crandall 2024,
+https://doi.org/10.1093/molbev/msae228), and the 993-genome / 14,785-gene-family scan of David 2025,
+which hunts gene-family expansions but only for metabolic traits (https://doi.org/10.1073/pnas.2500165122).
+None analyze the PIF1/RRM3 helicases; functional reviews (e.g. Muellner 2020) restate only the qualitative
+paralogy. **Conclusion: no published study places or dates the PIF1/RRM3 duplication** → the dated
+phylogenetic placement + the structural method are the contribution. Residual diligence before submission:
+a full-text/supplement scan of the Y1000+ orthogroup tables (RRM3 is surely *present* there, just never
+analyzed) and a Google Scholar sweep.
 
 ### B2 — Topology tests: does the amino-acid data reject the structural answer? (M2/M3)
 Files: `results/seq_tree/au_test.*` (confounded whole-tree), `results/seq_tree/au_constrained.*` (clean);
@@ -101,7 +109,13 @@ report the n.s. model-free anchor test alongside the significant clade test for 
 ---
 
 ## D. Open items NOT addressed this round (prioritized)
-1. **M5 — substitute the published Y1000+/Li species tree** for reconciliation (currently NCBI taxonomy).
+1. **M5 — substitute the published phylogenomic species tree.** *Largely addressed* (`workflow/17`):
+   mapping the duplication's species set onto the Shen et al. 2018 time-calibrated Y1000+ tree
+   (`data/species_tree/shen2018_timetree.newick`) places it on a node subtending ~96% of budding
+   yeasts (317/330 tips) dated **~330–383 Mya** — so the Saccharomycotina placement is *robust to the
+   phylogenomic backbone*, not an artifact of NCBI's arbitrary polytomy resolution, and the date is now
+   read directly off a calibrated tree. *Remaining:* a full GeneRax DL reconciliation against a grafted
+   broad-fungi + Shen tree (for the per-branch loss pattern) — needs the Windows box (GeneRax/Rosetta).
 2. **M3/M6 robustness:** bootstrap stability of the AA+3Di topology; an alternative 3Di model
    (Q.3Di.AF) for concordance; a pLDDT-filtered and predictor-balanced (AFDB vs ColabFold) rerun.
 3. **M4 — articulate AA/3Di non-independence** and why the partition is still informative (cite FoldTree).

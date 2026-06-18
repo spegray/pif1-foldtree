@@ -1043,3 +1043,13 @@ Estimate model parameters (epsilon = 0.100)
 BETTER TREE FOUND at iteration 67: -95304.361
 Iteration 70 / LogL: -95353.974 / Time: 0h:16m:53s (0h:23m:17s left)
 Iteration 80 / LogL: -95335.053 / Time: 0h:18m:20s (0h:19m:50s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 87: -95301.052
+Iteration 90 / LogL: -95315.266 / Time: 0h:20m:55s (0h:22m:26s left)
+Iteration 100 / LogL: -95364.974 / Time: 0h:38m:34s (0h:33m:36s left)
+Iteration 110 / LogL: -95355.108 / Time: 0h:40m:53s (0h:28m:39s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 116: -95296.671
+Iteration 120 / LogL: -95339.266 / Time: 0h:43m:8s (0h:34m:32s left)
+Iteration 130 / LogL: -95319.889 / Time: 0h:45m:14s (0h:29m:57s left)
+Iteration 140 / LogL: -95309.699 / Time: 0h:47m:16s (0h:25m:40s left)
