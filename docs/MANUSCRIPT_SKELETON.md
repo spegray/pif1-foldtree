@@ -10,19 +10,46 @@ Intro, Discussion) are stubs — draft those in Spencer's voice at finalization.
 *When did PIF1 and RRM3 split? Structural phylogenetics places the budding-yeast PIF1-family
 duplication at the origin of Saccharomycotina.*
 
-## Abstract — [STUB]
-One paragraph: the question; that amino-acid phylogenetics alone cannot resolve the deep node; that
-adding the 3Di structural alphabet resolves it; the answer (Saccharomycotina); the independent
-mushroom duplication; (absolute date `[PENDING]`).
+## Abstract — [DRAFT, Spencer's voice]
+The budding yeast *Saccharomyces cerevisiae* carries two PIF1-family 5′→3′ DNA helicases, Pif1 and
+Rrm3, with separable roles at telomeres, the rDNA, and stalled replication forks. When the single
+ancestral fungal PIF1 gene duplicated to produce this pair has stayed unsettled, largely because the
+part of the protein that can be aligned across the family, the helicase core, is short and fast-evolving,
+and at the depth where the answer lies the amino-acid signal has saturated. We gathered the cellular
+PIF1-family helicases of 728 fungal species (957 proteins; an Ascomycota-wide ingroup with
+Basidiomycota, early-diverging fungi, and human PIF1 as outgroups), inferred a gene tree, and
+reconciled it against a fungal species tree to locate the duplication. Amino-acid trees left the
+duplication node unresolved, collapsing it to the base of Fungi; adding the 3Di structural alphabet to
+the same alignment resolved it onto the stem of Saccharomycotina. Maximum-likelihood reconciliation
+(GeneRax) confirms that placement, which dates the Pif1/Rrm3 split to the budding-yeast common ancestor
+(~400 Mya, Devonian), well before the *Saccharomyces* whole-genome duplication. We further find that
+Rrm3 is the more-derived of the two paralogs, and that the recurrent two-copy state among mushrooms is
+an independent duplication rather than shared ancestry with the yeast pair. The result is a concrete
+case where structural information recovers a deep relationship that sequence alone cannot.
 
-## Introduction — [STUB]
-- PIF1-family 5′→3′ DNA helicases; *S. cerevisiae* has two paralogs, **Pif1** (mito + nuclear) and
-  **Rrm3**, with distinct roles at telomeres/rDNA/replication-fork barriers.
-- The evolutionary question: one ancestral fungal PIF1 → when/where did the PIF1+RRM3 pair arise?
-- Why this is hard: a short, fast-evolving helicase core saturates at the relevant depth → classical
-  sequence trees lose the signal. Motivates **structural phylogenetics** (Moi et al. 2025) — fold is
-  conserved past sequence saturation.
-- State the contribution: a fungi-wide, structure-aware gene tree + species-tree reconciliation.
+## Introduction — [DRAFT, Spencer's voice]
+The PIF1-family helicases are conserved 5′→3′ DNA helicases that act wherever the replication fork
+meets trouble. In *Saccharomyces cerevisiae* the family has two members, Pif1 and Rrm3, and they have
+divided the labor: Pif1 maintains the mitochondrial genome, unwinds G-quadruplexes, and negatively
+regulates telomerase, while Rrm3 clears protein barriers ahead of the fork at the rDNA, the tRNA genes,
+and other hard-to-replicate sites. Both descend from a single ancestral fungal PIF1, but where on the
+fungal tree that ancestor duplicated has not been pinned down.
+
+The question is harder than it looks. The region of these proteins that can be aligned across the whole
+family is the helicase core, a few hundred residues that evolve quickly; over the distances that
+separate the major fungal lineages the amino-acid signal in that core saturates, and a sequence tree
+can no longer tell which arrangement of the deep branches is real. This is the regime where protein
+structure helps: a fold is conserved long after the sequence that specifies it has been overwritten, so
+a tree built from structural features can recover relationships that have gone dark at the sequence
+level (Moi et al. 2025). The Pif1/Rrm3 split sits at exactly this awkward depth, which made it a good
+candidate for a structure-aware approach.
+
+Here we sample the cellular PIF1-family helicases across the fungi (957 proteins from 728 species, with
+human and early-diverging-fungal outgroups), build the gene tree three ways (from sequence, from
+structure, and from the two combined), and reconcile it against a fungal species tree to read off the
+branch on which the duplication occurred. Sequence and structure disagree, and the disagreement is
+itself informative: it points to a single, datable event. The duplication that produced Pif1 and Rrm3
+is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage itself.
 
 ---
 
@@ -159,11 +186,44 @@ The duplication maps to the Saccharomycotina stem, and the Y1000+ budding-yeast 
 - **S3** Per-metric structural trees (fident / alntmscore / lddt) + support values.
 - **S4** Sequence-vs-structure concordance.
 
-## Discussion — [STUB]
-- Why structure succeeded where sequence failed (saturation; the 3Di information gain — 194 vs 180 sites).
-- Biological reading: PIF1/RRM3 as a Saccharomycotina innovation; relation to the whole-genome-duplication era `[after dating]`.
-- Independent recruitment of a second PIF1 in mushrooms — convergence.
-- Limitations: gene-tree error at depth; NCBI vs phylogenomic backbone; distance-tree noise in FoldTree.
+## Discussion — [DRAFT, Spencer's voice]
+The practical lesson here is narrow but clean: for this duplication the amino-acid core had simply run
+out of signal, and better modeling did not recover it (a profile-mixture model fit on the same 209
+columns left the node exactly where the plain model did). What moved the node was information of a
+different kind. The 3Di structural alphabet carried more resolving power than the amino-acid core over
+the same sites (194 versus 180 parsimony-informative positions), and folding that signal into the tree
+pulled the Pif1/Rrm3 ancestor from the base of Fungi down onto the Saccharomycotina stem.
+
+Placed in time, the duplication is old. Mapping the Saccharomycotina stem onto the calibrated Y1000+
+time tree (Shen et al. 2018) puts the split near the budding-yeast common ancestor, on the order of 400
+million years ago. That timing matters for how the pair is usually explained: the *Saccharomyces*
+whole-genome duplication, the first event people tend to reach for when accounting for yeast gene pairs,
+is roughly four times younger and cannot have produced Pif1 and Rrm3. Rrm3 is present across the budding
+yeasts, including lineages (*Kluyveromyces*, *Lachancea*) that diverged well before the whole-genome
+duplication, exactly as a Saccharomycotina-ancestral origin predicts.
+
+The two paralogs are also not interchangeable copies of the ancestral gene. Single-copy PIF1s outside
+Saccharomycotina are co-orthologs of both by descent, yet they sit consistently closer to Pif1 than to
+Rrm3 in sequence (442 of 536 such proteins, *Schizosaccharomyces pombe* Pfh1 among them), which we read
+as Pif1 retaining more of the ancestral character while Rrm3 took on the faster-evolving, more-derived
+role. Whether that asymmetry tracks the functional specialization of the two helicases is a question
+this tree cannot answer, but it is a natural one to ask next.
+
+Copy number is a poor guide to history. Many mushrooms (Agaricomycetes) also carry two PIF1-family
+genes, and on counts alone that resembles the budding-yeast situation; the gene tree shows it is a
+separate, later duplication. Convergent gene duplication of this kind is easy to mistake for shared
+ancestry, and telling the two apart is precisely what a reconciliation, rather than a tally, is built
+to do.
+
+Two caveats temper the confidence and mark the work's edges. First, the duplication node is well
+supported by the SH-aLRT test but weak under bootstrap resampling (UFBoot 29), as expected for a deep
+node resting on saturated sequence; the result leans on reconciliation, which tolerates that gene-tree
+uncertainty, more than on any single branch's bootstrap value. Second, the early-diverging budding
+yeasts are thinly sampled here, so while the duplication maps cleanly to the Saccharomycotina stem,
+whether it falls just before or just after the subphylum's first split is not yet settled; denser
+sampling of the Lipomycetales and their relatives, with the published phylogenomic backbone in place of
+the NCBI topology, would tighten that. Neither caveat unseats the central result, and both read as the
+next steps rather than reasons for doubt.
 
 ## Data and code availability
 - Repo (scripts `01`–`14`, manifest, trees, alignments): github.com/spegray/pif1-foldtree.
