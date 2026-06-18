@@ -1,32 +1,38 @@
-<svg width="680" viewBox="0 0 680 330" role="img" xmlns="http://www.w3.org/2000/svg"><title>Amino acids alone place the PIF1/RRM3 duplication at the base of Fungi; adding the 3Di structural alphabet moves it into Saccharomycotina</title><desc>Two schematic gene trees. Left, amino acids alone: Pif1 branches off deep, so the duplication node maps to Fungi. Right, amino acids plus 3Di structure: Pif1 and Rrm3 are sisters within Saccharomycotina, so the duplication node maps to Saccharomycotina.</desc>
+<svg width="680" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg"><title>The same taxa, two topologies: amino acids alone split the two Saccharomycotina copies so the duplication node sits at the base of Fungi; adding 3Di structure unites them so the node sits within Saccharomycotina</title><desc>Two schematic gene trees over the same leaves, with the Saccharomycotina Pif1 and Rrm3 copies colored teal and other fungi gray. Left, amino acids alone: the two teal copies are separated, Pif1 branching deep and Rrm3 nested among other fungi, so the coral duplication node sits at the base. Right, amino acids plus 3Di: the two teal copies form one clade, so the coral duplication node sits shallow, within Saccharomycotina.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
 <style>
 .t{font-family:sans-serif;font-size:14px;fill:#2C2C2A}
 .ts{font-family:sans-serif;font-size:12px;fill:#5F5E5A}
 .th{font-family:sans-serif;font-size:14px;font-weight:500;fill:#2C2C2A}
-.dup{fill:#FAECE7;stroke:#993C1D;stroke-width:1.5}
+.br{fill:none;stroke:#888780;stroke-width:1.5;stroke-linecap:round}
+.dup{fill:#F0997B;stroke:#993C1D;stroke-width:1.5}
+.teal{fill:#9FE1CB;stroke:#0F6E56;stroke-width:1}
+.gray{fill:#D3D1C7;stroke:#5F5E5A;stroke-width:1}
 .pgray{fill:#F1EFE8;stroke:#5F5E5A;stroke-width:1}
 .pteal{fill:#E1F5EE;stroke:#0F6E56;stroke-width:1}
-.br{fill:none;stroke:#888780;stroke-width:1.5;stroke-linecap:round}
 </style>
-<text class="th" x="50" y="40">Amino acids alone</text>
-<text class="th" x="372" y="40">Amino acids + 3Di structure</text>
-<line x1="350" y1="60" x2="350" y2="240" stroke="#B4B2A9" stroke-width="0.5"/>
+<text class="th" x="50" y="38">Amino acids alone</text>
+<text class="th" x="372" y="38">Amino acids + 3Di structure</text>
+<line x1="312" y1="150" x2="352" y2="150" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text class="ts" x="332" y="142" text-anchor="middle">+ 3Di</text>
 <g class="br">
-<line x1="62" y1="150" x2="90" y2="150"/><line x1="90" y1="110" x2="90" y2="190"/><line x1="90" y1="110" x2="215" y2="110"/><line x1="90" y1="190" x2="150" y2="190"/><line x1="150" y1="165" x2="150" y2="215"/><line x1="150" y1="165" x2="215" y2="165"/><line x1="150" y1="215" x2="215" y2="215"/>
+<line x1="60" y1="150" x2="90" y2="150"/><line x1="90" y1="110" x2="90" y2="190"/><line x1="90" y1="110" x2="196" y2="110"/><line x1="90" y1="190" x2="150" y2="190"/><line x1="150" y1="165" x2="150" y2="215"/><line x1="150" y1="165" x2="196" y2="165"/><line x1="150" y1="215" x2="196" y2="215"/>
 </g>
-<circle class="dup" cx="90" cy="150" r="6"/>
-<text class="t" x="221" y="114">Pif1 (Sc)</text>
-<text class="t" x="221" y="169">rest of fungi</text>
-<text class="t" x="221" y="219">Rrm3 (Sc)</text>
+<circle class="dup" cx="90" cy="150" r="7"/>
+<circle class="teal" cx="200" cy="110" r="5"/><circle class="gray" cx="200" cy="165" r="5"/><circle class="teal" cx="200" cy="215" r="5"/>
+<text class="t" x="210" y="114">Pif1 (Sc)</text>
+<text class="t" x="210" y="169">other fungi</text>
+<text class="t" x="210" y="219">Rrm3 (Sc)</text>
 <g class="br">
-<line x1="372" y1="155" x2="400" y2="155"/><line x1="400" y1="110" x2="400" y2="200"/><line x1="400" y1="110" x2="560" y2="110"/><line x1="400" y1="200" x2="470" y2="200"/><line x1="470" y1="185" x2="470" y2="215"/><line x1="470" y1="185" x2="560" y2="185"/><line x1="470" y1="215" x2="560" y2="215"/>
+<line x1="372" y1="155" x2="400" y2="155"/><line x1="400" y1="110" x2="400" y2="200"/><line x1="400" y1="110" x2="540" y2="110"/><line x1="400" y1="200" x2="470" y2="200"/><line x1="470" y1="185" x2="470" y2="220"/><line x1="470" y1="185" x2="540" y2="185"/><line x1="470" y1="220" x2="540" y2="220"/>
 </g>
-<circle class="dup" cx="470" cy="200" r="6"/>
-<text class="t" x="566" y="114">rest of fungi</text>
-<text class="t" x="566" y="189">Pif1 (Sc)</text>
-<text class="t" x="566" y="219">Rrm3 (Sc)</text>
-<rect class="pgray" x="78" y="255" width="150" height="30" rx="6"/><text class="th" x="153" y="274" text-anchor="middle">maps to: Fungi</text>
-<rect class="pteal" x="396" y="255" width="232" height="30" rx="6"/><text class="th" x="512" y="274" text-anchor="middle" fill="#04342C">maps to: Saccharomycotina</text>
-<circle class="dup" cx="250" cy="307" r="5"/>
-<text class="ts" x="262" y="311">= PIF1/RRM3 duplication node</text>
+<circle class="dup" cx="470" cy="200" r="7"/>
+<circle class="gray" cx="544" cy="110" r="5"/><circle class="teal" cx="544" cy="185" r="5"/><circle class="teal" cx="544" cy="220" r="5"/>
+<text class="t" x="554" y="114">other fungi</text>
+<text class="t" x="554" y="189">Pif1 (Sc)</text>
+<text class="t" x="554" y="224">Rrm3 (Sc)</text>
+<rect class="pgray" x="78" y="250" width="150" height="30" rx="6"/><text class="th" x="153" y="269" text-anchor="middle">maps to: Fungi</text>
+<rect class="pteal" x="400" y="250" width="232" height="30" rx="6"/><text class="th" x="516" y="269" text-anchor="middle" fill="#04342C">maps to: Saccharomycotina</text>
+<circle class="teal" cx="70" cy="300" r="5"/><text class="ts" x="80" y="304">Saccharomycotina copies (Pif1, Rrm3)</text>
+<circle class="dup" cx="420" cy="300" r="5"/><text class="ts" x="430" y="304">duplication node</text>
 </svg>
