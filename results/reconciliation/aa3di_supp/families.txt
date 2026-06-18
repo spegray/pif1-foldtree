@@ -1,0 +1,6 @@
+[FAMILIES]
+- pif1
+starting_gene_tree = results/reconciliation/aa3di_supp/genetree.pruned.nwk
+alignment = results/reconciliation/aa3di_supp/aln.pruned.fasta
+mapping = data/species_tree/gene_species.map
+subst_model = LG+G
