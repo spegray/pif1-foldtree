@@ -1,0 +1,958 @@
+batch,order,job_name,accession,construct,range,full_len,model_len,n_subst,group,organism
+1,0,pif1_P07271,P07271,full,1-859,859,859,0,ascomycota,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+1,1,pif1_P38766,P38766,full,1-723,723,723,0,ascomycota,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)
+1,2,pif1_Q9UUA2,Q9UUA2,full,1-805,805,805,0,ascomycota,Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)
+1,3,pif1_Q9H611,Q9H611,full,1-641,641,641,0,human,Homo sapiens (Human)
+1,4,pif1_A0A010SLY8,A0A010SLY8,full,1-921,921,921,0,ascomycota,Colletotrichum fioriniae PJ7
+1,5,pif1_A0A060SCN9,A0A060SCN9,full,1-533,533,533,0,basidiomycota,Pycnoporus cinnabarinus (Cinnabar-red polypore) (Trametes cinnabarina)
+1,6,pif1_A0A0L0HTH8,A0A0L0HTH8,full,1-642,642,642,0,chytridiomycota,Spizellomyces punctatus (strain DAOM BR117)
+1,7,pif1_A0A015KD19,A0A015KD19,full,1-492,492,492,0,mucoromycota,Rhizophagus irregularis (strain DAOM 197198w) (Glomus intraradices)
+1,8,pif1_A0A022Y865,A0A022Y865,full,1-780,780,780,0,ascomycota,Trichophyton soudanense CBS 452.61
+1,9,pif1_A0A060SM94,A0A060SM94,full,1-612,612,612,0,basidiomycota,Pycnoporus cinnabarinus (Cinnabar-red polypore) (Trametes cinnabarina)
+1,10,pif1_A0A507E7A0,A0A507E7A0,full,1-674,674,674,0,chytridiomycota,Powellomyces hirtus
+1,11,pif1_A0A015N2M8,A0A015N2M8,full,1-656,656,656,0,mucoromycota,Rhizophagus irregularis (strain DAOM 197198w) (Glomus intraradices)
+1,12,pif1_A0A066XBE3,A0A066XBE3,full,1-844,844,844,0,ascomycota,Colletotrichum sublineola (Sorghum anthracnose fungus)
+1,13,pif1_A0A067Q5M5,A0A067Q5M5,full,1-644,644,644,0,basidiomycota,Jaapia argillacea MUCL 33604
+1,14,pif1_A0A507FMG7,A0A507FMG7,full,1-672,672,672,0,chytridiomycota,Chytriomyces confervae
+1,15,pif1_A0A0B7N3L9,A0A0B7N3L9,full,1-741,741,741,0,mucoromycota,Parasitella parasitica
+1,16,pif1_A0A084APH7,A0A084APH7,full,1-805,805,805,0,ascomycota,Stachybotrys chartarum (strain CBS 109288 / IBT 7711) (Toxic black mold) (Stilbospora chartarum)
+1,17,pif1_A0A074S1G0,A0A074S1G0,full,1-839,839,839,0,basidiomycota,Rhizoctonia solani 123E
+1,18,pif1_A0ABQ8ESF1,A0ABQ8ESF1,full,1-778,778,778,0,chytridiomycota,Batrachochytrium salamandrivorans
+1,19,pif1_A0A0B7NVF9,A0A0B7NVF9,full,1-635,635,635,0,mucoromycota,Parasitella parasitica
+1,20,pif1_A0A084GDF4,A0A084GDF4,full,1-1901,1901,1901,0,ascomycota,Pseudallescheria apiosperma (Scedosporium apiospermum)
+1,21,pif1_A0A074S981,A0A074S981,full,1-634,634,634,0,basidiomycota,Rhizoctonia solani 123E
+1,22,pif1_A0A0C9MZV3,A0A0C9MZV3,full,1-755,755,755,0,mucoromycota,Mucor ambiguus
+1,23,pif1_A0A084QU30,A0A084QU30,full,1-806,806,806,0,ascomycota,Stachybotrys chlorohalonatus (strain IBT 40285)
+1,24,pif1_A0A081CCF7,A0A081CCF7,full,1-793,793,793,0,basidiomycota,Moesziomyces antarcticus (Yeast) (Pseudozyma antarctica)
+1,25,pif1_A0A168NJR9,A0A168NJR9,full,1-666,666,666,0,mucoromycota,Absidia glauca (Pin mould)
+1,26,pif1_A0A086SVX6,A0A086SVX6,full,1-792,792,792,0,ascomycota,Hapsidospora chrysogenum (strain ATCC 11550 / CBS 779.69 / DSM 880 / IAM 14645 / JCM 23072 / IMI 49137) (Acremonium chrysogenum)
+1,27,pif1_A0A095CAP8,A0A095CAP8,full,1-669,669,669,0,basidiomycota,Cryptococcus deuterogattii (strain R265) (Cryptococcus gattii VGII (strain R265))
+1,28,pif1_A0A1C7NKC8,A0A1C7NKC8,full,1-732,732,732,0,mucoromycota,Choanephora cucurbitarum
+1,29,pif1_A0A090CWN8,A0A090CWN8,full,1-835,835,835,0,ascomycota,Podospora anserina (strain S / ATCC MYA-4624 / DSM 980 / FGSC 10383) (Pleurage anserina)
+1,30,pif1_A0A0B7FZH9,A0A0B7FZH9,full,1-623,623,623,0,basidiomycota,Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)
+1,31,pif1_A0A1C7NS85,A0A1C7NS85,full,1-520,520,520,0,mucoromycota,Choanephora cucurbitarum
+1,32,pif1_A0A098E1Q1,A0A098E1Q1,full,1-872,872,872,0,ascomycota,Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1) (Wheat head blight fungus) (Fusarium graminearum)
+1,33,pif1_A0A0B7G341,A0A0B7G341,full,1-640,640,640,0,basidiomycota,Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)
+1,34,pif1_A0A261Y8L7,A0A261Y8L7,full,1-1204,1204,1204,0,mucoromycota,Bifiguratus adelaidae
+1,35,pif1_A0A0A1TS53,A0A0A1TS53,full,1-844,844,844,0,ascomycota,[Torrubiella] hemipterigena
+1,36,pif1_A0A0B7G372,A0A0B7G372,full,1-809,809,809,0,basidiomycota,Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce bottom rot fungus) (Rhizoctonia solani)
+1,37,pif1_A0A2Z6Q637,A0A2Z6Q637,full,1-648,648,648,0,mucoromycota,Rhizophagus clarus
+1,38,pif1_A0A0A2KKZ8,A0A0A2KKZ8,full,1-720,720,720,0,ascomycota,Penicillium italicum (Blue mold)
+1,39,pif1_A0A0C3AWH9,A0A0C3AWH9,full,1-566,566,566,0,basidiomycota,Serendipita vermifera MAFF 305830
+1,40,pif1_A0A8H4A8B1,A0A8H4A8B1,full,1-643,643,643,0,mucoromycota,Gigaspora margarita
+1,41,pif1_A0A0A2KQC3,A0A0A2KQC3,full,1-720,720,720,0,ascomycota,Penicillium expansum (Blue mold rot fungus)
+1,42,pif1_A0A0D0VFI3,A0A0D0VFI3,full,1-669,669,669,0,basidiomycota,Cryptococcus deuterogattii Ram5
+1,43,pif1_A0A8H7Q1B8,A0A8H7Q1B8,full,1-545,545,545,0,mucoromycota,Mortierella isabellina (Filamentous fungus) (Umbelopsis isabellina)
+1,44,pif1_A0A0A8L254,A0A0A8L254,full,1-823,823,823,0,ascomycota,Kluyveromyces dobzhanskii CBS 2104
+1,45,pif1_A0A0D1DZD7,A0A0D1DZD7,full,1-706,706,706,0,basidiomycota,Mycosarcoma maydis (Corn smut fungus) (Ustilago maydis)
+1,46,pif1_A0A8H7Q426,A0A8H7Q426,full,1-717,717,717,0,mucoromycota,Umbelopsis vinacea
+1,47,pif1_A0A0A8L495,A0A0A8L495,full,1-711,711,711,0,ascomycota,Kluyveromyces dobzhanskii CBS 2104
+1,48,pif1_A0A0D6ENE9,A0A0D6ENE9,full,1-733,733,733,0,basidiomycota,Sporidiobolus salmonicolor (Yeast-like fungus) (Sporobolomyces salmonicolor)
+1,49,pif1_A0A8H7QRS8,A0A8H7QRS8,full,1-741,741,741,0,mucoromycota,Mucor plumbeus
+1,50,pif1_A0A0B1PEI0,A0A0B1PEI0,full,1-842,842,842,0,ascomycota,Erysiphe necator (Grape powdery mildew) (Uncinula necator)
+1,51,pif1_A0A0D7ANQ6,A0A0D7ANQ6,full,1-468,468,468,0,basidiomycota,Fistulina hepatica ATCC 64428
+1,52,pif1_A0A8H7RPV3,A0A8H7RPV3,full,1-629,629,629,0,mucoromycota,Mucor plumbeus
+1,53,pif1_A0A0B2X4N9,A0A0B2X4N9,full,1-803,803,803,0,ascomycota,Metarhizium album (strain ARSEF 1941)
+1,54,pif1_A0A0D7BMU1,A0A0D7BMU1,full,1-587,587,587,0,basidiomycota,Cylindrobasidium torrendii FP15055 ss-10
+1,55,pif1_A0A8H7S720,A0A8H7S720,full,1-783,783,783,0,mucoromycota,Circinella minor
+1,56,pif1_A0A0B4FVA9,A0A0B4FVA9,full,1-856,856,856,0,ascomycota,Metarhizium anisopliae (strain ARSEF 549)
+1,57,pif1_A0A0F7RVL5,A0A0F7RVL5,full,1-733,733,733,0,basidiomycota,Sporisorium scitamineum
+1,58,pif1_A0A8H7V8V8,A0A8H7V8V8,full,1-1989,1989,1989,0,mucoromycota,Mucor saturninus
+1,59,pif1_A0A0C4EG66,A0A0C4EG66,full,1-890,890,890,0,ascomycota,Magnaporthiopsis poae (strain ATCC 64411 / 73-15) (Kentucky bluegrass fungus) (Magnaporthe poae)
+1,60,pif1_A0A0H2RNB9,A0A0H2RNB9,full,1-424,424,424,0,basidiomycota,Schizopora paradoxa
+1,61,pif1_A0A9N8Z8P5,A0A9N8Z8P5,full,1-728,728,728,0,mucoromycota,Diversispora eburnea
+1,62,pif1_A0A0C7N4Y2,A0A0C7N4Y2,full,1-864,864,864,0,ascomycota,Lachancea lanzarotensis
+1,63,pif1_A0A0H2S6Y4,A0A0H2S6Y4,full,1-515,515,515,0,basidiomycota,Schizopora paradoxa
+1,64,pif1_A0A9N8ZA40,A0A9N8ZA40,full,1-656,656,656,0,mucoromycota,Funneliformis mosseae (Endomycorrhizal fungus) (Glomus mosseae)
+1,65,pif1_A0A0C7N9H1,A0A0C7N9H1,full,1-680,680,680,0,ascomycota,Lachancea lanzarotensis
+1,66,pif1_A0A0K3C6U0,A0A0K3C6U0,full,1-681,681,681,0,basidiomycota,Rhodotorula toruloides (Yeast) (Rhodosporidium toruloides)
+1,67,pif1_A0A9N8ZJ08,A0A9N8ZJ08,full,1-739,739,739,0,mucoromycota,Ambispora gerdemannii
+1,68,pif1_A0A0D1ZHZ9,A0A0D1ZHZ9,full,1-825,825,825,0,ascomycota,Exophiala mesophila (Black yeast-like fungus)
+1,69,pif1_A0A0K6FND2,A0A0K6FND2,full,1-1059,1059,1059,0,basidiomycota,Rhizoctonia solani
+1,70,pif1_A0A9N9DSD6,A0A9N9DSD6,full,1-590,590,590,0,mucoromycota,Ambispora leptoticha
+1,71,pif1_A0A0D2AM31,A0A0D2AM31,full,1-1165,1165,1165,0,ascomycota,Verruconis gallopava
+1,72,pif1_A0A0K6G747,A0A0K6G747,full,1-838,838,838,0,basidiomycota,Rhizoctonia solani
+1,73,pif1_A0A9N9HM59,A0A9N9HM59,full,1-585,585,585,0,mucoromycota,Dentiscutata erythropus
+1,74,pif1_A0A0D2CU01,A0A0D2CU01,full,1-792,792,792,0,ascomycota,Cladophialophora immunda
+1,75,pif1_A0A0K6G754,A0A0K6G754,full,1-1132,1132,1132,9,basidiomycota,Rhizoctonia solani
+1,76,pif1_A0A9N9IT00,A0A9N9IT00,full,1-583,583,583,0,mucoromycota,Cetraspora pellucida
+1,77,pif1_A0A0D2H657,A0A0D2H657,full,1-764,764,764,0,ascomycota,Fonsecaea pedrosoi CBS 271.37
+1,78,pif1_A0A0K6G7K7,A0A0K6G7K7,full,1-631,631,631,0,basidiomycota,Rhizoctonia solani
+1,79,pif1_A0A9P3HAH0,A0A9P3HAH0,full,1-1094,1094,1094,0,mucoromycota,Entomortierella parvispora
+1,80,pif1_A0A0D2HCP1,A0A0D2HCP1,full,1-771,771,771,0,ascomycota,Cladophialophora bantiana (strain ATCC 10958 / CBS 173.52 / CDC B-1940 / NIH 8579) (Xylohypha bantiana)
+1,81,pif1_A0A0K6GA87,A0A0K6GA87,full,1-534,534,534,0,basidiomycota,Rhizoctonia solani
+1,82,pif1_A0A9P3HF53,A0A9P3HF53,full,1-930,930,930,0,mucoromycota,Entomortierella parvispora
+1,83,pif1_A0A0D2IYR0,A0A0D2IYR0,full,1-766,766,766,0,ascomycota,Rhinocladiella mackenziei CBS 650.93
+1,84,pif1_A0A0L0V172,A0A0L0V172,full,1-640,640,640,0,basidiomycota,Puccinia striiformis f. sp. tritici PST-78
+1,85,pif1_A0A9P3HK37,A0A9P3HK37,full,1-1080,1080,1080,0,mucoromycota,Entomortierella parvispora
+1,86,pif1_A0A0D2J3X0,A0A0D2J3X0,full,1-766,766,766,0,ascomycota,Fonsecaea multimorphosa CBS 102226
+1,87,pif1_A0A0L6V131,A0A0L6V131,full,1-716,716,716,0,basidiomycota,Puccinia sorghi
+1,88,pif1_A0A9P3HK44,A0A9P3HK44,full,1-957,957,957,0,mucoromycota,Entomortierella parvispora
+1,89,pif1_A0A0D8JVN0,A0A0D8JVN0,full,1-725,725,725,0,ascomycota,Coccidioides immitis (strain RS) (Valley fever fungus)
+1,90,pif1_A0A0P1BIQ6,A0A0P1BIQ6,full,1-702,702,702,0,basidiomycota,Ceraceosorus bombacis
+1,91,pif1_A0A9P3HKJ7,A0A9P3HKJ7,full,1-1110,1110,1110,0,mucoromycota,Entomortierella parvispora
+1,92,pif1_A0A0D9NSG7,A0A0D9NSG7,full,1-813,813,813,0,ascomycota,Metarhizium anisopliae BRIP 53293
+1,93,pif1_A0A177TH00,A0A177TH00,full,1-646,646,646,0,basidiomycota,Tilletia indica
+1,94,pif1_A0A9P6YYP4,A0A9P6YYP4,full,1-727,727,727,0,mucoromycota,Rhizopus delemar
+1,95,pif1_A0A0E9NJD1,A0A0E9NJD1,full,1-951,951,951,0,ascomycota,Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804)
+1,96,pif1_A0A177V7P0,A0A177V7P0,full,1-656,656,656,0,basidiomycota,Tilletia caries (wheat bunt fungus)
+1,97,pif1_A0A9P7BV71,A0A9P7BV71,full,1-728,728,728,0,mucoromycota,Rhizopus oryzae (Mucormycosis agent) (Rhizopus arrhizus var. delemar)
+1,98,pif1_A0A0F4GSW0,A0A0F4GSW0,full,1-886,886,886,0,ascomycota,Zymoseptoria brevis
+1,99,pif1_A0A180GTA2,A0A180GTA2,full,1-703,703,703,0,basidiomycota,Puccinia triticina (isolate 1-1 / race 1 (BBBD)) (Brown leaf rust fungus)
+2,100,pif1_A0A9W4WTA5,A0A9W4WTA5,full,1-665,665,665,0,mucoromycota,Funneliformis geosporum
+2,101,pif1_A0A0F4YPA8,A0A0F4YPA8,full,1-709,709,709,0,ascomycota,Rasamsonia emersonii (strain ATCC 16479 / CBS 393.64 / IMI 116815)
+2,102,pif1_A0A1A5ZVX6,A0A1A5ZVX6,full,1-700,700,700,0,basidiomycota,Kwoniella dejecticola CBS 10117
+2,103,pif1_A0AAD7XWI0,A0AAD7XWI0,full,1-730,730,730,0,mucoromycota,Lichtheimia ornata
+2,104,pif1_A0A0F4ZHF8,A0A0F4ZHF8,full,1-697,697,697,0,ascomycota,Thielaviopsis punctulata
+2,105,pif1_A0A1B9FTK0,A0A1B9FTK0,full,1-623,623,623,0,basidiomycota,Kwoniella bestiolae CBS 10118
+2,106,pif1_A0AAN7D3L5,A0AAN7D3L5,full,1-756,756,756,0,mucoromycota,Mucor velutinosus
+2,107,pif1_A0A0F7TPW7,A0A0F7TPW7,full,1-723,723,723,0,ascomycota,Penicillium brasilianum
+2,108,pif1_A0A1B9GFU3,A0A1B9GFU3,full,1-710,710,710,0,basidiomycota,Kwoniella bestiolae CBS 10118
+2,109,pif1_A0AAN7D484,A0AAN7D484,full,1-667,667,667,0,mucoromycota,Mucor velutinosus
+2,110,pif1_A0A0F7ZTC5,A0A0F7ZTC5,full,1-831,831,831,0,ascomycota,Hirsutella minnesotensis 3608
+2,111,pif1_A0A1B9GQY0,A0A1B9GQY0,full,1-645,645,645,0,basidiomycota,Kwoniella heveanensis BCC8398
+2,112,pif1_A0ACA9NG08,A0ACA9NG08,full,1-751,751,751,0,mucoromycota,Acaulospora colombiana
+2,113,pif1_A0A0F8DHR2,A0A0F8DHR2,full,1-686,686,686,0,ascomycota,Ceratocystis fimbriata f. sp. platani
+2,114,pif1_A0A1B9GYC6,A0A1B9GYC6,full,1-708,708,708,0,basidiomycota,Kwoniella heveanensis BCC8398
+2,115,pif1_I1BKX4,I1BKX4,full,1-618,618,618,0,mucoromycota,Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) (Mucormycosis agent) (Rhizopus arrhizus var. delemar)
+2,116,pif1_A0A0F8UK25,A0A0F8UK25,full,1-753,753,753,0,ascomycota,Aspergillus ochraceoroseus
+2,117,pif1_A0A1B9HTQ2,A0A1B9HTQ2,full,1-702,702,702,0,basidiomycota,Kwoniella pini CBS 10737
+2,118,pif1_A0A0F8V674,A0A0F8V674,full,1-799,799,799,0,ascomycota,Aspergillus rambellii
+2,119,pif1_A0A1B9IG44,A0A1B9IG44,full,1-717,717,717,0,basidiomycota,Kwoniella mangroviensis CBS 10435
+2,120,pif1_A0A0G2G6N1,A0A0G2G6N1,full,1-754,754,754,0,ascomycota,Phaeomoniella chlamydospora (Phaeoacremonium chlamydosporum)
+2,121,pif1_A0A1C7MA88,A0A1C7MA88,full,1-600,600,600,0,basidiomycota,Grifola frondosa (Maitake) (Polyporus frondosus)
+2,122,pif1_A0A0G2I193,A0A0G2I193,full,1-813,813,813,0,ascomycota,Diaporthe ampelina
+2,123,pif1_A0A1E3HRY9,A0A1E3HRY9,full,1-652,652,652,0,basidiomycota,Cryptococcus depauperatus CBS 7841
+2,124,pif1_A0A0G4KXU7,A0A0G4KXU7,full,1-876,876,876,0,ascomycota,Verticillium longisporum (Verticillium dahliae var. longisporum)
+2,125,pif1_A0A1E3I3G1,A0A1E3I3G1,full,1-656,656,656,0,basidiomycota,Cryptococcus amylolentus CBS 6039
+2,126,pif1_A0A0G4N7A9,A0A0G4N7A9,full,1-876,876,876,0,ascomycota,Verticillium longisporum (Verticillium dahliae var. longisporum)
+2,127,pif1_A0A1E3JFJ4,A0A1E3JFJ4,full,1-658,658,658,0,basidiomycota,Cryptococcus wingfieldii CBS 7118
+2,128,pif1_A0A0G4PIW6,A0A0G4PIW6,full,1-761,761,761,0,ascomycota,Penicillium camemberti (strain FM 013)
+2,129,pif1_A0A1J8Q9H0,A0A1J8Q9H0,full,1-612,612,612,0,basidiomycota,Rhizopogon vesiculosus
+2,130,pif1_A0A0H1B6P3,A0A0H1B6P3,full,1-798,798,798,0,ascomycota,Blastomyces silverae
+2,131,pif1_A0A1K0G3T0,A0A1K0G3T0,full,1-718,718,718,0,basidiomycota,Ustilago bromivora
+2,132,pif1_A0A0J9X617,A0A0J9X617,full,1-768,768,768,0,ascomycota,Geotrichum candidum (Oospora lactis) (Dipodascus geotrichum)
+2,133,pif1_A0A1M2VF04,A0A1M2VF04,full,1-725,725,725,0,basidiomycota,Trametes pubescens (White-rot fungus)
+2,134,pif1_A0A0J9XD28,A0A0J9XD28,full,1-997,997,997,0,ascomycota,Geotrichum candidum (Oospora lactis) (Dipodascus geotrichum)
+2,135,pif1_A0A1M2VH00,A0A1M2VH00,full,1-576,576,576,0,basidiomycota,Trametes pubescens (White-rot fungus)
+2,136,pif1_A0A0L0NDI1,A0A0L0NDI1,full,1-860,860,860,0,ascomycota,Tolypocladium ophioglossoides (strain CBS 100239) (Snaketongue truffleclub) (Elaphocordyceps ophioglossoides)
+2,137,pif1_A0A1M2VTG0,A0A1M2VTG0,full,1-665,665,665,0,basidiomycota,Trametes pubescens (White-rot fungus)
+2,138,pif1_A0A0L1J6G6,A0A0L1J6G6,full,1-738,738,738,0,ascomycota,Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93)
+2,139,pif1_A0A1M8AB69,A0A1M8AB69,full,1-586,586,586,0,basidiomycota,Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated yeast)
+2,140,pif1_A0A0M8P8W8,A0A0M8P8W8,full,1-682,682,682,0,ascomycota,Penicillium nordicum
+2,141,pif1_A0A1Q3E1Z4,A0A1Q3E1Z4,full,1-571,571,571,0,basidiomycota,Lentinula edodes (Shiitake mushroom) (Lentinus edodes)
+2,142,pif1_A0A0M9VTS8,A0A0M9VTS8,full,1-839,839,839,0,ascomycota,Escovopsis weberi
+2,143,pif1_A0A1Q3E2E1,A0A1Q3E2E1,full,1-597,597,597,0,basidiomycota,Lentinula edodes (Shiitake mushroom) (Lentinus edodes)
+2,144,pif1_A0A0N0DEY4,A0A0N0DEY4,full,1-822,822,822,0,ascomycota,Fusarium langsethiae
+2,145,pif1_A0A1Q3E2N1,A0A1Q3E2N1,full,1-639,639,639,0,basidiomycota,Lentinula edodes (Shiitake mushroom) (Lentinus edodes)
+2,146,pif1_A0A0N1NVW2,A0A0N1NVW2,full,1-713,713,713,0,ascomycota,Cyphellophora attinorum
+2,147,pif1_A0A1Q3EGR3,A0A1Q3EGR3,full,1-582,582,582,0,basidiomycota,Lentinula edodes (Shiitake mushroom) (Lentinus edodes)
+2,148,pif1_A0A0P1KKU7,A0A0P1KKU7,full,1-899,899,899,0,ascomycota,Lachancea quebecensis
+2,149,pif1_A0A1Y2IYW8,A0A1Y2IYW8,full,1-706,706,706,0,basidiomycota,Trametes coccinea (strain BRFM310) (Pycnoporus coccineus)
+2,150,pif1_A0A0P1KUZ5,A0A0P1KUZ5,full,1-695,695,695,0,ascomycota,Lachancea quebecensis
+2,151,pif1_A0A238F8L5,A0A238F8L5,full,1-758,758,758,0,basidiomycota,Microbotryum intermedium
+2,152,pif1_A0A0P7BBB4,A0A0P7BBB4,full,1-827,827,827,0,ascomycota,Neonectria ditissima
+2,153,pif1_A0A284R575,A0A284R575,full,1-605,605,605,0,basidiomycota,Armillaria ostoyae (Armillaria root rot fungus)
+2,154,pif1_A0A0P7BLB4,A0A0P7BLB4,full,1-553,553,553,0,ascomycota,Neonectria ditissima
+2,155,pif1_A0A284RAN9,A0A284RAN9,full,1-630,630,630,0,basidiomycota,Armillaria ostoyae (Armillaria root rot fungus)
+2,156,pif1_A0A0U1LMZ8,A0A0U1LMZ8,full,1-745,745,745,0,ascomycota,Talaromyces islandicus (Penicillium islandicum)
+2,157,pif1_A0A284RQ68,A0A284RQ68,full,1-625,625,625,0,basidiomycota,Armillaria ostoyae (Armillaria root rot fungus)
+2,158,pif1_A0A0U5FW00,A0A0U5FW00,full,1-803,803,803,0,ascomycota,Aspergillus calidoustus
+2,159,pif1_A0A286UKZ0,A0A286UKZ0,full,1-625,625,625,0,basidiomycota,Pyrrhoderma noxium
+2,160,pif1_A0A0V1Q0J3,A0A0V1Q0J3,full,1-688,688,688,0,ascomycota,Debaryomyces fabryi
+2,161,pif1_A0A286UR16,A0A286UR16,full,1-635,635,635,0,basidiomycota,Pyrrhoderma noxium
+2,162,pif1_A0A0V1Q2Z0,A0A0V1Q2Z0,full,1-788,788,788,0,ascomycota,Debaryomyces fabryi
+2,163,pif1_A0A2A9NU72,A0A2A9NU72,full,1-459,459,459,0,basidiomycota,Amanita thiersii Skay4041
+2,164,pif1_A0A0W4ZHZ4,A0A0W4ZHZ4,full,1-787,787,787,0,ascomycota,Pneumocystis carinii (strain B80) (Rat pneumocystis pneumonia agent) (Pneumocystis carinii f. sp. carinii)
+2,165,pif1_A0A2G8RUN7,A0A2G8RUN7,full,1-608,608,608,0,basidiomycota,Ganoderma sinense ZZ0214-1
+2,166,pif1_A0A0W4ZNJ0,A0A0W4ZNJ0,full,1-811,811,811,0,ascomycota,Pneumocystis jirovecii (strain RU7) (Human pneumocystis pneumonia agent)
+2,167,pif1_A0A2G8S4W6,A0A2G8S4W6,full,1-615,615,615,0,basidiomycota,Ganoderma sinense ZZ0214-1
+2,168,pif1_A0A0X8HVB8,A0A0X8HVB8,full,1-834,834,834,0,ascomycota,Eremothecium sinecaudum
+2,169,pif1_A0A2R6NMH7,A0A2R6NMH7,full,1-583,583,583,0,basidiomycota,Hermanssonia centrifuga
+2,170,pif1_A0A101MLQ9,A0A101MLQ9,full,1-718,718,718,0,ascomycota,Penicillium freii
+2,171,pif1_A0A2R6NTT4,A0A2R6NTT4,full,1-647,647,647,0,basidiomycota,Hermanssonia centrifuga
+2,172,pif1_A0A109UW77,A0A109UW77,full,1-702,702,702,0,ascomycota,Eremothecium sinecaudum
+2,173,pif1_A0A2S4URQ4,A0A2S4URQ4,full,1-646,646,646,0,basidiomycota,Puccinia striiformis
+2,174,pif1_A0A135LFH1,A0A135LFH1,full,1-719,719,719,0,ascomycota,Penicillium patulum (Penicillium griseofulvum)
+2,175,pif1_A0A2S5BEQ4,A0A2S5BEQ4,full,1-709,709,709,0,basidiomycota,Rhodotorula taiwanensis
+2,176,pif1_A0A135SIN3,A0A135SIN3,full,1-829,829,829,0,ascomycota,Colletotrichum simmondsii
+2,177,pif1_A0A2X0KA56,A0A2X0KA56,full,1-751,751,751,0,basidiomycota,Microbotryum saponariae
+2,178,pif1_A0A135TU94,A0A135TU94,full,1-834,834,834,0,ascomycota,Colletotrichum nymphaeae SA-01
+2,179,pif1_A0A2X0LW32,A0A2X0LW32,full,1-748,748,748,0,basidiomycota,Microbotryum silenes-dioicae
+2,180,pif1_A0A135UEW1,A0A135UEW1,full,1-835,835,835,0,ascomycota,Colletotrichum salicis
+2,181,pif1_A0A369J1H4,A0A369J1H4,full,1-637,637,637,0,basidiomycota,Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)
+2,182,pif1_A0A139HGG1,A0A139HGG1,full,1-858,858,858,0,ascomycota,Pseudocercospora eumusae
+2,183,pif1_A0A369K4X4,A0A369K4X4,full,1-591,591,591,0,basidiomycota,Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)
+2,184,pif1_A0A139IDY3,A0A139IDY3,full,1-921,921,921,0,ascomycota,Pseudocercospora musae
+2,185,pif1_A0A369KAK7,A0A369KAK7,full,1-674,674,674,0,basidiomycota,Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)
+2,186,pif1_A0A151GWK7,A0A151GWK7,full,1-878,878,878,0,ascomycota,Drechmeria coniospora (Nematophagous fungus) (Meria coniospora)
+2,187,pif1_A0A3G2S9J2,A0A3G2S9J2,full,1-597,597,597,0,basidiomycota,Malassezia restricta (strain ATCC 96810 / NBRC 103918 / CBS 7877) (Seborrheic dermatitis infection agent)
+2,188,pif1_A0A161HKE9,A0A161HKE9,full,1-1019,1019,1019,0,ascomycota,Sugiyamaella lignohabitans
+2,189,pif1_A0A401G8C9,A0A401G8C9,full,1-682,682,682,0,basidiomycota,Sparassis crispa
+2,190,pif1_A0A162ZNR2,A0A162ZNR2,full,1-802,802,802,0,ascomycota,Didymella rabiei (Chickpea ascochyta blight fungus) (Mycosphaerella rabiei)
+2,191,pif1_A0A401H636,A0A401H636,full,1-575,575,575,0,basidiomycota,Sparassis crispa
+2,192,pif1_A0A166NVT2,A0A166NVT2,full,1-844,844,844,0,ascomycota,Colletotrichum tofieldiae
+2,193,pif1_A0A409VCH1,A0A409VCH1,full,1-507,507,507,0,basidiomycota,Gymnopilus dilepis
+2,194,pif1_A0A166QWJ6,A0A166QWJ6,full,1-889,889,889,0,ascomycota,Colletotrichum incanum (Soybean anthracnose fungus)
+2,195,pif1_A0A409W7F6,A0A409W7F6,full,1-642,642,642,0,basidiomycota,Gymnopilus dilepis
+2,196,pif1_A0A166U4T1,A0A166U4T1,full,1-1499,1499,1499,0,ascomycota,Moelleriella libera RCEF 2490
+2,197,pif1_A0A409Y7J2,A0A409Y7J2,full,1-626,626,626,0,basidiomycota,Panaeolus cyanescens
+2,198,pif1_A0A167DT29,A0A167DT29,full,1-706,706,706,0,ascomycota,Sugiyamaella lignohabitans
+2,199,pif1_A0A4Q1BV97,A0A4Q1BV97,full,1-650,650,650,0,basidiomycota,Tremella mesenterica (Jelly fungus)
+3,200,pif1_A0A167F3J3,A0A167F3J3,full,1-858,858,858,0,ascomycota,Metarhizium rileyi (Nomuraea rileyi)
+3,201,pif1_A0A4Q2DRZ9,A0A4Q2DRZ9,full,1-1013,1013,1013,0,basidiomycota,Candolleomyces aberdarensis
+3,202,pif1_A0A167H2R5,A0A167H2R5,full,1-799,799,799,0,ascomycota,Beauveria brongniartii RCEF 3172
+3,203,pif1_A0A4S4KLM9,A0A4S4KLM9,full,1-605,605,605,0,basidiomycota,Hermanssonia centrifuga
+3,204,pif1_A0A167TDW9,A0A167TDW9,full,1-935,935,935,0,ascomycota,Niveomyces insectorum RCEF 264
+3,205,pif1_A0A4S4LHT0,A0A4S4LHT0,full,1-635,635,635,0,basidiomycota,Phellinidium pouzarii
+3,206,pif1_A0A168C8M9,A0A168C8M9,full,1-957,957,957,0,ascomycota,Ascosphaera apis ARSEF 7405
+3,207,pif1_A0A4S4LN17,A0A4S4LN17,full,1-665,665,665,0,basidiomycota,Bondarzewia mesenterica
+3,208,pif1_A0A168CGZ8,A0A168CGZ8,full,1-804,804,804,0,ascomycota,Cordyceps fumosorosea (strain ARSEF 2679) (Isaria fumosorosea)
+3,209,pif1_A0A4S4LSC0,A0A4S4LSC0,full,1-634,634,634,0,basidiomycota,Bondarzewia mesenterica
+3,210,pif1_A0A168ISU5,A0A168ISU5,full,1-803,803,803,0,ascomycota,Akanthomyces lecanii RCEF 1005
+3,211,pif1_A0A4S4MSG5,A0A4S4MSG5,full,1-610,610,610,0,basidiomycota,Antrodiella citrinella
+3,212,pif1_A0A175VPZ7,A0A175VPZ7,full,1-823,823,823,0,ascomycota,Madurella mycetomatis
+3,213,pif1_A0A4S4MT59,A0A4S4MT59,full,1-592,592,592,0,basidiomycota,Antrodiella citrinella
+3,214,pif1_A0A177FGZ4,A0A177FGZ4,full,1-764,764,764,0,ascomycota,Fonsecaea monophora
+3,215,pif1_A0A4S8MSI0,A0A4S8MSI0,full,1-546,546,546,0,basidiomycota,Dendrothele bispora (strain CBS 962.96)
+3,216,pif1_A0A178CX55,A0A178CX55,full,1-764,764,764,0,ascomycota,Fonsecaea nubica
+3,217,pif1_A0A4T0FNF2,A0A4T0FNF2,full,1-621,621,621,0,basidiomycota,Wallemia hederae
+3,218,pif1_A0A178FD44,A0A178FD44,full,1-760,760,760,0,ascomycota,Trichophyton violaceum
+3,219,pif1_A0A4U7KPQ9,A0A4U7KPQ9,full,1-724,724,724,0,basidiomycota,Sporisorium graminicola
+3,220,pif1_A0A178ZSD6,A0A178ZSD6,full,1-783,783,783,0,ascomycota,Fonsecaea erecta
+3,221,pif1_A0A4V3XJE3,A0A4V3XJE3,full,1-589,589,589,0,basidiomycota,Antrodiella citrinella
+3,222,pif1_A0A179FR29,A0A179FR29,full,1-821,821,821,0,ascomycota,Pochonia chlamydosporia 170
+3,223,pif1_A0A4Y9YC71,A0A4Y9YC71,full,1-639,639,639,0,basidiomycota,Dentipellis fragilis
+3,224,pif1_A0A179IKE1,A0A179IKE1,full,1-806,806,806,0,ascomycota,Cordyceps confragosa (Lecanicillium lecanii)
+3,225,pif1_A0A4Y9YGX5,A0A4Y9YGX5,full,1-602,602,602,0,basidiomycota,Dentipellis fragilis
+3,226,pif1_A0A179UY81,A0A179UY81,full,1-798,798,798,0,ascomycota,Blastomyces gilchristii (strain SLH14081) (Blastomyces dermatitidis)
+3,227,pif1_A0A4Y9YSR9,A0A4Y9YSR9,full,1-564,564,564,0,basidiomycota,Dentipellis fragilis
+3,228,pif1_A0A194VFA7,A0A194VFA7,full,1-818,818,818,0,ascomycota,Cytospora mali (Apple Valsa canker fungus) (Valsa mali)
+3,229,pif1_A0A5B0MRD7,A0A5B0MRD7,full,1-699,699,699,0,basidiomycota,Puccinia graminis f. sp. tritici
+3,230,pif1_A0A1B2JBB9,A0A1B2JBB9,full,1-820,820,820,0,ascomycota,Komagataella pastoris (Yeast) (Pichia pastoris)
+3,231,pif1_A0A5B0N0I5,A0A5B0N0I5,full,1-719,719,719,0,basidiomycota,Puccinia graminis f. sp. tritici
+3,232,pif1_A0A1B7YNX9,A0A1B7YNX9,full,1-883,883,883,0,ascomycota,Colletotrichum higginsianum (strain IMI 349063) (Crucifer anthracnose fungus)
+3,233,pif1_A0A5B0N1Q3,A0A5B0N1Q3,full,1-701,701,701,0,basidiomycota,Puccinia graminis f. sp. tritici
+3,234,pif1_A0A1B8AKF1,A0A1B8AKF1,full,1-819,819,819,0,ascomycota,Fusarium poae
+3,235,pif1_A0A5C3E4B2,A0A5C3E4B2,full,1-737,737,737,0,basidiomycota,Ustilago trichophora
+3,236,pif1_A0A1C1C9U7,A0A1C1C9U7,full,1-763,763,763,0,ascomycota,Cladophialophora carrionii
+3,237,pif1_A0A5C3E832,A0A5C3E832,full,1-737,737,737,0,basidiomycota,Ustilago trichophora
+3,238,pif1_A0A1D8PRM6,A0A1D8PRM6,full,1-618,618,618,0,ascomycota,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+3,239,pif1_A0A5C3EV21,A0A5C3EV21,full,1-718,718,718,0,basidiomycota,Pseudozyma flocculosa
+3,240,pif1_A0A1E1KHD1,A0A1E1KHD1,full,1-899,899,899,0,ascomycota,Rhynchosporium graminicola
+3,241,pif1_A0A5C3EZA1,A0A5C3EZA1,full,1-673,673,673,0,basidiomycota,Pseudozyma flocculosa
+3,242,pif1_A0A1E1KSW3,A0A1E1KSW3,full,1-899,899,899,0,ascomycota,Rhynchosporium agropyri
+3,243,pif1_A0A5C3FLB2,A0A5C3FLB2,full,1-692,692,692,0,basidiomycota,Moesziomyces antarcticus (Yeast) (Pseudozyma antarctica)
+3,244,pif1_A0A1E1LUZ6,A0A1E1LUZ6,full,1-899,899,899,0,ascomycota,Rhynchosporium secalis (Barley scald fungus)
+3,245,pif1_A0A5D3AUK3,A0A5D3AUK3,full,1-655,655,655,0,basidiomycota,Cryptococcus floricola
+3,246,pif1_A0A1E3B484,A0A1E3B484,full,1-720,720,720,0,ascomycota,Aspergillus cristatus (Chinese Fuzhuan brick tea-fermentation fungus) (Eurotium cristatum)
+3,247,pif1_A0A5M3MBB2,A0A5M3MBB2,full,1-729,729,729,0,basidiomycota,Coniophora puteana (strain RWD-64-598) (Brown rot fungus)
+3,248,pif1_A0A1E5R2E4,A0A1E5R2E4,full,1-781,781,781,4,ascomycota,Hanseniaspora osmophila
+3,249,pif1_A0A5M6C3F7,A0A5M6C3F7,full,1-692,692,692,0,basidiomycota,Kwoniella shandongensis
+3,250,pif1_A0A1E5R8N0,A0A1E5R8N0,full,1-759,759,759,0,ascomycota,Hanseniaspora opuntiae
+3,251,pif1_A0A5M6C8X0,A0A5M6C8X0,full,1-639,639,639,0,basidiomycota,Kwoniella shandongensis
+3,252,pif1_A0A1E5RH49,A0A1E5RH49,full,1-931,931,931,3,ascomycota,Hanseniaspora osmophila
+3,253,pif1_A0A5N5QIE1,A0A5N5QIE1,full,1-1357,1357,1357,0,basidiomycota,Ceratobasidium theobromae
+3,254,pif1_A0A1E5RYU5,A0A1E5RYU5,full,1-762,762,762,2,ascomycota,Hanseniaspora uvarum (Yeast) (Kloeckera apiculata)
+3,255,pif1_A0A5N5QIV7,A0A5N5QIV7,full,1-2119,2119,2119,0,basidiomycota,Ceratobasidium theobromae
+3,256,pif1_A0A1F5LX58,A0A1F5LX58,full,1-717,717,717,0,ascomycota,Penicillium arizonense
+3,257,pif1_A0A5N5QSQ7,A0A5N5QSQ7,full,1-707,707,707,0,basidiomycota,Ceratobasidium theobromae
+3,258,pif1_A0A1F8AAX5,A0A1F8AAX5,full,1-736,736,736,0,ascomycota,Aspergillus bombycis
+3,259,pif1_A0A8H3TUW7,A0A8H3TUW7,full,1-658,658,658,0,basidiomycota,Naganishia liquefaciens
+3,260,pif1_A0A1G4B3T3,A0A1G4B3T3,full,1-882,882,882,0,ascomycota,Colletotrichum orchidophilum
+3,261,pif1_A0A8H3U0A2,A0A8H3U0A2,full,1-735,735,735,0,basidiomycota,Naganishia liquefaciens
+3,262,pif1_A0A1G4J9Z3,A0A1G4J9Z3,full,1-696,696,696,0,ascomycota,Lachancea mirantina
+3,263,pif1_A0A8H4VJS1,A0A8H4VJS1,full,1-632,632,632,0,basidiomycota,Agrocybe pediades
+3,264,pif1_A0A1G4JAR2,A0A1G4JAR2,full,1-689,689,689,0,ascomycota,Lachancea meyersii CBS 8951
+3,265,pif1_A0A8H5B4L3,A0A8H5B4L3,full,1-671,671,671,0,basidiomycota,Psilocybe cf. subviscida
+3,266,pif1_A0A1G4JCZ1,A0A1G4JCZ1,full,1-677,677,677,0,ascomycota,Lachancea dasiensis
+3,267,pif1_A0A8H5CYE4,A0A8H5CYE4,full,1-1261,1261,1261,0,basidiomycota,Tetrapyrgos nigripes
+3,268,pif1_A0A1G4JJ13,A0A1G4JJ13,full,1-883,883,883,0,ascomycota,Lachancea meyersii CBS 8951
+3,269,pif1_A0A8H5D9L0,A0A8H5D9L0,full,1-598,598,598,0,basidiomycota,Leucocoprinus leucothites
+3,270,pif1_A0A1G4K4H6,A0A1G4K4H6,full,1-886,886,886,0,ascomycota,Lachancea dasiensis
+3,271,pif1_A0A8H5EYD2,A0A8H5EYD2,full,1-617,617,617,0,basidiomycota,Psilocybe cf. subviscida
+3,272,pif1_A0A1G4KDP5,A0A1G4KDP5,full,1-814,814,814,0,ascomycota,Lachancea mirantina
+3,273,pif1_A0A8H5FHN3,A0A8H5FHN3,full,1-648,648,648,0,basidiomycota,Ephemerocybe angulata
+3,274,pif1_A0A1G4KK60,A0A1G4KK60,full,1-876,876,876,0,ascomycota,Lachancea nothofagi CBS 11611
+3,275,pif1_A0A8H5FIS4,A0A8H5FIS4,full,1-614,614,614,0,basidiomycota,Ephemerocybe angulata
+3,276,pif1_A0A1G4KMC5,A0A1G4KMC5,full,1-677,677,677,0,ascomycota,Lachancea nothofagi CBS 11611
+3,277,pif1_A0A8H5GCJ7,A0A8H5GCJ7,full,1-620,620,620,0,basidiomycota,Leucocoprinus leucothites
+3,278,pif1_A0A1G4KQ33,A0A1G4KQ33,full,1-691,691,691,0,ascomycota,Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) (Yeast) (Pichia pastoris)
+3,279,pif1_A0A8H5H1J4,A0A8H5H1J4,full,1-652,652,652,0,basidiomycota,Tetrapyrgos nigripes
+3,280,pif1_A0A1G4M6E1,A0A1G4M6E1,full,1-950,950,950,0,ascomycota,Lachancea fermentati (Zygosaccharomyces fermentati)
+3,281,pif1_A0A8H5HHS9,A0A8H5HHS9,full,1-1057,1057,1057,0,basidiomycota,Tricholomella constricta
+3,282,pif1_A0A1G4M6R4,A0A1G4M6R4,full,1-701,701,701,0,ascomycota,Lachancea fermentati (Zygosaccharomyces fermentati)
+3,283,pif1_A0A8H5HQ47,A0A8H5HQ47,full,1-599,599,599,0,basidiomycota,Collybiopsis confluens
+3,284,pif1_A0A1J9QG29,A0A1J9QG29,full,1-795,795,795,0,ascomycota,Blastomyces percursus
+3,285,pif1_A0A8H5HYM6,A0A8H5HYM6,full,1-597,597,597,0,basidiomycota,Collybiopsis confluens
+3,286,pif1_A0A1J9QLP1,A0A1J9QLP1,full,1-623,623,623,0,ascomycota,Diplodia corticola
+3,287,pif1_A0A8H5LZH5,A0A8H5LZH5,full,1-596,596,596,0,basidiomycota,Tetrapyrgos nigripes
+3,288,pif1_A0A1J9QQT4,A0A1J9QQT4,full,1-618,618,618,0,ascomycota,Diplodia corticola
+3,289,pif1_A0A8H5M0W8,A0A8H5M0W8,full,1-632,632,632,0,basidiomycota,Tricholomella constricta
+3,290,pif1_A0A1J9S2U9,A0A1J9S2U9,full,1-859,859,859,0,ascomycota,Diplodia corticola
+3,291,pif1_A0A8H5M8P6,A0A8H5M8P6,full,1-641,641,641,0,basidiomycota,Collybiopsis confluens
+3,292,pif1_A0A1L0BLG4,A0A1L0BLG4,full,1-746,746,746,0,ascomycota,Sungouiella intermedia
+3,293,pif1_A0A8H6T2J5,A0A8H6T2J5,full,1-622,622,622,0,basidiomycota,Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)
+3,294,pif1_A0A1L0BTK2,A0A1L0BTK2,full,1-667,667,667,0,ascomycota,Sungouiella intermedia
+3,295,pif1_A0A8H6WB99,A0A8H6WB99,full,1-610,610,610,0,basidiomycota,Mycena indigotica
+3,296,pif1_A0A1L0D0Q5,A0A1L0D0Q5,full,1-759,759,759,0,ascomycota,Hanseniaspora guilliermondii
+3,297,pif1_A0A8H6WYH6,A0A8H6WYH6,full,1-597,597,597,0,basidiomycota,Mycena venus
+3,298,pif1_A0A1L7TYF3,A0A1L7TYF3,full,1-821,821,821,0,ascomycota,Fusarium mangiferae (Mango malformation disease fungus)
+3,299,pif1_A0A8H6X7X8,A0A8H6X7X8,full,1-598,598,598,0,basidiomycota,Mycena sanguinolenta
+4,300,pif1_A0A1L7VNC0,A0A1L7VNC0,full,1-821,821,821,0,ascomycota,Fusarium proliferatum (strain ET1) (Orchid endophyte fungus)
+4,301,pif1_A0A8H6YXU7,A0A8H6YXU7,full,1-598,598,598,0,basidiomycota,Mycena sanguinolenta
+4,302,pif1_A0A1L7WWW9,A0A1L7WWW9,full,1-917,917,917,0,ascomycota,Phialocephala subalpina
+4,303,pif1_A0A8H6Z6T2,A0A8H6Z6T2,full,1-597,597,597,0,basidiomycota,Mycena sanguinolenta
+4,304,pif1_A0A1L9RR32,A0A1L9RR32,full,1-690,690,690,0,ascomycota,Aspergillus wentii DTO 134E9
+4,305,pif1_A0A8H7CZF7,A0A8H7CZF7,full,1-612,612,612,0,basidiomycota,Mycena venus
+4,306,pif1_A0A1Q2YI20,A0A1Q2YI20,full,1-908,908,908,0,ascomycota,Pichia membranifaciens
+4,307,pif1_A0A8H7DCL8,A0A8H7DCL8,full,1-550,550,550,0,basidiomycota,Mycena sanguinolenta
+4,308,pif1_A0A1Q5UPN3,A0A1Q5UPN3,full,1-728,728,728,0,ascomycota,Penicillium subrubescens
+4,309,pif1_A0A8X7NC76,A0A8X7NC76,full,1-648,648,648,0,basidiomycota,Tilletia walkeri
+4,310,pif1_A0A1Q8RAQ6,A0A1Q8RAQ6,full,1-842,842,842,0,ascomycota,Colletotrichum chlorophyti
+4,311,pif1_A0A8X7SWK2,A0A8X7SWK2,full,1-656,656,656,0,basidiomycota,Tilletia controversa (dwarf bunt fungus)
+4,312,pif1_A0A1T3CVP8,A0A1T3CVP8,full,1-840,840,840,0,ascomycota,Trichoderma guizhouense
+4,313,pif1_A0A9N8MAE1,A0A9N8MAE1,full,1-656,656,656,0,basidiomycota,Tilletia laevis
+4,314,pif1_A0A1U7LSY4,A0A1U7LSY4,full,1-1360,1360,1360,0,ascomycota,Neolecta irregularis (strain DAH-3)
+4,315,pif1_A0A9P3G2I0,A0A9P3G2I0,full,1-649,649,649,0,basidiomycota,Phanerochaete sordida
+4,316,pif1_A0A1V6PDM4,A0A1V6PDM4,full,1-773,773,773,0,ascomycota,Penicillium decumbens
+4,317,pif1_A0A9P3G3Y6,A0A9P3G3Y6,full,1-691,691,691,0,basidiomycota,Phanerochaete sordida
+4,318,pif1_A0A1V6QBT2,A0A1V6QBT2,full,1-716,716,716,0,ascomycota,Penicillium antarcticum
+4,319,pif1_A0A9P3G4R7,A0A9P3G4R7,full,1-643,643,643,0,basidiomycota,Phanerochaete sordida
+4,320,pif1_A0A1V6RMZ5,A0A1V6RMZ5,full,1-718,718,718,0,ascomycota,Penicillium solitum
+4,321,pif1_A0A9P3G5D9,A0A9P3G5D9,full,1-581,581,581,0,basidiomycota,Phanerochaete sordida
+4,322,pif1_A0A1V6RZK0,A0A1V6RZK0,full,1-762,762,762,0,ascomycota,Penicillium vulpinum
+4,323,pif1_A0A9P3G9Z6,A0A9P3G9Z6,full,1-618,618,618,0,basidiomycota,Phanerochaete sordida
+4,324,pif1_A0A1V6U152,A0A1V6U152,full,1-771,771,771,0,ascomycota,Penicillium steckii
+4,325,pif1_A0A9P3GEL8,A0A9P3GEL8,full,1-569,569,569,0,basidiomycota,Phanerochaete sordida
+4,326,pif1_A0A1V6U1M2,A0A1V6U1M2,full,1-763,763,763,0,ascomycota,Penicillium flavigenum
+4,327,pif1_A0A9P3UJ47,A0A9P3UJ47,full,1-604,604,604,0,basidiomycota,Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)
+4,328,pif1_A0A1V6V0V5,A0A1V6V0V5,full,1-715,715,715,0,ascomycota,Penicillium coprophilum
+4,329,pif1_A0A9P3UKB6,A0A9P3UKB6,full,1-677,677,677,0,basidiomycota,Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)
+4,330,pif1_A0A1V6Z3Y5,A0A1V6Z3Y5,full,1-763,763,763,0,ascomycota,Penicillium nalgiovense
+4,331,pif1_A0A9P3US95,A0A9P3US95,full,1-613,613,613,0,basidiomycota,Lyophyllum shimeji (Hon-shimeji) (Tricholoma shimeji)
+4,332,pif1_A0A1W2TKN4,A0A1W2TKN4,full,1-796,796,796,0,ascomycota,Rosellinia necatrix (White root-rot fungus)
+4,333,pif1_A0A9P8AFI1,A0A9P8AFI1,full,1-676,676,676,0,basidiomycota,Marasmius oreades (fairy-ring Marasmius)
+4,334,pif1_A0A1W5D893,A0A1W5D893,full,1-865,865,865,0,ascomycota,Lasallia pustulata
+4,335,pif1_A0A9P8AFL8,A0A9P8AFL8,full,1-588,588,588,0,basidiomycota,Marasmius oreades (fairy-ring Marasmius)
+4,336,pif1_A0A1X7QZ68,A0A1X7QZ68,full,1-888,888,888,0,ascomycota,Maudiozyma saulgeensis
+4,337,pif1_A0A9Q3CGN2,A0A9Q3CGN2,full,1-718,718,718,0,basidiomycota,Austropuccinia psidii MF-1
+4,338,pif1_A0A1X7R554,A0A1X7R554,full,1-762,762,762,0,ascomycota,Maudiozyma saulgeensis
+4,339,pif1_A0A9Q3DCC3,A0A9Q3DCC3,full,1-761,761,761,0,basidiomycota,Austropuccinia psidii MF-1
+4,340,pif1_A0A1X7RKD9,A0A1X7RKD9,full,1-833,833,833,0,ascomycota,Zymoseptoria tritici (strain ST99CH_3D7)
+4,341,pif1_A0A9Q5HZ83,A0A9Q5HZ83,full,1-602,602,602,0,basidiomycota,Sanghuangporus baumii (Phellinus baumii)
+4,342,pif1_A0A1Y2M700,A0A1Y2M700,full,1-802,802,802,0,ascomycota,Epicoccum nigrum (Soil fungus) (Epicoccum purpurascens)
+4,343,pif1_A0A9W8ML86,A0A9W8ML86,full,1-1029,1029,1029,0,basidiomycota,Candolleomyces eurysporus
+4,344,pif1_A0A1Z5T0V7,A0A1Z5T0V7,full,1-913,913,913,0,ascomycota,Hortaea werneckii EXF-2000
+4,345,pif1_A0AA38HDX6,A0AA38HDX6,full,1-649,649,649,0,basidiomycota,Dioszegia hungarica
+4,346,pif1_A0A1Z5T4Y1,A0A1Z5T4Y1,full,1-912,912,912,0,ascomycota,Hortaea werneckii EXF-2000
+4,347,pif1_A0AA48QVP0,A0AA48QVP0,full,1-686,686,686,0,basidiomycota,Cutaneotrichosporon cavernicola
+4,348,pif1_A0A218YVE5,A0A218YVE5,full,1-880,880,880,0,ascomycota,Diplocarpon coronariae
+4,349,pif1_A0AAD2HQZ9,A0AAD2HQZ9,full,1-552,552,552,0,basidiomycota,Mycena citricolor
+4,350,pif1_A0A225ACG2,A0A225ACG2,full,1-758,758,758,0,ascomycota,Talaromyces atroroseus
+4,351,pif1_A0AAD2HTN7,A0AAD2HTN7,full,1-626,626,626,0,basidiomycota,Mycena citricolor
+4,352,pif1_A0A232LWR6,A0A232LWR6,full,1-781,781,781,0,ascomycota,Elaphomyces granulatus
+4,353,pif1_A0AAD3TY69,A0AAD3TY69,full,1-664,664,664,0,basidiomycota,Cutaneotrichosporon spelunceum
+4,354,pif1_A0A292Q3K7,A0A292Q3K7,full,1-909,909,909,0,ascomycota,Tuber aestivum (summer truffle)
+4,355,pif1_A0AAD5UZ43,A0AAD5UZ43,full,1-575,575,575,0,basidiomycota,Meripilus lineatus
+4,356,pif1_A0A2A9PT09,A0A2A9PT09,full,1-855,855,855,0,ascomycota,Ophiocordyceps unilateralis (Zombie-ant fungus) (Torrubia unilateralis)
+4,357,pif1_A0AAD5VEU9,A0AAD5VEU9,full,1-579,579,579,0,basidiomycota,Meripilus lineatus
+4,358,pif1_A0A2B7WVK7,A0A2B7WVK7,full,1-752,752,752,0,ascomycota,Helicocarpus griseus UAMH5409
+4,359,pif1_A0AAD5VW10,A0AAD5VW10,full,1-587,587,587,0,basidiomycota,Leucocoprinus birnbaumii
+4,360,pif1_A0A2B7X4F7,A0A2B7X4F7,full,1-798,798,798,0,ascomycota,Blastomyces parvus
+4,361,pif1_A0AAD5W3A8,A0AAD5W3A8,full,1-629,629,629,0,basidiomycota,Leucocoprinus birnbaumii
+4,362,pif1_A0A2B7ZAZ8,A0A2B7ZAZ8,full,1-802,802,802,0,ascomycota,[Emmonsia] crescens
+4,363,pif1_A0AAD5YMS7,A0AAD5YMS7,full,1-660,660,660,0,basidiomycota,Meripilus lineatus
+4,364,pif1_A0A2C5WV42,A0A2C5WV42,full,1-804,804,804,0,ascomycota,Ceratocystis fimbriata CBS 114723
+4,365,pif1_A0AAD7TST6,A0AAD7TST6,full,1-587,587,587,0,basidiomycota,Trametes cubensis
+4,366,pif1_A0A2C5XF89,A0A2C5XF89,full,1-830,830,830,0,ascomycota,Ophiocordyceps australis
+4,367,pif1_A0AAD7TYJ6,A0AAD7TYJ6,full,1-610,610,610,0,basidiomycota,Trametes cubensis
+4,368,pif1_A0A2C5Z163,A0A2C5Z163,full,1-791,791,791,0,ascomycota,Ophiocordyceps camponoti-rufipedis
+4,369,pif1_A0AAD7TZE9,A0AAD7TZE9,full,1-722,722,722,0,basidiomycota,Trametes cubensis
+4,370,pif1_A0A2C5Z3Z6,A0A2C5Z3Z6,full,1-873,873,873,0,ascomycota,Ophiocordyceps australis
+4,371,pif1_A0AAF0Y8C4,A0AAF0Y8C4,full,1-681,681,681,0,basidiomycota,Vanrija pseudolonga
+4,372,pif1_A0A2D3UXI5,A0A2D3UXI5,full,1-834,834,834,3,ascomycota,Ramularia collo-cygni
+4,373,pif1_A0AAJ4XLQ0,A0AAJ4XLQ0,full,1-710,710,710,0,basidiomycota,Melanopsichium pennsylvanicum
+4,374,pif1_A0A2G7FQB8,A0A2G7FQB8,full,1-736,736,736,0,ascomycota,Aspergillus arachidicola
+4,375,pif1_A0AAJ8KXR9,A0AAJ8KXR9,full,1-617,617,617,0,basidiomycota,Kwoniella dejecticola CBS 10117
+4,376,pif1_A0A2H0ZLB1,A0A2H0ZLB1,full,1-780,780,780,0,ascomycota,Candidozyma auris (Yeast) (Candida auris)
+4,377,pif1_A0AAJ8M2S8,A0AAJ8M2S8,full,1-610,610,610,0,basidiomycota,Cryptococcus depauperatus CBS 7841
+4,378,pif1_A0A2H2ZNG2,A0A2H2ZNG2,full,1-855,855,855,0,ascomycota,Trichoderma parareesei (Filamentous fungus)
+4,379,pif1_A0AAW0BFE3,A0AAW0BFE3,full,1-1096,1096,1096,0,basidiomycota,Favolaschia claudopus
+4,380,pif1_A0A2K0WHU4,A0A2K0WHU4,full,1-821,821,821,0,ascomycota,Gibberella nygamai (Bean root rot disease fungus) (Fusarium nygamai)
+4,381,pif1_A0AAW0E6V9,A0AAW0E6V9,full,1-573,573,573,0,basidiomycota,Favolaschia claudopus
+4,382,pif1_A0A2K1QRC5,A0A2K1QRC5,full,1-847,847,847,0,ascomycota,Sphaceloma murrayae
+4,383,pif1_A0AAW0YJW9,A0AAW0YJW9,full,1-688,688,688,0,basidiomycota,Kwoniella newhampshirensis
+4,384,pif1_A0A2K3Q965,A0A2K3Q965,full,1-1851,1851,1851,0,ascomycota,Tolypocladium capitatum
+4,385,pif1_A0AAW0YQW8,A0AAW0YQW8,full,1-636,636,636,0,basidiomycota,Kwoniella newhampshirensis
+4,386,pif1_A0A2L2TT35,A0A2L2TT35,full,1-873,873,873,0,ascomycota,Fusarium venenatum
+4,387,pif1_A0AAX4K6B3,A0AAX4K6B3,full,1-705,705,705,0,basidiomycota,Kwoniella dendrophila CBS 6074
+4,388,pif1_A0A2N3NCB3,A0A2N3NCB3,full,1-1670,1670,1670,0,ascomycota,Lomentospora prolificans
+4,389,pif1_A0AAX4K8N5,A0AAX4K8N5,full,1-622,622,622,0,basidiomycota,Kwoniella dendrophila CBS 6074
+4,390,pif1_A0A2P4ZPZ5,A0A2P4ZPZ5,full,1-818,818,818,0,ascomycota,Trichoderma gamsii
+4,391,pif1_A0AAX4KL96,A0AAX4KL96,full,1-717,717,717,0,basidiomycota,Kwoniella europaea PYCC6329
+4,392,pif1_A0A2P5HGU5,A0A2P5HGU5,full,1-523,523,523,0,ascomycota,Diaporthe helianthi
+4,393,pif1_A0ABP1CKG3,A0ABP1CKG3,full,1-623,623,623,0,basidiomycota,Somion occarium
+4,394,pif1_A0A2P5IG66,A0A2P5IG66,full,1-816,816,816,0,ascomycota,Diaporthe helianthi
+4,395,pif1_A0ABP1CKG6,A0ABP1CKG6,full,1-602,602,602,0,basidiomycota,Somion occarium
+4,396,pif1_A0A2P6FGS0,A0A2P6FGS0,full,1-974,974,974,0,ascomycota,Pseudogymnoascus verrucosus
+4,397,pif1_A0ABP1CNA1,A0ABP1CNA1,full,1-598,598,598,0,basidiomycota,Somion occarium
+4,398,pif1_A0A2P7YPG7,A0A2P7YPG7,full,1-787,787,787,0,ascomycota,Candidozyma pseudohaemuli
+4,399,pif1_A0ABP1CNE3,A0ABP1CNE3,full,1-533,533,533,0,basidiomycota,Somion occarium
+5,400,pif1_A0A2P7YYZ7,A0A2P7YYZ7,full,1-1269,1269,1269,0,ascomycota,Candidozyma pseudohaemuli
+5,401,pif1_A0ABP1DQJ8,A0ABP1DQJ8,full,1-572,572,572,0,basidiomycota,Somion occarium
+5,402,pif1_A0A2P7Z3W1,A0A2P7Z3W1,full,1-844,844,844,0,ascomycota,Elsinoe australis
+5,403,pif1_A0ABP1DQU6,A0ABP1DQU6,full,1-515,515,515,0,basidiomycota,Somion occarium
+5,404,pif1_A0A2S4L8F3,A0A2S4L8F3,full,1-820,820,820,0,ascomycota,Tolypocladium paradoxum
+5,405,pif1_A0ABP1DT00,A0ABP1DT00,full,1-577,577,577,0,basidiomycota,Somion occarium
+5,406,pif1_A0A2S4Q1N6,A0A2S4Q1N6,full,1-868,868,868,0,ascomycota,Erysiphe pulchra
+5,407,pif1_A0ABP1E5U3,A0ABP1E5U3,full,1-596,596,596,0,basidiomycota,Somion occarium
+5,408,pif1_A0A2S6CBW7,A0A2S6CBW7,full,1-928,928,928,0,ascomycota,Cercospora berteroae
+5,409,pif1_A0ABP1E5U8,A0ABP1E5U8,full,1-605,605,605,0,basidiomycota,Somion occarium
+5,410,pif1_A0A2T0FEC6,A0A2T0FEC6,full,1-589,589,589,0,ascomycota,Wickerhamiella sorbophila
+5,411,pif1_A0ABP1E5X9,A0ABP1E5X9,full,1-552,552,552,0,basidiomycota,Somion occarium
+5,412,pif1_A0A2T0FMF4,A0A2T0FMF4,full,1-748,748,748,0,ascomycota,Wickerhamiella sorbophila
+5,413,pif1_A0ABQ0KXJ8,A0ABQ0KXJ8,full,1-579,579,579,0,basidiomycota,Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)
+5,414,pif1_A0A2T4GQX9,A0A2T4GQX9,full,1-856,856,856,0,ascomycota,Fusarium culmorum
+5,415,pif1_A0ABQ0L4N8,A0ABQ0L4N8,full,1-1997,1997,1997,0,basidiomycota,Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)
+5,416,pif1_A0A2U3EBL3,A0A2U3EBL3,full,1-1123,1123,1123,0,ascomycota,Purpureocillium lilacinum (Paecilomyces lilacinus)
+5,417,pif1_A0ABQ0M0T4,A0ABQ0M0T4,full,1-1775,1775,1775,4,basidiomycota,Mycena chlorophos (Agaric fungus) (Agaricus chlorophos)
+5,418,pif1_A0A2U9QZ99,A0A2U9QZ99,full,1-925,925,925,0,ascomycota,Pichia kudriavzevii (Yeast) (Issatchenkia orientalis)
+5,419,pif1_A0ABR3BM64,A0ABR3BM64,full,1-691,691,691,0,basidiomycota,Cryptococcus tetragattii IND107
+5,420,pif1_A0A2U9RAS2,A0A2U9RAS2,full,1-676,676,676,0,ascomycota,Pichia kudriavzevii (Yeast) (Issatchenkia orientalis)
+5,421,pif1_A0ABR3BXI1,A0ABR3BXI1,full,1-669,669,669,0,basidiomycota,Cryptococcus tetragattii IND107
+5,422,pif1_A0A2V1A9H7,A0A2V1A9H7,full,1-791,791,791,0,ascomycota,Candidozyma duobushaemuli
+5,423,pif1_A0ABR3JDG0,A0ABR3JDG0,full,1-609,609,609,0,basidiomycota,Hohenbuehelia grisea
+5,424,pif1_A0A2V1AIT0,A0A2V1AIT0,full,1-2734,2734,2734,0,ascomycota,Candidozyma duobushaemuli
+5,425,pif1_A0ABR5B432,A0ABR5B432,full,1-691,691,691,0,basidiomycota,Cryptococcus bacillisporus CA1873
+5,426,pif1_A0A2V1ALF0,A0A2V1ALF0,full,1-811,811,811,0,ascomycota,Candidozyma haemuli
+5,427,pif1_A0ABR5BG99,A0ABR5BG99,full,1-669,669,669,0,basidiomycota,Cryptococcus bacillisporus CA1873
+5,428,pif1_A0A2V1AQV1,A0A2V1AQV1,full,1-1266,1266,1266,0,ascomycota,Candidozyma haemuli
+5,429,pif1_A0ABR5BLN6,A0ABR5BLN6,full,1-691,691,691,0,basidiomycota,Cryptococcus gattii EJB2
+5,430,pif1_A0A2W1ERC3,A0A2W1ERC3,full,1-788,788,788,0,ascomycota,Pyrenophora tritici-repentis
+5,431,pif1_A0ABR5C231,A0ABR5C231,full,1-669,669,669,0,basidiomycota,Cryptococcus gattii EJB2
+5,432,pif1_A0A364L1Q7,A0A364L1Q7,full,1-800,800,800,0,ascomycota,Talaromyces amestolkiae
+5,433,pif1_A0ABY7D8X9,A0ABY7D8X9,full,1-703,703,703,0,basidiomycota,Puccinia triticina
+5,434,pif1_A0A366QY50,A0A366QY50,full,1-819,819,819,0,ascomycota,Fusarium coffeatum
+5,435,pif1_A0ABZ1DBQ0,A0ABZ1DBQ0,full,1-704,704,704,0,basidiomycota,Kwoniella shivajii
+5,436,pif1_A0A367L4D8,A0A367L4D8,full,1-1521,1521,1521,0,ascomycota,Ophiocordyceps polyrhachis-furcata BCC 54312
+5,437,pif1_A0ABZ2AN38,A0ABZ2AN38,full,1-669,669,669,0,basidiomycota,Cryptococcus decagattii
+5,438,pif1_A0A367YAA9,A0A367YAA9,full,1-609,609,609,0,ascomycota,Candida viswanathii
+5,439,pif1_A0ABZ2B030,A0ABZ2B030,full,1-691,691,691,0,basidiomycota,Cryptococcus decagattii
+5,440,pif1_A0A367YDY7,A0A367YDY7,full,1-749,749,749,0,ascomycota,Candida viswanathii
+5,441,pif1_A0ACB7IKH0,A0ACB7IKH0,full,1-582,582,582,0,basidiomycota,Pleurotus cornucopiae (Cornucopia mushroom)
+5,442,pif1_A0A367YJV1,A0A367YJV1,full,1-609,609,609,0,ascomycota,Candida viswanathii
+5,443,pif1_A0ACB7J0F3,A0ACB7J0F3,full,1-1770,1770,1770,0,basidiomycota,Pleurotus cornucopiae (Cornucopia mushroom)
+5,444,pif1_A0A367YKM2,A0A367YKM2,full,1-749,749,749,0,ascomycota,Candida viswanathii
+5,445,pif1_A0ACC1P622,A0ACC1P622,full,1-586,586,586,5,basidiomycota,Trametes sanguinea
+5,446,pif1_A0A370TV91,A0A370TV91,full,1-872,872,872,0,ascomycota,Venustampulla echinocandica
+5,447,pif1_A0ACC1QDJ0,A0ACC1QDJ0,full,1-714,714,714,5,basidiomycota,Trametes sanguinea
+5,448,pif1_A0A376BA80,A0A376BA80,full,1-763,763,763,0,ascomycota,Saccharomycodes ludwigii
+5,449,pif1_A0ACC1T3Q8,A0ACC1T3Q8,full,1-1246,1246,1246,0,basidiomycota,Phlebia brevispora
+5,450,pif1_A0A376BAK2,A0A376BAK2,full,1-818,818,818,0,ascomycota,Saccharomycodes ludwigii
+5,451,pif1_A0ACC1T620,A0ACC1T620,full,1-762,762,762,0,basidiomycota,Phlebia brevispora
+5,452,pif1_A0A384JQ16,A0A384JQ16,full,1-914,914,914,0,ascomycota,Botrytis cinerea (strain B05.10) (Noble rot fungus) (Botryotinia fuckeliana)
+5,453,pif1_A8N288,A8N288,full,1-641,641,641,0,basidiomycota,Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)
+5,454,pif1_A0A395J7K7,A0A395J7K7,full,1-673,673,673,0,ascomycota,Monilinia fructigena
+5,455,pif1_A8N8Y7,A8N8Y7,full,1-622,622,622,0,basidiomycota,Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)
+5,456,pif1_A0A395MU31,A0A395MU31,full,1-818,818,818,0,ascomycota,Fusarium flagelliforme
+5,457,pif1_A8PUE9,A8PUE9,full,1-546,546,546,0,basidiomycota,Malassezia globosa (strain ATCC MYA-4612 / CBS 7966) (Dandruff-associated fungus)
+5,458,pif1_A0A395NCI1,A0A395NCI1,full,1-840,840,840,0,ascomycota,Trichoderma arundinaceum
+5,459,pif1_D6RJX6,D6RJX6,full,1-617,617,617,0,basidiomycota,Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003) (Inky cap fungus) (Hormographiella aspergillata)
+5,460,pif1_A0A395SEG8,A0A395SEG8,full,1-822,822,822,0,ascomycota,Fusarium sporotrichioides
+5,461,pif1_E3LA34,E3LA34,full,1-711,711,711,0,basidiomycota,Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) (Black stem rust fungus)
+5,462,pif1_A0A395SH18,A0A395SH18,full,1-816,816,816,0,ascomycota,Fusarium longipes
+5,463,pif1_E6R3E7,E6R3E7,full,1-669,669,669,0,basidiomycota,Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) (Filobasidiella gattii) (Cryptococcus bacillisporus)
+5,464,pif1_A0A3A2ZL16,A0A3A2ZL16,full,1-746,746,746,0,ascomycota,Aspergillus sclerotialis
+5,465,pif1_E6RE98,E6RE98,full,1-691,691,691,0,basidiomycota,Cryptococcus gattii serotype B (strain WM276 / ATCC MYA-4071) (Filobasidiella gattii) (Cryptococcus bacillisporus)
+5,466,pif1_A0A3D8QMU0,A0A3D8QMU0,full,1-750,750,750,0,ascomycota,Aspergillus mulundensis
+5,467,pif1_E7A0V7,E7A0V7,full,1-726,726,726,0,basidiomycota,Sporisorium reilianum (strain SRZ2) (Maize head smut fungus)
+5,468,pif1_A0A3D8SQV1,A0A3D8SQV1,full,1-870,870,870,0,ascomycota,Coleophoma cylindrospora
+5,469,pif1_G4TC19,G4TC19,full,1-560,560,560,0,basidiomycota,Serendipita indica (strain DSM 11827) (Root endophyte fungus) (Piriformospora indica)
+5,470,pif1_A0A3D8T9P5,A0A3D8T9P5,full,1-921,921,921,0,ascomycota,Coleophoma crateriformis
+5,471,pif1_G4TCR9,G4TCR9,full,1-639,639,639,0,basidiomycota,Serendipita indica (strain DSM 11827) (Root endophyte fungus) (Piriformospora indica)
+5,472,pif1_A0A3E2GT96,A0A3E2GT96,full,1-930,930,930,0,ascomycota,Scytalidium lignicola (Hyphomycete)
+5,473,pif1_G7DW84,G7DW84,full,1-702,702,702,0,basidiomycota,Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)
+5,474,pif1_A0A3N4JMV7,A0A3N4JMV7,full,1-682,682,682,0,ascomycota,Choiromyces venosus 120613-1
+5,475,pif1_G7DW85,G7DW85,full,1-705,705,705,0,basidiomycota,Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)
+5,476,pif1_A0A401KJ13,A0A401KJ13,full,1-754,754,754,0,ascomycota,Aspergillus awamori (Black koji mold)
+5,477,pif1_I2G1B8,I2G1B8,full,1-717,717,717,0,basidiomycota,Ustilago hordei (Barley covered smut fungus)
+5,478,pif1_A0A420HI51,A0A420HI51,full,1-858,858,858,0,ascomycota,Golovinomyces cichoracearum
+5,479,pif1_J4G0H3,J4G0H3,full,1-600,600,600,0,basidiomycota,Fibroporia radiculosa
+5,480,pif1_A0A420HWK8,A0A420HWK8,full,1-885,885,885,0,ascomycota,Erysiphe neolycopersici
+5,481,pif1_J4H1T8,J4H1T8,full,1-634,634,634,0,basidiomycota,Fibroporia radiculosa
+5,482,pif1_A0A420Y4N6,A0A420Y4N6,full,1-869,869,869,0,ascomycota,Coniochaeta pulveracea
+5,483,pif1_J4I8G7,J4I8G7,full,1-572,572,572,0,basidiomycota,Fibroporia radiculosa
+5,484,pif1_A0A423WMC8,A0A423WMC8,full,1-599,599,599,0,ascomycota,Cytospora schulzeri
+5,485,pif1_J9VZB8,J9VZB8,full,1-669,669,669,0,basidiomycota,Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) (Cryptococcus neoformans var. grubii serotype A)
+5,486,pif1_A0A423X8J6,A0A423X8J6,full,1-755,755,755,0,ascomycota,Cytospora schulzeri
+5,487,pif1_J9W1Z3,J9W1Z3,full,1-691,691,691,0,basidiomycota,Cryptococcus neoformans (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487) (Cryptococcus neoformans var. grubii serotype A)
+5,488,pif1_A0A423XFI1,A0A423XFI1,full,1-766,766,766,0,ascomycota,Cytospora leucostoma
+5,489,pif1_K1WDM8,K1WDM8,full,1-634,634,634,0,basidiomycota,Trichosporon asahii var. asahii (strain CBS 8904) (Yeast)
+5,490,pif1_A0A423XK23,A0A423XK23,full,1-501,501,501,0,ascomycota,Cytospora leucostoma
+5,491,pif1_M7X6D4,M7X6D4,full,1-680,680,680,0,basidiomycota,Rhodotorula toruloides (strain NP11) (Yeast) (Rhodosporidium toruloides)
+5,492,pif1_A0A437A639,A0A437A639,full,1-893,893,893,0,ascomycota,Arthrobotrys flagrans (Nematode-trapping fungus) (Trichothecium flagrans)
+5,493,pif1_Q5KCW7,Q5KCW7,full,1-691,691,691,0,basidiomycota,Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) (Cryptococcus neoformans var. neoformans serotype D)
+5,494,pif1_A0A448YGA8,A0A448YGA8,full,1-866,866,866,0,ascomycota,Brettanomyces naardenensis (Yeast)
+5,495,pif1_Q5KKJ1,Q5KKJ1,full,1-669,669,669,0,basidiomycota,Cryptococcus deneoformans (strain JEC21 / ATCC MYA-565) (Cryptococcus neoformans var. neoformans serotype D)
+5,496,pif1_A0A448YPH1,A0A448YPH1,full,1-652,652,652,0,ascomycota,Brettanomyces naardenensis (Yeast)
+5,497,pif1_R7RYN2,R7RYN2,full,1-623,623,623,0,basidiomycota,Stereum hirsutum (strain FP-91666) (White-rot fungus)
+5,498,pif1_A0A484FKH5,A0A484FKH5,full,1-1117,1117,1117,0,ascomycota,Colletotrichum orbiculare (strain 104-T / ATCC 96160 / CBS 514.97 / LARS 414 / MAFF 240422) (Cucumber anthracnose fungus) (Colletotrichum lagenarium)
+5,499,pif1_R9AGB8,R9AGB8,full,1-614,614,614,0,basidiomycota,Wallemia ichthyophaga (strain EXF-994 / CBS 113033)
+6,500,pif1_A0A4P6XHN0,A0A4P6XHN0,full,1-686,686,686,0,ascomycota,Metschnikowia aff. pulcherrima
+6,501,pif1_R9NXM4,R9NXM4,full,1-719,719,719,0,basidiomycota,Pseudozyma hubeiensis (strain SY62) (Yeast)
+6,502,pif1_A0A4P6XSZ4,A0A4P6XSZ4,full,1-968,968,968,0,ascomycota,Metschnikowia aff. pulcherrima
+6,503,pif1_U5H9L9,U5H9L9,full,1-711,711,711,0,basidiomycota,Microbotryum lychnidis-dioicae (strain p1A1 Lamole / MvSl-1064) (Anther smut fungus)
+6,504,pif1_A0A4Q4P3R5,A0A4Q4P3R5,full,1-782,782,782,0,ascomycota,Alternaria tenuissima
+6,505,pif1_V2XGD7,V2XGD7,full,1-641,641,641,0,basidiomycota,Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)
+6,506,pif1_A0A4Q4SNS4,A0A4Q4SNS4,full,1-782,782,782,0,ascomycota,Alternaria arborescens
+6,507,pif1_V2XWW7,V2XWW7,full,1-650,650,650,0,basidiomycota,Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)
+6,508,pif1_A0A4Q4SW76,A0A4Q4SW76,full,1-810,810,810,0,ascomycota,Monosporascus ibericus
+6,509,pif1_V2Z1H8,V2Z1H8,full,1-641,641,641,0,basidiomycota,Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)
+6,510,pif1_A0A4R8QEN4,A0A4R8QEN4,full,1-1125,1125,1125,0,ascomycota,Colletotrichum spinosum
+6,511,pif1_V5GHH8,V5GHH8,full,1-734,734,734,0,basidiomycota,Kalmanozyma brasiliensis (strain GHG001) (Yeast) (Pseudozyma brasiliensis)
+6,512,pif1_A0A4R8TC14,A0A4R8TC14,full,1-840,840,840,0,ascomycota,Colletotrichum sidae
+6,513,pif1_W3VVA0,W3VVA0,full,1-693,693,693,0,basidiomycota,Moesziomyces aphidis (Pseudozyma aphidis)
+6,514,pif1_A0A4S8RIP6,A0A4S8RIP6,full,1-910,910,910,0,ascomycota,Botrytis galanthina
+6,515,pif1_A0A4T0X234,A0A4T0X234,full,1-670,670,670,0,ascomycota,Pichia inconspicua
+6,516,pif1_A0A4T0X4S6,A0A4T0X4S6,full,1-863,863,863,0,ascomycota,Pichia inconspicua
+6,517,pif1_A0A4U6XDE4,A0A4U6XDE4,full,1-885,885,885,0,ascomycota,Colletotrichum tanaceti
+6,518,pif1_A0A4V3HXL6,A0A4V3HXL6,full,1-840,840,840,0,ascomycota,Colletotrichum trifolii
+6,519,pif1_A0A4V3UMW7,A0A4V3UMW7,full,1-733,733,733,0,ascomycota,Aspergillus tanneri
+6,520,pif1_A0A4Y8D3B0,A0A4Y8D3B0,full,1-909,909,909,0,ascomycota,Botryotinia calthae
+6,521,pif1_A0A4Z0Z973,A0A4Z0Z973,full,1-839,839,839,0,ascomycota,Xylaria hypoxylon
+6,522,pif1_A0A4Z1EL52,A0A4Z1EL52,full,1-910,910,910,0,ascomycota,Botrytis tulipae
+6,523,pif1_A0A4Z1FQZ2,A0A4Z1FQZ2,full,1-907,907,907,0,ascomycota,Botrytis paeoniae
+6,524,pif1_A0A4Z1H1E5,A0A4Z1H1E5,full,1-910,910,910,0,ascomycota,Botrytis hyacinthi
+6,525,pif1_A0A4Z1I1P6,A0A4Z1I1P6,full,1-910,910,910,0,ascomycota,Botryotinia narcissicola
+6,526,pif1_A0A4Z1I5K8,A0A4Z1I5K8,full,1-910,910,910,0,ascomycota,Botryotinia convoluta
+6,527,pif1_A0A4Z1JM45,A0A4Z1JM45,full,1-911,911,911,0,ascomycota,Botrytis elliptica
+6,528,pif1_A0A4Z1L1J9,A0A4Z1L1J9,full,1-861,861,861,0,ascomycota,Botrytis porri
+6,529,pif1_A0A4Z1NVH7,A0A4Z1NVH7,full,1-1004,1004,1004,0,ascomycota,Venturia nashicola
+6,530,pif1_A0A507AHL1,A0A507AHL1,full,1-857,857,857,0,ascomycota,Thyridium curvatum
+6,531,pif1_A0A545VF71,A0A545VF71,full,1-803,803,803,0,ascomycota,Cordyceps javanica
+6,532,pif1_A0A553I2H5,A0A553I2H5,full,1-1556,1556,1556,0,ascomycota,Xylaria flabelliformis
+6,533,pif1_A0A559MKX1,A0A559MKX1,full,1-927,927,927,0,ascomycota,Lachnellula willkommii
+6,534,pif1_A0A5E8B6K8,A0A5E8B6K8,full,1-647,647,647,0,ascomycota,Magnusiomyces paraingens
+6,535,pif1_A0A5E8BI10,A0A5E8BI10,full,1-702,702,702,0,ascomycota,Magnusiomyces paraingens
+6,536,pif1_A0A5E8BJL0,A0A5E8BJL0,full,1-755,755,755,0,ascomycota,Magnusiomyces paraingens
+6,537,pif1_A0A5M3Z9B9,A0A5M3Z9B9,full,1-753,753,753,0,ascomycota,Aspergillus terreus
+6,538,pif1_A0A5M9JJ09,A0A5M9JJ09,full,1-868,868,868,0,ascomycota,Monilinia fructicola (Brown rot fungus) (Ciboria fructicola)
+6,539,pif1_A0A5N5DHG1,A0A5N5DHG1,full,1-870,870,870,0,ascomycota,Lasiodiplodia theobromae
+6,540,pif1_A0A5N6K1H9,A0A5N6K1H9,full,1-903,903,903,0,ascomycota,Monilinia laxa (Brown rot fungus) (Sclerotinia laxa)
+6,541,pif1_A0A5Q4C7C0,A0A5Q4C7C0,full,1-838,838,838,0,ascomycota,Colletotrichum shisoi
+6,542,pif1_A0A642UC18,A0A642UC18,full,1-851,851,851,0,ascomycota,Diutina rugosa (Yeast) (Candida rugosa)
+6,543,pif1_A0A642UJS9,A0A642UJS9,full,1-853,853,853,0,ascomycota,Trichomonascus ciferrii
+6,544,pif1_A0A642UMB7,A0A642UMB7,full,1-626,626,626,0,ascomycota,Diutina rugosa (Yeast) (Candida rugosa)
+6,545,pif1_A0A642V5E7,A0A642V5E7,full,1-689,689,689,0,ascomycota,Trichomonascus ciferrii
+6,546,pif1_A0A6A6V6U0,A0A6A6V6U0,full,1-851,851,851,0,ascomycota,Sporormia fimetaria CBS 119925
+6,547,pif1_A0A6H0XK98,A0A6H0XK98,full,1-803,803,803,0,ascomycota,Peltaster fructicola
+6,548,pif1_A0A6P8AS74,A0A6P8AS74,full,1-863,863,863,0,ascomycota,Pyricularia grisea (Crabgrass-specific blast fungus) (Magnaporthe grisea)
+6,549,pif1_A0A6V8H3K1,A0A6V8H3K1,full,1-743,743,743,0,ascomycota,Talaromyces pinophilus (Penicillium pinophilum)
+6,550,pif1_A0A7C8MWI0,A0A7C8MWI0,full,1-628,628,628,0,ascomycota,Xylaria multiplex
+6,551,pif1_A0A7D5Z7W4,A0A7D5Z7W4,full,1-813,813,813,0,ascomycota,Metarhizium brunneum
+6,552,pif1_A0A7D8YNF5,A0A7D8YNF5,full,1-920,920,920,0,ascomycota,Lachnellula cervina
+6,553,pif1_A0A7D9D0S1,A0A7D9D0S1,full,1-933,933,933,0,ascomycota,Dekkera bruxellensis (Brettanomyces custersii)
+6,554,pif1_A0A7D9H4X7,A0A7D9H4X7,full,1-925,925,925,0,ascomycota,Dekkera bruxellensis (Brettanomyces custersii)
+6,555,pif1_A0A7G3ZFX8,A0A7G3ZFX8,full,1-961,961,961,0,ascomycota,Torulaspora globosa
+6,556,pif1_A0A7G3ZIW5,A0A7G3ZIW5,full,1-677,677,677,0,ascomycota,Torulaspora globosa
+6,557,pif1_A0A7H8QY08,A0A7H8QY08,full,1-793,793,793,0,ascomycota,Talaromyces rugulosus (Penicillium rugulosum)
+6,558,pif1_A0A7H9AW24,A0A7H9AW24,full,1-704,704,704,0,ascomycota,Zygotorulaspora mrakii (Zygosaccharomyces mrakii)
+6,559,pif1_A0A7H9B3W0,A0A7H9B3W0,full,1-964,964,964,0,ascomycota,Zygotorulaspora mrakii (Zygosaccharomyces mrakii)
+6,560,pif1_A0A7H9HQ67,A0A7H9HQ67,full,1-938,938,938,0,ascomycota,Torulaspora globosa
+6,561,pif1_A0A7H9HUR2,A0A7H9HUR2,full,1-676,676,676,0,ascomycota,Torulaspora globosa
+6,562,pif1_A0A7U2QU03,A0A7U2QU03,full,1-754,754,754,0,ascomycota,Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / IAM 13836 / NRRL 3357 / JCM 12722 / SRRC 167)
+6,563,pif1_A0A8A3PQR8,A0A8A3PQR8,full,1-835,835,835,0,ascomycota,Monilinia vaccinii-corymbosi
+6,564,pif1_A0A8E2ECP4,A0A8E2ECP4,full,1-929,929,929,0,ascomycota,Lepidopterella palustris CBS 459.81
+6,565,pif1_A0A8E5HVQ8,A0A8E5HVQ8,full,1-858,858,858,0,ascomycota,Ustilaginoidea virens (Rice false smut fungus) (Villosiclava virens)
+6,566,pif1_A0A8G0PM48,A0A8G0PM48,full,1-840,840,840,0,ascomycota,Trichoderma simmonsii
+6,567,pif1_A0A8H2VG31,A0A8H2VG31,full,1-756,756,756,0,ascomycota,Maudiozyma barnettii
+6,568,pif1_A0A8H2ZKI7,A0A8H2ZKI7,full,1-877,877,877,0,ascomycota,Maudiozyma barnettii
+6,569,pif1_A0A8H2ZM85,A0A8H2ZM85,full,1-906,906,906,0,ascomycota,Sclerotinia trifoliorum
+6,570,pif1_A0A8H3WE31,A0A8H3WE31,full,1-853,853,853,0,ascomycota,Colletotrichum asianum
+6,571,pif1_A0A8H4CLQ5,A0A8H4CLQ5,full,1-904,904,904,0,ascomycota,Colletotrichum gloeosporioides (Anthracnose fungus) (Glomerella cingulata)
+6,572,pif1_A0A8H4ISW3,A0A8H4ISW3,full,1-861,861,861,0,ascomycota,Botryosphaeria dothidea
+6,573,pif1_A0A8H4KSP0,A0A8H4KSP0,full,1-822,822,822,0,ascomycota,Fusarium austroafricanum
+6,574,pif1_A0A8H4L6X0,A0A8H4L6X0,full,1-806,806,806,0,ascomycota,Fusarium albosuccineum
+6,575,pif1_A0A8H4M5R7,A0A8H4M5R7,full,1-744,744,744,0,ascomycota,Aspergillus fumigatiaffinis
+6,576,pif1_A0A8H4NYZ8,A0A8H4NYZ8,full,1-820,820,820,0,ascomycota,Fusarium acutatum
+6,577,pif1_A0A8H4PTP3,A0A8H4PTP3,full,1-819,819,819,0,ascomycota,Ophiocordyceps sinensis
+6,578,pif1_A0A8H4Q9J7,A0A8H4Q9J7,full,1-795,795,795,0,ascomycota,Ophiocordyceps camponoti-floridani
+6,579,pif1_A0A8H4RP39,A0A8H4RP39,full,1-1146,1146,1146,0,ascomycota,Cudoniella acicularis
+6,580,pif1_A0A8H4T2Y1,A0A8H4T2Y1,full,1-821,821,821,0,ascomycota,Fusarium sarcochroum
+6,581,pif1_A0A8H4T3M7,A0A8H4T3M7,full,1-820,820,820,0,ascomycota,Fusarium gaditjirri
+6,582,pif1_A0A8H4T4I9,A0A8H4T4I9,full,1-550,550,550,0,ascomycota,Fusarium gaditjirri
+6,583,pif1_A0A8H4XL08,A0A8H4XL08,full,1-1692,1692,1692,0,ascomycota,Fusarium zealandicum
+6,584,pif1_A0A8H4YPP2,A0A8H4YPP2,full,1-821,821,821,0,ascomycota,Fusarium anthophilum
+6,585,pif1_A0A8H5J614,A0A8H5J614,full,1-820,820,820,0,ascomycota,Fusarium napiforme
+6,586,pif1_A0A8H5K2L9,A0A8H5K2L9,full,1-820,820,820,0,ascomycota,Fusarium phyllophilum
+6,587,pif1_A0A8H5N1Z6,A0A8H5N1Z6,full,1-821,821,821,0,ascomycota,Fusarium mexicanum
+6,588,pif1_A0A8H5T131,A0A8H5T131,full,1-820,820,820,0,ascomycota,Fusarium denticulatum
+6,589,pif1_A0A8H5UMM3,A0A8H5UMM3,full,1-821,821,821,0,ascomycota,Fusarium circinatum (Pitch canker fungus) (Gibberella circinata)
+6,590,pif1_A0A8H5UR89,A0A8H5UR89,full,1-820,820,820,0,ascomycota,Fusarium pseudocircinatum
+6,591,pif1_A0A8H5V246,A0A8H5V246,full,1-825,825,825,0,ascomycota,Gibberella subglutinans (Fusarium subglutinans)
+6,592,pif1_A0A8H5V583,A0A8H5V583,full,1-820,820,820,0,ascomycota,Fusarium pseudoanthophilum
+6,593,pif1_A0A8H5VWV3,A0A8H5VWV3,full,1-820,820,820,0,ascomycota,Fusarium tjaetaba
+6,594,pif1_A0A8H5WXE6,A0A8H5WXE6,full,1-570,570,570,0,ascomycota,Fusarium heterosporum
+6,595,pif1_A0A8H5X4H1,A0A8H5X4H1,full,1-819,819,819,0,ascomycota,Fusarium heterosporum
+6,596,pif1_A0A8H5XTU0,A0A8H5XTU0,full,1-821,821,821,0,ascomycota,Fusarium globosum
+6,597,pif1_A0A8H6DJK2,A0A8H6DJK2,full,1-820,820,820,0,ascomycota,Fusarium mundagurra
+6,598,pif1_A0A8H6EMB0,A0A8H6EMB0,full,1-910,910,910,0,ascomycota,Botrytis fragariae
+6,599,pif1_A0A8H6KXX6,A0A8H6KXX6,full,1-892,892,892,0,ascomycota,Colletotrichum plurivorum
+7,600,pif1_A0A8H6MX16,A0A8H6MX16,full,1-898,898,898,0,ascomycota,Colletotrichum sojae
+7,601,pif1_A0A8H6P867,A0A8H6P867,full,1-765,765,765,0,ascomycota,Aspergillus hiratsukae
+7,602,pif1_A0A8H6U8X2,A0A8H6U8X2,full,1-883,883,883,0,ascomycota,Colletotrichum musicola
+7,603,pif1_A0A8H6UTP6,A0A8H6UTP6,full,1-744,744,744,0,ascomycota,Aspergillus felis
+7,604,pif1_A0A8H6VE95,A0A8H6VE95,full,1-942,942,942,0,ascomycota,Pseudocercospora fuligena
+7,605,pif1_A0A8H7B4D1,A0A8H7B4D1,full,1-782,782,782,0,ascomycota,Alternaria burnsii
+7,606,pif1_A0A8H7MC09,A0A8H7MC09,full,1-829,829,829,0,ascomycota,Ascochyta lentis
+7,607,pif1_A0A8H8D8N2,A0A8H8D8N2,full,1-645,645,645,0,ascomycota,Candida metapsilosis
+7,608,pif1_A0A8H8D9N3,A0A8H8D9N3,full,1-851,851,851,0,ascomycota,Candida metapsilosis
+7,609,pif1_A0A8H8QV95,A0A8H8QV95,full,1-922,922,922,0,ascomycota,Lachnellula hyalina
+7,610,pif1_A0A8H8RJD5,A0A8H8RJD5,full,1-922,922,922,0,ascomycota,Lachnellula subtilissima
+7,611,pif1_A0A8H8RV52,A0A8H8RV52,full,1-879,879,879,0,ascomycota,Lachnellula occidentalis
+7,612,pif1_A0A8J2N2S3,A0A8J2N2S3,full,1-781,781,781,0,ascomycota,Alternaria atra
+7,613,pif1_A0A8J2T8D0,A0A8J2T8D0,full,1-642,642,642,0,ascomycota,Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227)
+7,614,pif1_A0A8J2TAJ9,A0A8J2TAJ9,full,1-874,874,874,0,ascomycota,Zygosaccharomyces bailii (strain CLIB 213 / ATCC 58445 / CBS 680 / BCRC 21525 / NBRC 1098 / NCYC 1416 / NRRL Y-2227)
+7,615,pif1_A0A8J5QH60,A0A8J5QH60,full,1-715,715,715,1,ascomycota,[Candida] subhashii
+7,616,pif1_A0A8J8WMJ2,A0A8J8WMJ2,full,1-727,727,727,0,ascomycota,Penicillium ucsense
+7,617,pif1_A0A8K0LFH0,A0A8K0LFH0,full,1-916,916,916,0,ascomycota,Elsinoe batatas
+7,618,pif1_A0A8T9B5J8,A0A8T9B5J8,full,1-883,883,883,0,ascomycota,Lachnellula arida
+7,619,pif1_A0A8T9C083,A0A8T9C083,full,1-889,889,889,0,ascomycota,Lachnellula suecica
+7,620,pif1_A0A9N8P4J7,A0A9N8P4J7,full,1-875,875,875,0,ascomycota,Aureobasidium vineae
+7,621,pif1_A0A9N8P9K6,A0A9N8P9K6,full,1-883,883,883,0,ascomycota,Aureobasidium mustum
+7,622,pif1_A0A9N8PPA1,A0A9N8PPA1,full,1-876,876,876,0,ascomycota,Aureobasidium uvarum
+7,623,pif1_A0A9N9L4M2,A0A9N9L4M2,full,1-914,914,914,0,ascomycota,Hymenoscyphus fraxineus
+7,624,pif1_A0A9N9LYP1,A0A9N9LYP1,full,1-914,914,914,0,ascomycota,Hymenoscyphus albidus
+7,625,pif1_A0A9N9W2U8,A0A9N9W2U8,full,1-836,836,836,0,ascomycota,Clonostachys solani
+7,626,pif1_A0A9N9Y4Q8,A0A9N9Y4Q8,full,1-799,799,799,0,ascomycota,Clonostachys byssicola
+7,627,pif1_A0A9N9YLT0,A0A9N9YLT0,full,1-799,799,799,0,ascomycota,Clonostachys rhizophaga
+7,628,pif1_A0A9P0QRK9,A0A9P0QRK9,full,1-821,821,821,0,ascomycota,[Candida] railenensis
+7,629,pif1_A0A9P0QU44,A0A9P0QU44,full,1-714,714,714,0,ascomycota,[Candida] railenensis
+7,630,pif1_A0A9P3CP80,A0A9P3CP80,full,1-928,928,928,0,ascomycota,Cercospora kikuchii
+7,631,pif1_A0A9P4X3G5,A0A9P4X3G5,full,1-844,844,844,0,ascomycota,Trichoderma lentiforme
+7,632,pif1_A0A9P4YU51,A0A9P4YU51,full,1-846,846,846,0,ascomycota,Geosmithia morbida
+7,633,pif1_A0A9P5AP51,A0A9P5AP51,full,1-818,818,818,0,ascomycota,Fusarium beomiforme
+7,634,pif1_A0A9P5F6D8,A0A9P5F6D8,full,1-853,853,853,0,ascomycota,Colletotrichum siamense (Anthracnose fungus)
+7,635,pif1_A0A9P5H1A3,A0A9P5H1A3,full,1-878,878,878,0,ascomycota,Cylindrodendrum hubeiense
+7,636,pif1_A0A9P5HJJ0,A0A9P5HJJ0,full,1-858,858,858,0,ascomycota,Cylindrodendrum hubeiense
+7,637,pif1_A0A9P5IFU8,A0A9P5IFU8,full,1-910,910,910,0,ascomycota,Botrytis byssoidea
+7,638,pif1_A0A9P6I5L3,A0A9P6I5L3,full,1-850,850,850,0,ascomycota,Colletotrichum karsti
+7,639,pif1_A0A9P6VJM9,A0A9P6VJM9,full,1-873,873,873,0,ascomycota,Hyphodiscus hymeniophilus
+7,640,pif1_A0A9P7HAM0,A0A9P7HAM0,full,1-819,819,819,0,ascomycota,Fusarium avenaceum
+7,641,pif1_A0A9P7IRT1,A0A9P7IRT1,full,1-847,847,847,0,ascomycota,Fusarium xylarioides
+7,642,pif1_A0A9P7UDJ2,A0A9P7UDJ2,full,1-880,880,880,0,ascomycota,Colletotrichum scovillei
+7,643,pif1_A0A9P8F6U8,A0A9P8F6U8,full,1-900,900,900,0,ascomycota,Aureobasidium melanogenum (Aureobasidium pullulans var. melanogenum)
+7,644,pif1_A0A9P8KRB0,A0A9P8KRB0,full,1-842,842,842,0,ascomycota,Trichoderma semiorbis
+7,645,pif1_A0A9P8M8W8,A0A9P8M8W8,full,1-815,815,815,0,ascomycota,Metarhizium humberi
+7,646,pif1_A0A9P8NYE8,A0A9P8NYE8,full,1-834,834,834,0,ascomycota,Ogataea philodendri
+7,647,pif1_A0A9P8P3R0,A0A9P8P3R0,full,1-666,666,666,0,ascomycota,Ogataea polymorpha
+7,648,pif1_A0A9P8PN42,A0A9P8PN42,full,1-947,947,947,0,ascomycota,Wickerhamomyces mucosus
+7,649,pif1_A0A9P8PWM7,A0A9P8PWM7,full,1-825,825,825,0,ascomycota,Ogataea polymorpha
+7,650,pif1_A0A9P8Q2R3,A0A9P8Q2R3,full,1-1245,1245,1245,0,ascomycota,Wickerhamomyces pijperi (Yeast) (Pichia pijperi)
+7,651,pif1_A0A9P8Q4R9,A0A9P8Q4R9,full,1-687,687,687,0,ascomycota,Wickerhamomyces pijperi (Yeast) (Pichia pijperi)
+7,652,pif1_A0A9P8SF62,A0A9P8SF62,full,1-786,786,786,0,ascomycota,Hirsutella rhossiliensis
+7,653,pif1_A0A9P8T4U6,A0A9P8T4U6,full,1-668,668,668,0,ascomycota,Ogataea philodendri
+7,654,pif1_A0A9P8TBX6,A0A9P8TBX6,full,1-676,676,676,0,ascomycota,Wickerhamomyces mucosus
+7,655,pif1_A0A9P8TS07,A0A9P8TS07,full,1-855,855,855,0,ascomycota,Trichoderma cornu-damae
+7,656,pif1_A0A9P9XSS9,A0A9P9XSS9,full,1-834,834,834,0,ascomycota,Colletotrichum abscissum
+7,657,pif1_A0A9P9XX88,A0A9P9XX88,full,1-797,797,797,0,ascomycota,Emericellopsis cladophorae
+7,658,pif1_A0A9Q0AR35,A0A9Q0AR35,full,1-843,843,843,0,ascomycota,Neoarthrinium moseri
+7,659,pif1_A0A9Q8LAV6,A0A9Q8LAV6,full,1-911,911,911,0,ascomycota,Fulvia fulva (Tomato leaf mold) (Passalora fulva)
+7,660,pif1_A0A9Q8QLM5,A0A9Q8QLM5,full,1-868,868,868,0,ascomycota,Purpureocillium takamizusanense
+7,661,pif1_A0A9Q8SIE6,A0A9Q8SIE6,full,1-923,923,923,0,ascomycota,Colletotrichum lupini
+7,662,pif1_A0A9Q9EGB7,A0A9Q9EGB7,full,1-852,852,852,0,ascomycota,Septoria linicola
+7,663,pif1_A0A9W4RWK1,A0A9W4RWK1,full,1-906,906,906,0,ascomycota,Colletotrichum noveboracense
+7,664,pif1_A0A9W4TRY8,A0A9W4TRY8,full,1-658,658,658,0,ascomycota,Candida verbasci
+7,665,pif1_A0A9W4TSQ7,A0A9W4TSQ7,full,1-1019,1019,1019,0,ascomycota,Candida verbasci
+7,666,pif1_A0A9W4UE87,A0A9W4UE87,full,1-854,854,854,0,ascomycota,Periconia digitata
+7,667,pif1_A0A9W6SUB1,A0A9W6SUB1,full,1-1067,1067,1067,0,ascomycota,Candida boidinii (Yeast)
+7,668,pif1_A0A9W7DE56,A0A9W7DE56,full,1-890,890,890,0,ascomycota,Ambrosiozyma monospora (Yeast) (Endomycopsis monosporus)
+7,669,pif1_A0A9W7SU85,A0A9W7SU85,full,1-844,844,844,0,ascomycota,Teratosphaeria destructans
+7,670,pif1_A0A9W8N7W2,A0A9W8N7W2,full,1-742,742,742,0,ascomycota,Xylaria arbuscula
+7,671,pif1_A0A9W8NAJ3,A0A9W8NAJ3,full,1-888,888,888,0,ascomycota,Xylaria arbuscula
+7,672,pif1_A0A9W8UIP0,A0A9W8UIP0,full,1-803,803,803,0,ascomycota,Akanthomyces muscarius (Entomopathogenic fungus) (Lecanicillium muscarium)
+7,673,pif1_A0A9W9E386,A0A9W9E386,full,1-814,814,814,0,ascomycota,Trichoderma breve
+7,674,pif1_A0A9W9FVK9,A0A9W9FVK9,full,1-732,732,732,0,ascomycota,Penicillium angulare
+7,675,pif1_A0A9W9GHH5,A0A9W9GHH5,full,1-773,773,773,0,ascomycota,Penicillium bovifimosum
+7,676,pif1_A0A9W9HNM9,A0A9W9HNM9,full,1-759,759,759,0,ascomycota,Penicillium capsulatum
+7,677,pif1_A0A9W9HYZ6,A0A9W9HYZ6,full,1-730,730,730,0,ascomycota,Penicillium canariense
+7,678,pif1_A0A9W9JQ30,A0A9W9JQ30,full,1-762,762,762,0,ascomycota,Penicillium cf. griseofulvum
+7,679,pif1_A0A9W9KB48,A0A9W9KB48,full,1-733,733,733,0,ascomycota,Penicillium argentinense
+7,680,pif1_A0A9W9KDN3,A0A9W9KDN3,full,1-773,773,773,0,ascomycota,Penicillium alfredii
+7,681,pif1_A0A9W9M2N2,A0A9W9M2N2,full,1-716,716,716,0,ascomycota,Penicillium cf. viridicatum
+7,682,pif1_A0A9W9NF67,A0A9W9NF67,full,1-733,733,733,0,ascomycota,Penicillium cinerascens
+7,683,pif1_A0A9W9PGZ8,A0A9W9PGZ8,full,1-726,726,726,0,ascomycota,Penicillium chermesinum
+7,684,pif1_A0A9W9PWX5,A0A9W9PWX5,full,1-728,728,728,0,ascomycota,Penicillium atrosanguineum
+7,685,pif1_A0A9W9RAK9,A0A9W9RAK9,full,1-761,761,761,0,ascomycota,Penicillium concentricum
+7,686,pif1_A0A9W9RW94,A0A9W9RW94,full,1-754,754,754,0,ascomycota,Penicillium brevicompactum
+7,687,pif1_A0A9W9TVT2,A0A9W9TVT2,full,1-704,704,704,0,ascomycota,Penicillium citrinum
+7,688,pif1_A0A9W9V6L1,A0A9W9V6L1,full,1-728,728,728,0,ascomycota,Penicillium cataractarum
+7,689,pif1_A0A9W9WZB3,A0A9W9WZB3,full,1-763,763,763,0,ascomycota,Penicillium desertorum
+7,690,pif1_A0A9W9XDN3,A0A9W9XDN3,full,1-657,657,657,0,ascomycota,Penicillium diatomitis
+7,691,pif1_A0A9W9XR84,A0A9W9XR84,full,1-762,762,762,0,ascomycota,Penicillium fimorum
+7,692,pif1_A0A9X0BA58,A0A9X0BA58,full,1-786,786,786,0,ascomycota,Penicillium cosmopolitanum
+7,693,pif1_A0AA35IR82,A0AA35IR82,full,1-859,859,859,0,ascomycota,Saccharomyces mikatae IFO 1815
+7,694,pif1_A0AA35J0E4,A0AA35J0E4,full,1-723,723,723,0,ascomycota,Saccharomyces mikatae IFO 1815
+7,695,pif1_A0AA35JJF7,A0AA35JJF7,full,1-721,721,721,0,ascomycota,Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)
+7,696,pif1_A0AA35M823,A0AA35M823,full,1-799,799,799,0,ascomycota,Clonostachys chloroleuca
+7,697,pif1_A0AA35NL61,A0AA35NL61,full,1-857,857,857,0,ascomycota,Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)
+7,698,pif1_A0AA38R6I5,A0AA38R6I5,full,1-829,829,829,0,ascomycota,Pleurostoma richardsiae
+7,699,pif1_A0AA38VV67,A0AA38VV67,full,1-825,825,825,0,ascomycota,Coniochaeta hoffmannii
+8,700,pif1_A0AA39L6U6,A0AA39L6U6,full,1-866,866,866,0,ascomycota,Sarocladium strictum (Black bundle disease fungus) (Acremonium strictum)
+8,701,pif1_A0AA39QRC0,A0AA39QRC0,full,1-869,869,869,0,ascomycota,Cladonia borealis
+8,702,pif1_A0AA40CH22,A0AA40CH22,full,1-867,867,867,0,ascomycota,Lasiodiplodia hormozganensis
+8,703,pif1_A0AAD4IFY3,A0AAD4IFY3,full,1-783,783,783,0,ascomycota,Alternaria panax
+8,704,pif1_A0AAD5BBM1,A0AAD5BBM1,full,1-892,892,892,0,ascomycota,Candida theae
+8,705,pif1_A0AAD5BCG9,A0AAD5BCG9,full,1-643,643,643,0,ascomycota,Candida theae
+8,706,pif1_A0AAD5RWL4,A0AAD5RWL4,full,1-919,919,919,0,ascomycota,Zalerion maritima
+8,707,pif1_A0AAD6BVQ3,A0AAD6BVQ3,full,1-727,727,727,0,ascomycota,Penicillium daleae
+8,708,pif1_A0AAD6E3Q9,A0AAD6E3Q9,full,1-704,704,704,0,ascomycota,Penicillium hetheringtonii
+8,709,pif1_A0AAD6GIB4,A0AAD6GIB4,full,1-768,768,768,0,ascomycota,Penicillium frequentans
+8,710,pif1_A0AAD6H8K2,A0AAD6H8K2,full,1-718,718,718,0,ascomycota,Penicillium hordei
+8,711,pif1_A0AAD6IDC6,A0AAD6IDC6,full,1-758,758,758,0,ascomycota,Penicillium canescens
+8,712,pif1_A0AAD6MU90,A0AAD6MU90,full,1-766,766,766,0,ascomycota,Penicillium malachiteum
+8,713,pif1_A0AAD9AKZ3,A0AAD9AKZ3,full,1-897,897,897,0,ascomycota,Colletotrichum chrysophilum
+8,714,pif1_A0AAD9I3P7,A0AAD9I3P7,full,1-562,562,562,0,ascomycota,Phyllachora maydis
+8,715,pif1_A0AAD9SP23,A0AAD9SP23,full,1-507,507,507,0,ascomycota,Diaporthe amygdali (Fusicoccum amygdali)
+8,716,pif1_A0AAD9T215,A0AAD9T215,full,1-932,932,932,0,ascomycota,Diplocarpon rosae
+8,717,pif1_A0AAD9W185,A0AAD9W185,full,1-869,869,869,0,ascomycota,Diaporthe amygdali (Fusicoccum amygdali)
+8,718,pif1_A0AAD9Y213,A0AAD9Y213,full,1-886,886,886,0,ascomycota,Colletotrichum kahawae (Coffee berry disease fungus)
+8,719,pif1_A0AAE1J0Y1,A0AAE1J0Y1,full,1-846,846,846,0,ascomycota,Trichoderma aggressivum f. europaeum
+8,720,pif1_A0AAE8M1S2,A0AAE8M1S2,full,1-819,819,819,0,ascomycota,Fusarium torulosum
+8,721,pif1_A0AAE8SVQ8,A0AAE8SVQ8,full,1-854,854,854,0,ascomycota,Cephalotrichum gorgonifer
+8,722,pif1_A0AAE9W8S9,A0AAE9W8S9,full,1-788,788,788,0,ascomycota,Schizosaccharomyces osmophilus
+8,723,pif1_A0AAI8YJ59,A0AAI8YJ59,full,1-879,879,879,0,ascomycota,Anthostomella pinea
+8,724,pif1_A0AAI8YTU8,A0AAI8YTU8,full,1-859,859,859,0,ascomycota,Lecanosticta acicola
+8,725,pif1_A0AAI9SW46,A0AAI9SW46,full,1-934,934,934,0,ascomycota,Candida oxycetoniae
+8,726,pif1_A0AAI9SXC1,A0AAI9SXC1,full,1-638,638,638,0,ascomycota,Candida oxycetoniae
+8,727,pif1_A0AAI9TIH2,A0AAI9TIH2,full,1-681,681,681,0,ascomycota,Penicillium thymicola
+8,728,pif1_A0AAI9UII0,A0AAI9UII0,full,1-834,834,834,0,ascomycota,Colletotrichum cuscutae
+8,729,pif1_A0AAI9XWQ1,A0AAI9XWQ1,full,1-834,834,834,0,ascomycota,Colletotrichum melonis
+8,730,pif1_A0AAJ0E579,A0AAJ0E579,full,1-834,834,834,0,ascomycota,Colletotrichum costaricense
+8,731,pif1_A0AAN5Z088,A0AAN5Z088,full,1-873,873,873,0,ascomycota,Fusarium austroamericanum
+8,732,pif1_A0AAN6BNB4,A0AAN6BNB4,full,1-744,744,744,0,ascomycota,Aspergillus lentulus
+8,733,pif1_A0AAN6NX75,A0AAN6NX75,full,1-930,930,930,0,ascomycota,Pseudoneurospora amorphoporcata
+8,734,pif1_A0AAN6PR26,A0AAN6PR26,full,1-764,764,764,0,ascomycota,Parachaetomium inaequale
+8,735,pif1_A0AAN7BLM5,A0AAN7BLM5,full,1-838,838,838,0,ascomycota,Podospora fimiseda
+8,736,pif1_A0AAQ3M7G8,A0AAQ3M7G8,full,1-848,848,848,0,ascomycota,Acrodontium crateriforme
+8,737,pif1_A0AAV5QDJ4,A0AAV5QDJ4,full,1-682,682,682,0,ascomycota,Saccharomycopsis crataegensis
+8,738,pif1_A0AAV5QKF6,A0AAV5QKF6,full,1-985,985,985,0,ascomycota,Saccharomycopsis crataegensis
+8,739,pif1_A0AAV5QX45,A0AAV5QX45,full,1-932,932,932,0,ascomycota,Pichia kluyveri (Yeast)
+8,740,pif1_A0AAV5R7D5,A0AAV5R7D5,full,1-690,690,690,0,ascomycota,Pichia kluyveri (Yeast)
+8,741,pif1_A0AAV5RMN1,A0AAV5RMN1,full,1-652,652,652,0,ascomycota,Starmerella bacillaris (Yeast) (Candida zemplinina)
+8,742,pif1_A0AAV5RQD8,A0AAV5RQD8,full,1-857,857,857,0,ascomycota,Maudiozyma humilis (Sour dough yeast) (Kazachstania humilis)
+8,743,pif1_A0AAV5RS12,A0AAV5RS12,full,1-893,893,893,0,ascomycota,Starmerella bacillaris (Yeast) (Candida zemplinina)
+8,744,pif1_A0AAV5S599,A0AAV5S599,full,1-760,760,760,0,ascomycota,Maudiozyma humilis (Sour dough yeast) (Kazachstania humilis)
+8,745,pif1_A0AAV9HLS5,A0AAV9HLS5,full,1-851,851,851,0,ascomycota,Cladorrhinum samala
+8,746,pif1_A0AAV9SU16,A0AAV9SU16,full,1-839,839,839,0,ascomycota,Colletotrichum tabaci
+8,747,pif1_A0AAV9UWD6,A0AAV9UWD6,full,1-829,829,829,0,ascomycota,Orbilia brochopaga
+8,748,pif1_A0AAV9UWK0,A0AAV9UWK0,full,1-1015,1015,1015,0,ascomycota,Orbilia blumenaviensis
+8,749,pif1_A0AAV9X1R8,A0AAV9X1R8,full,1-989,989,989,0,ascomycota,Orbilia ellipsospora
+8,750,pif1_A0AAW0R3B8,A0AAW0R3B8,full,1-843,843,843,0,ascomycota,Apiospora kogelbergensis
+8,751,pif1_A0AAX4HB97,A0AAX4HB97,full,1-870,870,870,0,ascomycota,Australozyma saopauloensis
+8,752,pif1_A0AAX4HF17,A0AAX4HF17,full,1-674,674,674,0,ascomycota,Australozyma saopauloensis
+8,753,pif1_A0AAX4HXM9,A0AAX4HXM9,full,1-884,884,884,0,ascomycota,Colletotrichum destructivum
+8,754,pif1_A0AB34G0U3,A0AB34G0U3,full,1-1502,1502,1502,0,ascomycota,Purpureocillium lavendulum
+8,755,pif1_A0AB34KML8,A0AB34KML8,full,1-895,895,895,0,ascomycota,Cladosporium halotolerans
+8,756,pif1_A0ABN8VEY2,A0ABN8VEY2,full,1-859,859,859,0,ascomycota,Saccharomyces eubayanus (Yeast)
+8,757,pif1_A0ABN8VSG3,A0ABN8VSG3,full,1-731,731,731,0,ascomycota,Saccharomyces eubayanus (Yeast)
+8,758,pif1_A0ABN8WKL1,A0ABN8WKL1,full,1-731,731,731,0,ascomycota,Saccharomyces uvarum (Yeast) (Saccharomyces bayanus var. uvarum)
+8,759,pif1_A0ABN8WPA3,A0ABN8WPA3,full,1-859,859,859,0,ascomycota,Saccharomyces uvarum (Yeast) (Saccharomyces bayanus var. uvarum)
+8,760,pif1_A0ABP0EFL8,A0ABP0EFL8,full,1-909,909,909,0,ascomycota,[Candida] anglica
+8,761,pif1_A0ABP0EH01,A0ABP0EH01,full,1-714,714,714,0,ascomycota,[Candida] anglica
+8,762,pif1_A0ABP0ZHK7,A0ABP0ZHK7,full,1-896,896,896,0,ascomycota,Lodderomyces beijingensis
+8,763,pif1_A0ABP0ZI86,A0ABP0ZI86,full,1-671,671,671,0,ascomycota,Lodderomyces beijingensis
+8,764,pif1_A0ABP2EZZ6,A0ABP2EZZ6,full,1-798,798,798,0,ascomycota,Ajellomyces dermatitidis (strain ER-3 / ATCC MYA-2586) (Blastomyces dermatitidis)
+8,765,pif1_A0ABQ0CIR6,A0ABQ0CIR6,full,1-824,824,824,0,ascomycota,Epichloe bromicola
+8,766,pif1_A0ABQ0GRH5,A0ABQ0GRH5,full,1-820,820,820,0,ascomycota,Madurella fahalii
+8,767,pif1_A0ABQ1A1P2,A0ABQ1A1P2,full,1-744,744,744,0,ascomycota,Aspergillus udagawae
+8,768,pif1_A0ABQ7IPQ8,A0ABQ7IPQ8,full,1-911,911,911,0,ascomycota,Botrytis deweyae
+8,769,pif1_A0ABQ7RA53,A0ABQ7RA53,full,1-666,666,666,0,ascomycota,Ogataea haglerorum
+8,770,pif1_A0ABQ7RB90,A0ABQ7RB90,full,1-830,830,830,0,ascomycota,Ogataea haglerorum
+8,771,pif1_A0ABQ7RSC4,A0ABQ7RSC4,full,1-825,825,825,0,ascomycota,Pichia angusta (Yeast) (Hansenula polymorpha)
+8,772,pif1_A0ABQ7S1B0,A0ABQ7S1B0,full,1-666,666,666,0,ascomycota,Pichia angusta (Yeast) (Hansenula polymorpha)
+8,773,pif1_A0ABQ8N742,A0ABQ8N742,full,1-864,864,864,0,ascomycota,Pyricularia grisea (Crabgrass-specific blast fungus) (Magnaporthe grisea)
+8,774,pif1_A0ABQ8WGQ7,A0ABQ8WGQ7,full,1-720,720,720,0,ascomycota,Penicillium chrysogenum (Penicillium notatum)
+8,775,pif1_A0ABQ9PW01,A0ABQ9PW01,full,1-834,834,834,0,ascomycota,Colletotrichum limetticola
+8,776,pif1_A0ABQ9RPP9,A0ABQ9RPP9,full,1-834,834,834,0,ascomycota,Colletotrichum tamarilloi
+8,777,pif1_A0ABQ9SFB4,A0ABQ9SFB4,full,1-834,834,834,0,ascomycota,Colletotrichum paranaense
+8,778,pif1_A0ABR0F5M0,A0ABR0F5M0,full,1-900,900,900,0,ascomycota,Podospora bellae-mahoneyi
+8,779,pif1_A0ABR0G3Y6,A0ABR0G3Y6,full,1-900,900,900,0,ascomycota,Podospora pseudocomata
+8,780,pif1_A0ABR0H0U4,A0ABR0H0U4,full,1-895,895,895,0,ascomycota,Podospora pseudopauciseta
+8,781,pif1_A0ABR0HK82,A0ABR0HK82,full,1-895,895,895,0,ascomycota,Podospora pseudoanserina
+8,782,pif1_A0ABR0SAG8,A0ABR0SAG8,full,1-832,832,832,0,ascomycota,Cladobotryum mycophilum
+8,783,pif1_A0ABR0TKY5,A0ABR0TKY5,full,1-933,933,933,0,ascomycota,Aureobasidium pullulans (Black yeast) (Pullularia pullulans)
+8,784,pif1_A0ABR1PTT1,A0ABR1PTT1,full,1-877,877,877,0,ascomycota,Apiospora aurea
+8,785,pif1_A0ABR1QZN4,A0ABR1QZN4,full,1-508,508,508,0,ascomycota,Apiospora marii
+8,786,pif1_A0ABR1RLE4,A0ABR1RLE4,full,1-817,817,817,0,ascomycota,Apiospora marii
+8,787,pif1_A0ABR1RWV5,A0ABR1RWV5,full,1-876,876,876,0,ascomycota,Apiospora rasikravindrae
+8,788,pif1_A0ABR1UF14,A0ABR1UF14,full,1-868,868,868,0,ascomycota,Apiospora saccharicola
+8,789,pif1_A0ABR1VZW9,A0ABR1VZW9,full,1-772,772,772,0,ascomycota,Apiospora phragmitis
+8,790,pif1_A0ABR1X8H1,A0ABR1X8H1,full,1-508,508,508,0,ascomycota,Apiospora hydei
+8,791,pif1_A0ABR1X8Q2,A0ABR1X8Q2,full,1-785,785,785,0,ascomycota,Apiospora hydei
+8,792,pif1_A0ABR2HLJ4,A0ABR2HLJ4,full,1-870,870,870,0,ascomycota,Apiospora arundinis
+8,793,pif1_A0ABR2V6U6,A0ABR2V6U6,full,1-872,872,872,0,ascomycota,Seiridium unicorne
+8,794,pif1_A0ABR2XV60,A0ABR2XV60,full,1-870,870,870,0,ascomycota,Seiridium cardinale
+8,795,pif1_A0ABR3DMS4,A0ABR3DMS4,full,1-928,928,928,0,ascomycota,Neurospora intermedia
+8,796,pif1_A0ABR3P4W3,A0ABR3P4W3,full,1-870,870,870,0,ascomycota,Neodothiora populina
+8,797,pif1_A0ABR3VRV6,A0ABR3VRV6,full,1-815,815,815,0,ascomycota,Humicola insolens (Soft-rot fungus)
+8,798,pif1_A0ABR3Y3X8,A0ABR3Y3X8,full,1-805,805,805,0,ascomycota,Phialemonium thermophilum
+8,799,pif1_A0ABR4D136,A0ABR4D136,full,1-970,970,970,0,ascomycota,Oculimacula yallundae
+9,800,pif1_A0ABR4DNY3,A0ABR4DNY3,full,1-859,859,859,0,ascomycota,Remersonia thermophila
+9,801,pif1_A0ABR4DQT9,A0ABR4DQT9,full,1-866,866,866,0,ascomycota,Diaporthe vaccinii
+9,802,pif1_A0ABR4F3V5,A0ABR4F3V5,full,1-516,516,516,0,ascomycota,Diaporthe vaccinii
+9,803,pif1_A0ABR4MDG3,A0ABR4MDG3,full,1-751,751,751,0,ascomycota,Ceratocystis lukuohia
+9,804,pif1_A0ABR4NXG5,A0ABR4NXG5,full,1-919,919,919,0,ascomycota,Nakaseomyces bracarensis
+9,805,pif1_A0ABR4P0R8,A0ABR4P0R8,full,1-692,692,692,0,ascomycota,Nakaseomyces bracarensis
+9,806,pif1_A0ABR4PIR0,A0ABR4PIR0,full,1-592,592,592,0,ascomycota,Phlyctema vagabunda
+9,807,pif1_A0ABX6EXJ8,A0ABX6EXJ8,full,1-852,852,852,0,ascomycota,Kluyveromyces marxianus (Yeast) (Candida kefyr)
+9,808,pif1_A0ABX6F0Q7,A0ABX6F0Q7,full,1-703,703,703,0,ascomycota,Kluyveromyces marxianus (Yeast) (Candida kefyr)
+9,809,pif1_A0ABX8I2X5,A0ABX8I2X5,full,1-2755,2755,2755,0,ascomycota,Candidozyma haemuli
+9,810,pif1_A0ABX8I4W3,A0ABX8I4W3,full,1-791,791,791,0,ascomycota,Candidozyma haemuli
+9,811,pif1_A0ABY0HA38,A0ABY0HA38,full,1-803,803,803,0,ascomycota,Monosporascus cannonballus
+9,812,pif1_A0ABY2H3J9,A0ABY2H3J9,full,1-880,880,880,0,ascomycota,Trichoderma ghanense
+9,813,pif1_A0ABY6SM04,A0ABY6SM04,full,1-835,835,835,0,ascomycota,Podospora comata
+9,814,pif1_A0ABY6US88,A0ABY6US88,full,1-799,799,799,0,ascomycota,Bionectria ochroleuca (Gliocladium roseum)
+9,815,pif1_A0ABZ2WRY7,A0ABZ2WRY7,full,1-872,872,872,0,ascomycota,Fusarium acuminatum
+9,816,pif1_A0ACA9TUV3,A0ACA9TUV3,full,1-799,799,799,0,ascomycota,Clonostachys rosea f. rosea IK726
+9,817,pif1_A0ACA9Y7U7,A0ACA9Y7U7,full,1-750,750,750,0,ascomycota,[Candida] jaroonii
+9,818,pif1_A0ACA9YCX0,A0ACA9YCX0,full,1-710,710,710,0,ascomycota,[Candida] jaroonii
+9,819,pif1_A0ACB5SA82,A0ACB5SA82,full,1-730,730,730,0,ascomycota,Neofusicoccum parvum
+9,820,pif1_A0ACB6V604,A0ACB6V604,full,1-779,779,779,0,ascomycota,Geotrichum galactomycetum
+9,821,pif1_A0ACB6V835,A0ACB6V835,full,1-768,768,768,0,ascomycota,Geotrichum galactomycetum
+9,822,pif1_A0ACC0QR54,A0ACC0QR54,full,1-850,850,850,0,ascomycota,Fusarium keratoplasticum
+9,823,pif1_A0ACC1N0K5,A0ACC1N0K5,full,1-843,843,843,0,ascomycota,Zarea fungicola
+9,824,pif1_A0ACC1PT71,A0ACC1PT71,full,1-1102,1102,1102,0,ascomycota,Xylaria curta
+9,825,pif1_A0ACC1RAE9,A0ACC1RAE9,full,1-846,846,846,0,ascomycota,Lecanicillium saksenae
+9,826,pif1_A0ACC1RL04,A0ACC1RL04,full,1-794,794,794,0,ascomycota,Fusarium decemcellulare
+9,827,pif1_A0ACC2HQW4,A0ACC2HQW4,full,1-791,791,791,0,ascomycota,Boeremia exigua
+9,828,pif1_A0ACC3TRB3,A0ACC3TRB3,full,1-849,849,849,0,ascomycota,Lipomyces orientalis
+9,829,pif1_A0ACC3YGM8,A0ACC3YGM8,full,1-893,893,893,0,ascomycota,Colletotrichum truncatum (Anthracnose fungus) (Colletotrichum capsici)
+9,830,pif1_A0ACD3Z1H8,A0ACD3Z1H8,full,1-850,850,850,0,ascomycota,Fusarium solani subsp. cucurbitae (Neocosmosporum cucurbitae)
+9,831,pif1_A1CBS2,A1CBS2,full,1-747,747,747,0,ascomycota,Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1 / QM 1276 / 107)
+9,832,pif1_A1DDJ4,A1DDJ4,full,1-744,744,744,0,ascomycota,Aspergillus fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181) (Neosartorya fischeri)
+9,833,pif1_A2R3M6,A2R3M6,full,1-800,800,800,0,ascomycota,Aspergillus niger (strain ATCC MYA-4892 / CBS 513.88 / FGSC A1513)
+9,834,pif1_A5DHA1,A5DHA1,full,1-722,722,722,0,ascomycota,Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) (Yeast) (Candida guilliermondii)
+9,835,pif1_A5DRR3,A5DRR3,full,1-668,668,668,0,ascomycota,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)
+9,836,pif1_A5E709,A5E709,full,1-1047,1047,1047,0,ascomycota,Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) (Yeast) (Saccharomyces elongisporus)
+9,837,pif1_A7EDF0,A7EDF0,full,1-907,907,907,0,ascomycota,Sclerotinia sclerotiorum (strain ATCC 18683 / 1980 / Ss-1) (White mold) (Whetzelinia sclerotiorum)
+9,838,pif1_A7TJ00,A7TJ00,full,1-732,732,732,0,ascomycota,Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)
+9,839,pif1_A7TMC2,A7TMC2,full,1-632,632,632,0,ascomycota,Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)
+9,840,pif1_A7TNQ0,A7TNQ0,full,1-958,958,958,0,ascomycota,Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294 / BCRC 21397 / CBS 2163 / NBRC 10782 / NRRL Y-8283 / UCD 57-17) (Kluyveromyces polysporus)
+9,841,pif1_B0Y232,B0Y232,full,1-788,788,788,0,ascomycota,Aspergillus fumigatus (strain CBS 144.89 / FGSC A1163 / CEA10) (Neosartorya fumigata)
+9,842,pif1_B3LLJ4,B3LLJ4,full,1-859,859,859,0,ascomycota,Saccharomyces cerevisiae (strain RM11-1a) (Baker's yeast)
+9,843,pif1_B3LSF2,B3LSF2,full,1-723,723,723,0,ascomycota,Saccharomyces cerevisiae (strain RM11-1a) (Baker's yeast)
+9,844,pif1_B6HL55,B6HL55,full,1-763,763,763,0,ascomycota,Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) (Penicillium chrysogenum)
+9,845,pif1_B6K513,B6K513,full,1-807,807,807,0,ascomycota,Schizosaccharomyces japonicus (strain yFS275 / FY16936) (Fission yeast)
+9,846,pif1_B6Q6C2,B6Q6C2,full,1-802,802,802,0,ascomycota,Talaromyces marneffei (strain ATCC 18224 / CBS 334.59 / QM 7333) (Penicillium marneffei)
+9,847,pif1_B8LYE9,B8LYE9,full,1-808,808,808,0,ascomycota,Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006) (Penicillium stipitatum)
+9,848,pif1_B9WKK1,B9WKK1,full,1-588,588,588,0,ascomycota,Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) (Yeast)
+9,849,pif1_B9WMD7,B9WMD7,full,1-907,907,907,0,ascomycota,Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841) (Yeast)
+9,850,pif1_C0NFA5,C0NFA5,full,1-794,794,794,0,ascomycota,Ajellomyces capsulatus (strain G186AR / H82 / ATCC MYA-2454 / RMSCC 2432) (Darling's disease fungus) (Histoplasma capsulatum)
+9,851,pif1_C1GI25,C1GI25,full,1-797,797,797,0,ascomycota,Paracoccidioides brasiliensis (strain Pb18)
+9,852,pif1_C1GVB7,C1GVB7,full,1-797,797,797,0,ascomycota,Paracoccidioides lutzii (strain ATCC MYA-826 / Pb01) (Paracoccidioides brasiliensis)
+9,853,pif1_C4JUZ0,C4JUZ0,full,1-1465,1465,1465,0,ascomycota,Uncinocarpus reesii (strain UAMH 1704) (Gymnoascus siglerae)
+9,854,pif1_C4R014,C4R014,full,1-736,736,736,0,ascomycota,Komagataella phaffii (strain GS115 / ATCC 20864) (Yeast) (Pichia pastoris)
+9,855,pif1_C4R0P2,C4R0P2,full,1-797,797,797,0,ascomycota,Komagataella phaffii (strain GS115 / ATCC 20864) (Yeast) (Pichia pastoris)
+9,856,pif1_C4Y757,C4Y757,full,1-640,640,640,0,ascomycota,Clavispora lusitaniae (strain ATCC 42720) (Yeast) (Candida lusitaniae)
+9,857,pif1_C4YMF4,C4YMF4,full,1-906,906,906,0,ascomycota,Candida albicans (strain WO-1) (Yeast)
+9,858,pif1_C4YNB1,C4YNB1,full,1-596,596,596,0,ascomycota,Candida albicans (strain WO-1) (Yeast)
+9,859,pif1_C5DFL7,C5DFL7,full,1-899,899,899,0,ascomycota,Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) (Yeast) (Kluyveromyces thermotolerans)
+9,860,pif1_C5DM92,C5DM92,full,1-693,693,693,0,ascomycota,Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) (Yeast) (Kluyveromyces thermotolerans)
+9,861,pif1_C5DS62,C5DS62,full,1-864,864,864,0,ascomycota,Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)
+9,862,pif1_C5E0W3,C5E0W3,full,1-642,642,642,0,ascomycota,Zygosaccharomyces rouxii (strain ATCC 2623 / CBS 732 / NBRC 1130 / NCYC 568 / NRRL Y-229)
+9,863,pif1_C5FMN5,C5FMN5,full,1-780,780,780,0,ascomycota,Arthroderma otae (strain ATCC MYA-4605 / CBS 113480) (Microsporum canis)
+9,864,pif1_C5M8S6,C5M8S6,full,1-558,558,558,0,ascomycota,Candida tropicalis (strain ATCC MYA-3404 / T1) (Yeast)
+9,865,pif1_C5MAG5,C5MAG5,full,1-781,781,781,0,ascomycota,Candida tropicalis (strain ATCC MYA-3404 / T1) (Yeast)
+9,866,pif1_D4B4E8,D4B4E8,full,1-780,780,780,0,ascomycota,Arthroderma benhamiae (strain ATCC MYA-4681 / CBS 112371) (Trichophyton mentagrophytes)
+9,867,pif1_D4DAK6,D4DAK6,full,1-780,780,780,0,ascomycota,Trichophyton verrucosum (strain HKI 0517)
+9,868,pif1_E3Q2W0,E3Q2W0,full,1-839,839,839,0,ascomycota,Colletotrichum graminicola (strain M1.001 / M2 / FGSC 10212) (Maize anthracnose fungus) (Glomerella graminicola)
+9,869,pif1_E3S321,E3S321,full,1-782,782,782,0,ascomycota,Pyrenophora teres f. teres (strain 0-1) (Barley net blotch fungus) (Drechslera teres f. teres)
+9,870,pif1_E4V3W1,E4V3W1,full,1-760,760,760,0,ascomycota,Arthroderma gypseum (strain ATCC MYA-4604 / CBS 118893) (Microsporum gypseum)
+9,871,pif1_E9DY51,E9DY51,full,1-915,915,915,0,ascomycota,Metarhizium acridum (strain CQMa 102)
+9,872,pif1_E9ETX6,E9ETX6,full,1-813,813,813,0,ascomycota,Metarhizium robertsii (strain ARSEF 23 / ATCC MYA-3075) (Metarhizium anisopliae (strain ARSEF 23))
+9,873,pif1_F0XHJ8,F0XHJ8,full,1-819,819,819,0,ascomycota,Grosmannia clavigera (strain kw1407 / UAMH 11150) (Blue stain fungus) (Graphiocladiella clavigera)
+9,874,pif1_F2PR25,F2PR25,full,1-794,794,794,0,ascomycota,Trichophyton equinum (strain ATCC MYA-4606 / CBS 127.97) (Horse ringworm fungus)
+9,875,pif1_F2QT11,F2QT11,full,1-794,794,794,0,ascomycota,Komagataella phaffii (strain ATCC 76273 / CBS 7435 / CECT 11047 / NRRL Y-11430 / Wegner 21-1) (Yeast) (Pichia pastoris)
+9,876,pif1_F2S1K4,F2S1K4,full,1-753,753,753,0,ascomycota,Trichophyton tonsurans (strain CBS 112818) (Scalp ringworm fungus)
+9,877,pif1_F2T115,F2T115,full,1-780,780,780,0,ascomycota,Trichophyton rubrum (strain ATCC MYA-4607 / CBS 118892) (Athlete's foot fungus)
+9,878,pif1_F7VS34,F7VS34,full,1-932,932,932,0,ascomycota,Sordaria macrospora (strain ATCC MYA-333 / DSM 997 / K(L3346) / K-hell)
+9,879,pif1_G0S6L7,G0S6L7,full,1-809,809,809,0,ascomycota,Thermochaetoides thermophila (strain DSM 1495 / CBS 144.50 / DAOM 24625 / IMI 039719) (Chaetomium thermophilum)
+9,880,pif1_G0V5V7,G0V5V7,full,1-870,870,870,0,ascomycota,Naumovozyma castellii (Yeast) (Saccharomyces castellii)
+9,881,pif1_G0V6X7,G0V6X7,full,1-761,761,761,0,ascomycota,Naumovozyma castellii (Yeast) (Saccharomyces castellii)
+9,882,pif1_G0W9L4,G0W9L4,full,1-759,759,759,0,ascomycota,Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)
+9,883,pif1_G0WAI2,G0WAI2,full,1-854,854,854,0,ascomycota,Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)
+9,884,pif1_G1WZ06,G1WZ06,full,1-947,947,947,0,ascomycota,Arthrobotrys oligospora (strain ATCC 24927 / CBS 115.81 / DSM 1491) (Nematode-trapping fungus) (Didymozoophaga oligospora)
+9,885,pif1_G3JM88,G3JM88,full,1-853,853,853,0,ascomycota,Cordyceps militaris (strain CM01) (Caterpillar fungus)
+9,886,pif1_G4N540,G4N540,full,1-864,864,864,0,ascomycota,Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice blast fungus) (Magnaporthe oryzae)
+9,887,pif1_G8BBJ1,G8BBJ1,full,1-643,643,643,0,ascomycota,Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) (Yeast) (Monilia parapsilosis)
+9,888,pif1_G8BK92,G8BK92,full,1-797,797,797,0,ascomycota,Candida parapsilosis (strain CDC 317 / ATCC MYA-4646) (Yeast) (Monilia parapsilosis)
+9,889,pif1_G8BQC5,G8BQC5,full,1-948,948,948,0,ascomycota,Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) (Yeast) (Fabospora phaffii)
+9,890,pif1_G8BSI5,G8BSI5,full,1-748,748,748,0,ascomycota,Tetrapisispora phaffii (strain ATCC 24235 / CBS 4417 / NBRC 1672 / NRRL Y-8282 / UCD 70-5) (Yeast) (Fabospora phaffii)
+9,891,pif1_G8JMQ5,G8JMQ5,full,1-884,884,884,0,ascomycota,Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) (Yeast)
+9,892,pif1_G8JWH4,G8JWH4,full,1-730,730,730,0,ascomycota,Eremothecium cymbalariae (strain CBS 270.75 / DBVPG 7215 / KCTC 17166 / NRRL Y-17582) (Yeast)
+9,893,pif1_G8Y8Q1,G8Y8Q1,full,1-775,775,775,0,ascomycota,Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) (Hybrid yeast)
+9,894,pif1_G8YJN4,G8YJN4,full,1-677,677,677,0,ascomycota,Pichia sorbitophila (strain ATCC MYA-4447 / BCRC 22081 / CBS 7064 / NBRC 10061 / NRRL Y-12695) (Hybrid yeast)
+9,895,pif1_G8ZST6,G8ZST6,full,1-949,949,949,0,ascomycota,Torulaspora delbrueckii (Yeast) (Candida colliculosa)
+9,896,pif1_G8ZVF0,G8ZVF0,full,1-669,669,669,0,ascomycota,Torulaspora delbrueckii (Yeast) (Candida colliculosa)
+9,897,pif1_H0GH54,H0GH54,full,1-723,723,723,0,ascomycota,Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) (Yeast)
+9,898,pif1_H0GLS5,H0GLS5,full,1-859,859,859,1,ascomycota,Saccharomyces cerevisiae x Saccharomyces kudriavzevii (strain VIN7) (Yeast)
+9,899,pif1_H2AVD6,H2AVD6,full,1-702,702,702,0,ascomycota,Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) (Yeast) (Kluyveromyces africanus)
+10,900,pif1_H2AZM3,H2AZM3,full,1-823,823,823,0,ascomycota,Kazachstania africana (strain ATCC 22294 / BCRC 22015 / CBS 2517 / CECT 1963 / NBRC 1671 / NRRL Y-8276) (Yeast) (Kluyveromyces africanus)
+10,901,pif1_H6BKX2,H6BKX2,full,1-798,798,798,0,ascomycota,Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656) (Black yeast) (Wangiella dermatitidis)
+10,902,pif1_H8WVI4,H8WVI4,full,1-643,643,643,0,ascomycota,Candida orthopsilosis (strain 90-125) (Yeast)
+10,903,pif1_H8XAL7,H8XAL7,full,1-933,933,933,0,ascomycota,Candida orthopsilosis (strain 90-125) (Yeast)
+10,904,pif1_I2H165,I2H165,full,1-717,717,717,0,ascomycota,Henningerozyma blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7) (Yeast) (Tetrapisispora blattae)
+10,905,pif1_I2H566,I2H566,full,1-854,854,854,0,ascomycota,Henningerozyma blattae (strain ATCC 34711 / CBS 6284 / DSM 70876 / NBRC 10599 / NRRL Y-10934 / UCD 77-7) (Yeast) (Tetrapisispora blattae)
+10,906,pif1_J3NIB7,J3NIB7,full,1-784,784,784,0,ascomycota,Gaeumannomyces tritici (strain R3-111a-1) (Wheat and barley take-all root rot fungus) (Gaeumannomyces graminis var. tritici)
+10,907,pif1_J5JW44,J5JW44,full,1-798,798,798,0,ascomycota,Beauveria bassiana (strain ARSEF 2860) (White muscardine disease fungus) (Tritirachium shiotae)
+10,908,pif1_J6EEG6,J6EEG6,full,1-721,721,721,0,ascomycota,Saccharomyces kudriavzevii (strain ATCC MYA-4449 / AS 2.2408 / CBS 8840 / NBRC 1802 / NCYC 2889) (Yeast)
+10,909,pif1_J7S460,J7S460,full,1-719,719,719,0,ascomycota,Huiozyma naganishii (strain ATCC MYA-139 / BCRC 22969 / CBS 8797 / KCTC 17520 / NBRC 10181 / NCYC 3082 / Yp74L-3) (Yeast) (Kazachstania naganishii)
+10,910,pif1_J7S6X7,J7S6X7,full,1-853,853,853,0,ascomycota,Huiozyma naganishii (strain ATCC MYA-139 / BCRC 22969 / CBS 8797 / KCTC 17520 / NBRC 10181 / NCYC 3082 / Yp74L-3) (Yeast) (Kazachstania naganishii)
+10,911,pif1_J8PMR0,J8PMR0,full,1-725,725,725,0,ascomycota,Saccharomyces arboricola (strain H-6 / AS 2.3317 / CBS 10644) (Yeast)
+10,912,pif1_K0KM86,K0KM86,full,1-1022,1022,1022,0,ascomycota,Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10) (Yeast) (Pichia ciferrii)
+10,913,pif1_K0KZ61,K0KZ61,full,1-747,747,747,0,ascomycota,Wickerhamomyces ciferrii (strain ATCC 14091 / BCRC 22168 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL Y-1031 F-60-10) (Yeast) (Pichia ciferrii)
+10,914,pif1_K1WPA9,K1WPA9,full,1-873,873,873,0,ascomycota,Marssonina brunnea f. sp. multigermtubi (strain MB_m1) (Marssonina leaf spot fungus)
+10,915,pif1_K3UQF6,K3UQF6,full,1-821,821,821,0,ascomycota,Fusarium pseudograminearum (strain CS3096) (Wheat and barley crown-rot fungus)
+10,916,pif1_K9GB17,K9GB17,full,1-720,720,720,0,ascomycota,Penicillium digitatum (strain PHI26 / CECT 20796) (Green mold)
+10,917,pif1_L2G0F7,L2G0F7,full,1-853,853,853,0,ascomycota,Colletotrichum fructicola (strain Nara gc5) (Anthracnose fungus) (Colletotrichum gloeosporioides (strain Nara gc5))
+10,918,pif1_L8FZR6,L8FZR6,full,1-955,955,955,0,ascomycota,Pseudogymnoascus destructans (strain ATCC MYA-4855 / 20631-21) (Bat white-nose syndrome fungus) (Geomyces destructans)
+10,919,pif1_M1WCW3,M1WCW3,full,1-800,800,800,0,ascomycota,Claviceps purpurea (strain 20.1) (Ergot fungus) (Sphacelia segetum)
+10,920,pif1_M3IP21,M3IP21,full,1-759,759,759,0,ascomycota,Candida maltosa (strain Xu316) (Yeast)
+10,921,pif1_M3JT10,M3JT10,full,1-550,550,550,0,ascomycota,Candida maltosa (strain Xu316) (Yeast)
+10,922,pif1_M7P7M8,M7P7M8,full,1-801,801,801,0,ascomycota,Pneumocystis murina (strain B123) (Mouse pneumocystis pneumonia agent) (Pneumocystis carinii f. sp. muris)
+10,923,pif1_N1J746,N1J746,full,1-830,830,830,0,ascomycota,Blumeria graminis f. sp. hordei (strain DH14) (Barley powdery mildew) (Oidium monilioides f. sp. hordei)
+10,924,pif1_N1RU73,N1RU73,full,1-820,820,820,0,ascomycota,Fusarium oxysporum f. sp. cubense (strain race 4) (Panama disease fungus)
+10,925,pif1_Q4WVU7,Q4WVU7,full,1-788,788,788,0,ascomycota,Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293) (Neosartorya fumigata)
+10,926,pif1_Q59RQ0,Q59RQ0,full,1-906,906,906,0,ascomycota,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)
+10,927,pif1_Q5AXT5,Q5AXT5,full,1-745,745,745,0,ascomycota,Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)
+10,928,pif1_Q6BNW6,Q6BNW6,full,1-688,688,688,0,ascomycota,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)
+10,929,pif1_Q6BQK7,Q6BQK7,full,1-832,832,832,0,ascomycota,Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / BCRC 21394 / JCM 1990 / NBRC 0083 / IGC 2968) (Yeast) (Torulaspora hansenii)
+10,930,pif1_Q6CEU3,Q6CEU3,full,1-1113,1113,1113,0,ascomycota,Yarrowia lipolytica (strain CLIB 122 / E 150) (Yeast) (Candida lipolytica)
+10,931,pif1_Q6CQY1,Q6CQY1,full,1-707,707,707,0,ascomycota,Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)
+10,932,pif1_Q6CWC6,Q6CWC6,full,1-872,872,872,0,ascomycota,Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) (Yeast) (Candida sphaerica)
+10,933,pif1_Q6FKI9,Q6FKI9,full,1-841,841,841,0,ascomycota,Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)
+10,934,pif1_Q6FPW0,Q6FPW0,full,1-705,705,705,0,ascomycota,Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138) (Yeast) (Nakaseomyces glabratus)
+10,935,pif1_Q756M1,Q756M1,full,1-691,691,691,0,ascomycota,Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii)
+10,936,pif1_Q756Y6,Q756Y6,full,1-802,802,802,0,ascomycota,Eremothecium gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) (Yeast) (Ashbya gossypii)
+10,937,pif1_Q7RXT1,Q7RXT1,full,1-931,931,931,0,ascomycota,Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)
+10,938,pif1_R4XBB5,R4XBB5,full,1-821,821,821,0,ascomycota,Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)
+10,939,pif1_R8BS17,R8BS17,full,1-841,841,841,0,ascomycota,Phaeoacremonium minimum (strain UCR-PA7) (Esca disease fungus) (Togninia minima)
+10,940,pif1_S0E8T2,S0E8T2,full,1-821,821,821,0,ascomycota,Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831) (Bakanae and foot rot disease fungus) (Fusarium fujikuroi)
+10,941,pif1_S3DLT2,S3DLT2,full,1-931,931,931,0,ascomycota,Glarea lozoyensis (strain ATCC 20868 / MF5171)
+10,942,pif1_S7ZUF7,S7ZUF7,full,1-727,727,727,0,ascomycota,Penicillium oxalicum (strain 114-2 / CGMCC 5302) (Penicillium decumbens)
+10,943,pif1_S8BV51,S8BV51,full,1-826,826,826,0,ascomycota,Dactylellina haptotyla (strain CBS 200.50) (Nematode-trapping fungus) (Monacrosporium haptotylum)
+10,944,pif1_S9PVT1,S9PVT1,full,1-788,788,788,0,ascomycota,Schizosaccharomyces octosporus (strain yFS286) (Fission yeast) (Octosporomyces octosporus)
+10,945,pif1_S9X0K1,S9X0K1,full,1-788,788,788,0,ascomycota,Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691) (Fission yeast)
+10,946,pif1_U1GI40,U1GI40,full,1-732,732,732,0,ascomycota,Endocarpon pusillum (strain Z07020 / HMAS-L-300199) (Lichen-forming fungus)
+10,947,pif1_U4KVV4,U4KVV4,full,1-874,874,874,0,ascomycota,Pyronema omphalodes (strain CBS 100304) (Pyronema confluens)
+10,948,pif1_V5FX47,V5FX47,full,1-843,843,843,0,ascomycota,Paecilomyces variotii (strain NBRC 109023 / No. 5) (Byssochlamys spectabilis)
+10,949,pif1_W1QEW7,W1QEW7,full,1-826,826,826,0,ascomycota,Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) (Yeast) (Hansenula polymorpha)
+10,950,pif1_W1QFA7,W1QFA7,full,1-666,666,666,0,ascomycota,Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) (Yeast) (Hansenula polymorpha)
+10,951,pif1_W3WI34,W3WI34,full,1-915,915,915,0,ascomycota,Pestalotiopsis fici (strain W106-1 / CGMCC3.15140)
+10,952,pif1_W6MM08,W6MM08,full,1-693,693,693,0,ascomycota,Kuraishia capsulata CBS 1993
+10,953,pif1_W6MNR6,W6MNR6,full,1-765,765,765,0,ascomycota,Kuraishia capsulata CBS 1993
+10,954,pif1_W6QMY6,W6QMY6,full,1-764,764,764,0,ascomycota,Penicillium roqueforti (strain FM164)
+10,955,pif1_W7HWQ6,W7HWQ6,full,1-694,694,694,0,ascomycota,Drechslerella stenobrocha 248
+10,956,pif1_W9CKN3,W9CKN3,full,1-898,898,898,0,ascomycota,Sclerotinia borealis (strain F-4128)

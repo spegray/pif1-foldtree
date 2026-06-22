@@ -1,0 +1,30 @@
+Phase-0 AF3-vs-8XAK validation gate  —  ScPif1 + T7-AT11 G4 (model_0 vs experimental 8XAK)
+================================================================================================
+
+Substrate match: 8XAK chain D = TTTTTTT|GGTGGTGGTTGTTGTGGTGGTGGTGGT ; our T7-AT11 =
+  TTTTTTTT|GGTGGTGGTTGTTGTGGTGGTGGTGGT  -> identical G4 core, +1 tail thymine. (8XAK protomer A
+  binds DNA chain D, cross-paired; nucleotide is ADP·AlF4·Mg vs our ATP.)
+
+Superposition (AF3 model_0 protein chain A onto 8XAK chain A, 501 common CA):
+  protein helicase core RMSD ............ 1.41 A    (AF3 reproduces the fold very well)
+  wedge R324 guanidinium displacement ... 2.15 A    (wedge correctly placed in the protein frame)
+  G4 centroid offset .................... 10.4 A    (whole quadruplex docked ~10 A off experimental)
+  nearest-neighbour guanine-O6 RMSD ..... 9.5 A median (5.1-13.4)  (topology-independent: G4 mis-posed,
+                                                                     not merely a register shuffle)
+
+Wedge-G4 contact:
+  experimental (8XAK)  R324 -> G12(D)  3.36 A
+  AF3 model_0          R324 -> G10(E)  3.46 A   (G10 is 3.6 A from the experimental 5'-terminal G9,
+                                                 but 8.5 A from the experimentally-contacted G12)
+  all 5 AF3 models fold the G4 (K+ in the guanine-O6 channel); top-2 put the wedge on the 5' face.
+
+VERDICT -- CONDITIONAL GO.
+  AF3 reproduces the COMPONENTS and the CONTACT-LEVEL interface: folded helicase, folded G4 (K+ channel),
+  and the wedge engaging the 5' G-tetrad face (~3.5 A, matching the 3.36 A experimental contact, wedge
+  placed within ~2 A). It does NOT reproduce the precise docking pose: the G4 is oriented ~10 A off and
+  the wedge contacts a guanine ~one tetrad-step from the experimental one.
+  => Trust AF3 for the COARSE readout the project needs -- does the G4-engaging residue contact the 5'
+     tetrad (yes/no + approximate distance + interface confidence) -- across the family. Do NOT trust fine
+     docking geometry / which specific guanine / global G4 topology. Frame structural-conservation results
+     as AF3-derived contact hypotheses, not atomic binding modes. (Consistent with the RecQ beta-wing pilot:
+     AF3 gives contact-level, not residue-precise, information for these flexible G4 interfaces.)

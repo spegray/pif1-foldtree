@@ -53,3 +53,12 @@ tools/
 *.mldist
 *.bionj
 results/struct_tree/*_distmat.phy
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Large, regenerable AF3 intermediates — archive externally (Zenodo/Drive), link in README
+data/g4_models/**/msas/
+data/g4_models/**/templates/
+data/g4_models/**/*full_data*.json
+data/*.zip

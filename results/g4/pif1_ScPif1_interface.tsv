@@ -1,0 +1,6 @@
+model,ranking_score,iptm,protDNA_iptm,protDNA_pae_min,wedge_to_5ptetrad,wedge_to_G4,nearest_G,K_O6_within3.5,G4_folded,wedge_contact,ptm,n_guanines,tetrad5_G,has_clash
+fold_pif1_p07271_model_0.cif,0.91,0.75,0.6,2.95,3.46,3.46,10,"[6, 7]",True,True,0.63,16,"[9, 10, 12, 13]",0.0
+fold_pif1_p07271_model_1.cif,0.91,0.75,0.62,2.94,3.98,3.98,12,"[5, 4]",True,True,0.63,16,"[9, 10, 12, 13]",0.0
+fold_pif1_p07271_model_2.cif,0.88,0.73,0.55,3.31,8.57,3.56,33,"[3, 6]",True,False,0.63,16,"[9, 10, 12, 13]",0.0
+fold_pif1_p07271_model_3.cif,0.87,0.71,0.53,3.38,7.38,6.47,19,"[5, 4]",True,False,0.61,16,"[9, 10, 12, 13]",0.0
+fold_pif1_p07271_model_4.cif,0.86,0.71,0.52,3.12,14.96,4.0,22,"[2, 7]",True,False,0.63,16,"[9, 10, 12, 13]",0.0

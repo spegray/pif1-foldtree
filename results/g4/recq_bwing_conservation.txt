@@ -1,0 +1,12 @@
+[18] Q14191 full len 1432; residue 1037 = F (expected F)
+[18] corecut envelope for Q14191: 953-1065
+[18] wedge maps to alignment column 402 (anchor residue there: F)
+
+=== wedge-column conservation (anchor Q14191 F1037) ===
+  1051 sequences; 26 gap, 1025 residue
+  fraction = F: 154/1025 = 15.0% (of non-gap)
+  residue distribution: Y:601, F:154, H:106, V:61, I:28, -:26, R:13, S:11
+  by clade (fraction = anchor residue, of non-gap):
+    arc              F=0/8 (0%)  top: Y:5, V:2, -:1
+    bac              F=86/489 (18%)  top: Y:252, H:96, F:86
+    euk              F=68/528 (13%)  top: Y:344, F:68, V:56

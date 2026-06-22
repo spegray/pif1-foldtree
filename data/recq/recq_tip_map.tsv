@@ -1,0 +1,1052 @@
+tip_label	accession	taxid	organism	group	role	gene	core_from	core_to	full_len	core_len
+O34748_Bacillus	O34748	224308	Bacillus subtilis (strain 168)	bac		recQ	400	512	591	113
+P15043_Escherichia	P15043	83333	Escherichia coli (strain K12)	bac		recQ	406	518	609	113
+P35187_Saccharomyces	P35187	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	euk		SGS1	1079	1199	1447	121
+P46063_Homo	P46063	9606	Homo sapiens (Human)	euk		RECQL	483	597	649	115
+P54132_Homo	P54132	9606	Homo sapiens (Human)	euk		BLM	1071	1198	1417	128
+Q14191_Homo	Q14191	9606	Homo sapiens (Human)	euk		WRN	953	1065	1432	113
+A0A011RD86_CandidatusAccumulibacter	A0A011RD86	522306	Accumulibacter regalis	bac		recQ_2	404	517	611	114
+A0A074MGJ7_Tumebacillus	A0A074MGJ7	1157490	Tumebacillus flagellatus	bac		EL26_02200	400	513	737	114
+A0A0D8ZU01_Aliterella	A0A0D8ZU01	1618023	Aliterella atlantica CENA595	bac		UH38_09035	404	517	717	114
+A0A0E3LGE3_Methanosarcina	A0A0E3LGE3	1434123	Methanosarcina vacuolata Z-761	arc		MSVAZ_0102	448	560	966	113
+A0A0P0UTH4_tx1303921	A0A0P0UTH4	1303921	endosymbiont of Bathymodiolus septemdierum str. Myojin knoll	bac		BSEPE_1208	400	511	732	112
+A0A0Q4B795_tx1702214	A0A0Q4B795	1702214	Candidatus [Bacteroides] periocalifornicus	bac		AL399_04865	405	518	731	114
+A0A0S7BD37_Longilinea	A0A0S7BD37	360412	Longilinea arvoryzae	bac		LARV_00364	501	613	922	113
+A0A133XH79_Dechloromonas	A0A133XH79	281362	Dechloromonas denitrificans	bac		AT959_12820	408	521	608	114
+A0A166BQL2_Methanobrevibacter	A0A166BQL2	55758	Methanobrevibacter filiformis	arc		recQ	410	525	857	116
+A0A1B4XJF1_Sulfuricaulis	A0A1B4XJF1	1620215	Sulfuricaulis limicola	bac		SCL_2658	410	523	628	114
+A0A1G5S623_Acidaminobacter	A0A1G5S623	1120920	Acidaminobacter hydrogenoformans DSM 2784	bac		SAMN03080599_03039	448	561	653	114
+A0A1H9HQT8_Faunimonas	A0A1H9HQT8	1855383	Faunimonas pinastri	bac		SAMN05216548_106128	420	531	622	112
+A0A1U9NH39_Anaerohalosphaera	A0A1U9NH39	1936003	Anaerohalosphaera lusitana	bac		recQ	405	511	609	107
+A0A1Z4V0W8_Dolichospermum	A0A1Z4V0W8	1973481	Dolichospermum compactum NIES-806	bac		NIES806_13910	404	517	729	114
+A0A2K9NPR6_Bacteriovorax	A0A2K9NPR6	960	Bacteriovorax stolpii (Bdellovibrio stolpii)	bac		recQ	401	514	604	114
+A0A2S0P709_Microvirgula	A0A2S0P709	57480	Microvirgula aerodenitrificans	bac		recQ	405	518	608	114
+A0A2S8SS64_Abditibacterium	A0A2S8SS64	1960156	Abditibacterium utsteinense	bac		B1R32_110101	535	640	731	106
+A0A2T1HPP3_Alsobacter	A0A2T1HPP3	2109933	Alsobacter soli	bac		recQ	405	518	609	114
+A0A2V2N7S6_Methanospirillum	A0A2V2N7S6	668570	Methanospirillum lacunae	arc		recQ	400	511	612	112
+A0A2W1JHV8_Acaryochloris	A0A2W1JHV8	1764569	Acaryochloris thomasi RCC1774	bac		recQ_1	416	529	741	114
+A0A2W2CA50_Aestuariivirga	A0A2W2CA50	2650924	Aestuariivirga litoralis	bac		recQ	417	530	626	114
+A0A395JUQ1_Arenicella	A0A395JUQ1	644221	Arenicella xantha	bac		DFR28_101664	399	512	597	114
+A0A3N1M5Z4_Allostella	A0A3N1M5Z4	94	Allostella humosa	bac		EDC65_0410	416	528	616	113
+A0A3N5BR11_Abyssicoccus	A0A3N5BR11	1817405	Abyssicoccus albus	bac		EDD62_0058	398	508	592	111
+A0A3P3VUT0_Aestuariirhabdus	A0A3P3VUT0	2528527	Aestuariirhabdus litorea	bac		recQ	399	512	598	114
+A0A410QGW7_Acidilutibacter	A0A410QGW7	2507161	Acidilutibacter cellobiosedens	bac		recQ	400	512	719	113
+A0A437QXI0_Hwanghaeella	A0A437QXI0	2500179	Hwanghaeella grinnelliae	bac		recQ	414	527	619	114
+A0A4Q0Y4Z7_Halarcobacter	A0A4Q0Y4Z7	877500	Halarcobacter anaerophilus	bac		recQ	399	509	703	111
+A0A4Q9VYY3_Siculibacillus	A0A4Q9VYY3	1549641	Siculibacillus lacustris	bac		recQ	433	545	639	113
+A0A4S2AJV8_Bacteroides	A0A4S2AJV8	2516960	Bacteroides muris (ex Afrizal et al. 2022)	bac		recQ	405	517	727	113
+A0A518EUA6_Saltatorellus	A0A518EUA6	2528018	Saltatorellus ferox	bac		recQ_1	508	620	720	113
+A0A560FQL6_Nitrospirillum	A0A560FQL6	28077	Nitrospirillum amazonense	bac		FBZ88_11387	468	580	675	113
+A0A562J7T8_Sedimentibacter	A0A562J7T8	130788	Sedimentibacter saalensis	bac		LY60_02521	400	513	727	114
+A0A5B8U1Y7_Baekduia	A0A5B8U1Y7	496014	Baekduia soli	bac		FSW04_04990	509	592	602	84
+A0A6L9ML60_Aurantimonas	A0A6L9ML60	2047720	Aurantimonas aggregata	bac		recQ	434	547	636	114
+A0A6N1VGR7_Oricola	A0A6N1VGR7	2742145	Oricola thermophila	bac		recQ	397	508	602	112
+A0A6N8HWU5_Caproicibacter	A0A6N8HWU5	2576756	Caproicibacter fermentans	bac		recQ	399	512	716	114
+A0A7G1HSH5_Coprobacter	A0A7G1HSH5	2751153	Coprobacter secundus subsp. similis	bac		Cop2CBH44_10380	404	516	726	113
+A0A7L4UPB9_Balneicella	A0A7L4UPB9	1537566	Balneicella halophila	bac		C7377_1301	402	513	723	112
+A0A7S7M8R9_Thermophilibacter	A0A7S7M8R9	2779519	Thermophilibacter immobilis	bac		recQ	411	529	628	119
+A0A7W9SLX4_Armatimonas	A0A7W9SLX4	685828	Armatimonas rosea	bac		HNQ39_000834	590	696	774	107
+A0A8J7PYK5_Acanthopleuribacter	A0A8J7PYK5	442870	Acanthopleuribacter pedis	bac		recQ	405	512	617	108
+A0A923SRH9_Zhenpiania	A0A923SRH9	2763644	Zhenpiania hominis	bac		recQ	420	533	618	114
+A0A926ZFB8_Aerosakkonema	A0A926ZFB8	2949571	Aerosakkonema funiforme FACHB-1375	bac		recQ	404	517	725	114
+A0A934IEY7_Acuticoccus	A0A934IEY7	2796142	Acuticoccus mangrovi	bac		recQ	423	536	625	114
+A0A9E7PMS6_Methanoplanus	A0A9E7PMS6	33865	Methanoplanus endosymbiosus	arc		L6E24_03040	399	510	1181	112
+A0A9Q3UMW3_Alloalcanivorax	A0A9Q3UMW3	1177169	Alloalcanivorax marinus	bac		recQ	400	513	718	114
+A0A9Q7APN6_Aminithiophilus	A0A9Q7APN6	3029084	Aminithiophilus ramosus	bac		recQ	508	621	703	114
+A0A9X2L2K1_Gracilimonas	A0A9X2L2K1	2952158	Gracilimonas sediminicola	bac		recQ	411	523	737	113
+A0A9X5HDU0_Actinospica	A0A9X5HDU0	304899	Actinospica acidiphila	bac		recQ	413	529	657	117
+A0AAF1JXC9_Plastoroseomonas	A0AAF1JXC9	1509237	Plastoroseomonas arctica	bac		recQ	405	519	699	115
+A0AAW6TT43_Anaerobaca	A0AAW6TT43	3044600	Anaerobaca lacustris	bac		recQ	401	511	607	111
+A0AAW9DKT4_Acidiphilium	A0AAW9DKT4	76588	Acidiphilium acidophilum (Thiobacillus acidophilus)	bac		recQ	415	528	628	114
+A0ABT9V3T8_Anoxybacillus	A0ABT9V3T8	1325932	Anoxybacillus andreesenii	bac		J2S07_001825	399	511	705	113
+A0ABU2WLQ6_Banduia	A0ABU2WLQ6	3075609	Banduia mediterranea	bac		recQ	412	528	618	117
+A0ABX5M3P8_Pokkaliibacter	A0ABX5M3P8	1635171	Pokkaliibacter plantistimulans	bac		WH50_00205	399	510	718	112
+B2UMH2_Akkermansia	B2UMH2	349741	Akkermansia muciniphila (strain ATCC BAA-835 / DSM 22959 / JCM 33894 / BCRC 81048 / CCUG 64013 / CIP 107961 / Muc)	bac		Amuc_1710	504	619	716	116
+B3ETE7_CandidatusAmoebophilus	B3ETE7	452471	Amoebophilus asiaticus (strain 5a2)	bac		Aasi_1165	403	514	724	112
+B8EJJ5_Methylocella	B8EJJ5	395965	Methylocella silvestris (strain DSM 15510 / CIP 108128 / LMG 27833 / NCIMB 13906 / BL2)	bac		Msil_0015	428	535	656	108
+F7NEC0_Acetonema	F7NEC0	1009370	Acetonema longum DSM 6540	bac		ALO_01914	401	514	713	114
+F9ZMJ3_Acidithiobacillus	F9ZMJ3	990288	Acidithiobacillus caldus (strain SM-1)	bac		Atc_0733	404	517	611	114
+H5TEM7_Glaciecola	H5TEM7	1121923	Glaciecola punicea ACAM 611	bac		recQ	407	516	742	110
+I4AQK9_Bernardetia	I4AQK9	880071	Bernardetia litoralis (strain ATCC 23117 / DSM 6794 / NBRC 15988 / NCIMB 1366 / Fx l1 / Sio-4) (Flexibacter litoralis)	bac		Fleli_3941	400	514	729	115
+K1MF24_Facklamia	K1MF24	883111	Facklamia hominis CCUG 36813	bac		HMPREF9706_00849	391	501	722	111
+L0HKE4_Methanoregula	L0HKE4	593750	Methanoregula formicica (strain DSM 22288 / NBRC 105244 / SMSP)	arc		Metfor_2810	399	511	611	113
+Q0W3R8_Methanocella	Q0W3R8	351160	Methanocella arvoryzae (strain DSM 22066 / NBRC 105507 / MRE50)	arc		recQ	405	513	605	109
+U5D866_Rubidibacter	U5D866	582515	Rubidibacter lacunae KORDI 51-2	bac		KR51_00028100	403	515	805	113
+A0A1F2P9B7_CandidatusSyntropharchaeum	A0A1F2P9B7	1838285	Candidatus Syntropharchaeum caldarium	arc		SCAL_001720	641	753	896	113
+A0AAE4MGR3_Methanorbis	A0AAE4MGR3	3028300	Methanorbis rubei	arc		recQ	416	497	497	82
+A0ABD4TGN3_Methanocalculus	A0ABD4TGN3	106207	Methanocalculus taiwanensis	arc		FTO68_00310	426	504	507	79
+A0ACD1DUN2_Aminirod	A0ACD1DUN2	3415223	Aminirod propionatiphilus	bac		recQ	508	621	703	114
+A0A010ZVP2_Cryptosporangium	A0A010ZVP2	927661	Cryptosporangium arvum DSM 44712	bac		CryarDRAFT_2366	404	520	611	117
+A0A081BLC8_CandidatusModuliflexus	A0A081BLC8	1499966	Candidatus Moduliflexus flocculans	bac		U14_02436	400	511	725	112
+A0A081C0H7_CandidatusVecturithrix	A0A081C0H7	1499967	Vecturithrix granuli	bac		U27_05055	399	511	730	113
+A0A084JIT4_Clostridium	A0A084JIT4	318464	Clostridium sulfidigenes	bac		IO99_01530	396	509	820	114
+A0A0D2G849_Dethiosulfatarculus	A0A0D2G849	1429043	Dethiosulfatarculus sandiegensis	bac		X474_25775	403	516	606	114
+A0A0M2UXX2_CandidatusBrocadia	A0A0M2UXX2	380242	Candidatus Brocadia fulgida	bac		BROFUL_01457	395	507	710	113
+A0A0N1F570_Bosea	A0A0N1F570	1526658	Bosea vaviloviae	bac		AE618_17695	409	522	612	114
+A0A0S2TCF1_CandidatusTenderia	A0A0S2TCF1	1748243	Candidatus Tenderia electrophaga	bac		Tel_06560	410	523	711	114
+A0A160T2S6_CandidatusPromineifilum	A0A160T2S6	1806508	Candidatus Promineifilum breve	bac		CFX0092_A1330	658	763	977	106
+A0A1G8XS71_Catalinimonas	A0A1G8XS71	1075417	Catalinimonas alkaloidigena	bac		SAMN05421823_101460	401	513	728	113
+A0A1G9MVS0_Siphonobacter	A0A1G9MVS0	563176	Siphonobacter aquaeclarae	bac		SAMN04488090_1763	407	559	772	153
+A0A1I2NUQ3_Desulfotruncus	A0A1I2NUQ3	1121424	Desulfotruncus arcticus DSM 17038	bac		SAMN05660649_00578	401	514	715	114
+A0A1I5AKD4_Algoriphagus	A0A1I5AKD4	226506	Algoriphagus ornithinivorans	bac		SAMN04488519_101191	429	542	755	114
+A0A1I5D7G2_Cohaesibacter	A0A1I5D7G2	655353	Cohaesibacter marisflavi	bac		SAMN04488056_102504	438	551	642	114
+A0A1L9QUZ5_Roseofilum	A0A1L9QUZ5	1925591	Roseofilum reptotaenium AO1-A	bac		BI308_06275	403	516	720	114
+A0A1R4HFK0_Crenothrix	A0A1R4HFK0	360316	Crenothrix polyspora	bac		recQ	400	513	713	114
+A0A1T5J490_Maledivibacter	A0A1T5J490	36842	Maledivibacter halophilus	bac		SAMN02194393_00916	400	513	727	114
+A0A1Y3XTT9_Enorma	A0A1Y3XTT9	1232426	[Collinsella] massiliensis	bac		B5G02_05655	462	562	697	101
+A0A221T3A4_Deinococcus	A0A221T3A4	317577	Deinococcus ficus	bac		DFI_19450	404	512	918	109
+A0A222G8Z2_Cognaticolwellia	A0A222G8Z2	1967665	Cognaticolwellia beringensis	bac		recQ	446	559	643	114
+A0A285UIF3_Ureibacillus	A0A285UIF3	614649	Ureibacillus acetophenoni	bac		SAMN05877842_1078	401	514	721	114
+A0A286U1U6_CandidatusScalindua	A0A286U1U6	1284222	Candidatus Scalindua japonica	bac		SCALIN_C28_0322	395	508	717	114
+A0A2A2TC27_Brunnivagina	A0A2A2TC27	987040	Brunnivagina elsteri CCALA 953	bac		recQ	404	517	720	114
+A0A2T4TXS8_CandidatusMethylomirabilis	A0A2T4TXS8	2033718	Candidatus Methylomirabilis limnetica	bac		recQ	397	510	612	114
+A0A2T5IB84_Trichococcus	A0A2T5IB84	382641	Trichococcus patagoniensis	bac		C8U37_1243	396	508	732	113
+A0A2V3V4Y2_Blastomonas	A0A2V3V4Y2	34015	Blastomonas natatoria	bac		C7451_1069	395	506	589	112
+A0A2W1NQ56_Putridiphycobacter	A0A2W1NQ56	2219161	Putridiphycobacter roseus	bac		recQ	406	519	731	114
+A0A2Z4FJA8_Bradymonas	A0A2Z4FJA8	1548548	Bradymonas sediminis	bac		DN745_06540	525	625	752	101
+A0A317T5X7_Prosthecochloris	A0A317T5X7	2017681	Prosthecochloris marina	bac		recQ	418	531	622	114
+A0A317ZM88_Coraliomargarita	A0A317ZM88	2174842	Coraliomargarita sinensis	bac		recQ	400	516	731	117
+A0A345UNQ0_Cyclonatronum	A0A345UNQ0	1457365	Cyclonatronum proteinivorum	bac		CYPRO_2864	399	510	717	112
+A0A370GZG6_Aquicella	A0A370GZG6	254246	Aquicella lusitana	bac		C8D86_10329	399	512	619	114
+A0A402D4B0_Capsulimonas	A0A402D4B0	2219043	Capsulimonas corticalis	bac		CCAX7_31950	590	690	785	101
+A0A430FVU8_Bifidobacterium	A0A430FVU8	2306974	Bifidobacterium samirii	bac		D2E24_0480	568	697	811	130
+A0A433N804_Chlorogloeopsis	A0A433N804	211165	Chlorogloeopsis fritschii PCC 6912	bac		recQ	404	516	718	113
+A0A4V2PSQ1_Celerinatantimonas	A0A4V2PSQ1	412034	Celerinatantimonas diazotrophica	bac		EV690_0207	397	510	597	114
+A0A5D0MI91_CandidatusMcinerneyibacterium	A0A5D0MI91	2703815	Candidatus Mcinerneyibacterium aminivorans	bac		recQ	400	512	592	113
+A0A5E4SVZ8_Pandoraea	A0A5E4SVZ8	1537710	Pandoraea terrae	bac		PTE30175_00975	481	594	683	114
+A0A5S9IVB4_CandidatusUabimicrobium	A0A5S9IVB4	2596890	Uabimicrobium amorphum	bac		UABAM_06597	495	603	715	109
+A0A6H2H5B3_Polaromonas	A0A6H2H5B3	37448	Polaromonas vacuolata	bac		recQ	515	632	728	118
+A0A6I6GEN3_Phnomibacter	A0A6I6GEN3	2676868	Phnomibacter ginsenosidimutans	bac		recQ	447	560	775	114
+A0A6N8FYU1_Gloeocapsopsis	A0A6N8FYU1	1433147	Gloeocapsopsis dulcis AAB1 = 1H9	bac		BWI75_15965	404	517	710	114
+A0A6N9NHD2_Acidiluteibacter	A0A6N9NHD2	2692424	Acidiluteibacter ferrifornacis	bac		recQ	405	520	731	116
+A0A7D5ZFT6_Chitinibacter	A0A7D5ZFT6	1737446	Chitinibacter fontanus	bac		recQ	406	518	606	113
+A0A7W5Z3Y6_Pseudochelatococcus	A0A7W5Z3Y6	1538103	Pseudochelatococcus contaminans	bac		FHS81_001616	420	532	625	113
+A0A7W9C6R0_Brevundimonas	A0A7W9C6R0	74316	Brevundimonas aurantiaca	bac		GGQ93_001898	418	532	743	115
+A0A839UQB2_Simiduia	A0A839UQB2	1510459	Simiduia aestuariiviva	bac		FHS30_001874	400	513	727	114
+A0A842HBX8_Ruficoccus	A0A842HBX8	1804625	Ruficoccus amylovorans	bac		H5P28_01480	497	614	707	118
+A0A8J7ABZ7_Vasconcelosia	A0A8J7ABZ7	915328	Vasconcelosia minhoensis LEGE 07310	bac		recQ	416	529	740	114
+A0A916SJX3_Brucella	A0A916SJX3	1963359	Brucella endophytica	bac		recQ	398	511	603	114
+A0A926I077_Bianquea	A0A926I077	2763661	Bianquea renquensis	bac		recQ	406	519	616	114
+A0A934N804_CandidatusNephthysia	A0A934N804	3127016	Candidatus Nephthysia bennettiae	bac		JF922_05205	414	521	609	108
+A0A9E7BXP6_Capillimicrobium	A0A9E7BXP6	2884022	Capillimicrobium parvum	bac		srmB_1	511	594	594	84
+A0A9X1B5E7_Lamprobacter	A0A9X1B5E7	1064514	Lamprobacter modestohalophilus	bac		recQ	410	520	785	111
+A0AAJ5ZDB7_CandidatusLucifugimonas	A0AAJ5ZDB7	3038979	Candidatus Lucifugimonas marina	bac		recQ	433	542	771	110
+A0AAP2DMN6_Chryseosolibacter	A0AAP2DMN6	2782349	Chryseosolibacter histidinae	bac		recQ	400	512	787	113
+A0AAU0UN36_Metallumcola	A0AAU0UN36	3039180	Metallumcola ferriviriculae	bac		recQ	401	514	593	114
+A0AAV5N591_Leminorella	A0AAV5N591	82981	Leminorella grimontii	bac		recQ	406	518	616	113
+A0AAW4W2Y6_Agathobaculum	A0AAW4W2Y6	1628085	Agathobaculum butyriciproducens	bac		recQ	408	525	614	118
+A0ABN2C8H1_Dermacoccus	A0ABN2C8H1	322601	Dermacoccus barathri	bac		recQ	418	533	625	116
+B4CWF3_Chthoniobacter	B4CWF3	497964	Chthoniobacter flavus Ellin428	bac		CfE428DRAFT_0990	401	518	610	118
+B9Z938_Pseudogulbenkiania	B9Z938	279714	Pseudogulbenkiania ferrooxidans 2002	bac		FuraDRAFT_3875	426	539	628	114
+C7Q0K4_Catenulispora	C7Q0K4	479433	Catenulispora acidiphila (strain DSM 44928 / JCM 14897 / NBRC 102108 / NRRL B-24433 / ID139908)	bac		Caci_0697	407	523	662	117
+F2JH42_Cellulosilyticum	F2JH42	642492	Cellulosilyticum lentocellum (strain ATCC 49066 / DSM 5427 / NCIMB 11756 / RHM5) (Clostridium lentocellum)	bac		Clole_0097	397	510	733	114
+F5YFZ3_Leadbettera	F5YFZ3	545695	Leadbettera azotonutricia (strain ATCC BAA-888 / DSM 13862 / ZAS-9) (Treponema azotonutricium)	bac		recQ	418	534	652	117
+K6VN58_Austwickia	K6VN58	1184607	Austwickia chelonae NBRC 105200	bac		recQ	419	535	643	117
+K9U8N6_Chroococcidiopsis	K9U8N6	251229	Chroococcidiopsis thermalis (strain PCC 7203)	bac		Chro_5413	404	517	708	114
+K9UPW5_Chamaesiphon	K9UPW5	1173020	Chamaesiphon minutus (strain ATCC 27169 / PCC 6605)	bac		Cha6605_5880	415	533	743	119
+K9WB97_Allocoleopsis	K9WB97	1173027	Allocoleopsis franciscana PCC 7113	bac		Mic7113_1782	452	565	757	114
+K9XW22_Stanieria	K9XW22	111780	Stanieria cyanosphaera (strain ATCC 29371 / PCC 7437)	bac		Sta7437_3226	401	514	708	114
+L0F6J6_Desulfitobacterium	L0F6J6	871963	Desulfitobacterium dichloroeliminans (strain LMG P-21439 / DCA1)	bac		Desdi_2014	401	513	748	113
+M7P128_Cesiribacter	M7P128	1279009	Cesiribacter andamanensis AMV16	bac		recQ_1	401	514	727	114
+Q2NQG3_Sodalis	Q2NQG3	343509	Sodalis glossinidius (strain morsitans)	bac		SG2337	418	531	625	114
+S0FV63_Desulfotignum	S0FV63	1286635	Desulfotignum phosphitoxidans DSM 13687	bac		recQ	397	508	734	112
+W4MBW4_CandidatusEntotheonella	W4MBW4	1429439	Candidatus Entotheonella gemina	bac		ETSY2_08965	511	617	725	107
+P40724_Salmonella	P40724	99287	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	bac		recQ	406	518	609	113
+A0A068NYV6_Fimbriimonas	A0A068NYV6	661478	Fimbriimonas ginsengisoli Gsoil 348	bac		OP10G_4121	397	510	602	114
+A0A098S861_Phaeodactylibacter	A0A098S861	1524460	Phaeodactylibacter xiamenensis	bac		IX84_11790	409	522	733	114
+A0A0B5FQV7_Geoalkalibacter	A0A0B5FQV7	483547	Geoalkalibacter subterraneus	bac		GSUB_04545	400	513	616	114
+A0A0G3WII3_Endomicrobium	A0A0G3WII3	1408281	Endomicrobium proavitum	bac		recQ	413	525	618	113
+A0A0K6IWZ8_Tepidiphilus	A0A0K6IWZ8	876478	Tepidiphilus thermophilus	bac		Ga0061068_10932	416	528	623	113
+A0A0X8H0L1_Erysipelothrix	A0A0X8H0L1	1514105	Erysipelothrix larvae	bac		AOC36_07825	399	512	707	114
+A0A191ZG12_Halothiobacillus	A0A191ZG12	1860122	Halothiobacillus diazotrophicus	bac		A9404_04950	406	519	610	114
+A0A194AH66_Desulfoplanes	A0A194AH66	1592317	Desulfoplanes formicivorans	bac		DPF_0806	407	520	738	114
+A0A1A6C1R1_Acidihalobacter	A0A1A6C1R1	160660	Acidihalobacter prosperus	bac		Thpro_022739	407	520	715	114
+A0A1B7LKK4_Desulfotomaculum	A0A1B7LKK4	1838280	Desulfotomaculum copahuensis	bac		A6M21_01645	503	598	764	96
+A0A1E5G2T0_Desulfuribacillus	A0A1E5G2T0	766136	Desulfuribacillus alkaliarsenatis	bac		BHF68_06145	370	483	713	114
+A0A1G6D544_Desulfonatronum	A0A1G6D544	617002	Desulfonatronum thiosulfatophilum	bac		SAMN05660653_01921	634	741	962	108
+A0A1H3VLN1_Desulfuromusa	A0A1H3VLN1	37625	Desulfuromusa kysingii	bac		SAMN05660420_00148	413	526	613	114
+A0A1I1IKW5_Flexibacter	A0A1I1IKW5	927664	Flexibacter flexilis DSM 6793	bac		SAMN05421780_1054	404	517	730	114
+A0A1I3QJ50_Desulfomicrobium	A0A1I3QJ50	52560	Desulfomicrobium apsheronum	bac		SAMN04488082_102342	414	526	748	113
+A0A1I4ZKX2_Izhakiella	A0A1I4ZKX2	1367852	Izhakiella capsodis	bac		SAMN05216516_10932	416	529	618	114
+A0A1I5VSU4_Pseudarcicella	A0A1I5VSU4	1079859	Pseudarcicella hirudinis	bac		SAMN04515674_11046	405	570	785	166
+A0A1I5Z8U4_Hymenobacter	A0A1I5Z8U4	1227077	Hymenobacter arizonensis (Siccationidurans arizonensis)	bac		SAMN04515668_2826	568	681	908	114
+A0A1M5WI02_Chryseolinea	A0A1M5WI02	947013	Chryseolinea serpens	bac		SAMN04488109_5717	416	529	742	114
+A0A1M5Y074_Desulfofustis	A0A1M5Y074	1121409	Desulfofustis glycolicus DSM 9705	bac		SAMN02745124_03494	398	511	603	114
+A0A1M6RBA8_Fibrobacter	A0A1M6RBA8	28122	Fibrobacter intestinalis	bac		SAMN05720469_103176	419	532	618	114
+A0A1R3SVW1_Proteiniphilum	A0A1R3SVW1	1642647	Proteiniphilum saccharofermentans	bac		PSM36_1646	419	532	747	114
+A0A1T5CYS7_Acetoanaerobium	A0A1T5CYS7	745369	Acetoanaerobium noterae	bac		SAMN02745120_2480	400	513	602	114
+A0A1U7HHK2_Hydrococcus	A0A1U7HHK2	1921803	Hydrococcus rivularis NIES-593	bac		NIES593_11185	404	517	708	114
+A0A212QQJ6_Arboricoccus	A0A212QQJ6	1963835	Arboricoccus pini	bac		SAMN07250955_102296	403	515	602	113
+A0A225DBC6_Fimbriiglobus	A0A225DBC6	1908690	Fimbriiglobus ruber	bac		FRUB_08391	410	523	747	114
+A0A235F601_Fictibacillus	A0A235F601	2021314	Fictibacillus aquaticus	bac		recQ	399	513	710	115
+A0A285H271_Orenia	A0A285H271	1413210	Orenia metallireducens	bac		SAMN06265827_11327	490	602	798	113
+A0A2D0AXL0_Halomonas	A0A2D0AXL0	213554	Halomonas campaniensis	bac		JI62_19690	405	518	714	114
+A0A2G4YLP4_Paremcibacter	A0A2G4YLP4	2043170	Paremcibacter congregatus	bac		recQ	401	512	610	112
+A0A2L2XFV9_Desulfocucumis	A0A2L2XFV9	1898651	Desulfocucumis palustris	bac		DCCM_4251	497	598	827	102
+A0A2N6K3U4_Fischerella	A0A2N6K3U4	2019572	Fischerella muscicola CCMEE 5323	bac		recQ	404	517	719	114
+A0A2Z2NNV3_Granulosicoccus	A0A2Z2NNV3	1192854	Granulosicoccus antarcticus IMCC3135	bac		recQ	406	519	609	114
+A0A3N1NZ51_Gallaecimonas	A0A3N1NZ51	584787	Gallaecimonas pentaromativorans	bac		EDC28_107133	410	522	610	113
+A0A402A3C8_Tengunoibacter	A0A402A3C8	2014871	Tengunoibacter tsumagoiensis	bac		recQ_2	408	521	745	114
+A0A430AZF0_Vagococcus	A0A430AZF0	564710	Vagococcus acidifermentans	bac		CBF27_04190	407	520	611	114
+A0A4U8YT89_Desulfoluna	A0A4U8YT89	231438	Desulfoluna butyratoxydans	bac		MSL71_47290	401	513	611	113
+A0A502EKH7_Flavobacterium	A0A502EKH7	29533	Flavobacterium pectinovorum	bac		recQ	394	506	774	113
+A0A5B8NPQ6_Euhalothece	A0A5B8NPQ6	522448	Euhalothece natronophila Z-M001	bac		recQ	402	515	711	114
+A0A5D3WN03_Geothermobacter	A0A5D3WN03	213224	Geothermobacter ehrlichii	bac		EDC39_10567	429	542	630	114
+A0A5J6MNJ6_Hypericibacter	A0A5J6MNJ6	2602015	Hypericibacter terrae	bac		FRZ44_16290	409	522	616	114
+A0A5Q2MVM1_Heliorestis	A0A5Q2MVM1	356322	Heliorestis convoluta	bac		recQ	407	520	597	114
+A0A5R9EW53_Exobacillus	A0A5R9EW53	2574798	Exobacillus caeni	bac		recQ	401	514	715	114
+A0A6L5YAS1_Pyramidobacter	A0A6L5YAS1	2605789	Pyramidobacter porci	bac		recQ	408	520	622	113
+A0A7G9GXP2_Fusobacterium	A0A7G9GXP2	2764326	Fusobacterium hominis	bac		recQ	412	523	640	112
+A0A7M2YYX5_Gaiella	A0A7M2YYX5	1002870	Gaiella occulta	bac		Gocc_1088	489	573	659	85
+A0A848J3B6_Marinigracilibium	A0A848J3B6	2729599	Marinigracilibium pacificum	bac		recQ	405	517	732	113
+A0A8A7KAE8_Iocasia	A0A8A7KAE8	2682810	Iocasia frigidifontis	bac		recQ	401	513	705	113
+A0A8J6QEZ7_Neiella	A0A8J6QEZ7	2771431	Neiella litorisoli	bac		recQ	410	523	609	114
+A0A915U1I5_Desulfolithobacter	A0A915U1I5	2795293	Desulfolithobacter dissulfuricans	bac		recQ	406	519	723	114
+A0A917DHV4_Croceicoccus	A0A917DHV4	1703341	Croceicoccus pelagius	bac		recQ	432	543	628	112
+A0A926HUW0_Feifania	A0A926HUW0	2763660	Feifania hominis	bac		recQ	432	545	636	114
+A0A975BXN6_Desulfonema	A0A975BXN6	45655	Desulfonema magnum	bac		recQ	407	520	969	114
+A0A9X3Z6L4_Govanella	A0A9X3Z6L4	2975056	Govanella unica	bac		recQ	398	511	598	114
+A0AA37TN91_Paraferrimonas	A0AA37TN91	2013866	Paraferrimonas haliotis	bac		recQ	412	525	616	114
+A0AA41UKV1_Desulfatitalea	A0AA41UKV1	2929485	Desulfatitalea alkaliphila	bac		recQ	402	513	756	112
+A0AA91EGB6_Obesumbacterium	A0AA91EGB6	1354268	Obesumbacterium proteus ATCC 12841	bac		M993_02552	406	518	612	113
+A0AAN1X9N7_Sideroxyarcus	A0AAN1X9N7	2764705	Sideroxyarcus emersonii	bac		MIZ01_1121	405	518	615	114
+A0AAU9D4R6_Haliovirga	A0AAU9D4R6	2996794	Haliovirga abyssi	bac		recQ	403	516	743	114
+A0AAU9E3U3_Helicovermis	A0AAU9E3U3	3065157	Helicovermis profundi	bac		recQ	400	513	607	114
+A0ABM8FN31_Hydrogenimonas	A0ABM8FN31	2993563	Hydrogenimonas cancrithermarum	bac		recQ	400	511	607	112
+A0ABT7M0L7_Geitlerinema	A0ABT7M0L7	2922238	Geitlerinema calcuttense NRMC-F 0142	bac		recQ	404	517	727	114
+A1AN54_Pelobacter	A1AN54	338966	Pelobacter propionicus (strain DSM 2379 / NBRC 103807 / OttBd1)	bac		Ppro_1151	398	511	714	114
+A5G9H1_Geotalea	A5G9H1	351605	Geotalea uraniireducens (strain Rf4) (Geobacter uraniireducens)	bac		Gura_4296	399	511	715	113
+A9B0G6_Herpetosiphon	A9B0G6	316274	Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785 / 114-95)	bac		Haur_4553	680	780	864	101
+B8KS26_Luminiphilus	B8KS26	565045	Luminiphilus syltensis NOR5-1B	bac		recQ	415	528	612	114
+C0GGZ5_Dethiobacter	C0GGZ5	555088	Dethiobacter alkaliphilus AHT 1	bac		DealDRAFT_1754	402	515	591	114
+C6XQJ7_Hirschia	C6XQJ7	582402	Hirschia baltica (strain ATCC 49814 / DSM 5838 / IFAM 1418)	bac		Hbal_0909	422	537	629	116
+E1WZQ0_Halobacteriovorax	E1WZQ0	862908	Halobacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ) (Bacteriovorax marinus)	bac		BMS_1370	423	533	637	111
+F3YVH7_Desulfocurvibacter	F3YVH7	690850	Desulfocurvibacter africanus subsp. africanus str. Walvis Bay	bac		Desaf_0209	432	545	769	114
+F7Q0P7_Haloplasma	F7Q0P7	1033810	Haloplasma contractile SSD-17B	bac		recQ	398	511	716	114
+G4R7V5_Pelagibacterium	G4R7V5	1082931	Pelagibacterium halotolerans (strain DSM 22347 / JCM 15775 / CGMCC 1.7692 / B2)	bac		KKY_205	427	540	629	114
+G7GWB9_Gordonia	G7GWB9	1075090	Gordonia amarae NBRC 15530	bac		recQ	446	560	652	115
+H6LKN8_Acetobacterium	H6LKN8	931626	Acetobacterium woodii (strain ATCC 29683 / DSM 1030 / JCM 2381 / KCTC 1655 / WB1)	bac		recQ	400	513	739	114
+K0B373_Gottschalkia	K0B373	1128398	Gottschalkia acidurici (strain ATCC 7906 / DSM 604 / BCRC 14475 / CIP 104303 / KCTC 5404 / NCIMB 10678 / 9a) (Clostridium acidurici)	bac		recQ	400	513	734	114
+K0YJX6_Slackia	K0YJX6	742818	Slackia piriformis YIT 12062	bac		HMPREF9451_01287	496	608	716	113
+K9W4C4_Crinalium	K9W4C4	1173022	Crinalium epipsammum PCC 9333	bac		Cri9333_4247	404	517	728	114
+K9YMT5_Cyanobacterium	K9YMT5	292563	Cyanobacterium stanieri (strain ATCC 29140 / PCC 7202)	bac		Cyast_1821	401	514	713	114
+Q2SQJ7_Hahella	Q2SQJ7	349521	Hahella chejuensis (strain KCTC 2396)	bac		recQ	406	518	603	113
+Q7NHA8_Gloeobacter	Q7NHA8	251221	Gloeobacter violaceus (strain ATCC 29082 / PCC 7421)	bac		recQ	417	530	746	114
+V5SG65_Hyphomicrobium	V5SG65	1029756	Hyphomicrobium nitrativorans NL23	bac		W911_11870	440	553	749	114
+A0A0J8J7J7_Listeria	A0A0J8J7J7	1430899	Listeria fleischmannii 1991	bac		X560_0903	399	512	594	114
+A0A0K1S9Z4_Microcystis	A0A0K1S9Z4	1638788	Microcystis panniformis FACHB-1757	bac		VL20_6176	405	517	703	113
+A0A0K2SM57_Limnochorda	A0A0K2SM57	1555112	Limnochorda pilosa	bac		LIP_2350	399	511	591	113
+A0A0M2R747_Kiloniella	A0A0M2R747	1549748	Kiloniella litopenaei	bac		WH95_16575	406	519	613	114
+A0A0S7C321_Lentimicrobium	A0A0S7C321	1678841	Lentimicrobium saccharophilum	bac		TBC1_111740	407	520	731	114
+A0A1B1S8G6_Muribaculum	A0A1B1S8G6	1796646	Muribaculum intestinale	bac		A4V02_04770	405	518	727	114
+A0A1B1YWJ2_Immundisolibacter	A0A1B1YWJ2	1810504	Immundisolibacter cernigliae	bac		PG2T_13485	399	512	602	114
+A0A1E5Q5E1_Magnetovibrio	A0A1E5Q5E1	28181	Magnetovibrio blakemorei	bac		BEN30_14750	395	508	601	114
+A0A1G6UFB1_Kordiimonas	A0A1G6UFB1	637679	Kordiimonas lacus	bac		SAMN04488071_0571	405	517	605	113
+A0A1H1LQ87_Nocardioides	A0A1H1LQ87	642780	Nocardioides scoriae	bac		SAMN04488570_0291	407	523	618	117
+A0A1I0HCG4_Enterocloster	A0A1I0HCG4	460384	Enterocloster lavalensis	bac		SAMN05216313_11587	406	519	886	114
+A0A1I4U1N9_Nitrosomonas	A0A1I4U1N9	52442	Nitrosomonas nitrosa	bac		SAMN05421880_13711	440	552	648	113
+A0A1I6GRU5_Marinobacter	A0A1I6GRU5	650891	Marinobacter daqiaonensis	bac		SAMN05216203_0415	442	555	657	114
+A0A1J1E810_Ichthyobacterium	A0A1J1E810	242600	Ichthyobacterium seriolicida	bac		JBKA6_1465	414	527	733	114
+A0A1Y1CHA2_Labilibaculum	A0A1Y1CHA2	1717717	Labilibaculum antarcticum	bac		ALGA_1320	403	515	725	113
+A0A1Y2K045_Magnetofaba	A0A1Y2K045	1434232	Magnetofaba australis IT-1	bac		MAIT1_00539	411	523	623	113
+A0A1Z3HP71_Halomicronema	A0A1Z3HP71	1641165	Halomicronema hongdechloris C2206	bac		crhR_2	430	543	757	114
+A0A1Z4JK93_Leptolyngbya	A0A1Z4JK93	1973484	Leptolyngbya boryana NIES-2135	bac		NIES2135_40200	455	571	793	117
+A0A1Z5IB58_Secundilactobacillus	A0A1Z5IB58	1435342	Secundilactobacillus mixtipabuli	bac		recQ_1	418	530	611	113
+A0A222P3A2_Legionella	A0A222P3A2	1867846	Legionella clemsonensis	bac		recQ	435	546	639	112
+A0A2K9LLV7_Ketobacter	A0A2K9LLV7	1917421	Ketobacter alkanivorans	bac		recQ	399	512	600	114
+A0A2K9P3A5_Monoglobus	A0A2K9P3A5	1981510	Monoglobus pectinilyticus	bac		B9O19_01574	408	524	609	117
+A0A2S6I9X4_Neolewinella	A0A2S6I9X4	1514080	Neolewinella xylanilytica	bac		CLV84_1269	396	509	739	114
+A0A2T0K7F4_Actinoplanes	A0A2T0K7F4	113567	Actinoplanes italicus	bac		CLV67_11182	399	515	833	117
+A0A2U2AG72_Ignatzschineria	A0A2U2AG72	472582	Ignatzschineria ureiclastica	bac		recQ	411	524	609	114
+A0A328C4V4_Lujinxingia	A0A328C4V4	2211119	Lujinxingia litoralis	bac		DL240_17320	514	619	773	106
+A0A330LU72_Moritella	A0A330LU72	69539	Moritella yayanosii	bac		recQ	404	517	606	114
+A0A4D7JNS5_Mangrovivirga	A0A4D7JNS5	2715131	Mangrovivirga cuniculi	bac		recQ	405	517	732	113
+A0A4Q7Z566_Fluviicoccus	A0A4Q7Z566	1435465	Fluviicoccus keumensis	bac		EV700_1634	414	527	738	114
+A0A4R1MZM1_Natranaerovirga	A0A4R1MZM1	680378	Natranaerovirga hydrolytica	bac		EDC19_1067	401	514	728	114
+A0A4R6XG62_Marinicella	A0A4R6XG62	644220	Marinicella litoralis	bac		C8D91_2279	399	512	704	114
+A0A4R7C9V9_Enterovirga	A0A4R7C9V9	1339210	Enterovirga rhinocerotis	bac		EV668_1431	443	556	692	114
+A0A4R8CKJ6_Kribbella	A0A4R8CKJ6	2512112	Kribbella pratensis	bac		EV653_1003	443	559	647	117
+A0A4S3K1U9_Panacagrimonas	A0A4S3K1U9	381431	Panacagrimonas perspica	bac		DFR24_0243	425	540	764	116
+A0A518B383_Kolteria	A0A518B383	2527975	Kolteria novifilia	bac		recQ	589	692	820	104
+A0A5B8XTA7_Microvenator	A0A5B8XTA7	2600177	Microvenator marinus	bac		FRD01_14070	511	618	622	108
+A0A5B9VXF0_Aquisphaera	A0A5B9VXF0	406548	Aquisphaera giovannonii	bac		recQ_1	597	703	1010	107
+A0A5C5ZET5_Posidoniimonas	A0A5C5ZET5	2528002	Posidoniimonas polymericola	bac		recQ	426	535	745	110
+A0A5C6VAD8_Luteibaculum	A0A5C6VAD8	1294296	Luteibaculum oceani	bac		recQ	405	517	727	113
+A0A7G9SLR6_Thermomonas	A0A7G9SLR6	1463158	Thermomonas carbonis	bac		recQ	676	789	882	114
+A0A7K0DB25_Nocardia	A0A7K0DB25	2585198	Nocardia macrotermitis	bac		dbpA_2	424	540	841	117
+A0A7W6GDY6_Hansschlegelia	A0A7W6GDY6	1133344	Hansschlegelia beijingensis	bac		GGR24_000141	416	529	614	114
+A0A7W9FLY0_Prosthecomicrobium	A0A7W9FLY0	81895	Prosthecomicrobium pneumaticum	bac		GGQ63_002154	401	513	607	113
+A0A846MY21_Rhizomicrobium	A0A846MY21	189966	Rhizomicrobium palustre	bac		FHS83_001816	404	517	602	114
+A0A847SA81_Leeia	A0A847SA81	2725557	Leeia aquatica	bac		recQ	397	510	711	114
+A0A8D5G8Q3_Methyloradius	A0A8D5G8Q3	2778876	Methyloradius palustris	bac		recQ	409	522	611	114
+A0A8J7B7I7_Lusitaniella	A0A8J7B7I7	945747	Lusitaniella coriacea LEGE 07157	bac		recQ	404	517	709	114
+A0A917DQX9_Emticicia	A0A917DQX9	1537369	Emticicia aquatilis	bac		GCM10011514_25480	403	577	793	175
+A0A9W6GVJ7_Methylocystis	A0A9W6GVJ7	29468	Methylocystis echinoides	bac		LMG27198_28900	454	567	652	114
+A0AA41YVL1_Lichenifustis	A0AA41YVL1	2949735	Lichenifustis flavocetrariae	bac		recQ	401	513	602	113
+A0AA96JX60_Nitrospira	A0AA96JX60	3020900	Candidatus Nitrospira allomarina	bac		recQ	417	534	811	118
+A0AAE3L0Q8_Methylohalomonas	A0AAE3L0Q8	398773	Methylohalomonas lacus	bac		J2T55_000013	408	521	615	114
+A0AAE3MCJ9_Plebeiibacterium	A0AAE3MCJ9	2992111	Plebeiibacterium marinum	bac		recQ	428	540	751	113
+A0AAJ3HUH0_Proteus	A0AAJ3HUH0	1354271	Proteus hauseri ATCC 700826	bac		M997_0547	406	518	609	113
+A0AAP6JEL8_Natronospira	A0AAP6JEL8	3110268	Natronospira elongata	bac		recQ	400	513	713	114
+A0AAU0MZL6_Microbulbifer	A0AAU0MZL6	407164	Microbulbifer pacificus	bac		recQ	419	532	630	114
+A0AAU9CAC9_Methylomarinovum	A0AAU9CAC9	438856	Methylomarinovum caldicuralii	bac		MIT9_P1032	397	510	601	114
+A0AAV5B1F1_Granulimonas	A0AAV5B1F1	2894155	Granulimonas faecalis	bac		recQ	427	540	631	114
+A0ABD4T3X6_Lyngbya	A0ABD4T3X6	1574623	Lyngbya confervoides BDU141951	bac		recQ	419	532	740	114
+A0ABT1NAS2_Lutispora	A0ABT1NAS2	3024236	Lutispora saccharofermentans	bac		recQ	406	519	606	114
+A0ABT2N143_Laspinema	A0ABT2N143	2953688	Laspinema olomoucense D3b	bac		recQ	412	525	839	114
+A1ZJ89_Microscilla	A1ZJ89	313606	Microscilla marina ATCC 23134	bac		M23134_00509	401	514	728	114
+A6DR32_Lentisphaera	A6DR32	313628	Lentisphaera araneosa HTCC2155	bac		LNTAR_07754	573	681	770	109
+A6FYZ2_Plesiocystis	A6FYZ2	391625	Plesiocystis pacifica SIR-1	bac		PPSIR1_30065	483	596	691	114
+A8MFY8_Alkaliphilus	A8MFY8	350688	Alkaliphilus oremlandii (strain OhILAs) (Clostridium oremlandii (strain OhILAs))	bac		Clos_0979	400	513	745	114
+D0LUH4_Haliangium	D0LUH4	502025	Haliangium ochraceum (strain DSM 14365 / JCM 11303 / SMP-2)	bac		Hoch_6833	503	602	708	100
+D1AI20_Sebaldella	D1AI20	526218	Sebaldella termitidis (strain ATCC 33386 / NCTC 11300)	bac		Sterm_1545	399	511	592	113
+D6U7T3_Ktedonobacter	D6U7T3	485913	Ktedonobacter racemifer DSM 44963	bac		Krac_0473	403	516	739	114
+E4TL45_Marivirga	E4TL45	643867	Marivirga tractuosa (strain ATCC 23168 / DSM 4126 / NBRC 15989 / NCIMB 1408 / VKM B-1430 / H-43) (Microscilla tractuosa) (Flexibacter tractuosus)	bac		Ftrac_3348	401	513	725	113
+F5S907_Kingella	F5S907	887327	Kingella kingae ATCC 23330	bac		recQ	422	535	819	114
+G0A4G9_Methylomonas	G0A4G9	857087	Methylomonas methanica (strain DSM 25384 / MC09)	bac		Metme_3185	426	539	734	114
+K2K1Q1_Idiomarina	K2K1Q1	740709	Idiomarina xiamenensis 10-D-4	bac		A10D4_11681	418	529	624	112
+N1VW30_Leptospira	N1VW30	1257025	Leptospira terpstrae serovar Hualin str. LT 11-33 = ATCC 700639	bac		LEP1GSC203_2988	455	537	636	83
+Q0AQ55_Maricaulis	Q0AQ55	394221	Maricaulis maris (strain MCS10) (Caulobacter maris)	bac		Mmar10_1290	413	526	616	114
+Q0EW04_Mariprofundus	Q0EW04	314345	Mariprofundus ferrooxydans PV-1	bac		SPV1_12977	405	514	724	110
+Q2VZB7_Paramagnetospirillum	Q2VZB7	342108	Paramagnetospirillum magneticum (strain ATCC 700264 / AMB-1) (Magnetospirillum magneticum)	bac		amb4254	407	519	620	113
+Q89XR5_Bradyrhizobium	Q89XR5	224911	Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110)	bac		recQ	463	575	670	113
+Q9CL21_Pasteurella	Q9CL21	272843	Pasteurella multocida (strain Pm70)	bac		recQ	419	532	632	114
+A0A017T6V9_Chondromyces	A0A017T6V9	1192034	Chondromyces apiculatus (strain DSM 436 / NBRC 100084 / Cm a2)	bac		CAP_4585	493	603	803	111
+A0A060RBR6_Mucinivorans	A0A060RBR6	1433126	Mucinivorans hirudinis	bac		BN938_2972	431	544	758	114
+A0A0L8V5X6_Sunxiuqinia	A0A0L8V5X6	1409788	Sunxiuqinia dokdonensis	bac		NC99_33400	402	514	728	113
+A0A0S2KAC8_Pseudohongiella	A0A0S2KAC8	1249552	Pseudohongiella spirulinae	bac		PS2015_557	402	515	606	114
+A0A0U5JD95_CandidatusProtochlamydia	A0A0U5JD95	389348	Candidatus Protochlamydia naegleriophila	bac		recQ	407	520	725	114
+A0A154WGD0_Oceanibaculum	A0A154WGD0	580166	Oceanibaculum pacificum	bac		AUP43_04325	408	521	611	114
+A0A160MXF8_Dyella	A0A160MXF8	445710	Dyella thiooxydans	bac		ATSB10_00130	431	544	636	114
+A0A1E3GTK6_Methylophaga	A0A1E3GTK6	291169	Methylophaga muralis	bac		recQ	403	516	708	114
+A0A1G9DR13_Lacicoccus	A0A1G9DR13	576118	Lacicoccus qingdaonensis	bac		SAMN05216216_106107	398	509	608	112
+A0A1H2VWM2_Litoreibacter	A0A1H2VWM2	670155	Litoreibacter albidus	bac		SAMN04488001_1638	430	543	712	114
+A0A1H4F9C9_Lonsdalea	A0A1H4F9C9	71657	Lonsdalea quercina	bac		SAMN02982996_02945	427	539	628	113
+A0A1H9GVG2_Amphritea	A0A1H9GVG2	355243	Amphritea atlantica	bac		SAMN03080615_01916	412	525	725	114
+A0A1I0M9G4_Roseivirga	A0A1I0M9G4	1267423	Roseivirga pacifica	bac		SAMN05216290_0188	403	515	732	113
+A0A1N7MP06_Insolitispirillum	A0A1N7MP06	80876	Insolitispirillum peregrinum	bac		SAMN05421779_104248	399	512	605	114
+A0A1Y0I7P6_Oleiphilus	A0A1Y0I7P6	141451	Oleiphilus messinensis	bac		OLMES_1345	403	515	607	113
+A0A1Y1SA27_Oceanococcus	A0A1Y1SA27	1317117	Oceanococcus atlanticus	bac		ATO7_15417	408	521	609	114
+A0A1Y6B6C5_Tistlia	A0A1Y6B6C5	560819	Tistlia consotensis USBA 355	bac		SAMN05428998_101685	423	535	631	113
+A0A239FM01_Ekhidna	A0A239FM01	447679	Ekhidna lutea	bac		SAMN05421640_0731	420	534	746	115
+A0A259U183_Rubricoccus	A0A259U183	716817	Rubricoccus marinus	bac		BSZ36_11685	522	631	733	110
+A0A290QFV6_Nibricoccus	A0A290QFV6	2576891	Nibricoccus aquaticus	bac		recQ	450	566	660	117
+A0A2H3LBU9_CandidatusChloroploca	A0A2H3LBU9	1506545	Candidatus Chloroploca asiatica	bac		A9Q02_01385	826	922	923	97
+A0A2H6LK08_Nostoc	A0A2H6LK08	1861711	Nostoc cycadae WK-1	bac		NCWK1_3311	419	532	733	114
+A0A2N3IHP7_Raineya	A0A2N3IHP7	2016530	Raineya orbicola	bac		Rain11_1161	403	516	731	114
+A0A2P7N1Z4_Cyanobium	A0A2P7N1Z4	2116684	Cyanobium usitatum str. Tous	bac		recQ	406	521	621	116
+A0A2S6N4S9_Rhodoblastus	A0A2S6N4S9	333368	Rhodoblastus sphagnicola	bac		CCR94_14915	400	513	606	114
+A0A2S7U294_Rubritalea	A0A2S7U294	1658618	Rubritalea profundi	bac		BSZ32_09110	408	521	730	114
+A0A2T4I8M9_Edaphosphingomonas	A0A2T4I8M9	114404	Edaphosphingomonas fennica	bac		recQ	395	506	589	112
+A0A2V4EST3_Gilliamella	A0A2V4EST3	1196095	Gilliamella apicola	bac		recQ	400	513	609	114
+A0A316FQ60_Pleionea	A0A316FQ60	523701	Pleionea mediterranea	bac		C8D97_106111	425	538	727	114
+A0A366FPF1_Roseiarcus	A0A366FPF1	1473586	Roseiarcus fermentans	bac		DFR50_10583	404	516	604	113
+A0A368N7F3_Corallincola	A0A368N7F3	2282215	Corallincola holothuriorum	bac		recQ	422	535	620	114
+A0A3A1Y6V4_Psittacicella	A0A3A1Y6V4	2028575	Psittacicella hinzii	bac		CKF54_03645	744	798	886	55
+A0A3D9FGT6_Parasphingopyxis	A0A3D9FGT6	680125	Parasphingopyxis lamellibrachiae	bac		DFR46_2064	408	519	601	112
+A0A3M3EZE3_Pseudomonas	A0A3M3EZE3	47879	Pseudomonas corrugata	bac		ALQ77_05084	471	584	780	114
+A0A4D7B4R5_Phreatobacter	A0A4D7B4R5	1940610	Phreatobacter stygius	bac		recQ	414	527	619	114
+A0A4R2PFB7_Rhodothalassium	A0A4R2PFB7	1188247	Rhodothalassium salexigens DSM 2132	bac		EV659_1065	412	525	613	114
+A0A512NKP6_Reyranella	A0A512NKP6	1230389	Reyranella soli	bac		RSO01_66870	402	514	610	113
+A0A563VM65_Hyella	A0A563VM65	945734	Hyella patelloides LEGE 07179	bac		recQ	406	519	710	114
+A0A5B2V3M0_Salinarimonas	A0A5B2V3M0	1638099	Salinarimonas soli	bac		recQ	401	512	604	112
+A0A5C1E8J0_Oryzomicrobium	A0A5C1E8J0	1735038	Oryzomicrobium terrae	bac		recQ	436	549	639	114
+A0A5C5Y6I5_Crateriforma	A0A5C5Y6I5	2527996	Crateriforma conspicua	bac		recQ_2	609	717	963	109
+A0A5P8E414_Pseudoprevotella	A0A5P8E414	2133944	Pseudoprevotella muciniphila	bac		C7Y71_000870	473	585	797	113
+A0A6C2UIP6_Pontiella	A0A6C2UIP6	2750658	Pontiella sulfatireligans	bac		recQ_2	399	512	720	114
+A0A6G4W7U8_Allomesorhizobium	A0A6G4W7U8	475069	Allomesorhizobium camelthorni	bac		recQ	398	511	687	114
+A0A6M8B8Y0_Thermoleptolyngbya	A0A6M8B8Y0	2737172	Thermoleptolyngbya sichuanensis A183	bac		recQ	408	520	763	113
+A0A6N6M9K4_Salibacter	A0A6N6M9K4	1803916	Salibacter halophilus	bac		F3059_04340	407	519	731	113
+A0A6N6RDW4_Phaeocystidibacter	A0A6N6RDW4	911197	Phaeocystidibacter luteus	bac		recQ	404	517	724	114
+A0A7G9W8R1_Alkalicella	A0A7G9W8R1	2731377	Alkalicella caledoniensis	bac		recQ	400	513	726	114
+A0A7H0VFX7_Croceimicrobium	A0A7H0VFX7	2761580	Croceimicrobium hydrocarbonivorans	bac		recQ	408	521	732	114
+A0A7S6REX1_Anabaenopsis	A0A7S6REX1	2779889	Anabaenopsis elenkinii CCIBt3563	bac		recQ	404	517	721	114
+A0A7X1AYQ1_Puniceicoccus	A0A7X1AYQ1	388746	Puniceicoccus vermicola	bac		H5P30_06265	490	608	704	119
+A0A7X1EAN2_Pelagicoccus	A0A7X1EAN2	415222	Pelagicoccus albus	bac		recQ	402	519	616	118
+A0A7X4YNJ0_Paenibacillus	A0A7X4YNJ0	742054	Paenibacillus sacheonensis	bac		recQ	401	513	761	113
+A0A8J2V6S6_Aquisalinus	A0A8J2V6S6	1526572	Aquisalinus flavus	bac		GCM10011342_01190	419	530	620	112
+A0A8J2ZED7_Caldovatus	A0A8J2ZED7	2041189	Caldovatus sediminis	bac		recQ	409	524	758	116
+A0A8J3CPH0_Algimonas	A0A8J3CPH0	1479486	Algimonas arctica	bac		GCM10009069_01300	419	532	616	114
+A0A8J3IRD1_Reticulibacter	A0A8J3IRD1	2778369	Reticulibacter mediterranei	bac		recQ	406	519	738	114
+A0A8S8XEK1_Roseiterribacter	A0A8S8XEK1	2812848	Roseiterribacter gracilis	bac		recQ	402	515	603	114
+A0A916NGC7_Parvicella	A0A916NGC7	2829795	Parvicella tangerina	bac		recQ_1	407	519	732	113
+A0A923I1A1_Undibacterium	A0A923I1A1	2762291	Undibacterium rugosum	bac		recQ	421	534	627	114
+A0A931I1Y0_Methylobrevis	A0A931I1Y0	2793297	Methylobrevis albus	bac		recQ	419	532	625	114
+A0AAE3IH70_Hominimerdicola	A0AAE3IH70	2981726	Hominimerdicola aceti	bac		recQ	413	530	761	118
+A0AAE3UGC7_Xanthocytophaga	A0AAE3UGC7	3048010	Xanthocytophaga agilis	bac		recQ	402	515	730	114
+A0AAF1KR32_Rhizobium	A0AAF1KR32	2041385	Rhizobium tumorigenes	bac		recQ	456	569	664	114
+A0AAN4VVT6_Persicobacter	A0AAN4VVT6	981	Persicobacter diffluens	bac		PEDI_04490	409	521	731	113
+A0ABT3HCH6_Rhodobium	A0ABT3HCH6	364296	Rhodobium gokarnense	bac		M2319_002448	398	511	600	114
+A7HXG7_Parvibaculum	A7HXG7	402881	Parvibaculum lavamentivorans (strain DS-1 / DSM 13023 / NCIMB 13966)	bac		Plav_2993	432	545	633	114
+B9XSD9_Pedosphaera	B9XSD9	320771	Pedosphaera parvula (strain Ellin514)	bac		Cflav_PD0285	406	523	728	118
+C2MC37_Porphyromonas	C2MC37	596327	Porphyromonas uenonis 60-3	bac		recQ	402	514	734	113
+C8VVA7_Desulfofarcimen	C8VVA7	485916	Desulfofarcimen acetoxidans (strain ATCC 49208 / DSM 771 / KCTC 5769 / VKM B-1644 / 5575) (Desulfotomaculum acetoxidans)	bac		Dtox_0011	493	598	793	106
+E4T5K5_Paludibacter	E4T5K5	694427	Paludibacter propionicigenes (strain DSM 17365 / JCM 13257 / WB4)	bac		Palpr_1860	404	517	730	114
+G2KSF7_Micavibrio	G2KSF7	856793	Micavibrio aeruginosavorus (strain ARL-13)	bac		recQ	386	499	589	114
+G4D3E1_Peptoniphilus	G4D3E1	997350	Peptoniphilus indolicus ATCC 29427	bac		recQ	391	502	711	112
+H0EB31_Patulibacter	H0EB31	1097667	Patulibacter medicamentivorans	bac		PAI11_40560	530	621	625	92
+H1DGQ4_Odoribacter	H1DGQ4	742817	Odoribacter laneus YIT 12061	bac		HMPREF9449_01440	414	527	735	114
+H6SJH5_Pararhodospirillum	H6SJH5	1150469	Pararhodospirillum photometricum DSM 122	bac		RSPPHO_01514	464	577	676	114
+I0IE31_Phycisphaera	I0IE31	1142394	Phycisphaera mikurensis (strain DSM 103959 / KCTC 22515 / NBRC 102666 / FYK2301M01)	bac		recQ	446	559	657	114
+K9TME6_Oxynema	K9TME6	56110	Oxynema acuminatum PCC 6304	bac		Oscil6304_3626	412	525	836	114
+L8N4U5_Pseudanabaena	L8N4U5	927668	Pseudanabaena biceps PCC 7429	bac		Pse7429DRAFT_1587	440	553	769	114
+M5RUY2_Novipirellula	M5RUY2	1265738	Rhodopirellula maiorica SM1	bac		RMSM_03853	647	751	1079	105
+Q186Q8_Clostridioides	Q186Q8	272563	Clostridioides difficile (strain 630) (Peptoclostridium difficile)	bac		recQ	400	519	827	120
+Q1YQ86_tx314287	Q1YQ86	314287	gamma proteobacterium HTCC2207	bac		GB2207_00250	399	512	607	114
+A0A073ISA3_Synergistes	A0A073ISA3	2754	Synergistes jonesii	bac		EH55_02530	404	522	612	119
+A0A0B7GQE4_Treponema	A0A0B7GQE4	162	Treponema phagedenis	bac		recQ	411	523	734	113
+A0A0B7MMV0_Syntrophaceticus	A0A0B7MMV0	499207	Syntrophaceticus schinkii	bac		SSCH_430011	408	454	454	47
+A0A0C5JLA7_Rugosibacter	A0A0C5JLA7	1565605	Rugosibacter aromaticivorans	bac		PG1C_06055	401	514	628	114
+A0A0F6W5Y2_Sandaracinus	A0A0F6W5Y2	927083	Sandaracinus amylolyticus	bac		DB32_005480	484	591	691	108
+A0A0M7AZ84_Roseibium	A0A0M7AZ84	311410	Roseibium album	bac		recQ_1	423	535	629	113
+A0A0P9C5D5_Thiohalorhabdus	A0A0P9C5D5	381306	Thiohalorhabdus denitrificans	bac		SAMN05661077_1337	401	514	601	114
+A0A0S2I0X3_Salinivirga	A0A0S2I0X3	1307839	Salinivirga cyanobacteriivorans	bac		recQ_1	403	516	729	114
+A0A146G7L9_Terrimicrobium	A0A146G7L9	690879	Terrimicrobium sacchariphilum	bac		TSACC_22116	398	515	608	118
+A0A165B2T3_Synechococcus	A0A165B2T3	431041	Candidatus Synechococcus spongiarum	bac		FLM9_1054	399	511	618	113
+A0A1D7TL41_Sulfurospirillum	A0A1D7TL41	1193502	Sulfurospirillum halorespirans DSM 13726	bac		SHALO_1925	399	510	596	112
+A0A1D8GHK1_Geosporobacter	A0A1D8GHK1	1424294	Geosporobacter ferrireducens	bac		Gferi_12555	399	509	718	111
+A0A1E2UKR5_CandidatusThiodiazotropha	A0A1E2UKR5	1818881	Candidatus Thiodiazotropha endoloripes	bac		A3196_00270	410	523	716	114
+A0A1G5QNZ4_Thiohalomonas	A0A1G5QNZ4	415747	Thiohalomonas denitrificans	bac		SAMN03097708_02461	398	511	604	114
+A0A1H6U6J9_Propionispira	A0A1H6U6J9	84035	Propionispira arboris	bac		SAMN05660742_101331	401	514	718	114
+A0A1H8PP60_Propionispora	A0A1H8PP60	112903	Propionispora vibrioides	bac		SAMN04490178_10239	423	536	740	114
+A0A1I0CSQ0_Thorsellia	A0A1I0CSQ0	1123402	Thorsellia anophelis DSM 18579	bac		SAMN02583745_01712	436	548	647	113
+A0A1I1VUW1_Thiohalospira	A0A1I1VUW1	1123397	Thiohalospira halophila DSM 15071	bac		SAMN05660831_02496	404	517	606	114
+A0A1I2D684_Thermoflexibacter	A0A1I2D684	1003	Thermoflexibacter ruber	bac		SAMN04488541_100684	410	523	737	114
+A0A1L3GRT7_Syntrophotalea	A0A1L3GRT7	1842532	Syntrophotalea acetylenivorans	bac		A7E78_12635	401	512	599	112
+A0A1M4XQ64_Tissierella	A0A1M4XQ64	1123404	Tissierella praeacuta DSM 18095	bac		SAMN02745784_02342	400	513	721	114
+A0A1M4Y951_Desulfacinum	A0A1M4Y951	1121391	Desulfacinum infernum DSM 9756	bac		SAMN02745206_01197	401	511	968	111
+A0A1M5SR35_Sporanaerobacter	A0A1M5SR35	1123281	Sporanaerobacter acetigenes DSM 13106	bac		SAMN02745180_00252	402	515	724	114
+A0A1Q2MGQ7_Limihaloglobus	A0A1Q2MGQ7	1851148	Limihaloglobus sulfuriphilus	bac		recQ_1	407	520	610	114
+A0A285UW07_Salinicoccus	A0A285UW07	714307	Salinicoccus kekensis	bac		SAMN05878391_2337	398	508	606	111
+A0A285ZTE1_Pedobacter	A0A285ZTE1	1476464	Pedobacter xixiisoli	bac		SAMN06297358_0910	423	531	747	109
+A0A2A5S5G9_Pseudolactococcus	A0A2A5S5G9	1364	Pseudolactococcus piscium	bac		RU86_GL001133	400	515	601	116
+A0A2P7QFF5_Allosphingosinicella	A0A2P7QFF5	2116704	Allosphingosinicella deserti	bac		recQ	397	508	595	112
+A0A2S8B147_Sphingopyxis	A0A2S8B147	2054227	Sphingopyxis lindanitolerans	bac		recQ	396	507	596	112
+A0A326U8P6_Thermosporothrix	A0A326U8P6	644383	Thermosporothrix hazakensis	bac		EI42_02527	403	516	721	114
+A0A367XG13_Thalassospira	A0A367XG13	502049	Thalassospira profundimaris	bac		TH25_05945	415	528	617	114
+A0A369I676_Runella	A0A369I676	2282308	Runella aurantiaca	bac		recQ	406	527	746	122
+A0A401XJL4_Thermaurantimonas	A0A401XJL4	2173829	Thermaurantimonas aggregans	bac		JCM31826_07090	403	514	728	112
+A0A426QGC8_Thiohalobacter	A0A426QGC8	585455	Thiohalobacter thiocyanaticus	bac		recQ	408	521	612	114
+A0A4R3JWX5_Sulfuritortus	A0A4R3JWX5	1914471	Sulfuritortus calidifontis	bac		EDC61_10345	409	522	610	114
+A0A4R3Y1M1_Sulfurirhabdus	A0A4R3Y1M1	1706046	Sulfurirhabdus autotrophica	bac		EDC63_10913	415	528	623	114
+A0A4R8IE89_Thiohalophilus	A0A4R8IE89	381308	Thiohalophilus thiocyanatoxydans	bac		EDC23_2717	399	512	708	114
+A0A543IV80_Thermopolyspora	A0A543IV80	103836	Thermopolyspora flexuosa	bac		FHX40_1160	413	529	710	117
+A0A550JFE8_Trichloromonas	A0A550JFE8	38815	Trichloromonas acetexigens	bac		recQ	398	511	623	114
+A0A5S9R076_tx2029982	A0A5S9R076	2029982	BD1-7 clade bacterium	bac		recQ	402	515	716	114
+A0A6A7Y431_Segnochrobactrum	A0A6A7Y431	2608987	Segnochrobactrum spirostomi	bac		recQ	408	521	615	114
+A0A6H2DLK8_Parasphingorhabdus	A0A6H2DLK8	2725558	Parasphingorhabdus halotolerans	bac		recQ	394	505	596	112
+A0A6I6D670_Guyparkeria	A0A6I6D670	47960	Guyparkeria halophila	bac		recQ	401	514	602	114
+A0A6I6DPC7_CandidatusSyntrophocurvum	A0A6I6DPC7	2293317	Candidatus Syntrophocurvum alkaliphilum	bac		SYNTR_2237	399	512	717	114
+A0A6L8W9J3_Sneathiella	A0A6L8W9J3	2606216	Sneathiella litorea	bac		recQ	400	513	601	114
+A0A6P1M8Q4_Tichowtungia	A0A6P1M8Q4	2697043	Tichowtungia aerotolerans	bac		recQ	399	512	714	114
+A0A6P2C2H8_Trebonia	A0A6P2C2H8	2480626	Trebonia kvetii	bac		recQ	419	534	634	116
+A0A7C9LHL7_Sandarakinorhabdus	A0A7C9LHL7	1439888	Sandarakinorhabdus fusca	bac		recQ	399	511	599	113
+A0A7D3XEK6_Tenuifilum	A0A7D3XEK6	2590900	Tenuifilum thalassicum	bac		recQ	406	518	734	113
+A0A7D4CVE0_Kroppenstedtia	A0A7D4CVE0	1380685	Kroppenstedtia pulmonis	bac		recQ	401	514	791	114
+A0A7M1S4H6_Sulfurovum	A0A7M1S4H6	2779528	Sulfurovum indicum	bac		recQ	398	509	596	112
+A0A7M2WY61_Humisphaera	A0A7M2WY61	2807512	Humisphaera borealis	bac		IPV69_03025	430	536	639	107
+A0A7S7RQF1_Sulfurimonas	A0A7S7RQF1	2740405	Candidatus Sulfurimonas marisnigri	bac		recQ	406	515	599	110
+A0A7W6DLN0_Sphingobium	A0A7W6DLN0	944425	Sphingobium fontiphilum	bac		GGR44_002567	403	514	598	112
+A0A7W6G9G0_Novosphingobium	A0A7W6G9G0	563162	Novosphingobium sediminicola	bac		GGR38_003985	442	553	638	112
+A0A839HLP5_Aquariibacter	A0A839HLP5	2759899	Aquariibacter albus	bac		recQ	463	584	681	122
+A0A841HMR6_Povalibacter	A0A841HMR6	732238	Povalibacter uvarum	bac		HNQ60_002914	423	539	629	117
+A0A846HEN6_Hassallia	A0A846HEN6	1304833	Hassallia byssoidea VB512170	bac		recQ	404	516	722	113
+A0A846MQ08_Thermonema	A0A846MQ08	28195	Thermonema lapsum	bac		FHS56_001166	403	517	735	115
+A0A8G2F464_Thalassobaculum	A0A8G2F464	1123362	Thalassobaculum litoreum DSM 18839	bac		SAMN05660686_03315	425	538	625	114
+A0A8J2VM20_Pullulanibacillus	A0A8J2VM20	1707096	Pullulanibacillus camelliae	bac		recQ	401	513	714	113
+A0A8J7CAF4_Iningainema	A0A8J7CAF4	2748662	Iningainema tapete BLCC-T55	bac		recQ	404	517	728	114
+A0A915YHU7_Aureispira	A0A915YHU7	2864201	Aureispira anguillae	bac		AsAng_0040090	430	543	755	114
+A0A917C266_Terasakiella	A0A917C266	1634917	Terasakiella brassicae	bac		recQ	400	513	603	114
+A0A942UY80_Anaeromonas	A0A942UY80	2683708	Anaeromonas frigoriresistens	bac		recQ	399	512	711	114
+A0A9P1NZX2_Limnospira	A0A9P1NZX2	376219	Limnospira indica PCC 8005	bac		recQ	412	524	739	113
+A0A9X4MHL7_Thiovibrio	A0A9X4MHL7	2984131	Thiovibrio frasassiensis	bac		recQ	398	511	604	114
+A0AAF0BGQ5_Gimibacter	A0AAF0BGQ5	3024400	Gimibacter soli	bac		recQ	407	519	607	113
+A0AAI9SEZ0_Sutterella	A0AAI9SEZ0	1944635	Sutterella seckii	bac		recQ	400	517	611	118
+A0ABT3L5H8_Spirulina	A0ABT3L5H8	234711	Spirulina subsalsa FACHB-351	bac		recQ	405	518	715	114
+A0ABT8F7N1_Shiella	A0ABT8F7N1	3058365	Shiella aurantiaca	bac		recQ	405	518	732	114
+A0ABT8LCI8_Agaribacillus	A0ABT8LCI8	3051825	Agaribacillus aureus	bac		recQ	407	517	738	111
+A0ABV0J561_Trichocoleus	A0ABV0J561	2933944	Trichocoleus desertorum GB2-A4	bac		recQ	414	526	616	113
+A0ABW1T039_Longivirga	A0ABW1T039	1837743	Longivirga aurantiaca	bac		recQ	408	521	611	114
+F4LUF8_Tepidanaerobacter	F4LUF8	1209989	Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1)	bac		recQ	400	513	729	114
+G8QSD9_Sphaerochaeta	G8QSD9	158190	Sphaerochaeta pleomorpha (strain ATCC BAA-1885 / DSM 22778 / Grapes)	bac		SpiGrapes_2293	416	529	619	114
+G8UL57_Tannerella	G8UL57	203275	Tannerella forsythia (strain ATCC 43037 / JCM 10827 / CCUG 21028 A / KCTC 5666 / FDC 338) (Bacteroides forsythus)	bac		recQ	463	576	786	114
+H9UK99_Spirochaeta	H9UK99	889378	Spirochaeta africana (strain ATCC 700263 / DSM 8902 / Z-7692)	bac		Spiaf_1888	436	550	658	115
+I3CBK8_Beggiatoa	I3CBK8	395493	Beggiatoa alba B18LD	bac		BegalDRAFT_0077	402	515	733	114
+M1ZBX2_Schnuerera	M1ZBX2	1288971	[Clostridium] ultunense Esp	bac		recQ	400	513	722	114
+Q2LQI6_Syntrophus	Q2LQI6	56780	Syntrophus aciditrophicus (strain SB)	bac		SYN_02584	398	511	619	114
+V4RMN6_Lutibaculum	V4RMN6	631454	Lutibaculum baratangense AMV1	bac		N177_0758	414	527	608	114
+A0A663FBV1_Aquila	A0A663FBV1	223781	Aquila chrysaetos chrysaetos	euk		WRN	925	1028	1479	104
+A0A8B9BPP4_Anser	A0A8B9BPP4	132585	Anser brachyrhynchus (Pink-footed goose)	euk		BLM	1087	1213	1435	127
+A0AAJ6YE70_Ceratosolen	A0AAJ6YE70	326594	Ceratosolen solmsi marchali	euk		LOC105361034	911	1032	1248	122
+A0A024GB81_Albugo	A0A024GB81	65357	Albugo candida	euk		BN9_046730	640	762	890	123
+A0A0C2XKG1_Amanita	A0A0C2XKG1	946122	Amanita muscaria (strain Koide BX008)	euk		M378DRAFT_189969	773	895	1043	123
+A0A0D2U9D7_Capsaspora	A0A0D2U9D7	595528	Capsaspora owczarzaki (strain ATCC 30864)	euk		CAOG_002769	1220	1338	1771	119
+A0A137PHZ7_Conidiobolus	A0A137PHZ7	796925	Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) (Delacroixia coronata)	euk		CONCODRAFT_136911	675	794	993	120
+A0A139SXW9_Ventosimonas	A0A139SXW9	1680762	Ventosimonas gracilis	bac		AXE65_08215	401	535	703	135
+A0A143PP50_Luteitalea	A0A143PP50	1855912	Luteitalea pratensis	bac		recQ_1	408	522	613	115
+A0A193LGI2_Woeseia	A0A193LGI2	1548547	Woeseia oceani	bac		BA177_10450	399	512	602	114
+A0A1D9MF25_Rhodobacter	A0A1D9MF25	1850250	Rhodobacter xanthinilyticus	bac		LPB142_14355	405	518	691	114
+A0A1G6PNU2_Williamwhitmania	A0A1G6PNU2	1640674	Williamwhitmania taraxaci	bac		SAMN05216323_105312	404	516	729	113
+A0A1G7B3J0_Riemerella	A0A1G7B3J0	1071918	Riemerella columbipharyngis	bac		SAMN05421544_10515	418	531	744	114
+A0A1T4XFA2_Gemmiger	A0A1T4XFA2	745368	Gemmiger formicilis	bac		SAMN02745178_01777	405	518	765	114
+A0A1W0ABS8_Thraustotheca	A0A1W0ABS8	74557	Thraustotheca clavata	euk		THRCLA_00370	894	1019	1245	126
+A0A251X9U2_Thioflexithrix	A0A251X9U2	1570016	Thioflexithrix psekupsensis	bac		TPSD3_04695	405	520	609	116
+A0A2P2E9Q6_CandidatusPhycosocius	A0A2P2E9Q6	1445552	Candidatus Phycosocius bacilliformis	bac		recQ	412	526	621	115
+A0A2R6Q6I3_Actinidia	A0A2R6Q6I3	1590841	Actinidia chinensis var. chinensis (Chinese soft-hair kiwi)	euk		CEY00_Acc21257	880	1001	1227	122
+A0A2T0QEH6_Allonocardiopsis	A0A2T0QEH6	1144618	Allonocardiopsis opalescens	bac		CLV72_101907	414	530	620	117
+A0A2T3BF66_Amorphotheca	A0A2T3BF66	857342	Amorphotheca resinae ATCC 22711	euk		M430DRAFT_132028	1311	1431	1793	121
+A0A2T7PWK2_Pomacea	A0A2T7PWK2	400727	Pomacea canaliculata (Golden apple snail)	euk		C0Q70_00417	815	937	1159	123
+A0A317E0A4_Zavarzinia	A0A317E0A4	2211142	Zavarzinia aquatilis	bac		recQ	402	515	606	114
+A0A366HCH9_Roseimicrobium	A0A366HCH9	748857	Roseimicrobium gellanilyticum	bac		DES53_109107	548	667	764	120
+A0A368GYQ0_Ancylostoma	A0A368GYQ0	29170	Ancylostoma caninum (Dog hookworm)	euk		ANCCAN_05329	768	892	1122	125
+A0A418YDN0_Motilimonas	A0A418YDN0	2303987	Motilimonas pumila	bac		recQ	409	522	613	114
+A0A4P9VWQ5_Zooshikella	A0A4P9VWQ5	202772	Zooshikella ganghwensis	bac		recQ	399	511	721	113
+A0A4R1RC46_Hydrogenispora	A0A4R1RC46	1082276	Hydrogenispora ethanolica	bac		EDC14_102288	403	516	727	114
+A0A4R3LPU2_Aquabacter	A0A4R3LPU2	933073	Aquabacter spiritensis	bac		EDC64_11369	420	533	621	114
+A0A554XIF8_Tepidimonas	A0A554XIF8	2267262	Tepidimonas charontis	bac		recQ	453	568	674	116
+A0A5C6RPK1_Vicingus	A0A5C6RPK1	1926625	Vicingus serpentipes	bac		recQ	452	569	780	118
+A0A5C8PEF2_Vineibacter	A0A5C8PEF2	2586908	Vineibacter terrae	bac		recQ	410	523	623	114
+A0A6A5WPR3_Amniculicola	A0A6A5WPR3	1392246	Amniculicola lignicola CBS 123094	euk		P154DRAFT_464906	1263	1377	1746	115
+A0A6A6WDA4_Pseudovirgaria	A0A6A6WDA4	470096	Pseudovirgaria hyperparasitica	euk		EJ05DRAFT_535718	1235	1360	1764	126
+A0A6M0RGJ9_Adonisia	A0A6M0RGJ9	2292702	Adonisia turfae CCMR0081	bac		recQ	410	523	736	114
+A0A841PK73_Geomicrobium	A0A841PK73	549000	Geomicrobium halophilum	bac		HNR44_001078	400	513	589	114
+A0A844G7C6_Victivallis	A0A844G7C6	2606640	Victivallis lenta	bac		FYJ85_18575	583	698	790	116
+A0A8J8MMX0_Vallitalea	A0A8J8MMX0	1348613	Vallitalea pronyensis	bac		recQ	402	515	711	114
+A0A8T2PQH5_Albula	A0A8T2PQH5	121402	Albula glossodonta (roundjaw bonefish)	euk		JZ751_011724	574	673	1168	100
+A0A928Z8A7_Zarconia	A0A928Z8A7	1828826	Zarconia navalis LEGE 11467	bac		recQ	417	530	718	114
+A0A9D3MB40_Anguilla	A0A9D3MB40	7936	Anguilla anguilla (European freshwater eel) (Muraena anguilla)	euk		ANANG_G00142810	491	601	639	111
+A0A9Q0LU91_Anaeramoeba	A0A9Q0LU91	1746090	Anaeramoeba ignava (Anaerobic marine amoeba)	euk		M0811_14577	894	1016	1274	123
+A0A9X0HMG7_Solirubrum	A0A9X0HMG7	1751427	Solirubrum puertoriconensis	bac		ASU33_11350	408	521	748	114
+A0A9X0UIM2_Vibrio	A0A9X0UIM2	28172	Vibrio metschnikovii	bac		H8Q88_14025	496	601	803	106
+A0AAD4NC42_Ditylenchus	A0AAD4NC42	166010	Ditylenchus destructor	euk		DdX_02108	610	715	1029	106
+A0AAD5VI52_Leucocoprinus	A0AAD5VI52	56174	Leucocoprinus birnbaumii	euk		NP233_g10513	787	906	1067	120
+A0AAD9QNZ7_Acropora	A0AAD9QNZ7	6130	Acropora cervicornis (Staghorn coral)	euk		P5673_012141	832	955	968	124
+A0AAN2CA82_Vulcanimicrobium	A0AAN2CA82	3016050	Vulcanimicrobium alpinum	bac		recQ_2	401	517	607	117
+A0AAP0S2M2_Liquidambar	A0AAP0S2M2	63359	Liquidambar formosana (Formosan gum)	euk		L1049_014792	698	819	1014	122
+A0AAV9E8R4_Acorus	A0AAV9E8R4	4465	Acorus calamus (Sweet flag)	euk		RECQL4A	829	900	1158	72
+A0AAW1R2V0_Elliptochloris	A0AAW1R2V0	381761	Elliptochloris bilobata	euk		WJX81_008688	591	712	972	122
+A0AAW2ZNQ3_Acrasis	A0AAW2ZNQ3	1008807	Acrasis kona	euk		AKO1_000901	706	825	1048	120
+A0AAW9R4I3_Elongatibacter	A0AAW9R4I3	3119006	Elongatibacter sediminis	bac		recQ	410	523	613	114
+A0ABN2I1I5_Fodinicola	A0ABN2I1I5	435914	Fodinicola feengrottensis	bac		recQ	410	526	618	117
+A0ABV8X8B9_Chungangia	A0ABV8X8B9	752657	Chungangia koreensis	bac		recQ	399	511	585	113
+C1GRE2_Paracoccidioides	C1GRE2	502779	Paracoccidioides lutzii (strain ATCC MYA-826 / Pb01) (Paracoccidioides brasiliensis)	euk		PAAG_01087	1100	1219	1563	120
+C4ZJ76_Thauera	C4ZJ76	164330	Thauera aminoaromatica	bac		Tmz1t_1047	456	569	657	114
+C9LP34_Dialister	C9LP34	592028	Dialister invisus DSM 15470	bac		recQ	398	501	811	104
+D7CR13_Truepera	D7CR13	649638	Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24)	bac		Trad_0273	400	513	598	114
+E9CLK2_Serratia	E9CLK2	914128	Serratia symbiotica str. Tucson	bac		recQ	414	527	618	114
+L8GS10_Acanthamoeba	L8GS10	1257118	Acanthamoeba castellanii (strain ATCC 30010 / Neff)	euk		ACA1_378200	535	616	621	82
+R7Z401_Coniosporium	R7Z401	1168221	Coniosporium apollinis (strain CBS 100218) (Rock-inhabiting black yeast)	euk		W97_08155	1268	1388	1754	121
+W1NSM6_Amborella	W1NSM6	13333	Amborella trichopoda	euk		AMTR_s00118p00027960	913	1034	1275	122
+A0A2K5FA03_Aotus	A0A2K5FA03	37293	Aotus nancymaae (Ma's night monkey)	euk			1070	1197	1415	128
+A0A8I3NX97_Canis	A0A8I3NX97	9615	Canis lupus familiaris (Dog) (Canis familiaris)	euk		WRN	1045	1159	1574	115
+A0AAA9TDU0_Bos	A0AAA9TDU0	9913	Bos taurus (Bovine)	euk		BLM	1084	1211	1430	128
+Q8L840_Arabidopsis	Q8L840	3702	Arabidopsis thaliana (Mouse-ear cress)	euk		RECQL4A	864	983	1188	120
+A0A096P7A8_Ostreococcus	A0A096P7A8	70448	Ostreococcus tauri (Marine green alga)	euk		OT_ostta03g01680	811	935	1140	125
+A0A0C3BMJ1_Piloderma	A0A0C3BMJ1	765440	Piloderma croceum (strain F 1598)	euk		PILCRDRAFT_815265	773	892	1095	120
+A0A0L0DJN9_Thecamonas	A0A0L0DJN9	461836	Thecamonas trahens ATCC 50062	euk		AMSG_01158	702	827	1023	126
+A0A0L0T335_Allomyces	A0A0L0T335	578462	Allomyces macrogynus (strain ATCC 38327) (Allomyces javanicus var. macrogynus)	euk		AMAG_13650	571	693	967	123
+A0A0M8ZT91_Melipona	A0A0M8ZT91	166423	Melipona quadrifasciata	euk		WN51_06326	987	1089	1277	103
+A0A167WVR7_Ascosphaera	A0A167WVR7	392613	Ascosphaera apis ARSEF 7405	euk		AAP_04482	1168	1288	1579	121
+A0A1D2VH39_Ascoidea	A0A1D2VH39	1344418	Ascoidea rubescens DSM 1968	euk		ASCRUDRAFT_8485	1171	1292	1577	122
+A0A1I7ST65_Bursaphelenchus	A0A1I7ST65	6326	Bursaphelenchus xylophilus (Pinewood nematode worm) (Aphelenchoides xylophilus)	euk		BXYJ_LOCUS6779	638	758	877	121
+A0A1Y1WU27_Basidiobolus	A0A1Y1WU27	1314790	Basidiobolus meristosporus CBS 931.73	euk		K493DRAFT_293919	493	613	797	121
+A0A2G9G3H1_Handroanthus	A0A2G9G3H1	429701	Handroanthus impetiginosus	euk		CDL12_27809	690	812	1035	123
+A0A3N4HU45_Ascobolus	A0A3N4HU45	1160509	Ascobolus immersus RN42	euk		BJ508DRAFT_417545	1190	1307	1667	118
+A0A4S2MHN7_Ascodesmis	A0A4S2MHN7	341454	Ascodesmis nigricans	euk		EX30DRAFT_258632	1217	1308	1310	92
+A0A5P1E652_Asparagus	A0A5P1E652	4686	Asparagus officinalis (Garden asparagus)	euk		A4U43_C09F7220	872	976	1161	105
+A0A672I2W6_Salarias	A0A672I2W6	181472	Salarias fasciatus (Jewelled blenny) (Blennius fasciatus)	euk		blm	867	992	1189	126
+A0A673CQX9_Sphaeramia	A0A673CQX9	375764	Sphaeramia orbicularis (orbiculate cardinalfish)	euk		blm	760	885	1080	126
+A0A6A6BKP3_Aplosporella	A0A6A6BKP3	1176127	Aplosporella prunicola CBS 121167	euk		K452DRAFT_223123	514	634	979	121
+A0A6G1H3K3_Aulographum	A0A6G1H3K3	1176131	Aulographum hederae CBS 113979	euk		K402DRAFT_329874	551	671	1056	121
+A0A6P5GWP8_Ananas	A0A6P5GWP8	4615	Ananas comosus (Pineapple) (Ananas ananas)	euk		LOC109725334	870	990	1230	121
+A0A813XLQ1_Brachionus	A0A813XLQ1	104777	Brachionus calyciflorus	euk		OXX778_LOCUS9820	772	895	1077	124
+A0A8B9AQS0_Phoenix	A0A8B9AQS0	42345	Phoenix dactylifera (Date palm)	euk		LOC103701408	857	978	1275	122
+A0A8E2E2M0_Lepidopterella	A0A8E2E2M0	1314670	Lepidopterella palustris CBS 459.81	euk		K432DRAFT_336094	1277	1395	1763	119
+A0A8H4IQB8_Botryosphaeria	A0A8H4IQB8	55169	Botryosphaeria dothidea	euk		GTA08_BOTSDO06658	1268	1388	2399	121
+A0A8I2YWR0_Boletus	A0A8I2YWR0	495285	Boletus reticuloceps	euk		JVT61DRAFT_11528	804	925	1116	122
+A0A8R2R8V4_Bombyx	A0A8R2R8V4	7091	Bombyx mori (Silk moth)	euk			899	1019	1235	121
+A0A9J2Q3A3_Ascaris	A0A9J2Q3A3	6252	Ascaris lumbricoides (Giant roundworm)	euk			749	868	1161	120
+A0A9P5D4V9_Geosmithia	A0A9P5D4V9	1094350	Geosmithia morbida	euk		GMORB2_5662	1254	1370	1764	117
+A0A9P9WHC6_Neoarthrinium	A0A9P9WHC6	1658444	Neoarthrinium moseri	euk		JX265_008645	1592	1712	2081	121
+A0AA36A4E6_Lactuca	A0AA36A4E6	75948	Lactuca saligna (Willowleaf lettuce)	euk		LSALG_LOCUS42746	889	1008	1249	120
+A0AA39EZB5_Microctonus	A0AA39EZB5	165561	Microctonus hyperodae (Parasitoid wasp)	euk		PV327_010896	843	966	1170	124
+A0AAD2CAG5_Cylindrotheca	A0AAD2CAG5	2856	Cylindrotheca closterium	euk		CYCCA115_LOCUS413	878	1004	1242	127
+A0AAD3DKM2_Astrephomene	A0AAD3DKM2	47775	Astrephomene gubernaculifera	euk		Agub_g2336	862	981	1284	120
+A0AAD8EDF1_Diploptera	A0AAD8EDF1	6984	Diploptera punctata (Pacific beetle cockroach)	euk		L9F63_020137	488	600	785	113
+A0AAD8HWI5_Heracleum	A0AAD8HWI5	360622	Heracleum sosnowskyi	euk		POM88_030466	808	929	1147	122
+A0AAU9J4R6_Blepharisma	A0AAU9J4R6	1481888	Blepharisma stoltei	euk		BSTOLATCC_MIC27299	626	742	905	117
+A0AAV3PUI2_Lithospermum	A0AAV3PUI2	34254	Lithospermum erythrorhizon (Purple gromwell) (Lithospermum officinale var. erythrorhizon)	euk		LIER_12979	896	1016	1245	121
+A0AAV4VJT9_Caerostris	A0AAV4VJT9	1538125	Caerostris darwini	euk		Blm	937	1061	1275	125
+A0AAV7E689_Aristolochia	A0AAV7E689	158543	Aristolochia fimbriata (White veined hardy Dutchman's pipe vine)	euk		H6P81_015503	865	986	1230	122
+A0ABM0JPG4_Aplysia	A0ABM0JPG4	6500	Aplysia californica (California sea hare)	euk		LOC101856181	1081	1203	1440	123
+A0ABQ7HYS2_Astathelohania	A0ABQ7HYS2	164912	Astathelohania contejeani	euk		rqh1	548	668	676	121
+A0ABQ8TJ46_Periplaneta	A0ABQ8TJ46	6978	Periplaneta americana (American cockroach) (Blatta americana)	euk		ANN_12380	841	968	1296	128
+A0ABQ9FHQ4_Tegillarca	A0ABQ9FHQ4	220873	Tegillarca granosa (Malaysian cockle) (Anadara granosa)	euk		KUTeg_004708	592	707	1086	116
+W4KRR9_Heterobasidion	W4KRR9	747525	Heterobasidion irregulare (strain TC 32-1)	euk		HETIRDRAFT_100074	561	683	868	123
+A0ACB8SWT7_Artomyces	A0ACB8SWT7	48021	Artomyces pyxidatus	euk		BV25DRAFT_904999	830	952	1173	123
+A0ACC0AL70_Catharanthus	A0ACC0AL70	4058	Catharanthus roseus (Madagascar periwinkle) (Vinca rosea)	euk		M9H77_20892	874	993	1234	120
+A0ACC2NJ08_Eretmocerus	A0ACC2NJ08	131215	Eretmocerus hayati	euk		QAD02_001860	1065	1188	1393	124
+A0A2K6C0M9_Macaca	A0A2K6C0M9	9545	Macaca nemestrina (Pig-tailed macaque)	euk			953	1066	1432	114
+A0A7M4E150_Crocodylus	A0A7M4E150	8502	Crocodylus porosus (Saltwater crocodile) (Estuarine crocodile)	euk		BLM	1120	1247	1466	128
+A0A8B7G8R0_Microcebus	A0A8B7G8R0	30608	Microcebus murinus (Gray mouse lemur) (Lemur murinus)	euk		BLM	1072	1199	1418	128
+A0A8C2UKG7_Chinchilla	A0A8C2UKG7	34839	Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera)	euk		WRN	926	1038	1462	113
+A0A8C8VXH9_Peromyscus	A0A8C8VXH9	230844	Peromyscus maniculatus bairdii (Prairie deer mouse)	euk			1072	1195	1413	124
+A0A8I3W2S6_Callithrix	A0A8I3W2S6	9483	Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus)	euk		WRN	953	1066	1433	114
+H0UZQ5_Cavia	H0UZQ5	10141	Cavia porcellus (Guinea pig)	euk		WRN	935	1040	1462	106
+A0AAN9TU79_Parthenolecanium	A0AAN9TU79	536013	Parthenolecanium corni	euk		V9T40_004529	1046	1172	1556	127
+A0A091M8S6_Cathartes	A0A091M8S6	43455	Cathartes aura (Turkey vulture) (Vultur aura)	euk		N323_01495	478	590	656	113
+A0A0F8BY45_Ceratocystis	A0A0F8BY45	88771	Ceratocystis fimbriata f. sp. platani	euk		SGS1	802	923	1276	122
+A0A0M0JR43_Chrysochromulina	A0A0M0JR43	1460289	Chrysochromulina tobinii	euk		Ctob_005586	465	584	766	120
+A0A167VJU6_Niveomyces	A0A167VJU6	1081102	Niveomyces insectorum RCEF 264	euk		SPI_04243	1362	1474	1932	113
+A0A1C7NRG6_Choanephora	A0A1C7NRG6	101091	Choanephora cucurbitarum	euk		rqh1	775	893	1058	119
+A0A1Q3AZM1_Cephalotus	A0A1Q3AZM1	3775	Cephalotus follicularis (Albany pitcher plant)	euk		CFOL_v3_04715	867	987	1181	121
+A0A1Y2I3R0_Catenaria	A0A1Y2I3R0	765915	Catenaria anguillulae PL171	euk		BCR44DRAFT_210467	725	857	1210	133
+A0A250WYM3_Chlamydomonas	A0A250WYM3	1157962	Chlamydomonas eustigma	euk		CEUSTIGMA_g3374.t1	413	532	1059	120
+A0A2P5G2G0_Trema	A0A2P5G2G0	63057	Trema orientale (Charcoal tree) (Celtis orientalis)	euk		TorRG33x02_005110	886	1005	1227	120
+A0A2P6MV93_Planoprotostelium	A0A2P6MV93	1890364	Planoprotostelium fungivorum	euk		PROFUN_07998	861	984	1190	124
+A0A2T2NB03_Corynespora	A0A2T2NB03	1448308	Corynespora cassiicola Philippines	euk		BS50DRAFT_532006	1241	1359	1761	119
+A0A484MLE7_Cuscuta	A0A484MLE7	132261	Cuscuta campestris	euk		CCAM_LOCUS30652	872	992	1195	121
+A0A4P9X9H9_Caulochytrium	A0A4P9X9H9	1555241	Caulochytrium protostelioides	euk		CXG81DRAFT_11656	438	527	530	90
+A0A507FQA8_Chytriomyces	A0A507FQA8	246404	Chytriomyces confervae	euk		CcCBS67573_g01234	904	1024	1245	121
+A0A5B8MNC0_Chloropicon	A0A5B8MNC0	1764295	Chloropicon primus	euk		A3770_04p33500	832	954	1123	123
+A0A5M3MCW5_Coniophora	A0A5M3MCW5	741705	Coniophora puteana (strain RWD-64-598) (Brown rot fungus)	euk		CONPUDRAFT_110321	580	700	898	121
+A0A7J7CHG9_Tripterygium	A0A7J7CHG9	458696	Tripterygium wilfordii (Thunder God vine)	euk		HS088_TW17G01042	848	969	1188	122
+A0A7J7LA00_Kingdonia	A0A7J7LA00	39325	Kingdonia uniflora	euk		GIB67_026220	893	1013	1226	121
+A0A7M5XM92_Clytia	A0A7M5XM92	252671	Clytia hemisphaerica	euk			925	1041	1256	117
+A0A7N0TXR1_Kalanchoe	A0A7N0TXR1	63787	Kalanchoe fedtschenkoi (Lavender scallops) (South American air plant)	euk			837	958	1180	122
+A0A914C886_Acrobeloides	A0A914C886	290746	Acrobeloides nanus	euk			419	529	860	111
+A0A9P4Q3A6_Polychaeton	A0A9P4Q3A6	1314669	Polychaeton citri CBS 116435	euk		K431DRAFT_288372	1132	1249	1607	118
+A0A9P6EME4_Crepidotus	A0A9P6EME4	179855	Crepidotus variabilis	euk		CPB83DRAFT_785416	828	951	1176	124
+A0A9R0JRL8_Spinacia	A0A9R0JRL8	3562	Spinacia oleracea (Spinach)	euk		LOC110784283	892	1013	1240	122
+A0AA39R885_Cladonia	A0AA39R885	184061	Cladonia borealis	euk		JMJ35_002502	1213	1333	1684	121
+A0AAJ0FQY0_Phialemonium	A0AAJ0FQY0	1093897	Phialemonium atrogriseum	euk		QBC33DRAFT_604538	1325	1438	1865	114
+A0AAN7NK73_Mycteria	A0AAN7NK73	33587	Mycteria americana (Wood stork)	euk		QYF61_001722	489	602	667	114
+A0AAQ3QJ22_Canna	A0AAQ3QJ22	4628	Canna indica (Indian-shot)	euk		Cni_G19904	878	999	1234	122
+A0AAV8VUM4_Exocentrus	A0AAV8VUM4	1586481	Exocentrus adspersus	euk		NQ315_010782	468	585	1022	118
+A0AAW1S6N8_Apatococcus	A0AAW1S6N8	904363	Apatococcus lobatus	euk		WJX74_002775	874	995	1241	122
+A0AB34KVL3_Cladosporium	A0AB34KVL3	1052096	Cladosporium halotolerans	euk		WHR41_04234	349	469	829	121
+A0ABD2MII3_Cryptolaemus	A0ABD2MII3	559131	Cryptolaemus montrouzieri	euk		HHI36_010353	466	583	1018	118
+A0ABP0FXE6_Clavelina	A0ABP0FXE6	159417	Clavelina lepadiformis (Light-bulb sea squirt) (Ascidia lepadiformis)	euk		CVLEPA_LOCUS14490	775	879	1316	105
+A0ABP1DA61_Somion	A0ABP1DA61	3059160	Somion occarium	euk		GFSPODELE1_LOCUS4765	809	927	1159	119
+A0ABY6LBX4_Cordylochernes	A0ABY6LBX4	51811	Cordylochernes scorpioides	euk		LAZ67_15002910	2036	2148	2459	113
+F4PT39_Cavenderia	F4PT39	261658	Cavenderia fasciculata (Slime mold) (Dictyostelium fasciculatum)	euk		wrn	528	631	926	104
+F6Z6H7_Ciona	F6Z6H7	7719	Ciona intestinalis (Transparent sea squirt) (Ascidia intestinalis)	euk		LOC100179894	670	778	1194	109
+M1VWJ7_Claviceps	M1VWJ7	1111077	Claviceps purpurea (strain 20.1) (Ergot fungus) (Sphacelia segetum)	euk		CPUR_05245	1262	1378	1751	117
+M7BVE0_Chelonia	M7BVE0	8469	Chelonia mydas (Green sea-turtle) (Chelonia agassizi)	euk		UY3_06783	373	496	1235	124
+A0A8C3PE34_Chrysemys	A0A8C3PE34	8478	Chrysemys picta bellii (Western painted turtle) (Emys bellii)	euk		BLM	938	1060	1269	123
+A0A8C5P0Q9_Jaculus	A0A8C5P0Q9	51337	Jaculus jaculus (Lesser Egyptian jerboa)	euk		Blm	683	769	988	87
+A0A8C6XZ99_Naja	A0A8C6XZ99	35670	Naja naja (Indian cobra)	euk		BLM	930	1054	1266	125
+A0A9L0S401_Equus	A0A9L0S401	9796	Equus caballus (Horse)	euk		BLM	1108	1235	1452	128
+F6RXI0_Monodelphis	F6RXI0	13616	Monodelphis domestica (Gray short-tailed opossum)	euk		BLM	1105	1231	1451	127
+G3SU95_Loxodonta	G3SU95	9785	Loxodonta africana (African elephant)	euk		WRN	915	1023	1410	109
+G3W1C2_Sarcophilus	G3W1C2	9305	Sarcophilus harrisii (Tasmanian devil) (Sarcophilus laniarius)	euk		BLM	1105	1229	1445	125
+H9G760_Anolis	H9G760	28377	Anolis carolinensis (Green anole) (American chameleon)	euk		WRN	882	988	1351	107
+Q5A5R4_Candida	Q5A5R4	237561	Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast)	euk		SGS1	866	985	1189	120
+Q9VGI8_Drosophila	Q9VGI8	7227	Drosophila melanogaster (Fruit fly)	euk		Blm	1139	1260	1487	122
+A0A8M6YUA3_Danio	A0A8M6YUA3	7955	Danio rerio (Zebrafish) (Brachydanio rerio)	euk		blm	1093	1218	1450	126
+A0A9N9C4D3_Diversispora	A0A9N9C4D3	1213867	Diversispora eburnea	euk		DEBURN_LOCUS8813	894	1018	1022	125
+A0A0G2HU27_Diaporthe	A0A0G2HU27	1214573	Diaporthe ampelina	euk		UCDDA912_g01611	657	772	1152	116
+A0A0J9X742_Geotrichum	A0A0J9X742	1173061	Geotrichum candidum (Oospora lactis) (Dipodascus geotrichum)	euk		BN980_GECA04s02397g	732	851	976	120
+A0A165H8A8_Calocera	A0A165H8A8	1353952	Calocera cornea HHB12733	euk		CALCODRAFT_467565	875	996	1251	122
+A0A183T2Q8_Schistocephalus	A0A183T2Q8	70667	Schistocephalus solidus (Tapeworm)	euk		SSLN_LOCUS10756	391	513	634	123
+A0A1X2IEX8_Absidia	A0A1X2IEX8	90262	Absidia repens	euk		BCR42DRAFT_416655	911	1044	1212	134
+A0A1Y1S853_Enterospora	A0A1Y1S853	1081671	Enterospora canceri	euk		HUS2	772	879	910	108
+A0A1Y1U888_Kockovaella	A0A1Y1U888	4999	Kockovaella imperatae	euk		BD324DRAFT_605080	822	941	1260	120
+A0A232LY13_Elaphomyces	A0A232LY13	519963	Elaphomyces granulatus	euk		Egran_03221	1068	1186	1489	119
+A0A2P8A0H5_Elsinoe	A0A2P8A0H5	40998	Elsinoe australis	euk		B9Z65_7742	1113	1223	1651	111
+A0A316YTU9_Acaromyces	A0A316YTU9	215250	Acaromyces ingoldii	euk		FA10DRAFT_246485	721	843	1003	123
+A0A3D8RJ47_Coleophoma	A0A3D8RJ47	565419	Coleophoma crateriformis	euk		BP5796_07515	1282	1409	1782	128
+A0A3P7PZT4_Dracunculus	A0A3P7PZT4	318479	Dracunculus medinensis (Guinea worm)	euk		DME_LOCUS6556	458	574	734	117
+A0A423W9F8_Cytospora	A0A423W9F8	448051	Cytospora schulzeri	euk		VMCG_06279	1212	1327	1668	116
+A0A6A5T7E4_Clathrospora	A0A6A5T7E4	706981	Clathrospora elynae	euk		EJ02DRAFT_393754	1275	1394	1785	120
+A0A6A6AG63_Dothidotthia	A0A6A6AG63	1392245	Dothidotthia symphoricarpi CBS 119687	euk		P153DRAFT_431010	1263	1382	1764	120
+A0A6G1G006_Eremomyces	A0A6G1G006	1392243	Eremomyces bilateralis CBS 781.70	euk		P152DRAFT_399533	428	552	919	125
+A0A6J0BLL1_Neodiprion	A0A6J0BLL1	441921	Neodiprion lecontei (Redheaded pine sawfly)	euk		LOC107221112	1115	1235	1450	121
+A0A6J2XHB5_Sitophilus	A0A6J2XHB5	7048	Sitophilus oryzae (Rice weevil) (Curculio oryzae)	euk		LOC115878344	899	1019	1237	121
+A0A6J3MBH3_Dissoconium	A0A6J3MBH3	1314786	Dissoconium aciculare CBS 342.82	euk		K489DRAFT_302819	461	574	823	114
+A0A7R9BQD9_Notodromas	A0A7R9BQD9	399045	Notodromas monacha	euk		NMOB1V02_LOCUS5813	1976	2083	2491	108
+A0A833REZ9_Carex	A0A833REZ9	544730	Carex littledalei	euk		FCM35_KLT18304	827	947	1171	121
+A0A834LAL0_Rhododendron	A0A834LAL0	118357	Rhododendron simsii (Sims's rhododendron)	euk		RHSIM_Rhsim11G0127500	850	970	1194	121
+A0A851UT55_Elachura	A0A851UT55	1463973	Elachura formosa (spotted wren-babbler)	euk		Blm	807	933	1157	127
+A0A8C1G981_Cyprinus	A0A8C1G981	7962	Cyprinus carpio (Common carp)	euk			887	1012	1263	126
+A0A8H7MMP3_Ascochyta	A0A8H7MMP3	205686	Ascochyta lentis	euk		EKO04_000456	1238	1357	1730	120
+A0A8J6KCJ9_Eleutherodactylus	A0A8J6KCJ9	57060	Eleutherodactylus coqui (Puerto Rican coqui)	euk		GDO78_005132	945	1067	1176	123
+A0A8K0DEE0_Ignelater	A0A8K0DEE0	2038154	Ignelater luminosus (Cucubano) (Pyrophorus luminosus)	euk		ILUMI_01445	477	594	1130	118
+A0A9D5CPS9_Dioscorea	A0A9D5CPS9	325984	Dioscorea zingiberensis	euk		J5N97_012401	896	1017	1241	122
+A0A9P4JKY7_Delitschia	A0A9P4JKY7	1513339	Delitschia confertaspora ATCC 74209	euk		GQ43DRAFT_371710	977	1098	1467	122
+A0A9P4NXV9_Tothia	A0A9P4NXV9	1048955	Tothia fuscella	euk		EJ08DRAFT_731330	1149	1269	1681	121
+A0AAD9WEZ1_Diplocarpon	A0AAD9WEZ1	946125	Diplocarpon rosae	euk		QTJ16_003669	1327	1448	1768	122
+A0AAN6S259_Diplogelasinospora	A0AAN6S259	303347	Diplogelasinospora grovesii	euk		QBC46DRAFT_320354	1308	1422	1852	115
+A0AAN8ZUE7_Dillenia	A0AAN8ZUE7	194707	Dillenia turbinata	euk		RJ641_013174	871	991	1222	121
+A0AAV5KDJ8_Rubroshorea	A0AAV5KDJ8	152421	Rubroshorea leprosula	euk		SLEP1_g32515	841	962	1190	122
+A0AAV6M911_Cucurbita	A0AAV6M911	37648	Cucurbita argyrosperma subsp. sororia	euk		RECQL4A	821	909	1247	89
+A0AAV8SUD4_Erythroxylum	A0AAV8SUD4	1862640	Erythroxylum novogranatense (Peruvian coca) (Erythroxylum coca var. novogranatense)	euk		K2173_022224	854	975	1205	122
+A0AAX4KSA1_Kwoniella	A0AAX4KSA1	1423913	Kwoniella europaea PYCC6329	euk		V865_007395	850	969	1274	120
+A0AAY4BZ82_Denticeps	A0AAY4BZ82	299321	Denticeps clupeoides (denticle herring)	euk		BLM	895	1018	1233	124
+A0ABD1KV69_Coilia	A0ABD1KV69	363190	Coilia grayii (Gray's grenadier anchovy)	euk		ACEWY4_002227	380	491	710	112
+A0ABD2D5A1_Daubentonia	A0ABD2D5A1	31869	Daubentonia madagascariensis (Aye-aye) (Sciurus madagascariensis)	euk		WCI35_032115	926	1041	1343	116
+A0ABM0RSU4_Galeopterus	A0ABM0RSU4	482537	Galeopterus variegatus (Malayan flying lemur) (Cynocephalus variegatus)	euk		WRN	876	984	1404	109
+A0ABN9L2U6_Ranitomeya	A0ABN9L2U6	111125	Ranitomeya imitator (mimic poison frog)	euk		RIMI_LOCUS4844237	463	585	780	123
+A0ABR3PAE4_Neodothiora	A0ABR3PAE4	2781224	Neodothiora populina	euk		AAFC00_006552	1114	1234	1602	121
+C4M4V5_Entamoeba	C4M4V5	294381	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	euk		EHI_028890	863	978	1182	116
+J9DBI0_Edhazardia	J9DBI0	1003232	Edhazardia aedis (strain USNM 41457) (Microsporidian parasite)	euk		EDEG_00857	1462	1564	1768	103
+M7TFJ2_Eutypa	M7TFJ2	1287681	Eutypa lata (strain UCR-EL1) (Grapevine dieback disease fungus) (Eutypa armeniacae)	euk		UCREL1_7531	316	432	821	117
+Q54DM3_Dictyostelium	Q54DM3	44689	Dictyostelium discoideum (Social amoeba)	euk		blm	926	1046	1259	121
+A0A4Q9LSC1_Hamiltosporidium	A0A4Q9LSC1	1176355	Hamiltosporidium tvaerminnensis	euk		CWI38_1196p0020	710	822	830	113
+A0A9P5CLV9_Cryphonectria	A0A9P5CLV9	660469	Cryphonectria parasitica (strain ATCC 38755 / EP155)	euk		M406DRAFT_265118	424	515	540	92
+A0ACC2UP63_Entomophthora	A0ACC2UP63	34485	Entomophthora muscae	euk		SGS1	752	872	1090	121
+A0A1S3EUP5_Dipodomys	A0A1S3EUP5	10020	Dipodomys ordii (Ord's kangaroo rat)	euk		Blm	689	813	1034	125
+A0A2I3HQW0_Nomascus	A0A2I3HQW0	61853	Nomascus leucogenys (Northern white-cheeked gibbon) (Hylobates leucogenys)	euk		WRN	954	1066	1433	113
+A0A8C9D9Z6_Panthera	A0A8C9D9Z6	9689	Panthera leo (Lion)	euk		BLM	1259	1386	1605	128
+A0A8C9MM45_Serinus	A0A8C9MM45	9135	Serinus canaria (Island canary) (Fringilla canaria)	euk		WRN	923	1034	1454	112
+H0WSN6_Otolemur	H0WSN6	30611	Otolemur garnettii (Small-eared galago) (Garnett's greater bushbaby)	euk			1061	1188	1401	128
+H0YU56_Taeniopygia	H0YU56	59729	Taeniopygia guttata (Zebra finch) (Poephila guttata)	euk		WRN	919	1023	1449	105
+Q5RF63_Pongo	Q5RF63	9601	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	euk		RECQL	483	597	649	115
+A0A067KV41_Jatropha	A0A067KV41	180498	Jatropha curcas (Barbados nut)	euk		JCGZ_04990	865	983	1252	119
+A0A0C9Y159_Laccaria	A0A0C9Y159	1095629	Laccaria amethystina LaAM-08-1	euk		K443DRAFT_167704	803	923	1166	121
+A0A0M8MUD0_Escovopsis	A0A0M8MUD0	150374	Escovopsis weberi	euk		ESCO_004668	487	604	976	118
+A0A139AWE5_Gonapodya	A0A139AWE5	1344416	Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)	euk		M427DRAFT_28066	455	565	974	111
+A0A151WVC8_Mycetomoellerius	A0A151WVC8	64791	Mycetomoellerius zeteki	euk		ALC60_09025	936	1059	1260	124
+A0A165D7V9_Exidia	A0A165D7V9	1314781	Exidia glandulosa HHB12029	euk		EXIGLDRAFT_842577	850	973	1199	124
+A0A183GHT7_Heligmosomoides	A0A183GHT7	6339	Heligmosomoides polygyrus (Parasitic roundworm)	euk			299	423	559	125
+A0A1C1CCS2_Cladophialophora	A0A1C1CCS2	86049	Cladophialophora carrionii	euk		CLCR_01028	1150	1270	1642	121
+A0A1I7WC35_Heterorhabditis	A0A1I7WC35	37862	Heterorhabditis bacteriophora (Entomopathogenic nematode worm)	euk			1322	1445	2043	124
+A0A1X0QA46_Hepatospora	A0A1X0QA46	1081669	Hepatospora eriocheir	euk		SGS1	573	676	709	104
+A0A286UV78_Pyrrhoderma	A0A286UV78	2282107	Pyrrhoderma noxium	euk		PNOK_0053200	1062	1184	1227	123
+A0A2I1HK74_Rhizophagus	A0A2I1HK74	588596	Rhizophagus irregularis	euk		RhiirA4_332695	409	520	539	112
+A0A2J6QFJ3_Hyaloscypha	A0A2J6QFJ3	2082293	Hyaloscypha hepaticicola	euk		NA56DRAFT_642830	1306	1427	1757	122
+A0A2Z7AMM9_Dorcoceras	A0A2Z7AMM9	472368	Dorcoceras hygrometricum	euk		F511_05348	803	922	1138	120
+A0A3P7M6E0_Gongylonema	A0A3P7M6E0	637853	Gongylonema pulchrum	euk		GPUH_LOCUS13051	287	392	600	106
+A0A409VKU1_Gymnopilus	A0A409VKU1	231916	Gymnopilus dilepis	euk		CVT26_009825	754	875	1059	122
+A0A4E0RFP9_Fasciola	A0A4E0RFP9	6192	Fasciola hepatica (Liver fluke)	euk		D915_003541	757	878	1079	122
+A0A4Y9YTD9_Dentipellis	A0A4Y9YTD9	205917	Dentipellis fragilis	euk		EVG20_g5407	861	984	1178	124
+A0A699ZZC3_Haematococcus	A0A699ZZC3	44745	Haematococcus lacustris (Green alga) (Haematococcus pluvialis)	euk		HaLaN_24867	321	443	820	123
+A0A7L2AGV0_Heliornis	A0A7L2AGV0	54369	Heliornis fulica (sungrebe)	euk		Blm	982	1100	1264	119
+A0A8B7N5G8_Hyalella	A0A8B7N5G8	294128	Hyalella azteca (Amphipod)	euk		LOC108666234	478	605	1099	128
+A0A8E2ETE9_Glonium	A0A8E2ETE9	574774	Glonium stellatum	euk		AOQ84DRAFT_442177	1270	1388	1745	119
+A0A8J8P591_Halteria	A0A8J8P591	5974	Halteria grandinella	euk		FGO68_gene2020	626	736	1152	111
+A0A9C7PWI5_Galdieria	A0A9C7PWI5	83374	Galdieria partita	euk		GpartN1_g3550.t1	796	918	1059	123
+A0A9D5BRX8_Lathyrus	A0A9D5BRX8	3888	Pisum sativum (Garden pea) (Lathyrus oleraceus)	euk		KIW84_015860	881	1002	1221	122
+A0A9P7AZG3_Hyphodiscus	A0A9P7AZG3	353542	Hyphodiscus hymeniophilus	euk		D0Z07_2621	1308	1428	1796	121
+A0AA35S753_Geodia	A0AA35S753	519541	Geodia barretti (Barrett's horny sponge)	euk		GBAR_LOCUS13941	812	924	1003	113
+A0AA89AFV0_Escallonia	A0AA89AFV0	1293975	Escallonia herrerae	euk		RJ639_021504	830	950	1142	121
+A0AAD7SI54_Aldrovandia	A0AAD7SI54	143900	Aldrovandia affinis	euk		AAFF_G00374670	538	649	1083	112
+A0AAV2QN01_Meganyctiphanes	A0AAV2QN01	48144	Meganyctiphanes norvegica (Northern krill) (Thysanopoda norvegica)	euk		MNOR_LOCUS15080	495	588	1067	94
+A0AAW2DUI3_Lithocarpus	A0AAW2DUI3	425828	Lithocarpus litseifolius	euk		SO802_000267	871	991	1216	121
+A0AAY5ESH4_Electrophorus	A0AAY5ESH4	8005	Electrophorus electricus (Electric eel) (Gymnotus electricus)	euk		wrn	787	897	1178	111
+A0ABM1JR37_Gekko	A0ABM1JR37	146911	Gekko japonicus (Schlegel's Japanese gecko)	euk		WRN	894	1009	1459	116
+A0ABM4DAV0_Hydra	A0ABM4DAV0	6087	Hydra vulgaris (Hydra) (Hydra attenuata)	euk		LOC100205617	1056	1188	1403	133
+H0EDI4_Glarea	H0EDI4	1104152	Glarea lozoyensis (strain ATCC 74030 / MF5533)	euk		M7I_0633	482	602	855	121
+J4I339_Fibroporia	J4I339	599839	Fibroporia radiculosa	euk		FIBRA_08641	794	915	1116	122
+T1FQZ1_Helobdella	T1FQZ1	6412	Helobdella robusta (Californian leech)	euk		20211238	312	423	819	112
+A0A2T9YMA4_Furculomyces	A0A2T9YMA4	61424	Furculomyces boomerangus	euk		BB559_003304	838	960	1076	123
+A0A2K6EEU1_Propithecus	A0A2K6EEU1	379532	Propithecus coquereli (Coquerel's sifaka) (Propithecus verreauxi coquereli)	euk			1006	1133	1352	128
+A0A670K7V6_Podarcis	A0A670K7V6	64176	Podarcis muralis (Wall lizard) (Lacerta muralis)	euk		WRN	829	935	1271	107
+A0A8C8YZA1_Prolemur	A0A8C8YZA1	1328070	Prolemur simus (Greater bamboo lemur) (Hapalemur simus)	euk		WRN	948	1053	1429	106
+G1T6H2_Oryctolagus	G1T6H2	9986	Oryctolagus cuniculus (Rabbit)	euk		BLM	1073	1200	1414	128
+A0A1A0HF03_Metschnikowia	A0A1A0HF03	869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993	euk		METBIDRAFT_27378	788	906	1033	119
+A0A8X8WKU3_Salvia	A0A8X8WKU3	180675	Salvia splendens (Scarlet sage)	euk		SASPL_142528	901	1020	1463	120
+A0A915MDK3_Meloidogyne	A0A915MDK3	6303	Meloidogyne javanica (Root-knot nematode worm)	euk			491	608	1938	118
+A0A091R820_Merops	A0A091R820	57421	Merops nubicus (Northern carmine bee-eater)	euk		N331_01039	779	905	1122	127
+A0A0D8Y462_Dictyocaulus	A0A0D8Y462	29172	Dictyocaulus viviparus (Bovine lungworm)	euk		DICVIV_02835	643	767	992	125
+A0A176W8T9_Marchantia	A0A176W8T9	1480154	Marchantia polymorpha subsp. ruderalis	euk		AXG93_684s1030	382	499	906	118
+A0A1M8A9H4_Malassezia	A0A1M8A9H4	1230383	Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated yeast)	euk		MSYG_3451	736	861	921	126
+A0A1R0H802_Smittium	A0A1R0H802	133383	Smittium mucronatum	euk		AYI68_g553	855	976	1088	122
+A0A1Y1IA94_Klebsormidium	A0A1Y1IA94	105231	Klebsormidium nitens (Green alga) (Ulothrix nitens)	euk		KFL_003810040	425	537	1081	113
+A0A1Y1W227_Linderina	A0A1Y1W227	61395	Linderina pennispora	euk		DL89DRAFT_269373	940	1061	1167	122
+A0A1Y1ZP50_Clohesyomyces	A0A1Y1ZP50	1231657	Clohesyomyces aquaticus	euk		BCR34DRAFT_564343	1253	1370	1736	118
+A0A267E418_Macrostomum	A0A267E418	282301	Macrostomum lignano	euk		BOX15_Mlig015724g1	944	1065	1275	122
+A0A2R6RLK1_Hermanssonia	A0A2R6RLK1	98765	Hermanssonia centrifuga	euk		PHLCEN_2v2532	828	947	1212	120
+A0A369JLT1_Hypsizygus	A0A369JLT1	39966	Hypsizygus marmoreus (White beech mushroom) (Agaricus marmoreus)	euk		rqh1_1	834	956	1187	123
+A0A3P6H7J7_Mesocestoides	A0A3P6H7J7	53468	Mesocestoides corti (Flatworm)	euk		MCOS_LOCUS8547	809	934	1174	126
+A0A443P3B5_Cinnamomum	A0A443P3B5	337451	Cinnamomum micranthum f. kanehirae	euk		CKAN_01415700	824	945	1169	122
+A0A5B6UBR8_Gossypium	A0A5B6UBR8	47621	Gossypium australe	euk		EPI10_009960	925	1045	1274	121
+A0A6A5ZQ49_Lophiotrema	A0A6A5ZQ49	690887	Lophiotrema nucula	euk		BDV96DRAFT_511238	1233	1350	1731	118
+A0A6A6TGQ4_Lophiostoma	A0A6A6TGQ4	1314788	Lophiostoma macrostomum CBS 122681	euk		K491DRAFT_714090	1247	1363	1743	117
+A0A6A6WSM6_Melanomma	A0A6A6WSM6	1314802	Melanomma pulvis-pyrius CBS 109.77	euk		K505DRAFT_379913	1242	1359	1748	118
+A0A6P8CZS6_Punica	A0A6P8CZS6	22663	Punica granatum (Pomegranate)	euk		LOC116202265	867	988	1197	122
+A0A7N8XRY0_Mastacembelus	A0A7N8XRY0	205130	Mastacembelus armatus (zig-zag eel)	euk			733	858	1035	126
+A0A8T1QFC6_Carya	A0A8T1QFC6	32201	Carya illinoinensis (Pecan)	euk		CIPAW_05G049800	585	706	932	122
+A0A915J7I5_Romanomermis	A0A915J7I5	13658	Romanomermis culicivorax (Nematode worm)	euk			885	1001	1038	117
+A0A9D3PTE6_Megalops	A0A9D3PTE6	7932	Megalops atlanticus (Tarpon) (Clupea gigantea)	euk		MATL_G00140450	912	1036	1259	125
+A0A9X6NCU9_Hypsibius	A0A9X6NCU9	2072580	Hypsibius exemplaris (Freshwater tardigrade)	euk		BV898_16070	795	924	1277	130
+A0AA40BC58_Lasiosphaeris	A0AA40BC58	260670	Lasiosphaeris hirsuta	euk		B0H67DRAFT_477578	473	583	957	111
+A0AAD5RUU5_Zalerion	A0AAD5RUU5	339359	Zalerion maritima	euk		MKZ38_008778	1268	1383	1794	116
+A0AAD7R0B0_Lipomyces	A0AAD7R0B0	54092	Lipomyces tetrasporus	euk		POJ06DRAFT_264988	942	1061	1125	120
+A0AAD7UUR0_Lichtheimia	A0AAD7UUR0	688661	Lichtheimia ornata	euk		O0I10_010831	820	943	1046	124
+A0AAN7VG00_Pyrocoelia	A0AAN7VG00	417401	Pyrocoelia pectoralis	euk		RI129_006176	477	593	1139	117
+A0AAN9BW79_Littorina	A0AAN9BW79	31220	Littorina saxatilis	euk		V1264_014618	647	762	1243	116
+A0AAP0IAM5_Stephania	A0AAP0IAM5	152367	Stephania cephalantha	euk		Scep_019221	864	983	1209	120
+A0AAQ4DYQ8_Amblyomma	A0AAQ4DYQ8	6943	Amblyomma americanum (Lone star tick)	euk		V5799_005621	919	1041	1280	123
+A0AAV2C807_Linum	A0AAV2C807	586398	Linum trigynum	euk		LTRI10_LOCUS562	850	970	1223	121
+A0AAV6UWY5_Oedothorax	A0AAV6UWY5	931172	Oedothorax gibbosus	euk		JTE90_005982	575	687	1034	113
+A0ABM1T5A0_Limulus	A0ABM1T5A0	6850	Limulus polyphemus (Atlantic horseshoe crab)	euk		LOC106467214	1041	1165	1409	125
+C1MJ02_Micromonas	C1MJ02	564608	Micromonas pusilla (strain CCMP1545) (Picoplanktonic green alga)	euk		MICPUCDRAFT_12297	489	579	581	91
+E5A4D8_Plenodomus	E5A4D8	985895	Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) (Blackleg fungus) (Phoma lingam)	euk		LEMA_P098920.1	1242	1361	1753	120
+F4R3Q5_Melampsora	F4R3Q5	747676	Melampsora larici-populina (strain 98AG31 / pathotype 3-4-7) (Poplar leaf rust fungus)	euk		MELLADRAFT_46354	422	476	498	55
+J3NJA8_Gaeumannomyces	J3NJA8	644352	Gaeumannomyces tritici (strain R3-111a-1) (Wheat and barley take-all root rot fungus) (Gaeumannomyces graminis var. tritici)	euk		20341800	1250	1362	1754	113
+V2YAR4_Moniliophthora	V2YAR4	1381753	Moniliophthora roreri (strain MCA 2997) (Cocoa frosty pod rot fungus) (Crinipellis roreri)	euk		Moror_17118	811	931	957	121
+V3ZEN8_Lottia	V3ZEN8	225164	Lottia gigantea (Giant owl limpet)	euk		LOTGIDRAFT_71576	440	583	673	144
+A0ACB9NZB5_Melastoma	A0ACB9NZB5	119954	Melastoma candidum	euk		MLD38_026661	849	970	1190	122
+A0ACB9ZCH0_Hypoxylon	A0ACB9ZCH0	110542	Hypoxylon rubiginosum	euk		F4820DRAFT_45928	1338	1455	1799	118
+A0ACC1CUN0_Dendrolimus	A0ACC1CUN0	765133	Dendrolimus kikuchii	euk		K1T71_009098	991	1111	1341	121
+A0ACC1Y161_Melia	A0ACC1Y161	155640	Melia azedarach (Chinaberry tree)	euk		OWV82_012237	873	994	1219	122
+A0A3P7DL67_Wuchereria	A0A3P7DL67	6293	Wuchereria bancrofti	euk		WBA_LOCUS772	697	821	2471	125
+A0A8C6B5L5_Monodon	A0A8C6B5L5	40151	Monodon monoceros (Narwhal) (Ceratodon monodon)	euk		BLM	1090	1217	1436	128
+A0A8C6FZX3_Moschus	A0A8C6FZX3	68415	Moschus moschiferus (Siberian musk deer) (Moschus sibiricus)	euk		BLM	1071	1198	1417	128
+A0A8C7BG73_Neogale	A0A8C7BG73	452646	Neogale vison (American mink) (Mustela vison)	euk			1070	1197	1415	128
+F7CIS0_Ornithorhynchus	F7CIS0	9258	Ornithorhynchus anatinus (Duckbill platypus)	euk		WRN	1031	1145	1555	115
+O88700_Mus	O88700	10090	Mus musculus (Mouse)	euk		Blm	1079	1202	1416	124
+A0A8S0VDD0_Olea	A0A8S0VDD0	158383	Olea europaea subsp. europaea	euk		OLEA9_A087262	418	525	1235	108
+A0A9W7T8U4_Triplophysa	A0A9W7T8U4	992332	Triplophysa rosa (Cave loach)	euk		IRJ41_008316	488	600	1118	113
+A0A078A6R7_Stylonychia	A0A078A6R7	5949	Stylonychia lemnae (Ciliate)	euk		Contig13617.g14524	635	731	1226	97
+A0A084GA43_Scedosporium	A0A084GA43	563466	Pseudallescheria apiosperma (Scedosporium apiospermum)	euk		SAPIO_CDS3138	1066	1201	1570	136
+A0A0B2UJH3_Ordospora	A0A0B2UJH3	1354746	Ordospora colligata OC4	euk		M896_081100	613	731	737	119
+A0A0C2INU7_Thelohanellus	A0A0C2INU7	669202	Thelohanellus kitauei (Myxosporean)	euk		RF11_11198	708	840	1008	133
+A0A0C3HMF0_Oidiodendron	A0A0C3HMF0	913774	Oidiodendron maius (strain Zn)	euk		OIDMADRAFT_194506	1251	1371	1703	121
+A0A0C9MDY7_Mucor	A0A0C9MDY7	91626	Mucor ambiguus	euk		MAM1_0230c08415	845	964	1149	120
+A0A197JT88_Linnemannia	A0A197JT88	1314771	Linnemannia elongata AG-77	euk		K457DRAFT_97104	896	1007	1219	112
+A0A1E4U130_Pachysolen	A0A1E4U130	669874	Pachysolen tannophilus NRRL Y-2460	euk		PACTADRAFT_47570	1190	1309	1610	120
+A0A1U8B1H9_Nelumbo	A0A1U8B1H9	4432	Nelumbo nucifera (Sacred lotus)	euk		LOC104606067	887	1008	1233	122
+A0A1Y1WQ37_Anaeromyces	A0A1Y1WQ37	1754192	Anaeromyces robustus	euk		BCR32DRAFT_272028	404	501	1194	98
+A0A1Y2B2Q1_Naematelia	A0A1Y2B2Q1	71784	Naematelia encephala	euk		BCR39DRAFT_533606	850	968	1221	119
+A0A3N4KGA8_Morchella	A0A3N4KGA8	1392247	Morchella conica CCBAS932	euk		P167DRAFT_567965	1375	1494	1791	120
+A0A4D9DGB0_Microchloropsis	A0A4D9DGB0	1027361	Nannochloropsis salina CCMP1776	euk		NSK_001156	811	924	1147	114
+A0A5J5B1J0_Nyssa	A0A5J5B1J0	561372	Nyssa sinensis	euk		F0562_029037	878	999	1244	122
+A0A6A1WM88_Morella	A0A6A1WM88	262757	Morella rubra (Chinese bayberry)	euk		CJ030_MR1G002314	442	546	957	105
+A0A6A6R986_Lophium	A0A6A6R986	390894	Lophium mytilinum	euk		BU16DRAFT_478598	1267	1385	1749	119
+A0A7K6VJN7_Notiomystis	A0A7K6VJN7	366454	Notiomystis cincta	euk		Blm	700	826	1050	127
+A0A8B8R2D2_Rhodamnia	A0A8B8R2D2	178133	Rhodamnia argentea	euk		LOC115756919	866	987	1205	122
+A0A8C4F7Z9_Dicentrarchus	A0A8C4F7Z9	13489	Dicentrarchus labrax (European seabass) (Morone labrax)	euk		blm	685	810	1030	126
+A0A8C4R6G6_Eptatretus	A0A8C4R6G6	7764	Eptatretus burgeri (Inshore hagfish)	euk			407	485	698	79
+A0A8C6L9U3_Nothobranchius	A0A8C6L9U3	105023	Nothobranchius furzeri (Turquoise killifish)	euk		ctsh	688	813	1020	126
+A0A8C9TWQ0_Scleropages	A0A8C9TWQ0	113540	Scleropages formosus (Asian bonytongue) (Osteoglossum formosum)	euk		wrn	875	984	1240	110
+A0A8H4L5F1_Fusarium	A0A8H4L5F1	1237068	Fusarium albosuccineum	euk		FALBO_9765	1034	1149	1275	116
+A0A8H4PY53_Ophiocordyceps	A0A8H4PY53	72228	Ophiocordyceps sinensis	euk		G6O67_001663	425	543	882	119
+A0A8R1YI53_Pristionchus	A0A8R1YI53	54126	Pristionchus pacificus (Parasitic nematode worm)	euk		WBGene00102747	612	727	1044	116
+A0A8S1IRD0_Ostreobium	A0A8S1IRD0	121088	Ostreobium quekettii	euk		OSTQU699_LOCUS3140	791	905	1117	115
+A0A8X6T185_Nephila	A0A8X6T185	299642	Nephila pilipes (Giant wood spider) (Nephila maculata)	euk		Blm	935	1059	1276	125
+A0A9E7GAA4_Musa	A0A9E7GAA4	320322	Musa troglodytarum (fe'i banana)	euk		MUK42_24561	903	1024	1259	122
+A0A9J7E9U5_Spodoptera	A0A9J7E9U5	69820	Spodoptera litura (Asian cotton leafworm)	euk		LOC111354969	1014	1130	1273	117
+A0A9N7NRP4_Striga	A0A9N7NRP4	68872	Striga hermonthica (Purple witchweed) (Buchnera hermonthica)	euk		SHERM_07519	847	968	1183	122
+A0A9P0FH81_Brassicogethes	A0A9P0FH81	1431903	Brassicogethes aeneus (Rape pollen beetle) (Meligethes aeneus)	euk		MELIAE_LOCUS6232	463	574	984	112
+A0A9P4J4N6_Myriangium	A0A9P4J4N6	1168546	Myriangium duriaei CBS 260.36	euk		K461DRAFT_210415	430	526	526	97
+A0A9P9BQG9_Microdochium	A0A9P9BQG9	1682393	Microdochium trichocladiopsis	euk		B0I36DRAFT_238341	549	665	1022	117
+A0AA36BX62_Octopus	A0AA36BX62	6645	Octopus vulgaris (Common octopus)	euk		OCTVUL_1B007331	612	725	1096	114
+A0AAD6TDJ9_Mycena	A0AAD6TDJ9	1745969	Mycena alexandri	euk		C8F04DRAFT_38414	811	933	1131	123
+A0AAN0JMR9_Amphimedon	A0AAN0JMR9	400682	Amphimedon queenslandica (Sponge)	euk			775	895	1106	121
+A0AAN7BBC8_Rhypophila	A0AAN7BBC8	261697	Rhypophila decipiens	euk		QBC37DRAFT_40007	1310	1422	1818	113
+A0AAN8RQG0_Orbilia	A0AAN8RQG0	47235	Orbilia javanica	euk		SGS1	349	469	785	121
+A0AAP0GDA3_Platanthera	A0AAP0GDA3	2320716	Platanthera zijinensis	euk		RECQL4A	881	1000	1211	120
+A0ABY7DQU7_Mya	A0ABY7DQU7	6604	Mya arenaria (Soft-shell clam)	euk		MAR_023317	980	1107	1339	128
+E4XCN9_Oikopleura	E4XCN9	34765	Oikopleura dioica (Tunicate)	euk		GSOID_T00007918001	891	1003	1189	113
+G7E9W7_Mixia	G7E9W7	764103	Mixia osmundae (strain CBS 9802 / IAM 14324 / JCM 22182 / KY 12970)	euk		Mo06135	899	1019	1229	121
+L2GLL1_Vittaforma	L2GLL1	993615	Vittaforma corneae (strain ATCC 50505) (Microsporidian parasite) (Nosema corneum)	euk		VICG_01761	566	683	733	118
+N1PG42_Dothistroma	N1PG42	675120	Dothistroma septosporum (strain NZE10 / CBS 128990) (Red band needle blight fungus) (Mycosphaerella pini)	euk		DOTSEDRAFT_179253	710	832	1189	123
+U7PQV4_Sporothrix	U7PQV4	1391915	Sporothrix schenckii (strain ATCC 58251 / de Perez 2211183) (Rose-picker's disease fungus)	euk		HMPREF1624_06124	1327	1447	1870	121
+W9RMQ1_Morus	W9RMQ1	981085	Morus notabilis	euk		L484_016719	738	856	1088	119
+A0A2Y9EUT6_Physeter	A0A2Y9EUT6	9755	Physeter macrocephalus (Sperm whale) (Physeter catodon)	euk		BLM	1085	1212	1431	128
+A0A6P5IRM5_Phascolarctos	A0A6P5IRM5	38626	Phascolarctos cinereus (Koala)	euk		BLM	1109	1234	1450	126
+A0A8C9B726_Phocoena	A0A8C9B726	42100	Phocoena sinus (Vaquita)	euk		BLM	1084	1211	1430	128
+O93530_Xenopus	O93530	8355	Xenopus laevis (African clawed frog)	euk		wrn	896	1000	1436	105
+Q9I920_Gallus	Q9I920	9031	Gallus gallus (Chicken)	euk		BLM	842	968	1183	127
+W1QC66_Ogataea	W1QC66	871575	Ogataea parapolymorpha (strain ATCC 26012 / BCRC 20466 / JCM 22074 / NRRL Y-7560 / DL-1) (Yeast) (Hansenula polymorpha)	euk		HPODL_04257	927	1047	1277	121
+A0A022QCX5_Erythranthe	A0A022QCX5	4155	Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus)	euk		MIMGU_mgv1a000354mg	891	1011	1222	121
+A0A091SV96_Pelecanus	A0A091SV96	36300	Pelecanus crispus (Dalmatian pelican)	euk		N334_02369	827	953	1141	127
+A0A091TS37_Phaethon	A0A091TS37	97097	Phaethon lepturus (White-tailed tropicbird)	euk		N335_10184	822	948	1170	127
+A0A091TSY3_Phoenicopterus	A0A091TSY3	9218	Phoenicopterus ruber ruber	euk		N337_07840	835	958	1179	124
+A0A093R177_Phalacrocorax	A0A093R177	9209	Phalacrocorax carbo (Great cormorant) (Pelecanus carbo)	euk		N336_02659	866	969	1352	104
+A0A0D0DNS5_Paxillus	A0A0D0DNS5	930991	Paxillus rubicundulus Ve08.2h10	euk		PAXRUDRAFT_23140	871	990	1188	120
+A0A0G2EG15_Phaeomoniella	A0A0G2EG15	158046	Phaeomoniella chlamydospora (Phaeoacremonium chlamydosporum)	euk		UCRPC4_g03791	1101	1221	1534	121
+A0A167PY74_Phycomyces	A0A167PY74	763407	Phycomyces blakesleeanus (strain ATCC 8743b / DSM 1359 / FGSC 10004 / NBRC 33097 / NRRL 1555)	euk		PHYBLDRAFT_130908	434	553	632	120
+A0A1V2L719_Cyberlindnera	A0A1V2L719	36022	Cyberlindnera fabianii (Yeast) (Hansenula fabianii)	euk		BON22_2457	914	1034	1229	121
+A0A2T7F1P4_Panicum	A0A2T7F1P4	1504633	Panicum hallii var. hallii	euk		GQ55_1G030900	868	989	1221	122
+A0A370TMI0_Venustampulla	A0A370TMI0	2656787	Venustampulla echinocandica	euk		BP5553_06076	1309	1427	1798	119
+A0A3L8S0J4_Chloebia	A0A3L8S0J4	44316	Chloebia gouldiae (Gouldian finch) (Erythrura gouldiae)	euk		DV515_00013719	804	930	1154	127
+A0A3N4M1V1_Terfezia	A0A3N4M1V1	1051890	Terfezia boudieri ATCC MYA-4762	euk		L211DRAFT_864734	1434	1552	1861	119
+A0A3R7MBR0_Penaeus	A0A3R7MBR0	6689	Penaeus vannamei (Whiteleg shrimp) (Litopenaeus vannamei)	euk		C7M84_003787	414	540	1117	127
+A0A4Y7JSJ2_Papaver	A0A4Y7JSJ2	3469	Papaver somniferum (Opium poppy)	euk		C5167_024421	887	1007	1250	121
+A0A5N5P7T3_Pangasianodon	A0A5N5P7T3	310915	Pangasianodon hypophthalmus (Striped catfish) (Helicophagus hypophthalmus)	euk		PHYPO_G00215250	939	1064	1271	126
+A0A6A7C4F0_Piedraia	A0A6A7C4F0	1314780	Piedraia hortae CBS 480.64	euk		K470DRAFT_256121	954	1070	1346	117
+A0A6G1K3N5_Pleomassaria	A0A6G1K3N5	1314801	Pleomassaria siparia CBS 279.74	euk		K504DRAFT_436864	1250	1366	1765	117
+A0A7D9I1Q7_Paramuricea	A0A7D9I1Q7	317549	Paramuricea clavata (Red gorgonian) (Violescent sea-whip)	euk		PACLA_8A001313	632	751	752	120
+A0A7L2WPT7_Pandion	A0A7L2WPT7	56262	Pandion haliaetus (Osprey) (Falco haliaetus)	euk		Recql	169	282	347	114
+A0A7U2FAB0_Parastagonospora	A0A7U2FAB0	321614	Phaeosphaeria nodorum (strain SN15 / ATCC MYA-4574 / FGSC 10173) (Glume blotch fungus) (Parastagonospora nodorum)	euk		JI435_122400	1255	1374	1772	120
+A0A819Z500_Rotaria	A0A819Z500	392032	Rotaria socialis	euk		UJA718_LOCUS4719	739	864	1042	126
+A0A914R3D0_Panagrolaimus	A0A914R3D0	227884	Panagrolaimus davidi	euk			673	799	1045	127
+A0A914W2P8_Plectus	A0A914W2P8	2011161	Plectus sambesii	euk			463	578	911	116
+A0A9P4S589_Patellaria	A0A9P4S589	1346257	Patellaria atrata CBS 101060	euk		M501DRAFT_908438	423	544	766	122
+A0A9P5ZLQ8_Pleurotus	A0A9P5ZLQ8	5323	Pleurotus eryngii (Boletus of the steppes)	euk		BDN71DRAFT_1403743	574	623	843	50
+A0A9P8CJ08_Calycina	A0A9P8CJ08	1763456	Calycina marina	euk		BJ878DRAFT_486311	996	1116	1463	121
+A0A9Q0FKF7_Turnera	A0A9Q0FKF7	218843	Turnera subulata	euk		RECQL4A	866	987	1228	122
+A0A9W4XNU3_Periconia	A0A9W4XNU3	1303443	Periconia digitata	euk		PDIGIT_LOCUS11898	1233	1351	1731	119
+A0AA38VQQ6_Pleurostoma	A0AA38VQQ6	41990	Pleurostoma richardsiae	euk		NKR23_g625	941	1054	1412	114
+A0AA39MY53_Armillaria	A0AA39MY53	47425	Armillaria borealis	euk		EV421DRAFT_1779284	840	956	973	117
+A0AAE1YXX3_Sesamum	A0AAE1YXX3	300844	Sesamum alatum	euk		Salat_0165400	906	1026	1243	121
+A0AAJ7X4R2_Petromyzon	A0AAJ7X4R2	7757	Petromyzon marinus (Sea lamprey)	euk		BLM	1122	1248	1505	127
+A0AAV0BJ93_Phakopsora	A0AAV0BJ93	170000	Phakopsora pachyrhizi (Asian soybean rust disease fungus)	euk		PPACK8108_LOCUS21046	818	937	1063	120
+A0ABD3RP80_Penstemon	A0ABD3RP80	265156	Penstemon smallii	euk		ACJIZ3_015767	886	1006	1167	121
+A0ABQ7SS51_Phrynosoma	A0ABQ7SS51	52577	Phrynosoma platyrhinos (Desert horned lizard)	euk		JD844_014787	1143	1226	1432	84
+A0ABR1KU71_Phyllosticta	A0ABR1KU71	595635	Phyllosticta citriasiana	euk		IWZ03DRAFT_434967	1269	1389	1757	121
+A0ABR4C4Q0_Oculimacula	A0ABR4C4Q0	86028	Oculimacula yallundae	euk		VTL71DRAFT_4048	1316	1439	1777	124
+B7FSW6_Phaeodactylum	B7FSW6	556484	Phaeodactylum tricornutum (strain CCAP 1055/1)	euk		PHATRDRAFT_18280	421	504	504	84
+L2GS59_Vavraia	L2GS59	948595	Vavraia culicis subsp. floridensis (Microsporidian parasite) (Vavraia culicis (isolate floridensis))	euk		VCUG_02378	849	945	955	97
+M7NLA0_Pneumocystis	M7NLA0	1069680	Pneumocystis murina (strain B123) (Mouse pneumocystis pneumonia agent) (Pneumocystis carinii f. sp. muris)	euk		PNEG_02385	927	1046	1212	120
+Q8ILG5_Plasmodium	Q8ILG5	36329	Plasmodium falciparum (isolate 3D7)	euk		PF3D7_1429900	565	680	1440	116
+A0A671DWG5_Rhinolophus	A0A671DWG5	59479	Rhinolophus ferrumequinum (Greater horseshoe bat)	euk		WRN	922	1025	1450	104
+A0A672U2Y7_Strigops	A0A672U2Y7	2489341	Strigops habroptila (Kakapo)	euk		BLM	714	840	1063	127
+Q19546_Caenorhabditis	Q19546	6239	Caenorhabditis elegans	euk		wrn-1	629	746	1056	118
+A0A1B0CAN7_Lutzomyia	A0A1B0CAN7	7200	Lutzomyia longipalpis (Sand fly)	euk			1558	1679	1893	122
+A0A1D1V4H7_Ramazzottius	A0A1D1V4H7	947166	Ramazzottius varieornatus (Water bear) (Tardigrade)	euk		RvY_07369-1	824	950	1259	127
+G0WFT3_Naumovozyma	G0WFT3	1071378	Naumovozyma dairenensis (strain ATCC 10597 / BCRC 20456 / CBS 421 / NBRC 0211 / NRRL Y-12639) (Saccharomyces dairenensis)	euk		NDAI0I00750	1069	1189	1434	121
+L5KKB3_Pteropus	L5KKB3	9402	Pteropus alecto (Black flying fox)	euk		PAL_GLEAN10015664	1049	1162	1213	114
+A0A074X4N6_Aureobasidium	A0A074X4N6	1043004	Aureobasidium namibiae CBS 147.97	euk		M436DRAFT_55631	806	926	1271	121
+A0A152A3C8_Tieghemostelium	A0A152A3C8	361077	Tieghemostelium lacteum (Slime mold) (Dictyostelium lacteum)	euk		DLAC_02744	850	967	1171	118
+A0A1J8R9H4_Rhizopogon	A0A1J8R9H4	180088	Rhizopogon vesiculosus	euk		AZE42_06394	801	917	1088	117
+A0A1L0CS80_Hanseniaspora	A0A1L0CS80	56406	Hanseniaspora guilliermondii	euk		HGUI_03642	958	1061	1147	104
+A0A1M2W362_Trametes	A0A1M2W362	154538	Trametes pubescens (White-rot fungus)	euk		TRAPUB_9313	842	963	1191	122
+A0A1Y2DSG3_Pseudomassariella	A0A1Y2DSG3	1141098	Pseudomassariella vexata	euk		BCR38DRAFT_525239	1303	1422	1776	120
+A0A1Y2F0I3_Protomyces	A0A1Y2F0I3	2754530	Protomyces lactucae-debilis	euk		BCR37DRAFT_371254	949	1077	1406	129
+A0A232EYZ7_Trichomalopsis	A0A232EYZ7	543379	Trichomalopsis sarcophagae	euk		TSAR_009835	886	1008	1241	123
+A0A2G5DBM6_Aquilegia	A0A2G5DBM6	218851	Aquilegia coerulea (Rocky mountain columbine)	euk		AQUCO_02300004v1	881	1001	1231	121
+A0A2H5QE02_Citrus	A0A2H5QE02	55188	Citrus unshiu (Satsuma mandarin) (Citrus nobilis var. unshiu)	euk		CUMW_221110	828	949	1174	122
+A0A2T2ZT25_Coniella	A0A2T2ZT25	2025994	Coniella lustricola	euk		BD289DRAFT_487049	1326	1442	1853	117
+A0A507DSX7_Powellomyces	A0A507DSX7	109895	Powellomyces hirtus	euk		PhCBS80983_g05960	887	1006	1100	120
+A0A5J4Z112_Porphyridium	A0A5J4Z112	35688	Porphyridium purpureum (Red alga) (Porphyridium cruentum)	euk		FVE85_0272	936	1057	1222	122
+A0A7J7E9R1_Diceros	A0A7J7E9R1	77932	Diceros bicornis minor (South-central black rhinoceros)	euk		HPG69_004224	664	777	835	114
+A0A8H5FCC2_Ephemerocybe	A0A8H5FCC2	980116	Ephemerocybe angulata	euk		D9611_007594	783	902	1176	120
+A0A8K0H2P7_Rhamnella	A0A8K0H2P7	2594499	Rhamnella rubrinervis	euk		FNV43_RR14157	864	985	1200	122
+A0A8X8D8T5_Populus	A0A8X8D8T5	118781	Populus tomentosa (Chinese white poplar)	euk		POTOM_011358	954	1075	1278	122
+A0A922IAR2_Dermatophagoides	A0A922IAR2	6954	Dermatophagoides farinae (American house dust mite)	euk		DERF_002023	914	1044	1190	131
+A0A9P4IEH5_Rhizodiscina	A0A9P4IEH5	1504668	Rhizodiscina lignyota	euk		NA57DRAFT_37669	486	605	987	120
+A0A9P4LUW4_Saccharata	A0A9P4LUW4	1314787	Saccharata proteae CBS 121410	euk		K490DRAFT_1216	428	548	766	121
+A0A9P7BVV8_Rhizopus	A0A9P7BVV8	64495	Rhizopus oryzae (Mucormycosis agent) (Rhizopus arrhizus var. delemar)	euk		G6F64_002227	697	815	840	119
+A0AA39GT51_Sarocladium	A0AA39GT51	5046	Sarocladium strictum (Black bundle disease fungus) (Acremonium strictum)	euk		NLU13_2194	1251	1367	1727	117
+A0AA88XII0_Pinctada	A0AA88XII0	66713	Pinctada imbricata (Atlantic pearl-oyster) (Pinctada martensii)	euk		FSP39_011454	529	641	1045	113
+A0AAD4QM18_Multifurca	A0AAD4QM18	376703	Multifurca ochricompacta	euk		B0F90DRAFT_1710972	879	1001	1157	123
+A0AAD7P9H9_Quillaja	A0AAD7P9H9	32244	Quillaja saponaria (Soap bark tree)	euk		O6P43_031507	870	990	1213	121
+A0AAD9ZNS4_Dipteronia	A0AAD9ZNS4	43782	Dipteronia sinensis	euk		Dsin_031930	872	993	1221	122
+A0AAV1D7I1_Oldenlandia	A0AAV1D7I1	529605	Oldenlandia corymbosa var. corymbosa	euk		OLC1_LOCUS12888	870	991	1249	122
+A0AAV5QDT4_Saccharomycopsis	A0AAV5QDT4	43959	Saccharomycopsis crataegensis	euk		DASC09_001320	1319	1439	1679	121
+A0AAV9GM06_Podospora	A0AAV9GM06	3040156	Podospora aff. communis PSN243	euk		QBC34DRAFT_329505	402	519	882	118
+A0AAW1KIL4_Popillia	A0AAW1KIL4	7064	Popillia japonica (Japanese beetle)	euk		QE152_g22959	826	946	1104	121
+A0AB34JGC5_Prymnesium	A0AB34JGC5	97485	Prymnesium parvum (Toxic golden alga)	euk		AB1Y20_023470	515	620	981	106
+A0ABD1YL12_Riccia	A0ABD1YL12	41844	Riccia fluitans	euk		R1flu_016021	971	1092	1273	122
+A0ABN8NXI2_Porites	A0ABN8NXI2	104759	Porites lobata	euk		PLOB_00028384	1238	1373	1450	136
+E3KU02_Puccinia	E3KU02	418459	Puccinia graminis f. sp. tritici (strain CRL 75-36-700-3 / race SCCL) (Black stem rust fungus)	euk		PGTG_13483	868	990	1231	123
+U4LPC5_Pyronema	U4LPC5	1076935	Pyronema omphalodes (strain CBS 100304) (Pyronema confluens)	euk		PCON_02494	1270	1387	1727	118
+X6PCV1_Reticulomyxa	X6PCV1	46433	Reticulomyxa filosa	euk		RFI_01017	602	725	1011	124
+A0A1U7TXA0_Carlito	A0A1U7TXA0	1868482	Carlito syrichta (Philippine tarsier) (Tarsius syrichta)	euk		BLM	1067	1193	1413	127
+A0A8C3WGZ7_Catagonus	A0A8C3WGZ7	51154	Catagonus wagneri (Chacoan peccary)	euk		BLM	1076	1200	1419	125
+A0A8C4WHA4_Gopherus	A0A8C4WHA4	1825980	Gopherus evgoodei (Goodes thornscrub tortoise)	euk		BLM	790	912	1117	123
+A0A8C6W236_Nannospalax	A0A8C6W236	1026970	Nannospalax galili (Northern Israeli blind subterranean mole rat) (Spalax galili)	euk		Blm	1068	1192	1411	125
+A0A8D0DZ88_Salvator	A0A8D0DZ88	96440	Salvator merianae (Argentine black and white tegu) (Tupinambis merianae)	euk			898	1007	1462	110
+A0A8D0G5B4_Sphenodon	A0A8D0G5B4	8508	Sphenodon punctatus (Tuatara) (Hatteria punctata)	euk			762	888	1096	127
+A0AA41MXQ7_Sciurus	A0AA41MXQ7	30640	Sciurus carolinensis (Eastern gray squirrel)	euk		SUZIE_155855	1038	1164	2173	127
+F1RX70_Sus	F1RX70	9823	Sus scrofa (Pig)	euk		WRN	941	1051	1466	111
+Q09811_Schizosaccharomyces	Q09811	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	euk		rqh1	919	1040	1328	122
+A0A068YHG4_Echinococcus	A0A068YHG4	6211	Echinococcus multilocularis (Fox tapeworm)	euk		EmuJ_001047300	833	955	1154	123
+A0A084R2J1_Stachybotrys	A0A084R2J1	1283841	Stachybotrys chlorohalonatus (strain IBT 40285)	euk		S40285_00649	1261	1377	1710	117
+A0A093HD69_Struthio	A0A093HD69	441894	Struthio camelus australis	euk		N308_10534	478	591	656	114
+A0A0C2WR98_Serendipita	A0A0C2WR98	933852	Serendipita vermifera MAFF 305830	euk		M408DRAFT_329157	812	930	1158	119
+A0A0D0ASD7_Suillus	A0A0D0ASD7	930992	Suillus luteus UH-Slu-Lm8-n1	euk		CY34DRAFT_806664	799	912	1084	114
+A0A0D2AL92_Verruconis	A0A0D2AL92	253628	Verruconis gallopava	euk		PV09_08512	1120	1239	1629	120
+A0A0L0HBP5_Spizellomyces	A0A0L0HBP5	645134	Spizellomyces punctatus (strain DAOM BR117)	euk		SPPG_06557	865	984	1150	120
+A0A139WEI1_Tribolium	A0A139WEI1	7070	Tribolium castaneum (Red flour beetle)	euk		AUGUSTUS-3.0.2_33793	957	1075	1276	119
+A0A1R2BHR5_Stentor	A0A1R2BHR5	5963	Stentor coeruleus	euk		SteCoe_24357	581	696	926	116
+A0A1X2HR09_Syncephalastrum	A0A1X2HR09	13706	Syncephalastrum racemosum (Filamentous fungus)	euk		BCR43DRAFT_189779	854	971	1001	118
+A0A2G2W8Q4_Capsicum	A0A2G2W8Q4	33114	Capsicum baccatum (Peruvian pepper)	euk		CQW23_20460	911	1031	1243	121
+A0A2S5B5H4_Rhodotorula	A0A2S5B5H4	741276	Rhodotorula taiwanensis	euk		BMF94_4947	888	1008	1047	121
+A0A3Q3DXJ1_Hippocampus	A0A3Q3DXJ1	109280	Hippocampus comes (Tiger tail seahorse)	euk			636	761	966	126
+A0A401GK72_Sparassis	A0A401GK72	139825	Sparassis crispa	euk		SCP_0409280	822	942	1149	121
+A0A401P617_Scyliorhinus	A0A401P617	75743	Scyliorhinus torazame (Cloudy catshark) (Catulus torazame)	euk		scyTo_0013838	522	629	1070	108
+A0A4S4CXT3_Camellia	A0A4S4CXT3	542762	Camellia sinensis var. sinensis (China tea)	euk		TEA_009475	911	1031	1244	121
+A0A4V3XHR9_Antrodiella	A0A4V3XHR9	2447956	Antrodiella citrinella	euk		EUX98_g7827	598	708	943	111
+A0A4V6ANN0_Collichthys	A0A4V6ANN0	240159	Collichthys lucidus (Big head croaker) (Sciaena lucida)	euk		D9C73_007521	902	1027	1250	126
+A0A507BXQ1_Synchytrium	A0A507BXQ1	1806994	Synchytrium microbalum	euk		SmJEL517_g04902	928	1048	1155	121
+A0A6A6JQK6_Westerdykella	A0A6A6JQK6	318751	Westerdykella ornata	euk		EI97DRAFT_465806	1292	1409	1777	118
+A0A8H4QQT8_Agrocybe	A0A8H4QQT8	84607	Agrocybe pediades	euk		D9613_002857	739	861	1089	123
+A0A9P4V313_Polyplosphaeria	A0A9P4V313	682080	Polyplosphaeria fusca	euk		EJ04DRAFT_487240	1230	1346	1740	117
+A0A9P8UVR2_Truncatella	A0A9P8UVR2	152316	Truncatella angustata	euk		BKA67DRAFT_530260	1282	1402	1778	121
+A0A9Q3BAY6_Austropuccinia	A0A9Q3BAY6	1389203	Austropuccinia psidii MF-1	euk		O181_001821	910	1029	1251	120
+A0AA36GR36_Cylicocyclus	A0AA36GR36	53992	Cylicocyclus nassatus (Nematode worm)	euk		CYNAS_LOCUS8616	601	712	1035	112
+A0AA38FQT4_Taxus	A0AA38FQT4	29808	Taxus chinensis (Chinese yew) (Taxus wallichiana var. chinensis)	euk		KI387_036867	395	505	874	111
+A0AA40EUX4_Schizothecium	A0AA40EUX4	314040	Schizothecium vesticola	euk		B0T18DRAFT_325795	428	506	506	79
+A0AAD8XXM7_Skeletonema	A0AAD8XXM7	267567	Skeletonema marinoi	euk		QTG54_013741	925	1047	1257	123
+A0AAD9L1U9_Ridgeia	A0AAD9L1U9	27915	Ridgeia piscesae (Tubeworm)	euk		NP493_394g02034	634	745	1099	112
+A0AAV6WK74_Buddleja	A0AAV6WK74	168488	Buddleja alternifolia	euk		BUALT_Bualt15G0084600	877	997	1210	121
+A0AAV8UF56_Rhodosorus	A0AAV8UF56	101924	Rhodosorus marinus	euk		NDN08_004946	949	1071	1253	123
+A0ABD3PEE2_Cyclotella	A0ABD3PEE2	382360	Cyclotella atomus	euk		ACHAWO_006699	918	1043	1273	126
+A0ABM0IUM2_Echinops	A0ABM0IUM2	9371	Echinops telfairi (Lesser hedgehog tenrec)	euk		BLM	1079	1206	1426	128
+A0ABP0VRI6_Sphagnum	A0ABP0VRI6	128206	Sphagnum jensenii	euk		CSSPJE1EN1_LOCUS2427	989	1110	1403	122
+D8QR38_Selaginella	D8QR38	88036	Selaginella moellendorffii (Gemmiferous spikemoss) (Kungiselaginella moellendorffii)	euk		SELMODRAFT_402571	397	507	935	111
+Q23ED9_Tetrahymena	Q23ED9	312017	Tetrahymena thermophila (strain SB210)	euk		TTHERM_01030000	807	936	1198	130
+R4XFC6_Taphrina	R4XFC6	1097556	Taphrina deformans (strain PYCC 5710 / ATCC 11124 / CBS 356.35 / IMI 108563 / JCM 9778 / NBRC 8474) (Peach leaf curl fungus) (Lalaria deformans)	euk		TAPDE_004944	1014	1140	1455	127
+T1KJR4_Tetranychus	T1KJR4	32264	Tetranychus urticae (Two-spotted spider mite)	euk		107364946	747	871	1054	125
+A0A4V1IWM7_Thamnocephalis	A0A4V1IWM7	78915	Thamnocephalis sphaerospora	euk		THASP1DRAFT_16123	406	524	563	119
+A0ACB8WU42_Scortum	A0ACB8WU42	214431	Scortum barcoo (barcoo grunter)	euk		L3Q82_023942	2697	2822	3048	126
+A0A4X2K8Y0_Vombatus	A0A4X2K8Y0	29139	Vombatus ursinus (Common wombat)	euk		BLM	1109	1234	1449	126
+A0A7N5JDP2_Ailuropoda	A0A7N5JDP2	9646	Ailuropoda melanoleuca (Giant panda)	euk		WRN	924	1031	1454	108
+A0A8N5EXX7_Geospiza	A0A8N5EXX7	48883	Geospiza fortis (Medium ground-finch)	euk		WRN	918	1018	1445	101
+G1PQL6_Myotis	G1PQL6	59463	Myotis lucifugus (Little brown bat)	euk		BLM	1063	1189	1410	127
+K7FS17_Pelodiscus	K7FS17	13735	Pelodiscus sinensis (Chinese softshell turtle) (Trionyx sinensis)	euk		BLM	341	463	557	123
+A0A085M3F6_Trichuris	A0A085M3F6	68888	Trichuris suis (pig whipworm)	euk		M513_07449	873	995	1515	123
+A0A075AVN4_Rozella	A0A075AVN4	988480	Rozella allomycis (strain CSF55)	euk		O9G_000575	578	698	763	121
+A0A093GSD6_Tyto	A0A093GSD6	56313	Tyto alba (Barn owl)	euk		N341_08304	868	971	1355	104
+A0A0E9NJY8_Saitoella	A0A0E9NJY8	698492	Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804)	euk		G7K_3863-t1	1013	1133	1458	121
+A0A0J0XW43_Cutaneotrichosporon	A0A0J0XW43	879819	Cutaneotrichosporon oleaginosum	euk		CC85DRAFT_325778	774	893	1159	120
+A0A0K9NWB4_Zostera	A0A0K9NWB4	29655	Zostera marina (Eelgrass)	euk		ZOSMA_5G02090	851	972	1112	122
+A0A0N5CRQ2_Thelazia	A0A0N5CRQ2	103827	Thelazia callipaeda (Oriental eyeworm) (Parasitic nematode)	euk		TCLT_LOCUS2903	687	812	1036	126
+A0A0V1GUM1_Trichinella	A0A0V1GUM1	268475	Trichinella zimbabwensis	euk		him-6	817	938	1138	122
+A0A165I4A3_Xylona	A0A165I4A3	1328760	Xylona heveae (strain CBS 132557 / TC161)	euk		L228DRAFT_259591	1335	1455	1822	121
+A0A1E3NYV0_Wickerhamomyces	A0A1E3NYV0	683960	Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8) (Yeast) (Hansenula anomala)	euk		WICANDRAFT_34289	494	589	589	96
+A0A1E4TE35_Tortispora	A0A1E4TE35	767744	Tortispora caseinolytica NRRL Y-17796	euk		CANCADRAFT_24928	422	501	501	80
+A0A1J4JIF8_Tritrichomonas	A0A1J4JIF8	1144522	Tritrichomonas foetus	euk		TRFO_36871	815	926	1148	112
+A0A1W5CYN6_Lasallia	A0A1W5CYN6	136370	Lasallia pustulata	euk			1307	1426	1787	120
+A0A2P6FGX6_Pseudogymnoascus	A0A2P6FGX6	342668	Pseudogymnoascus verrucosus	euk		SGS1	1289	1412	1827	124
+A0A2R5GB67_Hondaea	A0A2R5GB67	2315210	Hondaea fermentalgiana	euk		FCC1311_031812	850	965	1156	116
+A0A409V955_Panaeolus	A0A409V955	181874	Panaeolus cyanescens	euk		CVT24_005728	689	791	1044	103
+A0A4Q1BVK0_Tremella	A0A4Q1BVK0	5217	Tremella mesenterica (Jelly fungus)	euk		M231_00794	847	966	1246	120
+A0A507BMM8_Thyridium	A0A507BMM8	1093900	Thyridium curvatum	euk		E0L32_011656	1561	1675	2074	115
+A0A5C3E2X8_Ustilago	A0A5C3E2X8	86804	Ustilago trichophora	euk		UTRI_03660_B	788	909	1279	122
+A0A642VE83_Trichomonascus	A0A642VE83	44093	Trichomonascus ciferrii	euk		TRICI_000125	928	1047	1155	120
+A0A6A6DDD4_Zopfia	A0A6A6DDD4	1314779	Zopfia rhizophila CBS 207.26	euk		K469DRAFT_645841	1269	1388	1781	120
+A0A6A6HH51_Viridothelium	A0A6A6HH51	1048519	Viridothelium virens (Speckled blister lichen) (Trypethelium virens)	euk		EV356DRAFT_462310	1209	1329	1689	121
+A0A6G0X0I9_Aphanomyces	A0A6G0X0I9	100861	Aphanomyces euteiches	euk		Ae201684_009573	912	1036	1260	125
+A0A6P8XT68_Thrips	A0A6P8XT68	161013	Thrips palmi (Melon thrips)	euk		LOC117638957	471	586	1084	116
+A0A834KUU0_Vespula	A0A834KUU0	30212	Vespula germanica (German yellow jacket) (Paravespula germanica)	euk		HZH68_001857	753	876	1064	124
+A0A835Z5K7_Tribonema	A0A835Z5K7	303371	Tribonema minus	euk		JKP88DRAFT_306210	438	542	1168	105
+A0A8D2KV49_Varanus	A0A8D2KV49	61221	Varanus komodoensis (Komodo dragon)	euk			652	765	940	114
+A0A8H4RKG8_Cudoniella	A0A8H4RKG8	354080	Cudoniella acicularis	euk		G7Y89_g7601	1308	1427	1774	120
+A0A8H7UJ89_Umbelopsis	A0A8H7UJ89	91625	Mortierella isabellina (Filamentous fungus) (Umbelopsis isabellina)	euk		INT43_008581	847	966	1166	120
+A0A8J4BF25_Volvox	A0A8J4BF25	51714	Volvox africanus	euk		Vafri_14925	848	967	1267	120
+A0A8J5HCX7_Zingiber	A0A8J5HCX7	94328	Zingiber officinale (Ginger) (Amomum zingiber)	euk		ZIOFF_015382	865	986	1216	122
+A0A8S0XXR2_Cyclocybe	A0A8S0XXR2	1973307	Cyclocybe aegerita (Black poplar mushroom) (Agrocybe aegerita)	euk		AAE3_LOCUS10218	705	827	1047	123
+A0A8S9YMN4_Paragonimus	A0A8S9YMN4	59628	Paragonimus skrjabini miyazakii	euk		EG68_06167	842	962	1206	121
+A0A8X7SXG1_Tilletia	A0A8X7SXG1	13291	Tilletia controversa (dwarf bunt fungus)	euk		A4X06_0g3417	837	960	1217	124
+A0A9P9IY89_Dendryphion	A0A9P9IY89	256645	Dendryphion nanum	euk		B0J11DRAFT_574183	1239	1358	1715	120
+A0A9W7B086_Triparma	A0A9W7B086	1606541	Triparma strigata	euk		TrST_g5352	853	978	1280	126
+A0A9W8N3P3_Xylaria	A0A9W8N3P3	114810	Xylaria arbuscula	euk		NPX13_g10992	623	736	788	114
+A0AA38ZEG8_Vitis	A0AA38ZEG8	103349	Vitis rotundifolia (Muscadine grape)	euk		PVL29_016132	875	996	1236	122
+A0ABD2W8Y5_Trichogramma	A0ABD2W8Y5	54128	Trichogramma kaykai	euk		TKK_015596	904	1026	1243	123
+A0ABN7NF61_Timema	A0ABN7NF61	61482	Timema podura (Walking stick)	euk		TPAB3V08_LOCUS951	475	587	1157	113
+B3RTQ9_Trichoplax	B3RTQ9	10228	Trichoplax adhaerens (Trichoplax reptans)	euk		TRIADDRAFT_56013	620	702	1020	83
+L9KNT5_Tupaia	L9KNT5	246437	Tupaia chinensis (Chinese tree shrew) (Tupaia belangeri chinensis)	euk		TREES_T100018703	879	1003	1266	125
+Q4N265_Theileria	Q4N265	5875	Theileria parva (East coast fever infection agent)	euk		TP04_0501	679	800	1044	122
+Q8SRI7_Encephalitozoon	Q8SRI7	284813	Encephalitozoon cuniculi (strain GB-M1) (Microsporidian parasite)	euk		ECU07_1130	631	734	766	104
+R8BF09_Phaeoacremonium	R8BF09	1286976	Phaeoacremonium minimum (strain UCR-PA7) (Esca disease fungus) (Togninia minima)	euk		UCRPA7_6577	406	520	890	115
+R9ALK2_Wallemia	R9ALK2	1299270	Wallemia ichthyophaga (strain EXF-994 / CBS 113033)	euk		J056_003517	821	941	1160	121
+U1HTB6_Endocarpon	U1HTB6	1263415	Endocarpon pusillum (strain Z07020 / HMAS-L-300199) (Lichen-forming fungus)	euk		EPUS_07708	1266	1386	1698	121
+V5FNS9_Paecilomyces	V5FNS9	1356009	Paecilomyces variotii (strain NBRC 109023 / No. 5) (Byssochlamys spectabilis)	euk		PVAR5_2215	1131	1252	1567	122
+A0ACD0P8K2_Violaceomyces	A0ACD0P8K2	1673888	Violaceomyces palustris	euk		IE53DRAFT_70336	957	1077	1362	121
+A0A1E3QZC2_Babjeviella	A0A1E3QZC2	984486	Babjeviella inositovora NRRL Y-12698	euk		BABINDRAFT_19243	439	559	768	121
+A0A0L0G6T1_Sphaeroforma	A0A0L0G6T1	667725	Sphaeroforma arctica JP610	euk		SARC_03071	480	596	725	117
+A0A175W148_Madurella	A0A175W148	100816	Madurella mycetomatis	euk		MMYC01_206093	1308	1420	1830	113
+A0A1E3PG93_Nadsonia	A0A1E3PG93	857566	Nadsonia fulvescens var. elongata DSM 6958	euk		NADFUDRAFT_27084	505	623	770	119
+A0A261Y0B2_Bifiguratus	A0A261Y0B2	1938954	Bifiguratus adelaidae	euk		BZG36_04653	1129	1248	1442	120
+A0A316UNJ2_Jaminaea	A0A316UNJ2	1569628	Jaminaea rosea	euk		BDZ90DRAFT_261715	844	969	1213	126
+A0A4Q4STP6_Monosporascus	A0A4Q4STP6	155417	Monosporascus ibericus	euk		DL764_010721	1291	1407	1776	117
+A0A7C8I9U5_Massariosphaeria	A0A7C8I9U5	100035	Massariosphaeria phaeospora	euk		BDV95DRAFT_668366	1241	1358	1757	118
+A0A9P8C9H4_Amylocarpus	A0A9P8C9H4	45428	Amylocarpus encephaloides	euk		BJ875DRAFT_450091	794	914	1258	121
+A0AAJ4XMM3_Melanopsichium	A0AAJ4XMM3	63383	Melanopsichium pennsylvanicum	euk		MEPE_02536	750	872	1236	123
+A0ACC0VET1_Trichothecium	A0ACC0VET1	47278	Trichothecium roseum	euk		N3K66_001333	1213	1330	1703	118
