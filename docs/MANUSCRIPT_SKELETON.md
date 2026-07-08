@@ -1,8 +1,9 @@
 # Dating the PIF1/RRM3 duplication in Ascomycota — manuscript skeleton
 
-*Working scaffold. Methods are near-complete (the pipeline is done); Results carry the findings we
-have, with `[PENDING]` for the GeneRax confirmation and absolute dating. Narrative sections (Abstract,
-Intro, Discussion) are stubs — draft those in Spencer's voice at finalization.*
+*Working scaffold. Methods are near-complete (the pipeline is done); Results carry the findings, now
+including the GeneRax reconciliation (NCBI taxonomy, a grafted phylogenomic backbone, and three
+robustness reruns) and the absolute dating. Narrative sections (Abstract, Intro, Discussion) are drafted
+in Spencer's voice; polish at finalization.*
 
 ---
 
@@ -21,8 +22,9 @@ Basidiomycota, early-diverging fungi, and human PIF1 as outgroups), inferred a g
 reconciled it against a fungal species tree to locate the duplication. Amino-acid trees left the
 duplication node unresolved, collapsing it to the base of Fungi; adding the 3Di structural alphabet to
 the same alignment resolved it onto the stem of Saccharomycotina. Maximum-likelihood reconciliation
-(GeneRax) confirms that placement, which dates the Pif1/Rrm3 split to the budding-yeast common ancestor
-(~400 Mya, Devonian), well before the *Saccharomyces* whole-genome duplication. We further find that
+(GeneRax) confirms that placement, which puts the Pif1/Rrm3 split on the Saccharomycotina stem, ~330–383
+Mya (Devonian–Carboniferous), just crown-ward of the budding-yeast common ancestor and well before the
+*Saccharomyces* whole-genome duplication. We further find that
 Rrm3 is the more-derived of the two paralogs, and that the recurrent two-copy state among mushrooms is
 an independent duplication rather than shared ancestry with the yeast pair. The result is a concrete
 case where structural information recovers a deep relationship that sequence alone cannot.
@@ -93,20 +95,25 @@ is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage it
 
 ### Species tree
 - **NCBI-taxonomy** backbone for the 728 species (ete3 `NCBITaxa`, pruned, forced binary; 720 leaves
-  after dropping 8 taxa NCBI doesn't recognize → 941 mapped genes). *Rigorous backbone (Y1000+ / Li
-  et al. 2021) pruned to our taxa: `[PENDING — confirmation pass]`.*
+  after dropping 8 taxa NCBI doesn't recognize → 941 mapped genes), *and* a **grafted phylogenomic
+  backbone** (`workflow/16_graft_species_tree.py`, 719 taxa) that splices the Shen et al. 2018
+  time-calibrated Y1000+ budding-yeast topology into the non-Saccharomycotina NCBI backbone. The
+  duplication is placed on both (Results R4), so the answer does not depend on NCBI's polytomy resolution.
 
 ### Reconciliation = the dating step
 - **Species-overlap** reconciliation (ete3) of each gene tree against the species tree, tallying
   duplications by the NCBI clade they map to.
-- **GeneRax** (UndatedDL, `--unrooted-gene-tree`, EVAL + SPR) as the gold-standard ML
-  duplication–loss reconciliation, on native x86 (WSL2). `[PENDING — Windows run]` → gives the
-  duplication branch, the loss pattern, and stem-vs-crown.
+- **GeneRax 2.0.4** (`UndatedDL`, EVAL reconciliation) as the gold-standard ML duplication–loss
+  reconciliation, on native x86 (WSL2) — run against the NCBI tree, the grafted phylogenomic tree, and
+  three robustness variants of the gene tree (Results R4); gives the duplication branch, the loss
+  pattern, and stem-vs-crown. (GeneRax 2.1.3 segfaults at `inferReconciliation` on both Rosetta and
+  native Linux, so 2.0.4 is used throughout; EVAL rather than SPR search, which is intractable for a
+  single 941-tip family.)
 
 ### Reproducibility
 - All steps scripted (`workflow/01`–`14`) in a version-pinned conda environment; every protein,
   structure source, and decision logged in `manifest.csv` and the README. Repo:
-  github.com/spegray/pif1-foldtree. Key tool versions: IQ-TREE 3.1.2, foldseek 10, GeneRax 2.1.3,
+  github.com/spegray/pif1-foldtree. Key tool versions: IQ-TREE 3.1.2, foldseek 10, GeneRax 2.0.4,
   ete3 3.1.3, ColabFold/AF2.
 
 ---
@@ -142,6 +149,15 @@ is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage it
   Saccharomycotina families** (only Dipodascaceae is Pif1-only); the earliest-branching sample
   (Lipomycetales) is single-copy → the duplication sits on the Saccharomycotina stem near the crown
   (caveat: sparse early-diverging-lineage sampling).
+- **Robust to the species-tree backbone and to structure-prediction choices.** The Saccharomycotina
+  placement holds when GeneRax is run against a **grafted phylogenomic species tree** (Shen 2018
+  budding-yeast topology spliced into the NCBI backbone, 719 taxa) — there `node_448` is the **single top
+  duplication node in the whole tree (43 dups)** — and across three reruns of the AA+3Di gene tree:
+  AFDB-structures only (dropping the 129 ColabFold models; 37 dups), high-confidence cores only (core
+  pLDDT ≥ 87; 39 dups), and an estimated GTR20 3Di matrix in place of the fixed Foldseek one (43 dups).
+  In every case the Saccharomycotina ancestor carries the tree-wide maximum duplication count, and the
+  independent mushroom duplication (`node_578`) is recovered throughout — closing the predictor-batch,
+  structure-quality, and 3Di-matrix robustness questions. *(Fig. S5.)*
 - *Honest note:* the global event totals are high (D ≈ 464; ~3,226 speciation-losses) because
   reconciliation absorbs residual deep gene-tree noise as many small D/L events; the interpretable
   signal is the anchor's placement on the Saccharomycotina node, not the global counts.
@@ -156,7 +172,7 @@ is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage it
   (442/536 closer to ScPif1; mean core identity 54.5% vs 52.3%; *S. pombe* Pfh1 55.1 vs 53.2) — i.e.
   Pif1 retained more of the ancestral state while RRM3 diverged further.
 
-### R6 — Absolute timing: a Devonian (~400-Myr-old) duplication, long predating the WGD
+### R6 — Absolute timing: a Devonian–Carboniferous (~330–383-Myr-old) duplication, long predating the WGD
 **Approach — read the age off a published, fossil-calibrated time tree rather than re-estimate it.**
 The duplication maps to the Saccharomycotina stem, and the Y1000+ budding-yeast molecular clock
 (Shen et al. 2018, *Cell*; 332 genomes) already dates exactly this node:
@@ -182,12 +198,15 @@ The duplication maps to the Saccharomycotina stem, and the Y1000+ budding-yeast 
 1. **Pipeline schematic** — homologs → structures → corecut → {AA tree, FoldTree, AA+3Di} → species tree → reconciliation.
 2. **Sampling + copy number** — taxa across the fungal tree; two-copy vs one-copy by subphylum.
 3. **The resolution** — (a) AA-only gene tree: duplication node maps to "Fungi"; (b) AA+3Di: maps to Saccharomycotina. *(headline)*
-4. **Reconciliation** — duplication + losses mapped onto the species tree (the answer). `[PENDING GeneRax]`
-5. **Absolute date** — calibrated placement. `[PENDING]`
+4. **Reconciliation** — duplication + losses mapped onto the species tree (the answer); GeneRax on the
+   NCBI and grafted phylogenomic backbones. *(done)*
+5. **Absolute date** — calibrated placement on the Shen 2018 time tree (`fig4_duplication_on_timetree.svg`). *(drafted)*
 - **S1** Family-filter validation (IPR048293 vs PF05970 / Helitron contamination).
 - **S2** Structure-source + pLDDT (AFDB vs ColabFold consistency).
 - **S3** Per-metric structural trees (fident / alntmscore / lddt) + support values.
 - **S4** Sequence-vs-structure concordance.
+- **S5** Robustness sweep (`figS5_robustness.png`) — Saccharomycotina placement across the AFDB-only,
+  high-pLDDT, and GTR20-matrix reruns and the grafted-tree reconciliation.
 
 ## Discussion — [DRAFT, Spencer's voice]
 The practical lesson here is narrow but clean: for this duplication the amino-acid core had simply run
@@ -198,10 +217,11 @@ the same sites (194 versus 180 parsimony-informative positions), and folding tha
 pulled the Pif1/Rrm3 ancestor from the base of Fungi down onto the Saccharomycotina stem.
 
 Placed in time, the duplication is old. Mapping the Saccharomycotina stem onto the calibrated Y1000+
-time tree (Shen et al. 2018) puts the split near the budding-yeast common ancestor, on the order of 400
-million years ago. That timing matters for how the pair is usually explained: the *Saccharomyces*
-whole-genome duplication, the first event people tend to reach for when accounting for yeast gene pairs,
-is roughly four times younger and cannot have produced Pif1 and Rrm3. Rrm3 is present across the budding
+time tree (Shen et al. 2018) puts the split at roughly 330 to 383 million years ago (Devonian to
+Carboniferous), just crown-ward of the budding-yeast common ancestor. That timing matters for how the
+pair is usually explained: the *Saccharomyces* whole-genome duplication, the first event people tend to
+reach for when accounting for yeast gene pairs, is three to four times younger and cannot have produced
+Pif1 and Rrm3. Rrm3 is present across the budding
 yeasts, including lineages (*Kluyveromyces*, *Lachancea*) that diverged well before the whole-genome
 duplication, exactly as a Saccharomycotina-ancestral origin predicts.
 
@@ -221,12 +241,15 @@ to do.
 Two caveats temper the confidence and mark the work's edges. First, the duplication node is well
 supported by the SH-aLRT test but weak under bootstrap resampling (UFBoot 29), as expected for a deep
 node resting on saturated sequence; the result leans on reconciliation, which tolerates that gene-tree
-uncertainty, more than on any single branch's bootstrap value. Second, the early-diverging budding
-yeasts are thinly sampled here, so while the duplication maps cleanly to the Saccharomycotina stem,
-whether it falls just before or just after the subphylum's first split is not yet settled; denser
-sampling of the Lipomycetales and their relatives, with the published phylogenomic backbone in place of
-the NCBI topology, would tighten that. Neither caveat unseats the central result, and both read as the
-next steps rather than reasons for doubt.
+uncertainty, more than on any single branch's bootstrap value. That reliance is the better earned for
+having been stress-tested: the Saccharomycotina placement survives swapping the NCBI taxonomy for a
+grafted phylogenomic backbone, dropping the predicted structures, keeping only the high-confidence cores,
+and estimating the 3Di exchange rates from the data rather than borrowing a fixed matrix; in every one of
+those reruns the Saccharomycotina ancestor still carries the tree-wide maximum duplication count. Second,
+the early-diverging budding yeasts are thinly sampled here, so while the duplication maps cleanly to the
+Saccharomycotina stem, whether it falls just before or just after the subphylum's first split is not yet
+settled; denser sampling of the Lipomycetales and their relatives would tighten that. Neither caveat
+unseats the central result, and both read as the next steps rather than reasons for doubt.
 
 ## Data and code availability
 - Repo (scripts `01`–`14`, manifest, trees, alignments): github.com/spegray/pif1-foldtree.

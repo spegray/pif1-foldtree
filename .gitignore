@@ -62,3 +62,11 @@ data/g4_models/**/msas/
 data/g4_models/**/templates/
 data/g4_models/**/*full_data*.json
 data/*.zip
+
+# --- Cross-machine transfer archives + R cruft (keep the EXTRACTED files, not the archive) ---
+*.tar.gz
+data/species_tree/*.zip
+.Rhistory
+
+# --- Verbose recPhyloXML (~3 MB each; the compact .nhx alongside holds the same reconciliation) ---
+results/reconciliation/**/*_reconciliated.xml

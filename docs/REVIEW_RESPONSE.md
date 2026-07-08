@@ -20,8 +20,11 @@ Major concerns raised:
   "Rrm3 is derived" rested on raw % identity; dating is a borrowed bracket (stem vs crown widens it);
   the planned orthology cross-check and the ~134 PF05970-not-IPR048293 species were never checked.
 
-This round addressed **M1** and **M2** (the two that decide whether this is a methods paper, a
-confirmatory note, or needs reframing). M3–M6 and the minors remain open (Section D).
+The first round addressed **M1** and **M2** (the two that decide whether this is a methods paper, a
+confirmatory note, or needs reframing); a second, compute-heavy round on the Windows/WSL box then closed
+**M5** (phylogenomic backbone) and **M6** (structure-prediction confounds) with a grafted-tree
+reconciliation and three AA+3Di reruns (Section B4). **M3** (bootstrap of the deep topology itself) and
+the minors remain open (Section D).
 
 ---
 
@@ -92,6 +95,46 @@ the dominant signal is Saccharomycotina-vs-rest, ~2×); within-clade rates are m
 structurally-favored topology (mildly circular, though the terminal-branch result is topology-robust);
 report the n.s. model-free anchor test alongside the significant clade test for completeness.
 
+### B4 — Robustness reruns + phylogenomic-backbone reconciliation (M5, M6)
+Run natively on the Windows/WSL box (IQ-TREE 3.1.2 + GeneRax 2.0.4, `UndatedDL`, EVAL). Files:
+`results/reviewer/` (the three ML trees + `.iqtree` reports, subset alignments, `REVIEWER_ROBUSTNESS.md`,
+`runall.log`, `reviewer_robustness.png`) and `results/reconciliation/rev_{R1_afdb,R2_plddt87,R3_gtr20}/run/`.
+The grafted-tree main run is summarized in `results/reconciliation/GRAFTED_RESULTS.md` (its
+`aa3di_grafted/run/` output is still on the Windows box, but its headline numbers are corroborated by the
+rerun writeup, which lists the same Main-grafted counts).
+
+**Phylogenomic backbone (M5) — closed.** A binary species tree was grafted (719 taxa: the Shen 2018
+budding-yeast topology into the non-Saccharomycotina NCBI backbone; `workflow/16_graft_species_tree.py`,
+`data/species_tree/grafted_species.nwk`) and GeneRax re-run on it. The PIF1/RRM3 duplication maps to the
+Saccharomycotina ancestor (`node_448`) as the **top duplication node in the whole tree — 43 dups, vs 9 on
+the NCBI tree**; the independent mushroom duplication (`node_578`, 23 dups) is recovered identically. So
+the placement is not an artifact of NCBI's arbitrary polytomy resolution.
+
+**Structure-prediction confounds (M6) — closed.** Three reruns of the AA+3Di tree, each reconciled against
+the grafted tree; every one keeps `node_448` as the **tree-wide maximum duplication node** (verified here
+against the raw per-species event counts, not just the writeup):
+
+| Variant | Tree tips | Sacch. dups (`node_448`, = tree max) | Mushroom dups (`node_578`) |
+|---|---|---|---|
+| Main (grafted, full set) | 957 | 43 | 23 |
+| **R1** — AFDB-only (drop 129 ColabFold) | 828 | 37 | 24 |
+| **R2** — core pLDDT ≥ 87 (high-confidence) | 748 | 39 | 20 |
+| **R3** — GTR20 3Di matrix (vs fixed Foldseek) | 957 | 43 | 31 |
+
+The Saccharomycotina placement rides on neither the predicted (ColabFold) structures, nor the lower-
+confidence structures, nor the specific 3Di substitution matrix.
+
+**Honest nuance (carry into the manuscript, don't hide).** The *reconciliation* placement is robust in all
+three; the *raw two-anchor MRCA shortcut* — the smallest clade containing both ScPif1 and ScRrm3 — is clean
+for R2 (94 species, tidy Saccharomycotina daughters, like the main tree's 103) but broad for R1 and R3
+(634 / 718 species): the Pif1 daughter stays clean while ScRrm3's single tip slips. This is a fragility of
+the shortcut on **ML-only trees** (no UFBoot; the deep node was already UFBoot-weak at 29), not evidence the
+duplication moved — reconciliation, which uses the whole tree and its losses, concentrates the duplication
+on `node_448` regardless of where the lone ScRrm3 tip lands, because the many two-paralog budding-yeast
+species force it there. R2 (the highest-quality subset) is clean on *both* readouts, which is the tell. To
+firm up the raw-tree reciprocal Pif1/Rrm3 monophyly for R1/R3, rerun those two with `-B 1000 -bnni` (~4.5 h
+each) — optional, since the reconciliation already answers the placement question.
+
 ---
 
 ## C. How this addresses the review
@@ -105,19 +148,28 @@ report the n.s. model-free anchor test alongside the significant clade test for 
 - **Residual vulnerability (be explicit, don't hide):** the override rests on discounting a p < 0.05
   sequence result. The defense — LBA mechanism + RRM3's biological restriction — must be made *up front*
   in the Discussion, and the AU p=0.033 reported honestly as evidence the artifact is weak.
+- **M5 (phylogenomic backbone) — closed (B4).** GeneRax on the grafted 719-taxon tree keeps the
+  duplication on the Saccharomycotina ancestor as the top duplication node in the whole tree (43 dups);
+  not an NCBI-taxonomy artifact.
+- **M6 (structure-prediction confounds) — closed (B4).** AFDB-only, high-pLDDT, and GTR20-matrix reruns
+  all keep `node_448` the tree-wide top duplication node (37–43 dups). The result depends on none of the
+  three suspected confounds.
 
 ---
 
 ## D. Open items NOT addressed this round (prioritized)
-1. **M5 — substitute the published phylogenomic species tree.** *Largely addressed* (`workflow/17`):
-   mapping the duplication's species set onto the Shen et al. 2018 time-calibrated Y1000+ tree
-   (`data/species_tree/shen2018_timetree.newick`) places it on a node subtending ~96% of budding
-   yeasts (317/330 tips) dated **~330–383 Mya** — so the Saccharomycotina placement is *robust to the
-   phylogenomic backbone*, not an artifact of NCBI's arbitrary polytomy resolution, and the date is now
-   read directly off a calibrated tree. *Remaining:* a full GeneRax DL reconciliation against a grafted
-   broad-fungi + Shen tree (for the per-branch loss pattern) — needs the Windows box (GeneRax/Rosetta).
-2. **M3/M6 robustness:** bootstrap stability of the AA+3Di topology; an alternative 3Di model
-   (Q.3Di.AF) for concordance; a pLDDT-filtered and predictor-balanced (AFDB vs ColabFold) rerun.
+1. **M5 — substitute the published phylogenomic species tree.** *Closed (B4).* Two ways: (i) mapping the
+   duplication's species set onto the Shen et al. 2018 time-calibrated Y1000+ tree (`workflow/17`) placed
+   it on a node subtending ~96% of budding yeasts (317/330 tips) dated **~330–383 Mya**; (ii) a full
+   GeneRax DL reconciliation against the *grafted* broad-fungi + Shen tree (`workflow/16`, 719 taxa)
+   keeps the duplication on the Saccharomycotina ancestor as the **top duplication node (43 dups)** and
+   reproduces the per-branch loss pattern (`results/reconciliation/GRAFTED_RESULTS.md`). The placement is
+   robust to the phylogenomic backbone, not an artifact of NCBI's polytomy resolution.
+2. **M6 robustness — closed (B4).** AFDB-only, core-pLDDT ≥ 87, and GTR20-3Di-matrix reruns all keep the
+   Saccharomycotina node the tree-wide top duplication node (37–43 dups). **M3 — the one genuine open
+   robustness item:** bootstrap stability of the AA+3Di *deep topology itself* (`-B 1000 -bnni` on the
+   full tree; and on R1/R3 to firm the raw-tree Pif1/Rrm3 reciprocal monophyly, ~4.5 h each). An
+   alternative 3Di model (Q.3Di.AF) for concordance is optional — GTR20 already stress-tests the matrix.
 3. **M4 — articulate AA/3Di non-independence** and why the partition is still informative (cite FoldTree).
 4. Orthology cross-check (OMA/OrthoDB) and the ~134 PF05970-not-IPR048293 species (missed orthologs);
    explicit Helitron-contamination check on the final 957.
