@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# figS4_reconciliation_thirdkind.sh  --  Figure S4: literal recPhyloXML reconciliation (thirdkind).
+# figS3_reconciliation_thirdkind.sh  --  Figure S3: literal recPhyloXML reconciliation (thirdkind).
 #
 # Cross-check of Figure 4: renders the RAW GeneRax 2.0.4 (UndatedDL) reconciliation - the species tree
 # with the 941-gene family embedded, duplications and losses drawn in place - straight from the
@@ -9,13 +9,13 @@
 # the communicative figure). Confirms the Saccharomycotina placement against the actual recPhyloXML.
 #
 # Requires: thirdkind (cargo install thirdkind), R+ape, rsvg-convert, ghostscript, pdffonts.
-# Run from repo root:  bash docs/figures/scripts/figS4_reconciliation_thirdkind.sh   ·  Date: 2026-07-08.
+# Run from repo root:  bash docs/figures/scripts/figS3_reconciliation_thirdkind.sh   ·  Date: 2026-07-08.
 set -euo pipefail
 
 RUN=results/reconciliation/aa3di_grafted/run
 XML="$RUN/reconciliations/pif1_reconciliated.xml"
 ST="$RUN/species_trees/starting_species_tree.newick"
-OUT=docs/figures/figS4_reconciliation_thirdkind
+OUT=docs/figures/figS3_reconciliation_thirdkind
 
 # collapse set = internal nodes OFF the path root -> {Saccharomycotina node_448, mushroom node_578}
 COLL=$(/usr/local/bin/Rscript - "$ST" <<'RS'
