@@ -23,8 +23,9 @@ Major concerns raised:
 The first round addressed **M1** and **M2** (the two that decide whether this is a methods paper, a
 confirmatory note, or needs reframing); a second, compute-heavy round on the Windows/WSL box then closed
 **M5** (phylogenomic backbone) and **M6** (structure-prediction confounds) with a grafted-tree
-reconciliation and three AA+3Di reruns (Section B4). **M3** (bootstrap of the deep topology itself) and
-the minors remain open (Section D).
+reconciliation and three AA+3Di reruns (Section B4). **M3 is largely addressed as well** — the headline
+AA+3Di tree already carries 1000-replicate UFBoot (deep node SH-aLRT 98 / UFBoot 29, both reported
+honestly); only a cosmetic R1/R3 raw-tree cleanup and the minors remain (Section D).
 
 ---
 
@@ -166,10 +167,16 @@ each) — optional, since the reconciliation already answers the placement quest
    reproduces the per-branch loss pattern (`results/reconciliation/GRAFTED_RESULTS.md`). The placement is
    robust to the phylogenomic backbone, not an artifact of NCBI's polytomy resolution.
 2. **M6 robustness — closed (B4).** AFDB-only, core-pLDDT ≥ 87, and GTR20-3Di-matrix reruns all keep the
-   Saccharomycotina node the tree-wide top duplication node (37–43 dups). **M3 — the one genuine open
-   robustness item:** bootstrap stability of the AA+3Di *deep topology itself* (`-B 1000 -bnni` on the
-   full tree; and on R1/R3 to firm the raw-tree Pif1/Rrm3 reciprocal monophyly, ~4.5 h each). An
-   alternative 3Di model (Q.3Di.AF) for concordance is optional — GTR20 already stress-tests the matrix.
+   Saccharomycotina node the tree-wide top duplication node (37–43 dups). **M3 — largely addressed.** The
+   full AA+3Di headline tree already carries 1000-replicate UFBoot (`results/seq_tree/pif1_aa3di_supported.treefile`,
+   ModelFinder + UFBoot); the duplication node is **SH-aLRT 98 / UFBoot 29** — weak by resampling, as
+   expected for a saturated deep node, strong by SH-aLRT, both disclosed. That weakness is the paper's
+   point, not a hole: it is why the argument leans on reconciliation (robust across four perturbations),
+   not on the branch. *Residual is cosmetic only:* R1 and R3 were ML-only reruns, so their **raw-tree**
+   Pif1/Rrm3 reciprocal monophyly is soft; `-B 1000 -bnni` on those two (~4.5 h each) would firm it, but
+   reconciliation already places them at Saccharomycotina, so it changes no conclusion — do it only if a
+   reviewer asks. An alternative 3Di model (Q.3Di.AF) for concordance is likewise optional — GTR20 already
+   stress-tests the matrix.
 3. **M4 — articulate AA/3Di non-independence** and why the partition is still informative (cite FoldTree).
 4. Orthology cross-check (OMA/OrthoDB) and the ~134 PF05970-not-IPR048293 species (missed orthologs);
    explicit Helitron-contamination check on the final 957.
