@@ -1,0 +1,49 @@
+// fig1_pipeline.dot  --  Figure 1: the PIF1/RRM3 dating pipeline as a left-to-right DAG.
+// Homologs -> structures -> corecut -> {sequence ML, FoldTree, AA+3Di partition} -> reconciliation
+// (against a species tree) -> the dated duplication placement. The AA+3Di partition (teal) is the
+// resolving method; the result (coral) is the answer. Reproducible, git-diffable, emits real <text>.
+// Render (from repo root):
+//   dot -Tsvg docs/figures/scripts/fig1_pipeline.dot -o docs/figures/fig1_pipeline.svg
+//   (then rsvg-convert -> PDF -> gs -dNoOutputFonts outline; dot -Tsvg does NOT embed fonts.)
+// Date: 2026-07-08.
+
+digraph pipeline {
+  rankdir=LR;
+  bgcolor="transparent";
+  graph [fontname="Helvetica", nodesep=0.30, ranksep=0.55];
+  node  [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10,
+         color="#8a8a86", fillcolor="#f2f2f0", penwidth=1.1, margin="0.16,0.10"];
+  edge  [color="#6f6f6b", penwidth=1.1, arrowsize=0.7];
+
+  homologs [label="Homologs\n957 proteins / 728 fungi\nInterPro IPR048293"];
+  struct   [label="Structures\nAlphaFold DB (828)\n+ ColabFold AF2 (129)"];
+  core     [label="Corecut\nhelicase core\n(sequence + structure)"];
+
+  subgraph cluster_trees {
+    label="gene tree, three ways";
+    labeljust="l"; fontname="Helvetica"; fontsize=9.5; fontcolor="#6f6f6b";
+    color="#cfcfca"; style="rounded"; margin=10;
+    aa    [label="Sequence ML\nMAFFT / trimAl /\nIQ-TREE LG+I+G4"];
+    fold  [label="FoldTree\nfoldseek 3Di /\nFastME"];
+    aa3di [label="AA + 3Di partition\nIQ-TREE\nLG + 3DiPhy matrix",
+           fillcolor="#dbefe7", color="#009e73", penwidth=1.8];
+  }
+
+  sptree [label="Species tree\nNCBI taxonomy +\nShen 2018 phylogenomic"];
+  recon  [label="Reconciliation\nspecies-overlap +\nGeneRax (UndatedDL)"];
+  result [label="Pif1/Rrm3 duplication\n-> Saccharomycotina\n~330-383 Mya",
+          fillcolor="#fbe7da", color="#d55e00", penwidth=1.8];
+
+  homologs -> struct -> core;
+  core -> aa;
+  core -> fold;
+  core -> aa3di;
+  aa    -> recon;
+  fold  -> recon;
+  aa3di -> recon [color="#009e73", penwidth=1.9];
+  homologs -> sptree [style=dashed, color="#9a9a95"];
+  sptree -> recon;
+  recon -> result [penwidth=1.9];
+
+  { rank=same; core; sptree; }
+}
