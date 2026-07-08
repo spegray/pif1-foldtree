@@ -70,3 +70,5 @@ data/species_tree/*.zip
 
 # --- Verbose recPhyloXML (~3 MB each; the compact .nhx alongside holds the same reconciliation) ---
 results/reconciliation/**/*_reconciliated.xml
+# ...but keep the authoritative grafted-run recPhyloXML - Fig S4 (thirdkind) reproduces from it:
+!results/reconciliation/aa3di_grafted/run/reconciliations/pif1_reconciliated.xml
