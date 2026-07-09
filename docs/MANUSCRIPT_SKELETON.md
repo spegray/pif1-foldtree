@@ -78,7 +78,8 @@ itself.
 ### Taxon sampling and homolog identification
 - Fungi-wide sample: **957 cellular PIF1-family proteins across 728 species** — Ascomycota ingroup
   (681) + outgroups: Basidiomycota (235), Mucoromycota (36), Chytridiomycota (4), and human PIF1 (1).
-- **Family filter — InterPro IPR048293 ("PIF1_RRM3_pfh1"), *not* Pfam PF05970.** PF05970 is also
+- **Family filter — InterPro IPR048293 ("PIF1_RRM3_pfh1"; Paysan-Lafosse et al. 2023), *not* Pfam PF05970
+  (Mistry et al. 2021).** PF05970 is also
   carried by **Helitron** rolling-circle transposons, inflating fungal counts several-fold (Ascomycota
   2,255→681, Basidiomycota 2,393→235, Mucoromycota 742→36, Chytridiomycota 33→4); IPR048293 isolates the
   *cellular* helicases while retaining every anchor. *(Key decision — Fig. S1 / Table S1.)*
@@ -86,8 +87,8 @@ itself.
   human PIF1 (**Q9H611**). Sequences retrieved from UniProt; one representative per gene.
 
 ### Structures
-- **AlphaFold DB** for 828/957 proteins (model version v6); the **129** lacking an AFDB model were
-  folded with **ColabFold (AlphaFold2)** to match the predictor (median full-length pLDDT 62.5 vs 64.6 for
+- **AlphaFold DB** (Varadi et al. 2022) for 828/957 proteins (model version v6); the **129** lacking an
+  AFDB model were folded with **ColabFold** (AlphaFold2; Mirdita et al. 2022; Jumper et al. 2021) to match the predictor (median full-length pLDDT 62.5 vs 64.6 for
   AFDB — predictor-consistent; Fig. S2). 3 very long proteins were folded as their helicase-core region
   only (flagged in `manifest.csv`). Provenance per protein recorded in `manifest.csv`.
 
@@ -99,31 +100,34 @@ itself.
   model is moderate (Fig. S2).
 
 ### Sequence maximum-likelihood gene tree
-- Align cores (MAFFT) → trim (trimAl `-automated1`, **209 columns**) → **IQ-TREE LG+I+G4**, 957 taxa,
-  1000 ultrafast bootstraps + SH-aLRT (`-seed 42`). *(Also LG+C20 via PMSF as a model-adequacy check.)*
+- Align cores (MAFFT; Katoh and Standley 2013) → trim (trimAl `-automated1`, **209 columns**;
+  Capella-Gutiérrez et al. 2009) → **IQ-TREE LG+I+G4** (Minh et al. 2020; ModelFinder, Kalyaanamoorthy
+  et al. 2017), 957 taxa, 1000 ultrafast bootstraps (Hoang et al. 2018) + SH-aLRT (`-seed 42`). *(Also LG+C20 via PMSF as a model-adequacy check.)*
 
 ### Structural gene tree (FoldTree)
-- **foldseek** all-vs-all (3Di+AA, exhaustive) → FoldTree `fident` distance with the −b·ln(1−d/b)
-  correction (b = 0.93) → **FastME**; `alntmscore` and `lddt` distances as metric-robustness checks.
+- **foldseek** (van Kempen et al. 2024) all-vs-all (3Di+AA, exhaustive) → FoldTree `fident` distance with
+  the −b·ln(1−d/b) correction (b = 0.93; Moi et al. 2025) → **FastME** (Lefort et al. 2015); `alntmscore`
+  and `lddt` distances as metric-robustness checks.
   Rooted on human PIF1.
 
 ### AA+3Di partitioned tree *(the resolving method)*
 - Per-residue **3Di** strings (foldseek) mapped onto the AA alignment columns → a 3Di alignment with
   identical gap structure → concatenated (**957 × 418**: 209 AA + 209 3Di). **IQ-TREE partition model:
-  LG+G for the AA partition, the 3DiPhy 3Di substitution matrix (`3di_substmat`) for the 3Di partition.**
+  LG+G for the AA partition, the 3DiPhy 3Di substitution matrix (`3di_substmat`; Puente-Lelièvre et al.
+  2023) for the 3Di partition.**
   The 3Di partition carried *more* parsimony-informative sites (194) than the AA core (180). The 3Di
   characters are derived from the predicted structure, so the AA and 3Di partitions are not statistically
   independent; the gain is fold-constraint signal that persists after the underlying sequence has
   saturated, not a second independent dataset (see Discussion).
 
 ### Topology test and relative rates
-- Approximately-unbiased (AU) test (IQ-TREE, 10,000 RELL replicates, LG+I+G4) comparing the AA-optimal
+- Approximately-unbiased (AU) test (Shimodaira 2002; IQ-TREE, 10,000 RELL replicates, LG+I+G4) comparing the AA-optimal
   tree against a tree constrained only to Saccharomycotina monophyly; Tajima's relative-rate test on the
   anchor pair and clade-level branch-length comparisons from AA branch lengths re-estimated on the AA+3Di
   topology (`workflow/15_rate_check.py`, `-seed 42`).
 
 ### Species tree
-- **NCBI-taxonomy** backbone for the 728 species (ete3 `NCBITaxa`, pruned, forced binary; 720 leaves
+- **NCBI-taxonomy** backbone for the 728 species (ete3 `NCBITaxa`, Huerta-Cepas et al. 2016; pruned, forced binary; 720 leaves
   after dropping 8 taxa NCBI doesn't recognize → 941 mapped genes), *and* a **grafted phylogenomic
   backbone** (`workflow/16_graft_species_tree.py`, 719 taxa) that splices the Shen et al. 2018
   time-calibrated Y1000+ budding-yeast topology into the non-Saccharomycotina NCBI backbone. The
@@ -132,7 +136,7 @@ itself.
 ### Reconciliation and dating
 - **Species-overlap** reconciliation (ete3) of each gene tree against the species tree, tallying
   duplications by the clade they map to.
-- **GeneRax 2.0.4** (`UndatedDL`, EVAL reconciliation) as the gold-standard ML duplication–loss
+- **GeneRax 2.0.4** (Morel et al. 2020; `UndatedDL`, EVAL reconciliation) as the gold-standard ML duplication–loss
   reconciliation, on native x86 (WSL2) — run against the NCBI tree, the grafted phylogenomic tree, and
   three robustness variants of the gene tree (Results R4); gives the duplication branch, the loss pattern,
   and stem-vs-crown. (GeneRax 2.1.3 segfaults at `inferReconciliation` on both Rosetta and native Linux,
@@ -357,19 +361,113 @@ unseats the central result, and both read as the next steps rather than reasons 
 ---
 
 ## References
-- Moi D, et al. (2025) Structural phylogenetics with the FoldTree/3Di approach. *Nat. Struct. Mol. Biol.*
-  https://doi.org/10.1038/s41594-025-01649-8
-- Shen X-X, et al. (2018) Tempo and mode of genome evolution in the budding yeast subphylum (Y1000+).
-  *Cell* 175:1533–1545. https://doi.org/10.1016/j.cell.2018.10.023
-- Bochman ML, Sabouri N, Zakian VA (2010) Unwinding the functions of the Pif1 family helicases.
-  *DNA Repair* 9:237–249. https://doi.org/10.1016/j.dnarep.2010.01.008
-- Boulé J-B, Zakian VA (2006) Roles of the yeast Pif1 helicase family in maintaining genome stability.
-  *Nucleic Acids Res.* 34:4147–4153. https://doi.org/10.1093/nar/gkl561
-- Malone EG, Thompson MD, Byrd AK (2022) Role and regulation of Pif1 family helicases. *Int. J. Mol. Sci.*
-  23:3736. https://doi.org/10.3390/ijms23073736
-- Harman A, Manna E (2016) [PIF1 phylogenetics in amoebae and accessory domains]. *Mol. Phylogenet. Evol.*
-  https://doi.org/10.1016/j.ympev.2016.07.015
-*(Y1000+ comparative-genomics family studies and remaining citations to be completed at finalization.)*
+Bochman ML, Sabouri N, Zakian VA. 2010. Unwinding the functions of the Pif1 family helicases.
+*DNA Repair (Amst)* 9(3):237–249. https://doi.org/10.1016/j.dnarep.2010.01.008
+
+Boulé JB, Zakian VA. 2006. Roles of Pif1-like helicases in the maintenance of genomic stability.
+*Nucleic Acids Res* 34(15):4147–4153. https://doi.org/10.1093/nar/gkl561
+
+Crandall JG, Zhou X, Rokas A, Hittinger CT. 2024. Specialization restricts the evolutionary paths
+available to yeast sugar transporters. *Mol Biol Evol* 41(11):msae228. https://doi.org/10.1093/molbev/msae228
+
+David KT, Schraiber JG, Crandall JG, LaBella AL, Opulente DA, Harrison MC, et al. 2025. Convergent
+expansions of keystone gene families drive metabolic innovation in Saccharomycotina yeasts.
+*Proc Natl Acad Sci USA* 122(23):e2500165122. https://doi.org/10.1073/pnas.2500165122
+
+Harman A, Manna S. 2016. Identification of Pif1 helicases with novel accessory domains in various amoebae.
+*Mol Phylogenet Evol* 103:64–74. https://doi.org/10.1016/j.ympev.2016.07.015
+
+Hérivaux A, Lavín J, Dugé de Bernonville T, Vandeputte P, Bouchara JP, Gastebois A, et al. 2018.
+Progressive loss of hybrid histidine kinase genes during the evolution of budding yeasts (Saccharomycotina).
+*Curr Genet* 64(4):841–851. https://doi.org/10.1007/s00294-017-0797-1
+
+Malone EG, Thompson MD, Byrd AK. 2022. Role and regulation of Pif1 family helicases at the replication
+fork. *Int J Mol Sci* 23(7):3736. https://doi.org/10.3390/ijms23073736
+
+Mistry J, Chuguransky S, Williams L, Qureshi M, Salazar GA, Sonnhammer ELL, et al. 2021. Pfam: the protein
+families database in 2021. *Nucleic Acids Res* 49(D1):D412–D419. https://doi.org/10.1093/nar/gkaa913
+
+Moi D, Bernard C, Steinegger M, Nevers Y, Langleib M, Dessimoz C. 2025. Structural phylogenetics unravels
+the evolutionary diversification of communication systems in gram-positive bacteria and their viruses.
+*Nat Struct Mol Biol* 32(12):2492–2502. https://doi.org/10.1038/s41594-025-01649-8
+
+Opulente DA, LaBella AL, Harrison MC, Wolters JF, Liu C, Li Y, et al. 2024. Genomic factors shape carbon
+and nitrogen metabolic niche breadth across Saccharomycotina yeasts. *Science* 384(6694):eadj4503.
+https://doi.org/10.1126/science.adj4503
+
+Paysan-Lafosse T, Blum M, Chuguransky S, Grego T, Lázaro Pinto B, Salazar GA, et al. 2023. InterPro in
+2022. *Nucleic Acids Res* 51(D1):D418–D427. https://doi.org/10.1093/nar/gkac993
+
+Shen XX, Opulente DA, Kominek J, Zhou X, Steenwyk JL, Buh KV, et al. 2018. Tempo and mode of genome
+evolution in the budding yeast subphylum. *Cell* 175(6):1533–1545.e20. https://doi.org/10.1016/j.cell.2018.10.023
+
+## Software and methods
+Capella-Gutiérrez S, Silla-Martínez JM, Gabaldón T. 2009. trimAl: a tool for automated alignment trimming
+in large-scale phylogenetic analyses. *Bioinformatics* 25(15):1972–1973. https://doi.org/10.1093/bioinformatics/btp348
+
+Gearty W. 2025. deeptime: an R package that facilitates highly customizable and reproducible visualizations
+of data over geological time intervals. *Big Earth Data* 10(1):1–17. https://doi.org/10.1080/20964471.2025.2537516
+
+Guindon S, Dufayard JF, Lefort V, Anisimova M, Hordijk W, Gascuel O. 2010. New algorithms and methods to
+estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. *Syst Biol* 59(3):307–321.
+https://doi.org/10.1093/sysbio/syq010
+
+Hoang DT, Chernomor O, von Haeseler A, Minh BQ, Vinh LS. 2018. UFBoot2: improving the ultrafast bootstrap
+approximation. *Mol Biol Evol* 35(2):518–522. https://doi.org/10.1093/molbev/msx281
+
+Huerta-Cepas J, Serra F, Bork P. 2016. ETE 3: reconstruction, analysis, and visualization of phylogenomic
+data. *Mol Biol Evol* 33(6):1635–1638. https://doi.org/10.1093/molbev/msw046
+
+Jumper J, Evans R, Pritzel A, Green T, Figurnov M, Ronneberger O, et al. 2021. Highly accurate protein
+structure prediction with AlphaFold. *Nature* 596(7873):583–589. https://doi.org/10.1038/s41586-021-03819-2
+
+Kalyaanamoorthy S, Minh BQ, Wong TKF, von Haeseler A, Jermiin LS. 2017. ModelFinder: fast model selection
+for accurate phylogenetic estimates. *Nat Methods* 14(6):587–589. https://doi.org/10.1038/nmeth.4285
+
+Katoh K, Standley DM. 2013. MAFFT multiple sequence alignment software version 7: improvements in
+performance and usability. *Mol Biol Evol* 30(4):772–780. https://doi.org/10.1093/molbev/mst010
+
+Lefort V, Desper R, Gascuel O. 2015. FastME 2.0: a comprehensive, accurate, and fast distance-based
+phylogeny inference program. *Mol Biol Evol* 32(10):2798–2800. https://doi.org/10.1093/molbev/msv150
+
+Minh BQ, Schmidt HA, Chernomor O, Schrempf D, Woodhams MD, von Haeseler A, et al. 2020. IQ-TREE 2: new
+models and efficient methods for phylogenetic inference in the genomic era. *Mol Biol Evol* 37(5):1530–1534.
+https://doi.org/10.1093/molbev/msaa015
+
+Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. 2022. ColabFold: making protein
+folding accessible to all. *Nat Methods* 19(6):679–682. https://doi.org/10.1038/s41592-022-01488-1
+
+Morel B, Kozlov AM, Stamatakis A, Szöllősi GJ. 2020. GeneRax: a tool for species-tree-aware maximum
+likelihood-based gene family tree inference under gene duplication, transfer, and loss. *Mol Biol Evol*
+37(9):2763–2774. https://doi.org/10.1093/molbev/msaa141
+
+Paradis E, Schliep K. 2019. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in
+R. *Bioinformatics* 35(3):526–528. https://doi.org/10.1093/bioinformatics/bty633
+
+Penel S, Menet H, Tricou T, Daubin V, Tannier E. 2022. Thirdkind: displaying phylogenetic encounters
+beyond 2-level reconciliation. *Bioinformatics* 38(8):2350–2352. https://doi.org/10.1093/bioinformatics/btac062
+
+Puente-Lelièvre C, Malik AJ, Douglas J, Ascher D, Baker M, Allison J, et al. 2023. Tertiary-interaction
+characters enable fast, model-based structural phylogenetics beyond the twilight zone (3DiPhy; N. Matzke,
+senior author). *bioRxiv*. https://doi.org/10.1101/2023.12.12.571181
+
+Shimodaira H. 2002. An approximately unbiased test of phylogenetic tree selection. *Syst Biol* 51(3):492–508.
+https://doi.org/10.1080/10635150290069913
+
+van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, et al. 2024. Fast and accurate
+protein structure search with Foldseek. *Nat Biotechnol* 42(2):243–246. https://doi.org/10.1038/s41587-023-01773-0
+
+Varadi M, Anyango S, Deshpande M, Nair S, Natassia C, Yordanova G, et al. 2022. AlphaFold Protein Structure
+Database: massively expanding the structural coverage of protein-sequence space with high-accuracy models.
+*Nucleic Acids Res* 50(D1):D439–D444. https://doi.org/10.1093/nar/gkab1061
+
+Varadi M, Bertoni D, Magana P, Paramval U, Pidruchna I, Radhakrishnan M, et al. 2024. AlphaFold Protein
+Structure Database in 2024: providing structure coverage for over 214 million protein sequences.
+*Nucleic Acids Res* 52(D1):D368–D375. https://doi.org/10.1093/nar/gkad1011
+
+Yu G, Smith DK, Zhu H, Guan Y, Lam TTY. 2017. ggtree: an R package for visualization and annotation of
+phylogenetic trees with their covariates and other associated data. *Methods Ecol Evol* 8(1):28–36.
+https://doi.org/10.1111/2041-210X.12628
 
 ## Data and code availability
 - Repo (scripts `01`–`17`, `manifest.csv`, trees, alignments, figure scripts): github.com/spegray/pif1-foldtree.
