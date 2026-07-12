@@ -31,6 +31,8 @@ data/proteomes/
 __pycache__/
 *.pyc
 *.swp
+# Microsoft Office lock/owner files (e.g. ~$deck.pptx) - transient, never commit
+~$*
 
 # --- ColabFold run intermediates & accidental installs (regenerable; never commit) ---
 data/structures/af3/out/

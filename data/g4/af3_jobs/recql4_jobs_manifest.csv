@@ -1,0 +1,83 @@
+batch,order,job_name,accession,construct,range,full_len,model_len,n_subst,group,organism
+1,0,recql4_O94761,O94761,full,1-1208,1208,1208,0,RECQL4-like,Homo sapiens (Human)
+1,1,recql4_O94762,O94762,full,1-991,991,991,0,RECQL5-like,Homo sapiens (Human)
+1,2,recql4_A0A067C5D1,A0A067C5D1,full,1-1082,1082,1082,0,RECQL4-like,Saprolegnia parasitica (strain CBS 223.65)
+1,3,recql4_A0A023B712,A0A023B712,full,1-1138,1138,1138,0,RECQL5-like,Gregarina niphandrodes (Septate eugregarine)
+1,4,recql4_A0A075A2A2,A0A075A2A2,full,1-1216,1216,1216,0,RECQL4-like,Opisthorchis viverrini (Southeast Asian liver fluke)
+1,5,recql4_A0A058ZFU5,A0A058ZFU5,full,1-760,760,760,0,RECQL5-like,Fonticula alba (Slime mold)
+1,6,recql4_A0A0G4IV69,A0A0G4IV69,full,1-1034,1034,1034,0,RECQL4-like,Plasmodiophora brassicae (Clubroot disease agent)
+1,7,recql4_A0A059EYE9,A0A059EYE9,full,1-728,728,728,0,RECQL5-like,Anncaliia algerae PRA339
+1,8,recql4_A0A0L7LL98,A0A0L7LL98,full,1-1186,1186,1186,0,RECQL4-like,Operophtera brumata (Winter moth) (Phalaena brumata)
+1,9,recql4_A0A066WQY1,A0A066WQY1,full,1-801,801,801,0,RECQL5-like,Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951)
+1,10,recql4_A0A182QZN3,A0A182QZN3,full,1-2078,2078,2078,0,RECQL4-like,Anopheles farauti
+1,11,recql4_A0A067MG16,A0A067MG16,full,1-700,700,700,0,RECQL5-like,Botryobasidium botryosum (strain FD-172 SS1)
+1,12,recql4_A0A1S3W2K0,A0A1S3W2K0,full,1-1193,1193,1193,0,RECQL4-like,Erinaceus europaeus (Western European hedgehog)
+1,13,recql4_A0A067QGT0,A0A067QGT0,full,1-854,854,854,0,RECQL5-like,Jaapia argillacea MUCL 33604
+1,14,recql4_A0A1V9WY99,A0A1V9WY99,full,1-1046,1046,1046,0,RECQL4-like,Tropilaelaps mercedesae
+1,15,recql4_A0A067RX24,A0A067RX24,full,1-676,676,676,0,RECQL5-like,Zootermopsis nevadensis (Dampwood termite)
+1,16,recql4_A0A1Z5KAS2,A0A1Z5KAS2,full,1-1240,1240,1240,0,RECQL4-like,Fistulifera solaris (Oleaginous diatom)
+1,17,recql4_A0A087R2D8,A0A087R2D8,full,1-1007,1007,1007,0,RECQL5-like,Aptenodytes forsteri (Emperor penguin)
+1,18,recql4_A0A2U3VZ55,A0A2U3VZ55,full,1-1183,1183,1183,0,RECQL4-like,Odobenus rosmarus divergens (Pacific walrus)
+1,19,recql4_A0A087US47,A0A087US47,full,1-921,921,921,0,RECQL5-like,Stegodyphus mimosarum (African social velvet spider)
+1,20,recql4_A0A2Y9RS75,A0A2Y9RS75,full,1-1250,1250,1250,0,RECQL4-like,Trichechus manatus latirostris (Florida manatee)
+1,21,recql4_A0A091DZ87,A0A091DZ87,full,1-980,980,980,0,RECQL5-like,Fukomys damarensis (Damaraland mole rat) (Cryptomys damarensis)
+1,22,recql4_A0A340XZF4,A0A340XZF4,full,1-1224,1224,1224,0,RECQL4-like,Lipotes vexillifer (Yangtze river dolphin)
+1,23,recql4_A0A091HBL4,A0A091HBL4,full,1-1007,1007,1007,0,RECQL5-like,Buceros rhinoceros silvestris
+1,24,recql4_A0A433QBW6,A0A433QBW6,full,1-923,923,923,0,RECQL4-like,Jimgerdemannia flammicorona
+1,25,recql4_A0A0B1PAH1,A0A0B1PAH1,full,1-469,469,469,0,RECQL5-like,Erysiphe necator (Grape powdery mildew) (Uncinula necator)
+1,26,recql4_A0A443RR12,A0A443RR12,full,1-1156,1156,1156,0,RECQL4-like,Dinothrombium tinctorium
+1,27,recql4_A0A0C3A231,A0A0C3A231,full,1-848,848,848,0,RECQL5-like,Scleroderma citrinum Foug A
+1,28,recql4_A0A443SL42,A0A443SL42,full,1-1191,1191,1191,0,RECQL4-like,Leptotrombidium deliense
+1,29,recql4_A0A0G4KDX1,A0A0G4KDX1,full,1-680,680,680,0,RECQL5-like,Verticillium longisporum (Verticillium dahliae var. longisporum)
+1,30,recql4_A0A4C1U0J5,A0A4C1U0J5,full,1-954,954,954,0,RECQL4-like,Eumeta variegata (Bagworm moth) (Eumeta japonica)
+1,31,recql4_A0A0L0BVC2,A0A0L0BVC2,full,1-372,372,372,0,RECQL5-like,Lucilia cuprina (Green bottle fly) (Australian sheep blowfly)
+1,32,recql4_A0A4P9ZYF8,A0A4P9ZYF8,full,1-1193,1193,1193,0,RECQL4-like,Dimargaris cristalligena
+1,33,recql4_A0A0L1IV60,A0A0L1IV60,full,1-1218,1218,1218,0,RECQL5-like,Aspergillus nomiae NRRL (strain ATCC 15546 / NRRL 13137 / CBS 260.88 / M93)
+1,34,recql4_A0A5N3W323,A0A5N3W323,full,1-1218,1218,1218,0,RECQL4-like,Muntiacus muntjak (Barking deer) (Indian muntjac)
+1,35,recql4_A0A0V0R3H2,A0A0V0R3H2,full,1-1090,1090,1090,0,RECQL5-like,Pseudocohnilembus persalinus (Ciliate)
+1,36,recql4_A0A5N4CH52,A0A5N4CH52,full,1-1236,1236,1236,0,RECQL4-like,Camelus dromedarius (Dromedary) (Arabian camel)
+1,37,recql4_A0A154PG82,A0A154PG82,full,1-979,979,979,0,RECQL5-like,Dufourea novaeangliae (Sweat bee)
+1,38,recql4_A0A5N5TNV9,A0A5N5TNV9,full,1-1090,1090,1090,0,RECQL4-like,Armadillidium nasatum
+1,39,recql4_A0A1S3HUA9,A0A1S3HUA9,full,1-1017,1017,1017,0,RECQL5-like,Lingula anatina (Brachiopod) (Lingula unguis)
+1,40,recql4_A0A6A5CCI3,A0A6A5CCI3,full,1-877,877,877,0,RECQL4-like,Naegleria fowleri (Brain eating amoeba)
+1,41,recql4_A0A1U7LIR4,A0A1U7LIR4,full,1-932,932,932,0,RECQL5-like,Neolecta irregularis (strain DAH-3)
+1,42,recql4_A0A6G0ZIR9,A0A6G0ZIR9,full,1-1219,1219,1219,0,RECQL4-like,Aphis craccivora (Cowpea aphid)
+1,43,recql4_A0A1Y2C5X8,A0A1Y2C5X8,full,1-950,950,950,0,RECQL5-like,Leucosporidium creatinivorum
+1,44,recql4_A0A6J1X199,A0A6J1X199,full,1-1277,1277,1277,0,RECQL4-like,Galleria mellonella (Greater wax moth)
+1,45,recql4_A0A2X0P6D1,A0A2X0P6D1,full,1-1025,1025,1025,0,RECQL5-like,Microbotryum silenes-dioicae
+1,46,recql4_A0A6J2DXV9,A0A6J2DXV9,full,1-1278,1278,1278,0,RECQL4-like,Zalophus californianus (California sealion)
+1,47,recql4_A0A316U1V6,A0A316U1V6,full,1-920,920,920,0,RECQL5-like,Microstroma glucosiphilum
+1,48,recql4_A0A6L2PQA4,A0A6L2PQA4,full,1-1264,1264,1264,0,RECQL4-like,Coptotermes formosanus (Formosan subterranean termite)
+1,49,recql4_A0A316VIH0,A0A316VIH0,full,1-672,672,672,0,RECQL5-like,Meira miltonrushii
+1,50,recql4_A0A7I8KFR2,A0A7I8KFR2,full,1-1022,1022,1022,0,RECQL4-like,Spirodela intermedia (Intermediate duckweed)
+1,51,recql4_A0A388KSR1,A0A388KSR1,full,1-993,993,993,0,RECQL5-like,Chara braunii (Braun's stonewort)
+1,52,recql4_A0A7J7KRR5,A0A7J7KRR5,full,1-1192,1192,1192,0,RECQL4-like,Bugula neritina (Brown bryozoan) (Sertularia neritina)
+1,53,recql4_A0A553NET4,A0A553NET4,full,1-1172,1172,1172,0,RECQL5-like,Tigriopus californicus (Marine copepod)
+1,54,recql4_A0A7R9KXZ8,A0A7R9KXZ8,full,1-1156,1156,1156,0,RECQL4-like,Medioppia subpectinata
+1,55,recql4_A0A5N5I2J6,A0A5N5I2J6,full,1-1193,1193,1193,0,RECQL5-like,Pyrus ussuriensis x Pyrus communis
+1,56,recql4_A0A835DGJ2,A0A835DGJ2,full,1-986,986,986,0,RECQL4-like,Tetracentron sinense (Spur-leaf)
+1,57,recql4_A0A5N6QVT9,A0A5N6QVT9,full,1-989,989,989,0,RECQL5-like,Carpinus fangiana
+1,58,recql4_A0A8B7QB23,A0A8B7QB23,full,1-1639,1639,1639,0,RECQL4-like,Hipposideros armiger (Great Himalayan leaf-nosed bat)
+1,59,recql4_A0A6A4VUN9,A0A6A4VUN9,full,1-707,707,707,0,RECQL5-like,Amphibalanus amphitrite (Striped barnacle) (Balanus amphitrite)
+1,60,recql4_A0A8J2QF40,A0A8J2QF40,full,1-1279,1279,1279,0,RECQL4-like,Danaus chrysippus (African queen)
+1,61,recql4_A0A7M7MJX8,A0A7M7MJX8,full,1-1177,1177,1177,0,RECQL5-like,Varroa destructor (Honeybee mite)
+1,62,recql4_A0A8J2WSZ9,A0A8J2WSZ9,full,1-1163,1163,1163,0,RECQL4-like,Pelagomonas calceolata
+1,63,recql4_A0A7R8CJN7,A0A7R8CJN7,full,1-1007,1007,1007,0,RECQL5-like,Lepeophtheirus salmonis (Salmon louse) (Caligus salmonis)
+1,64,recql4_A0A8S1C8Z2,A0A8S1C8Z2,full,1-1263,1263,1263,0,RECQL4-like,Cloeon dipterum
+1,65,recql4_A0A834R357,A0A834R357,full,1-1197,1197,1197,0,RECQL5-like,Sarcoptes scabiei (Itch mite) (Acarus scabiei)
+1,66,recql4_A0A8T0GYV6,A0A8T0GYV6,full,1-1221,1221,1221,0,RECQL4-like,Ceratodon purpureus (Fire moss) (Dicranum purpureum)
+1,67,recql4_A0A8H7ZPJ8,A0A8H7ZPJ8,full,1-482,482,482,0,RECQL5-like,Olpidium bornovanus
+1,68,recql4_A0A8T2QPA7,A0A8T2QPA7,full,1-1266,1266,1266,0,RECQL4-like,Ceratopteris richardii (Triangle waterfern)
+1,69,recql4_A0A8K0EVA0,A0A8K0EVA0,full,1-1024,1024,1024,0,RECQL5-like,Branchiostoma lanceolatum (Common lancelet) (Amphioxus lanceolatum)
+1,70,recql4_A0A9Q0K4D9,A0A9Q0K4D9,full,1-960,960,960,0,RECQL4-like,Protea cynaroides
+1,71,recql4_A0A9N8ZLQ7,A0A9N8ZLQ7,full,1-824,824,824,0,RECQL5-like,Paraglomus occultum
+1,72,recql4_A0A9Q0M8K9,A0A9Q0M8K9,full,1-1316,1316,1316,0,RECQL4-like,Blomia tropicalis (Mite)
+1,73,recql4_A0A9N9I0A8,A0A9N9I0A8,full,1-1272,1272,1272,0,RECQL5-like,Dentiscutata erythropus
+1,74,recql4_A0A9Q1QF30,A0A9Q1QF30,full,1-938,938,938,0,RECQL4-like,Carnegiea gigantea
+1,75,recql4_A0A9N9JGJ9,A0A9N9JGJ9,full,1-274,274,274,0,RECQL5-like,Acaulospora morrowiae
+1,76,recql4_A0AAW1JV18,A0AAW1JV18,full,1-926,926,926,0,RECQL4-like,Saponaria officinalis (Common soapwort) (Lychnis saponaria)
+1,77,recql4_A0A9P6NZH0,A0A9P6NZH0,full,1-707,707,707,0,RECQL5-like,Cronartium quercuum f. sp. fusiforme G11
+1,78,recql4_A0ACC0YJE4,A0ACC0YJE4,full,1-952,952,952,0,RECQL4-like,Pistacia integerrima
+1,79,recql4_A0AAD2D3K5,A0AAD2D3K5,full,1-978,978,978,0,RECQL5-like,Euplotes crassus
+1,80,recql4_A0DX38,A0DX38,full,1-971,971,971,0,RECQL4-like,Paramecium tetraurelia
+1,81,recql4_T1JCG8,T1JCG8,full,1-1222,1222,1222,0,RECQL5-like,Strigamia maritima (European centipede) (Geophilus maritimus)
