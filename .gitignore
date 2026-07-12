@@ -54,6 +54,17 @@ tools/
 *.bionj
 results/struct_tree/*_distmat.phy
 
+# --- 238-structure expansion check (results/expansion/) ----------------------
+# Keep the auditable record: EXPANSION238_CHECK.md, keep223.txt, q223.list,
+# mafft.log + the small input seqs in data/expansion238/. Ignore the bulky,
+# fully-regenerable foldseek query DB, raw result shards, MAFFT --add alignment,
+# and the 6.7 MB hits table (reproduce from the seqs + coresdb per the .md).
+results/expansion/aln1180.fasta
+results/expansion/hits.m8
+results/expansion/q223db*
+results/expansion/res.*
+results/expansion/tmp/
+
 # Claude Code local settings
 .claude/settings.local.json
 

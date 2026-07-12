@@ -1,0 +1,72 @@
+nadd = 223
+nthread = 4
+nthreadpair = 4
+nthreadtb = 4
+ppenalty_ex = 0
+stacksize: 8176 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+
+There are 8 ambiguous characters.
+    1 / 1180 (thread    0)  101 / 1180 (thread    1)  201 / 1180 (thread    3)  301 / 1180 (thread    0)  401 / 1180 (thread    2)  501 / 1180 (thread    1)  601 / 1180 (thread    1)  701 / 1180 (thread    1)  801 / 1180 (thread    0)  901 / 1180 (thread    0) 1001 / 1180 (thread    3) 1101 / 1180 (thread    3)
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 1180   10 / 1180   20 / 1180   30 / 1180   40 / 1180   50 / 1180   60 / 1180   70 / 1180   80 / 1180   90 / 1180  100 / 1180  110 / 1180  120 / 1180  130 / 1180  140 / 1180  150 / 1180  160 / 1180  170 / 1180  180 / 1180  190 / 1180  200 / 1180  210 / 1180  220 / 1180  230 / 1180  240 / 1180  250 / 1180  260 / 1180  270 / 1180  280 / 1180  290 / 1180  300 / 1180  310 / 1180  320 / 1180  330 / 1180  340 / 1180  350 / 1180  360 / 1180  370 / 1180  380 / 1180  390 / 1180  400 / 1180  410 / 1180  420 / 1180  430 / 1180  440 / 1180  450 / 1180  460 / 1180  470 / 1180  480 / 1180  490 / 1180  500 / 1180  510 / 1180  520 / 1180  530 / 1180  540 / 1180  550 / 1180  560 / 1180  570 / 1180  580 / 1180  590 / 1180  600 / 1180  610 / 1180  620 / 1180  630 / 1180  640 / 1180  650 / 1180  660 / 1180  670 / 1180  680 / 1180  690 / 1180  700 / 1180  710 / 1180  720 / 1180  730 / 1180  740 / 1180  750 / 1180  760 / 1180  770 / 1180  780 / 1180  790 / 1180  800 / 1180  810 / 1180  820 / 1180  830 / 1180  840 / 1180  850 / 1180  860 / 1180  870 / 1180  880 / 1180  890 / 1180  900 / 1180  910 / 1180  920 / 1180  930 / 1180  940 / 1180  950 / 1180  960 / 1180  970 / 1180  980 / 1180  990 / 1180 1000 / 1180 1010 / 1180 1020 / 1180 1030 / 1180 1040 / 1180 1050 / 1180 1060 / 1180 1070 / 1180 1080 / 1180 1090 / 1180 1100 / 1180 1110 / 1180 1120 / 1180 1130 / 1180 1140 / 1180 1150 / 1180 1160 / 1180 1170 / 1180
+done.
+
+Progressive alignment 1/2... 
+STEP     2 / 1179  fSTEP     9 / 1179  fSTEP    12 / 1179  fSTEP    16 / 1179  fSTEP    17 / 1179  fSTEP    24 / 1179  fSTEP    25 / 1179  f
+Reallocating..done. *alloclen = 4153
+STEP    45 / 1179  fSTEP    48 / 1179  fSTEP    52 / 1179  fSTEP    64 / 1179  fSTEP    78 / 1179  fSTEP    79 / 1179  fSTEP    87 / 1179  fSTEP    89 / 1179  fSTEP   100 / 1179  fSTEP   105 / 1179  fSTEP   111 / 1179  fSTEP   124 / 1179  fSTEP   130 / 1179  fSTEP   131 / 1179  fSTEP   133 / 1179  fSTEP   134 / 1179  fSTEP   136 / 1179  fSTEP   137 / 1179  fSTEP   139 / 1179  fSTEP   154 / 1179  fSTEP   158 / 1179  fSTEP   159 / 1179  fSTEP   160 / 1179  fSTEP   161 / 1179  fSTEP   163 / 1179  fSTEP   165 / 1179  fSTEP   175 / 1179  fSTEP   176 / 1179  fSTEP   177 / 1179  fSTEP   179 / 1179  fSTEP   181 / 1179  fSTEP   185 / 1179  fSTEP   186 / 1179  fSTEP   199 / 1179  fSTEP   201 / 1179  fSTEP   203 / 1179  fSTEP   205 / 1179  fSTEP   223 / 1179  fSTEP   224 / 1179  fSTEP   225 / 1179  fSTEP   226 / 1179  fSTEP   227 / 1179  fSTEP   228 / 1179  fSTEP   229 / 1179  fSTEP   230 / 1179  fSTEP   231 / 1179  fSTEP   232 / 1179  fSTEP   233 / 1179  fSTEP   234 / 1179  fSTEP   235 / 1179  fSTEP   236 / 1179  fSTEP   237 / 1179  fSTEP   238 / 1179  fSTEP   239 / 1179  fSTEP   240 / 1179  fSTEP   241 / 1179  fSTEP   242 / 1179  fSTEP   243 / 1179  fSTEP   244 / 1179  fSTEP   245 / 1179  fSTEP   246 / 1179  fSTEP   247 / 1179  fSTEP   248 / 1179  f
+Reallocating..done. *alloclen = 5526
+STEP   249 / 1179  fSTEP   250 / 1179  fSTEP   251 / 1179  fSTEP   252 / 1179  fSTEP   253 / 1179  fSTEP   254 / 1179  fSTEP   255 / 1179  fSTEP   256 / 1179  fSTEP   257 / 1179  fSTEP   258 / 1179  fSTEP   266 / 1179  fSTEP   267 / 1179  fSTEP   268 / 1179  fSTEP   269 / 1179  fSTEP   270 / 1179  fSTEP   271 / 1179  fSTEP   272 / 1179  fSTEP   273 / 1179  fSTEP   274 / 1179  fSTEP   275 / 1179  fSTEP   277 / 1179  fSTEP   280 / 1179  fSTEP   281 / 1179  fSTEP   283 / 1179  fSTEP   284 / 1179  fSTEP   285 / 1179  fSTEP   287 / 1179  fSTEP   288 / 1179  fSTEP   290 / 1179  fSTEP   297 / 1179  fSTEP   298 / 1179  fSTEP   300 / 1179  fSTEP   302 / 1179  fSTEP   303 / 1179  fSTEP   335 / 1179  fSTEP   363 / 1179  fSTEP   367 / 1179  fSTEP   369 / 1179  fSTEP   378 / 1179  fSTEP   379 / 1179  fSTEP   384 / 1179  fSTEP   397 / 1179  fSTEP   403 / 1179  fSTEP   404 / 1179  fSTEP   410 / 1179  fSTEP   448 / 1179  fSTEP   456 / 1179  fSTEP   461 / 1179  fSTEP   462 / 1179  fSTEP   486 / 1179  fSTEP   487 / 1179  fSTEP   601 / 1179  fSTEP   801 / 1179  f
+Reallocating..done. *alloclen = 6575
+
+Reallocating..done. *alloclen = 9320
+
+done.
+
+Making a distance matrix from msa.. 
+    0 / 1180 (thread    0)  100 / 1180 (thread    3)  200 / 1180 (thread    1)  300 / 1180 (thread    1)  400 / 1180 (thread    0)  500 / 1180 (thread    1)  600 / 1180 (thread    0)  700 / 1180 (thread    3)  800 / 1180 (thread    2)  900 / 1180 (thread    3) 1000 / 1180 (thread    3) 1100 / 1180 (thread    2)
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 1180   10 / 1180   20 / 1180   30 / 1180   40 / 1180   50 / 1180   60 / 1180   70 / 1180   80 / 1180   90 / 1180  100 / 1180  110 / 1180  120 / 1180  130 / 1180  140 / 1180  150 / 1180  160 / 1180  170 / 1180  180 / 1180  190 / 1180  200 / 1180  210 / 1180  220 / 1180  230 / 1180  240 / 1180  250 / 1180  260 / 1180  270 / 1180  280 / 1180  290 / 1180  300 / 1180  310 / 1180  320 / 1180  330 / 1180  340 / 1180  350 / 1180  360 / 1180  370 / 1180  380 / 1180  390 / 1180  400 / 1180  410 / 1180  420 / 1180  430 / 1180  440 / 1180  450 / 1180  460 / 1180  470 / 1180  480 / 1180  490 / 1180  500 / 1180  510 / 1180  520 / 1180  530 / 1180  540 / 1180  550 / 1180  560 / 1180  570 / 1180  580 / 1180  590 / 1180  600 / 1180  610 / 1180  620 / 1180  630 / 1180  640 / 1180  650 / 1180  660 / 1180  670 / 1180  680 / 1180  690 / 1180  700 / 1180  710 / 1180  720 / 1180  730 / 1180  740 / 1180  750 / 1180  760 / 1180  770 / 1180  780 / 1180  790 / 1180  800 / 1180  810 / 1180  820 / 1180  830 / 1180  840 / 1180  850 / 1180  860 / 1180  870 / 1180  880 / 1180  890 / 1180  900 / 1180  910 / 1180  920 / 1180  930 / 1180  940 / 1180  950 / 1180  960 / 1180  970 / 1180  980 / 1180  990 / 1180 1000 / 1180 1010 / 1180 1020 / 1180 1030 / 1180 1040 / 1180 1050 / 1180 1060 / 1180 1070 / 1180 1080 / 1180 1090 / 1180 1100 / 1180 1110 / 1180 1120 / 1180 1130 / 1180 1140 / 1180 1150 / 1180 1160 / 1180 1170 / 1180
+done.
+
+Progressive alignment 2/2... 
+STEP   107 / 1179  fSTEP   108 / 1179  fSTEP   109 / 1179  fSTEP   110 / 1179  fSTEP   111 / 1179  fSTEP   112 / 1179  fSTEP   113 / 1179  fSTEP   114 / 1179  fSTEP   115 / 1179  fSTEP   116 / 1179  fSTEP   117 / 1179  fSTEP   123 / 1179  fSTEP   126 / 1179  fSTEP   127 / 1179  fSTEP   128 / 1179  fSTEP   129 / 1179  fSTEP   130 / 1179  fSTEP   136 / 1179  fSTEP   137 / 1179  fSTEP   138 / 1179  fSTEP   141 / 1179  fSTEP   145 / 1179  fSTEP   150 / 1179  fSTEP   151 / 1179  fSTEP   159 / 1179  fSTEP   161 / 1179  fSTEP   164 / 1179  fSTEP   165 / 1179  fSTEP   168 / 1179  fSTEP   174 / 1179  fSTEP   180 / 1179  fSTEP   186 / 1179  fSTEP   193 / 1179  fSTEP   198 / 1179  fSTEP   199 / 1179  fSTEP   202 / 1179  fSTEP   205 / 1179  fSTEP   210 / 1179  fSTEP   211 / 1179  fSTEP   216 / 1179  fSTEP   217 / 1179  fSTEP   224 / 1179  fSTEP   226 / 1179  fSTEP   228 / 1179  fSTEP   229 / 1179  fSTEP   230 / 1179  fSTEP   236 / 1179  fSTEP   246 / 1179  fSTEP   263 / 1179  fSTEP   268 / 1179  fSTEP   269 / 1179  fSTEP   277 / 1179  fSTEP   283 / 1179  fSTEP   285 / 1179  fSTEP   287 / 1179  fSTEP   296 / 1179  fSTEP   297 / 1179  fSTEP   298 / 1179  fSTEP   305 / 1179  fSTEP   306 / 1179  fSTEP   307 / 1179  fSTEP   308 / 1179  fSTEP   309 / 1179  fSTEP   311 / 1179  fSTEP   314 / 1179  fSTEP   315 / 1179  fSTEP   316 / 1179  fSTEP   317 / 1179  fSTEP   318 / 1179  fSTEP   319 / 1179  fSTEP   320 / 1179  fSTEP   321 / 1179  f
+Reallocating..done. *alloclen = 4197
+STEP   322 / 1179  fSTEP   323 / 1179  fSTEP   324 / 1179  fSTEP   325 / 1179  fSTEP   326 / 1179  fSTEP   327 / 1179  fSTEP   328 / 1179  fSTEP   330 / 1179  fSTEP   332 / 1179  fSTEP   333 / 1179  fSTEP   334 / 1179  fSTEP   337 / 1179  fSTEP   338 / 1179  fSTEP   344 / 1179  fSTEP   347 / 1179  fSTEP   348 / 1179  fSTEP   353 / 1179  fSTEP   357 / 1179  fSTEP   358 / 1179  fSTEP   360 / 1179  fSTEP   362 / 1179  fSTEP   363 / 1179  fSTEP   364 / 1179  fSTEP   370 / 1179  fSTEP   374 / 1179  fSTEP   376 / 1179  fSTEP   377 / 1179  fSTEP   379 / 1179  fSTEP   384 / 1179  fSTEP   389 / 1179  fSTEP   392 / 1179  f
+Reallocating..done. *alloclen = 5234
+STEP   397 / 1179  fSTEP   400 / 1179  fSTEP   402 / 1179  fSTEP   404 / 1179  fSTEP   411 / 1179  fSTEP   412 / 1179  fSTEP   421 / 1179  fSTEP   423 / 1179  fSTEP   440 / 1179  fSTEP   444 / 1179  fSTEP   458 / 1179  fSTEP   470 / 1179  fSTEP   482 / 1179  fSTEP   493 / 1179  fSTEP   495 / 1179  fSTEP  1101 / 1179  d
+Reallocating..done. *alloclen = 6680
+
+Reallocating..done. *alloclen = 9529
+
+done.
+
+disttbfast (aa) Version 7.526
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+4 thread(s)
+
+
+To keep the alignment length, 6229 letters were DELETED.
+To know the positions of deleted letters, rerun the same command with the --mapout option.
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
