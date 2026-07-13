@@ -12,8 +12,7 @@ funding, Zenodo DOI) is placeholder pending finalization.*
 ## Significance
 The budding yeast *Saccharomyces cerevisiae* carries two PIF1-family helicases, Pif1 and Rrm3, but when
 the single ancestral gene duplicated to produce the pair has never been pinned down, because the alignable
-helicase core is short and fast-evolving and the amino-acid signal at that depth is not merely weak but
-actively misleading. We show that adding a protein's 3Di structural alphabet to the same alignment moves
+helicase core is short and fast-evolving and the amino-acid signal at that depth is worse than weak: it points the wrong way. We show that adding a protein's 3Di structural alphabet to the same alignment moves
 the duplication from a spurious base-of-Fungi placement onto the Saccharomycotina stem, that maximum-
 likelihood reconciliation confirms it, and that a fossil-calibrated time tree dates it to roughly 326 to
 383 million years ago, long before the *Saccharomyces* whole-genome duplication. It is a concrete case of
@@ -28,9 +27,9 @@ The budding yeast *Saccharomyces cerevisiae* carries two PIF1-family 5′→3′
 with separable roles at telomeres, the rDNA, and stalled replication forks. Exactly when the single
 ancestral fungal PIF1 gene duplicated to produce this pair has stayed unsettled, largely because the part
 of the protein that can be aligned across the family, the helicase core, is short and fast-evolving; at
-the depth where the answer lies the amino-acid signal is not just weak but misleading. We gathered the
-cellular PIF1-family helicases of 728 fungal species (957 proteins; an Ascomycota-wide ingroup with
-Basidiomycota, early-diverging fungi, and human PIF1 as outgroups), inferred a gene tree, and reconciled
+the depth where the answer lies the amino-acid signal does not merely go quiet; it actively misleads. We gathered the
+cellular PIF1-family helicases of 727 fungal species plus human PIF1 (957 proteins; an Ascomycota-wide ingroup with
+Basidiomycota and early-diverging fungi as outgroups), inferred a gene tree, and reconciled
 it against a fungal species tree to locate the duplication. Amino-acid trees place the duplication at the
 base of Fungi, and a topology test shows the sequence data marginally but significantly favor that deep
 placement (AU *p* = 0.033), a preference the branch lengths attribute to long-branch attraction. Adding
@@ -44,11 +43,12 @@ paralogs. The result is a concrete case where structural information recovers a 
 sequence alone gets wrong.
 
 ## Introduction
-The PIF1-family helicases are conserved 5′→3′ DNA helicases that act wherever the replication fork meets
+The PIF1-family helicases are conserved 5′→3′ DNA helicases, found across eukaryotes (Harman and
+Manna 2016), that act wherever the replication fork meets
 trouble. In *Saccharomyces cerevisiae* the family has two members, Pif1 and Rrm3, and they have divided
 the labor: Pif1 maintains the mitochondrial genome, unwinds G-quadruplexes, and negatively regulates
 telomerase, while Rrm3 clears protein barriers ahead of the fork at the rDNA, the tRNA genes, and other
-hard-to-replicate sites (Boulé and Zakian 2006; Bochman, Sabouri, and Zakian 2010). Both descend from a
+hard-to-replicate sites (Boulé and Zakian 2006; Bochman, Sabouri, and Zakian 2010; Malone, Thompson, and Byrd 2022). Both descend from a
 single ancestral fungal PIF1, but where on the fungal tree that ancestor duplicated has not been pinned
 down.
 
@@ -80,29 +80,30 @@ itself.
   (681) + outgroups: Basidiomycota (235), Mucoromycota (36), Chytridiomycota (4), and human PIF1 (1).
 - **Family filter — InterPro IPR048293 ("PIF1_RRM3_pfh1"; Paysan-Lafosse et al. 2023), *not* Pfam PF05970
   (Mistry et al. 2021).** PF05970 is also
-  carried by **Helitron** rolling-circle transposons, inflating fungal counts several-fold (Ascomycota
+  carried by **Helitron** rolling-circle transposons (whose RepHel protein bears a PIF1-family helicase
+  domain; Kapitonov and Jurka 2001; Thomas and Pritham 2015), inflating fungal counts several-fold (Ascomycota
   2,255→681, Basidiomycota 2,393→235, Mucoromycota 742→36, Chytridiomycota 33→4); IPR048293 isolates the
   *cellular* helicases while retaining every anchor. *(Key decision — Fig. S1 / Table S1.)*
 - Anchors: *S. cerevisiae* Pif1 (UniProt **P07271**), Rrm3 (**P38766**); *S. pombe* Pfh1 (**Q9UUA2**),
   human PIF1 (**Q9H611**). Sequences retrieved from UniProt; one representative per gene.
 
 ### Structures
-- **AlphaFold DB** (Varadi et al. 2022) for 828/957 proteins (model version v6); the **129** lacking an
+- **AlphaFold DB** (Varadi et al. 2022, 2024) for 828/957 proteins (model version v6); the **129** lacking an
   AFDB model were folded with **ColabFold** (AlphaFold2; Mirdita et al. 2022; Jumper et al. 2021) to match the predictor (median full-length pLDDT 62.5 vs 64.6 for
   AFDB — predictor-consistent; Fig. S2). 3 very long proteins were folded as their helicase-core region
   only (flagged in `manifest.csv`). Provenance per protein recorded in `manifest.csv`.
 
 ### Core trimming ("corecut")
-- Both sequences and structures trimmed to the conserved PIF1 helicase core (PF05970 HMM envelope) so
+- Both sequences and structures trimmed to the conserved PIF1 helicase core (the PF05970 HMM envelope, via HMMER; Eddy 2011) so
   variable N/C-terminal extensions don't confound the trees. Structures sliced to the **same** residue
   coordinates as the sequence core (so the AA and structural analyses describe identical sites). The core
-  is uniformly high-confidence — median core pLDDT 88 in both predictors — even where the full-length
+  is uniformly high-confidence (median core pLDDT 88 in the AFDB models and 87 in the ColabFold models), even where the full-length
   model is moderate (Fig. S2).
 
 ### Sequence maximum-likelihood gene tree
 - Align cores (MAFFT; Katoh and Standley 2013) → trim (trimAl `-automated1`, **209 columns**;
-  Capella-Gutiérrez et al. 2009) → **IQ-TREE LG+I+G4** (Minh et al. 2020; ModelFinder, Kalyaanamoorthy
-  et al. 2017), 957 taxa, 1000 ultrafast bootstraps (Hoang et al. 2018) + SH-aLRT (`-seed 42`). *(Also LG+C20 via PMSF as a model-adequacy check.)*
+  Capella-Gutiérrez et al. 2009) → **IQ-TREE LG+I+G4** (the LG matrix, Le and Gascuel 2008; IQ-TREE, Minh et al. 2020; ModelFinder, Kalyaanamoorthy
+  et al. 2017), 957 taxa, 1000 ultrafast bootstraps (Hoang et al. 2018) + SH-aLRT (`-seed 12345`). *(Also LG+C20 profile mixtures, Le et al. 2008, via PMSF, Wang et al. 2018, as a model-adequacy check.)*
 
 ### Structural gene tree (FoldTree)
 - **foldseek** (van Kempen et al. 2024) all-vs-all (3Di+AA, exhaustive) → FoldTree `fident` distance with
@@ -122,34 +123,38 @@ itself.
 
 ### Topology test and relative rates
 - Approximately-unbiased (AU) test (Shimodaira 2002; IQ-TREE, 10,000 RELL replicates, LG+I+G4) comparing the AA-optimal
-  tree against a tree constrained only to Saccharomycotina monophyly; Tajima's relative-rate test on the
+  tree against a tree constrained only to Saccharomycotina monophyly; Tajima's relative-rate test (Tajima 1993) on the
   anchor pair and clade-level branch-length comparisons from AA branch lengths re-estimated on the AA+3Di
   topology (`workflow/15_rate_check.py`, `-seed 42`).
 
 ### Species tree
 - **NCBI-taxonomy** backbone for the 728 species (ete3 `NCBITaxa`, Huerta-Cepas et al. 2016; pruned, forced binary; 720 leaves
-  after dropping 8 taxa NCBI doesn't recognize → 941 mapped genes), *and* a **grafted phylogenomic
+  after dropping 8 taxa NCBI doesn't recognize, then one further geneless leaf pruned by GeneRax → 719, so both backbones reconcile 941 genes across 719 species), *and* a **grafted phylogenomic
   backbone** (`workflow/16_graft_species_tree.py`, 719 taxa) that splices the Shen et al. 2018
   time-calibrated Y1000+ budding-yeast topology into the non-Saccharomycotina NCBI backbone. The
   duplication is placed on both (Results R4), so the answer does not depend on NCBI's polytomy resolution.
 
 ### Reconciliation and dating
-- **Species-overlap** reconciliation (ete3) of each gene tree against the species tree, tallying
+- **Species-overlap** reconciliation (the species-overlap algorithm of Huerta-Cepas et al. 2007, in ete3)
+  of each gene tree against the species tree, tallying
   duplications by the clade they map to.
-- **GeneRax 2.0.4** (Morel et al. 2020; `UndatedDL`, EVAL reconciliation) as the gold-standard ML duplication–loss
+- **GeneRax 2.0.4** (Morel et al. 2020; `UndatedDL`, EVAL reconciliation) for ML duplication–loss
   reconciliation, on native x86 (WSL2) — run against the NCBI tree, the grafted phylogenomic tree, and
   three robustness variants of the gene tree (Results R4); gives the duplication branch, the loss pattern,
   and stem-vs-crown. (GeneRax 2.1.3 segfaults at `inferReconciliation` on both Rosetta and native Linux,
   so 2.0.4 is used throughout; EVAL rather than SPR search, which is intractable for a single 941-tip
-  family.)
+  family.) The `UndatedDL` model scores duplications and losses only, and does not model horizontal
+  transfer; transfer is therefore assumed absent rather than tested, which is reasonable for a nuclear,
+  vertically inherited helicase family.
 - **Absolute dating** reads the age off the Shen et al. 2018 fossil-calibrated Y1000+ chronogram rather
   than re-estimating it: the duplication clade's species are matched onto the Shen tips and their MRCA
   bracketed by [crown, stem] ages (`workflow/17_place_on_timetree.py`).
 
 ### Reproducibility
 - All steps scripted (`workflow/01`–`17`) in a version-pinned conda environment; every protein, structure
-  source, and decision logged in `manifest.csv` and the README. Seeds fixed (`-seed 42`) and recorded in
-  the `.iqtree`/`.log` outputs. Repo: github.com/spegray/pif1-foldtree. Key tool versions: MAFFT 7.526,
+  source, and decision logged in `manifest.csv` and the README. Seeds fixed and recorded in each `.iqtree`/`.log` output (`-seed 12345` for the sequence ML tree
+  and the PMSF model-adequacy check; `-seed 42` for the AU tests, branch-length re-estimation, and the
+  AA+3Di partitioned tree). Repo: github.com/spegray/pif1-foldtree. Key tool versions: MAFFT 7.526,
   trimAl 1.5.1, HMMER 3.4, IQ-TREE 3.1.2, foldseek 10, FastME 2.1.6.3, GeneRax 2.0.4 (run in a separate
   native-x86/WSL2 environment), ColabFold/AF2.
 
@@ -189,7 +194,8 @@ not interpretable, so we set it aside.
 
 ### R3 — Adding the 3Di structural signal overrides the sequence preference and resolves Saccharomycotina *(headline)*
 Folding the 3Di structural alphabet into the same alignment moves the node. In the AA+3Di tree the
-ScPif1/ScRrm3 ancestor collapses to Saccharomycotina, a clade of 197 genes across 103 species that takes
+ScPif1/ScRrm3 ancestor collapses to Saccharomycotina, a clade of 197 genes across 103 species (of the 105
+sampled Saccharomycotina) that takes
 in essentially every budding yeast we sampled and excludes the non-Saccharomycotina fungi (Fig. 3A, right
 panel). Adding structure to an otherwise-identical alignment overrides the significant-but-weak amino-acid
 preference and pulls the duplication from kingdom-level down to a single subphylum, the resolution the
@@ -197,7 +203,8 @@ FoldTree approach was built to provide.
 
 ### R4 — Maximum-likelihood reconciliation places the duplication on the Saccharomycotina ancestor
 Reconciling the AA+3Di gene tree against the species tree with GeneRax (UndatedDL) maps the PIF1/RRM3
-duplication to node_448, the common ancestor of all 104 sampled Saccharomycotina, confirming the
+duplication to node_448, the common ancestor of the Saccharomycotina clade (104 of the 105 sampled
+species; one, *Wickerhamomyces ciferrii*, is absent from the species tree), confirming the
 species-overlap result by an independent and error-tolerant method (Fig. 4); the literal recPhyloXML
 reconciliation, rendered on its own, agrees (Fig. S3). The placement survives the tree's own uncertainty.
 Although the duplication node is weak under bootstrap resampling (UFBoot 29, SH-aLRT 98) and its Rrm3
@@ -244,9 +251,12 @@ million years; the tree root, the budding-yeast common ancestor, sits at 404 (Fi
 occupies that stem branch, which puts it at roughly 326 to 383 million years ago, in the Devonian and
 Carboniferous, just crown-ward of the budding-yeast common ancestor. The earliest-diverging budding yeasts
 fall outside the clade, consistent with their single-copy state, and the direct read off the calibrated
-tree refines the borrowed "~400 Mya" estimate. The split is three to four times older than the
-*Saccharomyces* whole-genome duplication (about 100 million years, a crown-Saccharomycetaceae event), and
-that ordering fits the biology: Rrm3 is present across the budding yeasts, including pre-whole-genome-
+tree refines the borrowed "~400 Mya" estimate. These are point ages read straight off the Shen et al. (2018) chronogram; they inherit that
+tree's node-age credibility intervals, which we do not re-propagate here, and the 326-to-383 range is a
+crown-versus-stem placement bracket rather than a statistical confidence interval. The split is three to
+four times older than the
+*Saccharomyces* whole-genome duplication (about 100 million years, a crown-Saccharomycetaceae event;
+Wolfe and Shields 1997; Marcet-Houben and Gabaldón 2015), and that ordering fits the biology: Rrm3 is present across the budding yeasts, including pre-whole-genome-
 duplication lineages such as *Kluyveromyces* and *Lachancea*, exactly as a Saccharomycotina-ancestral
 origin predicts.
 
@@ -291,7 +301,7 @@ origin predicts.
    *(headline)*
 4. **Reconciliation** (`fig4_reconciliation.svg`) — 719-taxon grafted phylogenomic tree (GeneRax
    UndatedDL); coral node area = per-node duplications; the Saccharomycotina ancestor (node_448, D = 43)
-   and the independent Agaricomycotina ancestor (node_578, D = 23); D < 5 faded; tips colored by copy
+   and the independent Agaricomycetes ancestor (node_578, D = 23); D < 5 faded; tips colored by copy
    state (recurrent single-paralog loss).
 5. **Absolute date** (`fig5_timetree.svg`) — duplication placed on the Shen 2018 fossil-calibrated
    chronogram (332 genomes); MRCA subtends 317/332 budding-yeast tips; crown 326 / stem 383 / root 404 Mya
@@ -301,8 +311,8 @@ origin predicts.
 - **S1** (`figS1_family_filter.svg`) — family filter, PF05970 vs IPR048293 counts per phylum (Ascomycota
   2,255→681, Basidiomycota 2,393→235, Mucoromycota 742→36, Chytridiomycota 33→4).
 - **S2** (`figS2_plddt.svg`) — pLDDT for full-length vs helicase-core models by predictor; AFDB and
-  ColabFold agree (full-length ~63, core ~88).
-- **S3** (`figS3_reconciliation_thirdkind.svg`) — the literal recPhyloXML reconciliation (thirdkind), a
+  ColabFold agree (full-length ~63, core ~87–88; AFDB 88, ColabFold 87).
+- **S3** (`figS3_reconciliation_thirdkind.svg`) — the literal recPhyloXML reconciliation (thirdkind; Penel et al. 2022), a
   raw cross-check of Fig. 4.
 - **S4** (`figS4_duplication_counts.svg`) — per-node duplication counts ranked; the two interpreted events
   (D = 43, 23) tower over the D ≤ 16 noise tail.
@@ -319,7 +329,7 @@ distant outgroups. What moved the node was information of a different kind. The 
 carried more resolving power than the amino-acid core over the same sites (194 versus 180
 parsimony-informative positions), and folding that signal into the tree pulled the Pif1/Rrm3 ancestor from
 the base of Fungi down onto the Saccharomycotina stem. Because the 3Di characters are read off the
-predicted structure, they are not an independent second dataset so much as the fold-level constraint that
+predicted structure, they carry fold-level constraint that
 outlasts the sequence once it has saturated (Moi et al. 2025); the comparison is fair because both
 partitions describe the same trimmed sites.
 
@@ -338,11 +348,16 @@ sequence (*Schizosaccharomyces pombe* Pfh1 among them), and the Rrm3 clade carri
 faster-evolving, more-derived role. The reading rests on raw sequence distance and on a bootstrap-weak
 Rrm3 clade, so we hold it as an asymmetry worth naming rather than a settled fact; whether it tracks the
 functional specialization of the two helicases is a question this tree cannot answer, but it is a natural
-one to ask next.
+one to ask next. Gene conversion between the two paralogs could in principle homogenize them, but the
+reciprocally monophyletic Pif1 and Rrm3 clades we recover are the opposite of that signature, and the
+single-copy outgroup PIF1s that carry the asymmetry have no paralog to convert with, so we do not read
+concerted evolution as driving the pattern.
 
 Copy number is a poor guide to history. Many mushrooms (Agaricomycetes) also carry two PIF1-family genes,
 and on counts alone that resembles the budding-yeast situation; the gene tree shows it is a separate,
-later duplication. Convergent gene duplication of this kind is easy to mistake for shared ancestry, and
+later duplication. Convergent gene duplication of this kind is easy to mistake for shared ancestry, part of the wider
+pattern of gene-family expansion, loss, and specialization that shapes Saccharomycotina genome evolution
+(David et al. 2025; Opulente et al. 2024; Hérivaux et al. 2018; Crandall et al. 2024), and
 telling the two apart is precisely what a reconciliation, rather than a tally, is built to do.
 
 Two caveats temper the confidence and mark the work's edges. First, the duplication node is well supported
@@ -381,8 +396,12 @@ Hérivaux A, Lavín J, Dugé de Bernonville T, Vandeputte P, Bouchara JP, Gasteb
 Progressive loss of hybrid histidine kinase genes during the evolution of budding yeasts (Saccharomycotina).
 *Curr Genet* 64(4):841–851. https://doi.org/10.1007/s00294-017-0797-1
 
+Kapitonov VV, Jurka J. 2001. Rolling-circle transposons in eukaryotes. *Proc Natl Acad Sci U S A* 98(15):8714–8719. https://doi.org/10.1073/pnas.151269298
+
 Malone EG, Thompson MD, Byrd AK. 2022. Role and regulation of Pif1 family helicases at the replication
 fork. *Int J Mol Sci* 23(7):3736. https://doi.org/10.3390/ijms23073736
+
+Marcet-Houben M, Gabaldón T. 2015. Beyond the whole-genome duplication: phylogenetic evidence for an ancient interspecies hybridization in the baker's yeast lineage. *PLoS Biol* 13(8):e1002220. https://doi.org/10.1371/journal.pbio.1002220
 
 Mistry J, Chuguransky S, Williams L, Qureshi M, Salazar GA, Sonnhammer ELL, et al. 2021. Pfam: the protein
 families database in 2021. *Nucleic Acids Res* 49(D1):D412–D419. https://doi.org/10.1093/nar/gkaa913
@@ -401,19 +420,23 @@ Paysan-Lafosse T, Blum M, Chuguransky S, Grego T, Lázaro Pinto B, Salazar GA, e
 Shen XX, Opulente DA, Kominek J, Zhou X, Steenwyk JL, Buh KV, et al. 2018. Tempo and mode of genome
 evolution in the budding yeast subphylum. *Cell* 175(6):1533–1545.e20. https://doi.org/10.1016/j.cell.2018.10.023
 
+Thomas J, Pritham EJ. 2015. Helitrons, the eukaryotic rolling-circle transposable elements. *Microbiol Spectr* 3(4):MDNA3-0049-2014. https://doi.org/10.1128/microbiolspec.MDNA3-0049-2014
+
+Wolfe KH, Shields DC. 1997. Molecular evidence for an ancient duplication of the entire yeast genome. *Nature* 387(6634):708–713. https://doi.org/10.1038/42711
+
 ## Software and methods
 Capella-Gutiérrez S, Silla-Martínez JM, Gabaldón T. 2009. trimAl: a tool for automated alignment trimming
 in large-scale phylogenetic analyses. *Bioinformatics* 25(15):1972–1973. https://doi.org/10.1093/bioinformatics/btp348
 
+Eddy SR. 2011. Accelerated profile HMM searches. *PLoS Comput Biol* 7(10):e1002195. https://doi.org/10.1371/journal.pcbi.1002195
+
 Gearty W. 2025. deeptime: an R package that facilitates highly customizable and reproducible visualizations
 of data over geological time intervals. *Big Earth Data* 10(1):1–17. https://doi.org/10.1080/20964471.2025.2537516
 
-Guindon S, Dufayard JF, Lefort V, Anisimova M, Hordijk W, Gascuel O. 2010. New algorithms and methods to
-estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. *Syst Biol* 59(3):307–321.
-https://doi.org/10.1093/sysbio/syq010
-
 Hoang DT, Chernomor O, von Haeseler A, Minh BQ, Vinh LS. 2018. UFBoot2: improving the ultrafast bootstrap
 approximation. *Mol Biol Evol* 35(2):518–522. https://doi.org/10.1093/molbev/msx281
+
+Huerta-Cepas J, Dopazo H, Dopazo J, Gabaldón T. 2007. The human phylome. *Genome Biol* 8(6):R109. https://doi.org/10.1186/gb-2007-8-6-r109
 
 Huerta-Cepas J, Serra F, Bork P. 2016. ETE 3: reconstruction, analysis, and visualization of phylogenomic
 data. *Mol Biol Evol* 33(6):1635–1638. https://doi.org/10.1093/molbev/msw046
@@ -426,6 +449,10 @@ for accurate phylogenetic estimates. *Nat Methods* 14(6):587–589. https://doi.
 
 Katoh K, Standley DM. 2013. MAFFT multiple sequence alignment software version 7: improvements in
 performance and usability. *Mol Biol Evol* 30(4):772–780. https://doi.org/10.1093/molbev/mst010
+
+Le SQ, Gascuel O. 2008. An improved general amino acid replacement matrix. *Mol Biol Evol* 25(7):1307–1320. https://doi.org/10.1093/molbev/msn067
+
+Le SQ, Gascuel O, Lartillot N. 2008. Empirical profile mixture models for phylogenetic reconstruction. *Bioinformatics* 24(20):2317–2323. https://doi.org/10.1093/bioinformatics/btn445
 
 Lefort V, Desper R, Gascuel O. 2015. FastME 2.0: a comprehensive, accurate, and fast distance-based
 phylogeny inference program. *Mol Biol Evol* 32(10):2798–2800. https://doi.org/10.1093/molbev/msv150
@@ -454,6 +481,8 @@ senior author). *bioRxiv*. https://doi.org/10.1101/2023.12.12.571181
 Shimodaira H. 2002. An approximately unbiased test of phylogenetic tree selection. *Syst Biol* 51(3):492–508.
 https://doi.org/10.1080/10635150290069913
 
+Tajima F. 1993. Simple methods for testing the molecular evolutionary clock hypothesis. *Genetics* 135(2):599–607. https://doi.org/10.1093/genetics/135.2.599
+
 van Kempen M, Kim SS, Tumescheit C, Mirdita M, Lee J, Gilchrist CLM, et al. 2024. Fast and accurate
 protein structure search with Foldseek. *Nat Biotechnol* 42(2):243–246. https://doi.org/10.1038/s41587-023-01773-0
 
@@ -464,6 +493,8 @@ Database: massively expanding the structural coverage of protein-sequence space 
 Varadi M, Bertoni D, Magana P, Paramval U, Pidruchna I, Radhakrishnan M, et al. 2024. AlphaFold Protein
 Structure Database in 2024: providing structure coverage for over 214 million protein sequences.
 *Nucleic Acids Res* 52(D1):D368–D375. https://doi.org/10.1093/nar/gkad1011
+
+Wang HC, Minh BQ, Susko E, Roger AJ. 2018. Modeling site heterogeneity with posterior mean site frequency profiles accelerates accurate phylogenomic estimation. *Syst Biol* 67(2):216–235. https://doi.org/10.1093/sysbio/syx068
 
 Yu G, Smith DK, Zhu H, Guan Y, Lam TTY. 2017. ggtree: an R package for visualization and annotation of
 phylogenetic trees with their covariates and other associated data. *Methods Ecol Evol* 8(1):28–36.

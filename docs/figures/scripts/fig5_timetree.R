@@ -51,7 +51,7 @@ p <- revts(ggtree(tt, linewidth = 0.12, colour = "grey55")) +
   geom_vline(xintercept = -100, linetype = "dashed", colour = "grey45", linewidth = 0.3) +
   geom_point2(aes(subset = (node == DUP)), colour = coral, size = 2.6) +
   annotate("text", x = -(stem + crown) / 2, y = NT * 0.60,
-           label = "PIF1/RRM3\nduplication\n~330-383 Mya", colour = coral, fontface = "bold",
+           label = "PIF1/RRM3\nduplication\n~326-383 Mya", colour = coral, fontface = "bold",
            size = 2.5, lineheight = 0.95) +
   annotate("text", x = -100, y = NT * 0.5, label = "whole-genome duplication (~100 Mya)",
            colour = "grey35", size = 2.1, angle = 90, hjust = 0.5, vjust = -0.5) +
