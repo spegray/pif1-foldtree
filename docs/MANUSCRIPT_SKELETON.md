@@ -192,6 +192,18 @@ the anchor pair is non-significant, but with two sequences and 209 columns it is
 confounded whole-tree comparison (ΔlnL ≈ 1891) mixes global tree differences with the node question and is
 not interpretable, so we set it aside.
 
+A direct test confirms the diagnosis. If the deep placement is long-branch attraction, deleting the long
+branches should dissolve it; so we dropped the most distant outgroups, human PIF1 together with the
+early-diverging fungi (Mucoromycota and Chytridiomycota), kept the nearer Basidiomycota to root, and
+re-inferred the amino-acid tree under the same LG+I+G4 model and seed (`workflow/18`). It dissolves. With
+the long outgroup branches gone, the ScPif1/ScRrm3 ancestor drops from the base of Fungi (950 tips) onto a
+clade of 198 tips, 197 of them Saccharomycotina, essentially the same clade the AA+3Di tree recovers from
+the full sample (Table S2). The amino acids place the duplication on the Saccharomycotina stem on their own
+once the long-branch trap is removed, so the base-of-Fungi signal the AU test prefers is an artifact of the
+distant outgroups rather than a real deep split. The node stays weakly supported (UFBoot 39, and SH-aLRT
+near zero), as a deep node resting on saturated sequence must; it is the placement that moves, not its
+bootstrap, and firming up that residual uncertainty is what the structural signal does next (R3).
+
 ### R3 — Adding the 3Di structural signal overrides the sequence preference and resolves Saccharomycotina *(headline)*
 Folding the 3Di structural alphabet into the same alignment moves the node. In the AA+3Di tree the
 ScPif1/ScRrm3 ancestor collapses to Saccharomycotina, a clade of 197 genes across 103 species (of the 105
@@ -283,6 +295,19 @@ origin predicts.
 | Mucoromycota | 742 | 36 |
 | Chytridiomycota | 33 | 4 |
 
+**Table S2 — Outgroup-removal control for long-branch attraction** *(the R2b direct test).* Most recent
+common ancestor of the ScPif1 and ScRrm3 anchors under three trees; deleting the long-branch outgroups
+recovers the Saccharomycotina clade from amino acids alone.
+
+| Tree | tips | ScPif1/ScRrm3 MRCA | composition |
+|---|---|---|---|
+| Amino acids, full sample (R2) | 957 | 950 tips | base of Fungi |
+| Amino acids, long outgroups removed | 916 | 198 tips | 197 Saccharomycotina + 1 (99.5%) |
+| Amino acids + 3Di, full sample (R3) | 957 | 197 tips | Saccharomycotina |
+
+*Long outgroups removed = human PIF1, Mucoromycota, and Chytridiomycota dropped, Basidiomycota retained to
+root; same model and seed as the main analysis (LG+I+G4, `-seed 12345`; `workflow/18_lba_outgroup_removal.py`).*
+
 ---
 
 ## Figures
@@ -325,7 +350,9 @@ quiet, it pointed the wrong way. A topology test shows the sequence data signifi
 base-of-Fungi placement (AU *p* = 0.033), and better modeling did not rescue it (a profile-mixture model
 fit on the same 209 columns left the node exactly where the plain model did). The branch lengths explain
 the preference as long-branch attraction, with the fast-evolving budding-yeast copies drawn toward the
-distant outgroups. What moved the node was information of a different kind. The 3Di structural alphabet
+distant outgroups. Removing those outgroups confirms it directly: with the most distant branches deleted,
+the amino-acid tree recovers the Saccharomycotina duplication clade on its own (R2b; Table S2). What moved
+the node without discarding any taxa was information of a different kind. The 3Di structural alphabet
 carried more resolving power than the amino-acid core over the same sites (194 versus 180
 parsimony-informative positions), and folding that signal into the tree pulled the Pif1/Rrm3 ancestor from
 the base of Fungi down onto the Saccharomycotina stem. Because the 3Di characters are read off the
