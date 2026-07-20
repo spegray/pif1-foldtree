@@ -39,8 +39,10 @@ fossil-calibrated time tree, the split dates to roughly 326 to 383 Mya (Devonian
 crown-ward of the budding-yeast common ancestor and well before the *Saccharomyces* whole-genome
 duplication. We further find that the recurrent two-copy state among mushrooms is an independent
 duplication rather than shared ancestry with the yeast pair, and read Rrm3 as the more-derived of the two
-paralogs. The result is a concrete case where structural information recovers a deep relationship that
-sequence alone gets wrong.
+paralogs. Finally, reconstructing the pre-duplication ancestor shows that the single Saccharomycotina PIF1
+that duplicated already carried the G4-engaging basic wedge, with a predicted structure placing that wedge
+on the quadruplex, so the motif predates the split. The result is a concrete case where structural
+information recovers a deep relationship that sequence alone gets wrong.
 
 ## Introduction
 The PIF1-family helicases are conserved 5′→3′ DNA helicases, found across eukaryotes (Harman and
@@ -66,10 +68,12 @@ which made it a good candidate for a structure-aware approach.
 Here we sample the cellular PIF1-family helicases across the fungi (957 proteins from 728 species, with
 human and early-diverging-fungal outgroups), build the gene tree three ways (from sequence, from
 structure, and from the two combined), and reconcile it against a fungal species tree to read off the
-branch on which the duplication occurred (Fig. 1). Sequence alone leaves the node at the base of Fungi;
+branch on which the duplication occurred, then reconstruct the ancestral gene that produced the pair
+(Fig. 1). Sequence alone leaves the node at the base of Fungi;
 adding structure pulls it onto the Saccharomycotina stem, a single, datable branch. The duplication that
 produced Pif1 and Rrm3 is a Saccharomycotina innovation, roughly as old as the budding-yeast lineage
-itself.
+itself, and the ancestral gene that duplicated already carried the G4-engaging basic wedge that both
+paralogs kept.
 
 ---
 
