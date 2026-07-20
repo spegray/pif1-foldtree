@@ -87,3 +87,5 @@ results/reconciliation/**/*_reconciliated.xml
 !results/reconciliation/aa3di_grafted/run/reconciliations/pif1_reconciliated.xml
 # IQ-TREE ancestral-state posteriors (large; regenerate with workflow/19)
 *.state
+# AF3 fold outputs for the ancestor (bulky; kept out-of-repo like the modern structures -- scores tracked)
+results/asr/af3/folds/

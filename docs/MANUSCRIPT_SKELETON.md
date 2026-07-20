@@ -150,6 +150,17 @@ itself.
   than re-estimating it: the duplication clade's species are matched onto the Shen tips and their MRCA
   bracketed by [crown, stem] ages (`workflow/17_place_on_timetree.py`).
 
+### Ancestral reconstruction and folding
+- Marginal (empirical-Bayes) ancestral-sequence reconstruction with IQ-TREE (`-asr`;
+  `workflow/19_asr_ancestor.py`), the AA+3Di topology held fixed and branch lengths plus LG+I+G4
+  parameters re-optimized; the reconstructed node is the MRCA of ScPif1 and ScRrm3 (the 197-species
+  Saccharomycotina clade), giving the single pre-duplication PIF1 core. Per-site posteriors and the
+  wedge-column mapping in `results/asr/` (`extract_ancestor.R`).
+- The reconstructed core (206 aa, after dropping three columns gapped across the clade) was folded with
+  **AlphaFold3** (alphafoldserver.com), alone and on the same parallel-G4 substrate with ATP and two K⁺
+  used for the extant family; G4 formation and the wedge-to-5′-tetrad distance were scored exactly as for
+  the modern models (`results/asr/score_ancestor_fold.py`).
+
 ### Reproducibility
 - All steps scripted (`workflow/01`–`17`) in a version-pinned conda environment; every protein, structure
   source, and decision logged in `manifest.csv` and the README. Seeds fixed and recorded in each `.iqtree`/`.log` output (`-seed 12345` for the sequence ML tree
@@ -272,6 +283,26 @@ Wolfe and Shields 1997; Marcet-Houben and Gabaldón 2015), and that ordering fit
 duplication lineages such as *Kluyveromyces* and *Lachancea*, exactly as a Saccharomycotina-ancestral
 origin predicts.
 
+### R7 — The pre-duplication ancestor is reconstructable, and it already carries the G4-engaging wedge
+Having placed and dated the duplication, we can ask what the gene that duplicated looked like. Marginal
+ancestral-sequence reconstruction on the AA+3Di tree, with the topology held fixed, recovers the helicase
+core of the single pre-duplication PIF1 at the base of the Saccharomycotina clade, the node whose two
+daughters are the Pif1 and Rrm3 lineages. The reconstruction is well-resolved: across the 209-column core
+the mean per-site posterior is 0.94, with 89 per cent of sites at or above 0.8, because the node sits above
+197 densely-sampled descendants rather than at the saturated depth that defeats the sequence tree. Only the
+accessory N- and C-terminal domains, trimmed away because they cannot be aligned family-wide, are beyond
+reach; the core, which carries the catalytic and DNA-engaging machinery, comes back cleanly.
+
+That ancestral core already carries the G4-engaging wedge. The residue that in *S. cerevisiae* Pif1 is the
+Arg324 wedge reconstructs as arginine with posterior 0.96, so the basic wedge predates the Pif1/Rrm3 split
+rather than arising in the Pif1 lineage after it. Folding the reconstructed core with AlphaFold3, on the
+same parallel-G4 substrate used for the extant family, bears this out in three dimensions: the quadruplex
+forms in all five models, and the ancestral wedge reaches the 5′ G-tetrad at a median of 5.6 Å (best model
+4.0 Å), indistinguishable from the modern PIF1 aggregate (median 5.5 Å); without the substrate the wedge
+still folds as a confident, ordered residue (pLDDT 96). The gene that duplicated on the Saccharomycotina
+stem was, on this evidence, already a G4-engaging PIF1 helicase with the wedge in place, a capability both
+Pif1 and Rrm3 inherited (Table S3; the wedge's conservation across the extant family is treated separately).
+
 ---
 
 ## Tables
@@ -307,6 +338,21 @@ recovers the Saccharomycotina clade from amino acids alone.
 
 *Long outgroups removed = human PIF1, Mucoromycota, and Chytridiomycota dropped, Basidiomycota retained to
 root; same model and seed as the main analysis (LG+I+G4, `-seed 12345`; `workflow/18_lba_outgroup_removal.py`).*
+
+**Table S3 — Ancestral-core fold on the G4 substrate** *(the R7 structural test; AlphaFold3, five models).*
+The reconstructed pre-duplication wedge (core position 89, Arg) engages the 5′ G-tetrad as the modern PIF1s do.
+
+| model | G4 formed | wedge→5′-tetrad (Å) | ipTM |
+|---|---|---|---|
+| 0 | yes | 5.57 | 0.78 |
+| 1 | yes | 6.82 | 0.77 |
+| 2 | yes | 4.52 | 0.77 |
+| 3 | yes | 4.04 | 0.76 |
+| 4 | yes | 10.02 | 0.72 |
+| **all / median** | **5/5** | **5.57** | **0.77** |
+
+*Apo (no substrate): the wedge folds as an ordered Arg in all five models (pLDDT 96). Modern PIF1 aggregate
+for comparison (companion analysis): G4 folded in 94%, wedge→5′-tetrad median 5.5 Å.*
 
 ---
 

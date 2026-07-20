@@ -50,6 +50,19 @@ but places the quadruplex ~10 Å off its crystallographic pose).
 fold less reliably without the rest of the protein — compare the core/wedge region, not global pose.
 (ii) For a pose-robust read on wedge engagement, bump `modelSeeds` to `[1,2,3,4,5]` before submitting.
 
+## Fold result — the wedge engages (AlphaFold3; `results/asr/score_ancestor_fold.py`)
+
+Scored with the same metric as the 956 modern models (`workflow/22`):
+
+- **+G4:** the quadruplex forms in **5/5 models**; the ancestral wedge (R89) reaches the 5′ G-tetrad at
+  **median 5.57 Å (best 4.04 Å; per-model 5.57/6.82/4.52/4.04/10.02), ipTM 0.72–0.78** —
+  indistinguishable from the modern PIF1 aggregate (median 5.5 Å, G4 folded 94%). Scores in
+  `results/asr/ancestor_fold_scores.tsv`.
+- **Apo (−G4):** the wedge folds as an ordered Arg in all five models (pLDDT 96, pTM 0.88).
+
+So the reconstructed pre-duplication ancestor was already a G4-engaging PIF1 with the wedge in place; the
+capability predates the Pif1/Rrm3 split. Written up as Results **R7** + **Table S3**.
+
 ## For the manuscript
 
 - A clean, self-contained result: the ancestral core reconstructs at high confidence and **already carries
