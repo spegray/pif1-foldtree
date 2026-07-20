@@ -1,0 +1,48 @@
+[
+  {
+    "name": "ancestor_dupnode_G4",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLSEEQQHVLDMVVQGKSIFFTGSAGTGKSVLLREIIKRLRKKYGPDSVAVTASTGLAACNIGGTTLHSFAGIGLGNESVEQLVKKIRRNKKSRQRWRNTKVLIIDEISMIDGELFDKLDQIARKIRKNDKPFGGIQLVITGDFFQLPPVSKDNNQPAKFCFESESWKECIKHTIVLTQVFRQKDNEFIDMLNEMRLGKLSPETEQ",
+          "count": 1
+        }
+      },
+      {
+        "dnaSequence": {
+          "sequence": "TTTTTTTTGGTGGTGGTTGTTGTGGTGGTGGTGGT",
+          "count": 1
+        }
+      },
+      {
+        "ligand": {
+          "ligand": "CCD_ATP",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "K",
+          "count": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "ancestor_dupnode_apo",
+    "modelSeeds": [
+      1
+    ],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "TLSEEQQHVLDMVVQGKSIFFTGSAGTGKSVLLREIIKRLRKKYGPDSVAVTASTGLAACNIGGTTLHSFAGIGLGNESVEQLVKKIRRNKKSRQRWRNTKVLIIDEISMIDGELFDKLDQIARKIRKNDKPFGGIQLVITGDFFQLPPVSKDNNQPAKFCFESESWKECIKHTIVLTQVFRQKDNEFIDMLNEMRLGKLSPETEQ",
+          "count": 1
+        }
+      }
+    ]
+  }
+]
