@@ -4,8 +4,7 @@
 split from a single ancestral gene? Concretely: on which branch of the fungal species tree
 did the duplication producing the PIF1 and RRM3 lineages occur, and ~how long ago?
 
-This repo is a documented, re-runnable pipeline answering that question. It is the running
-lab notebook: every command, version, and decision is recorded here and in `manifest.csv`.
+This repo is a documented, re-runnable pipeline answering that question.
 
 ---
 
