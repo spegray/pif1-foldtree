@@ -1,6 +1,0 @@
-accession,gene,organism,taxid,subphylum,class,order,family,genus,length,reviewed,structure_source,afdb_version,mean_plddt,is_reference_proteome,structure_path,paralog_label
-P46063,RECQL,Homo sapiens (Human),9606,Craniata,Mammalia,Primates,Hominidae,Homo,649,reviewed,AFDB,6,86.12,True,data/recq/structures/AF-P46063-F1-model_v6.pdb,
-Q14191,WRN,Homo sapiens (Human),9606,Craniata,Mammalia,Primates,Hominidae,Homo,1432,reviewed,AFDB,6,68.62,True,data/recq/structures/AF-Q14191-F1-model_v6.pdb,
-P54132,BLM,Homo sapiens (Human),9606,Craniata,Mammalia,Primates,Hominidae,Homo,1417,reviewed,AFDB,6,60.53,True,data/recq/structures/AF-P54132-F1-model_v6.pdb,
-P35187,SGS1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),559292,Saccharomycotina,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,1447,reviewed,AFDB,6,59.91,True,data/recq/structures/AF-P35187-F1-model_v6.pdb,
-P15043,recQ,Escherichia coli (strain K12),83333,,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,609,reviewed,AFDB,6,88.31,True,data/recq/structures/AF-P15043-F1-model_v6.pdb,
