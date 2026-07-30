@@ -3,7 +3,7 @@
 **Question:** does adding 238 new PIF1-family structures (unique-organisms expansion, folded on the WSL
 box) change the Saccharomycotina duplication placement?
 
-**Input:** `/Users/spencergray/Downloads/pif1_structures_export` — 367 ColabFold PDBs = 129 gap_129 (already
+**Input:** 367 ColabFold PDBs = 129 gap_129 (already
 in our 957) + **238 expansion** (genuinely new; 0 overlap with the 957 manifest). Their UniProt entries are
 now obsolete (empty organism/taxid), so sequences were extracted from the PDBs. Filtered to **223** (dropped
 14 short <150-aa partial models + 1 giant 1929 aa).
