@@ -9,23 +9,6 @@ lab notebook: every command, version, and decision is recorded here and in `mani
 
 ---
 
-## The approach in one paragraph
-
-A gene-duplication date is a **reconciliation** result, not a "look at the tree" result.
-We build one **gene tree** of all *cellular* PIF1-family proteins across an even, fungi-wide
-taxon sample (Ascomycota ingroup + Basidiomycota / early-diverging-fungi / human outgroups),
-then **reconcile** it against a trusted fungal **species tree** (GeneRax / NOTUNG):
-reconciliation maps the duplication node onto a specific species-tree branch — *that branch is
-the answer*. A **sequence-based maximum-likelihood tree is the workhorse** (the PIF1/RRM3 split
-is recent and high-identity, the regime where sequence ML matches or beats structure — see the
-FoldTree paper, Moi et al. *Nat Struct Mol Biol* 2025, doi:10.1038/s41594-025-01649-8, Fig. 2d
-& Discussion). A **structural (FoldTree) tree is the confirmatory layer**, valuable for the deep
-PIF1-family backbone and rooting. Structures come from the **AlphaFold Database** (no mass AF3).
-
-See the full plan: `~/.claude/plans/users-spencergray-desktop-s41594-025-01-lexical-snowglobe.md`.
-
----
-
 ## The single most important methods decision: IPR048293, not PF05970
 
 The PIF1 helicase Pfam domain **PF05970** is carried by *two unrelated things*: (1) the cellular
@@ -84,15 +67,15 @@ sampling.) This is a hypothesis the pipeline tests, not a conclusion.
 
 ```
 pif1-foldtree/
-  README.md            # this file — the lab notebook
+  README.md            # this file
   environment.yml      # conda env (Stages 3-6); data scripts need no env
   manifest.csv         # ONE row per protein: id, taxonomy, structure provenance, paralog label
   workflow/
-    01_gather_homologs.py        # UniProt -> cellular PIF1 (--interpro IPR048293) per taxon  [DONE]
-    02_combine_cellular.py       # combine per-taxon cellular tables -> selected.tsv          [DONE]
+    01_gather_homologs.py        # UniProt -> cellular PIF1 (--interpro IPR048293) per taxon  
+    02_combine_cellular.py       # combine per-taxon cellular tables -> selected.tsv          
     02_select_representatives.py # (older) stratified subsample; unused now the set is small
-    03_fetch_structures.py       # AFDB prediction API -> structures + manifest               [running]
-    04_fetch_fasta.py            # UniProt -> selected.faa (sequences for alignment)          [DONE]
+    03_fetch_structures.py       # AFDB prediction API -> structures + manifest              
+    04_fetch_fasta.py            # UniProt -> selected.faa (sequences for alignment)        
   data/
     seqs/
       cellular/    per-taxon IPR048293 tables (ascomycota.tsv, basidiomycota.tsv, ...)
@@ -104,25 +87,6 @@ pif1-foldtree/
   results/
     seq_tree/ struct_tree/ reconciliation/ dating/ figures/
 ```
-
----
-
-## Status
-
-- [x] **Filter decided** — InterPro **IPR048293** (cellular PIF1), replacing PF05970 (Helitron-contaminated).
-- [x] **Stage 1 — gather** (`01 --interpro IPR048293`) → `data/seqs/cellular/*.tsv`.
-- [x] **Outgroups added** — comprehensive: all Basidiomycota + Mucoromycota + Chytridiomycota cellular PIF1 + human PIF1 (Q9H611).
-- [x] **Stage 0/1 — combine** (`02_combine_cellular`): **957 proteins** → `data/seqs/selected.tsv` (tagged ingroup/outgroup; keep-all).
-- [x] **Stage 1b — sequences** (`04`): 957 → `data/seqs/selected.faa`.
-- [x] **Stage 2 — structures** (`03`): **828/957 from AFDB** (median pLDDT 64.6); **129 lack an AFDB model** (extracted to `data/structures/af3/to_predict_129.faa`).
-- [ ] **Stage 2b — fold the 129 gaps**: **localcolabfold on the home RTX 4090 via WSL2** (AF2, to match AFDB; lean `--num-models 1 --num-recycle 3`, no Amber; ~3–6 h). 115 ≤1500 aa fold fine; 14 >1500 aa (two ~2.7 kb *Candidozyma*) may OOM at 24 GB → `--max-msa 512:1024` or core-only. Steps in `data/structures/af3/HOWTO_predict_129.md`; integrate with `workflow/06_integrate_predictions.py` → manifest.
-- [x] **Conda env** (`pif1`, osx-64/Rosetta): built; `env.lock.txt` written. IQ-TREE binary is `iqtree` (v3.1.2), not `iqtree2`.
-- [x] **Stage 3 — corecut** (`05`): all 957 trimmed to the PF05970 helicase core → `data/seqs/cores.faa` + `data/seqs/tip_map.tsv` (tree-safe labels + taxids).
-- [~] **Stage 4a — sequence ML tree**: MAFFT FFT-NS-i + trimAl → 209-col alignment (`results/seq_tree/aln.trim.fasta`); **IQ-TREE running** (`-m MFP -B 1000 -alrt 1000`, 957 taxa).
-- [ ] **Stage 4b** — FoldTree structural tree (Colab).
-- [ ] **Stage 5** — prune a published fungal species tree to our taxa.
-- [ ] **Stage 6** — reconcile → the duplication branch. **(the answer)**
-- [ ] **Stage 7** — absolute dating: bracket from a published clock **+** our own relaxed clock.
 
 ---
 
@@ -170,7 +134,7 @@ architecture differences don't confound either tree (the paper's "corecut", Fig.
 - Structures: slice each `.cif` to the matching residues (Biopython) → `data/structures/cores/`.
 - Or run the **fold_tree** corecut step (it does this automatically).
 
-### Stage 4a — sequence ML gene tree (workhorse)
+### Stage 4a — sequence ML gene tree
 ```bash
 mafft --maxiterate 1000 --localpair data/seqs/cores.faa > results/seq_tree/aln.fasta
 trimal -in results/seq_tree/aln.fasta -out results/seq_tree/aln.trim.fasta -automated1
@@ -178,7 +142,7 @@ iqtree  -s results/seq_tree/aln.trim.fasta -m MFP -B 1000 -alrt 1000 -pre result
 # env ships IQ-TREE v3.1.2; the binary is `iqtree` (or `iqtree3`), NOT `iqtree2`
 ```
 
-### Stage 4b — FoldTree structural tree (confirmatory)
+### Stage 4b — FoldTree structural tree
 FoldTree Colab (zero install) — upload `data/structures/cores/`:
 - Colab: https://colab.research.google.com/github/DessimozLab/fold_tree/blob/main/notebooks/FoldTree.ipynb
 - Repo:  https://github.com/DessimozLab/fold_tree
@@ -190,27 +154,27 @@ Prune a published genome-scale fungal tree (Li et al. 2021 *Curr Biol*; Y1000+/S
 2018 *Cell* for the budding-yeast portion) to our taxids (dendropy / R `ape`).
 Fallback: BUSCO `fungi_odb10` single-copy orthologs + IQ-TREE.
 
-### Stage 6 — reconciliation = the answer
+### Stage 6 — reconciliation
 ```bash
 generax --families families.txt --species-tree data/species_tree/species.nwk \
         --rec-model UndatedDL --prefix results/reconciliation/generax
 ```
 Also run **NOTUNG** (Java GUI). Cross-check GeneRax vs NOTUNG, and sequence-tree vs structure-tree.
 
-### Stage 7 — absolute dating (both approaches) + synthesis
-1. **Bracket (primary).** Map the duplication branch onto a published *time-calibrated* fungal tree
+### Stage 7 — absolute dating 
+1. **Bracket.** Map the duplication branch onto a published *time-calibrated* fungal tree
    and read its age window (stem ↔ crown age of the clade it maps to). TimeTree / Shen 2018 / Li 2021.
-2. **Our own relaxed clock (confirmation).** Date the Stage-4a gene tree (fixed topology) with
+2. **Our own relaxed clock.** Date the Stage-4a gene tree (fixed topology) with
    **treePL** (penalized likelihood, fast) and/or **MCMCtree** (PAML, Bayesian, approx. likelihood),
    placing calibrations on speciation nodes (e.g. Asco/Basidio split; Saccharomycotina crown; the
    *Saccharomyces* whole-genome-duplication landmark ~100 Mya); the duplication-node age falls out
-   with a credible interval. *Finalize specific calibrations at implementation.*
+   with a credible interval.
 Report the node, support values, sequence-vs-structure agreement, the paralog retention/loss pattern,
 and both date estimates.
 
 ---
 
-## QC checklist (how we'll trust the answer)
+## QC checklist
 1. Cross-check IPR048293 membership against an independent orthology source (OMA/OrthoDB) — and
    check the ~134 Ascomycota species that have a PF05970 protein but *no* IPR048293 call, in case
    a real cellular ortholog is merely under-annotated.
@@ -231,21 +195,3 @@ and both date estimates.
 - NOTUNG is a Java JAR (download from the Notung site); needs a JRE (`conda install -c conda-forge openjdk`).
 - Run FoldTree via Colab to avoid installing the structural toolchain locally.
 
-## Decision log
-- 2026-06-15: Project scaffolded. Strategy: sequence-ML-primary + reconciliation as the dating
-  step; structure (FoldTree) confirmatory; AFDB-first structures; fungi-wide sampling on laptop+Colab.
-- 2026-06-15: **Switched family filter PF05970 → IPR048293** after discovering PF05970 conflates
-  cellular PIF1 with Helitron transposon helicases (3–10× inflation). `01` gained `--interpro`.
-- 2026-06-15: **Comprehensive outgroups** chosen (all cellular Basidiomycota + Mucoromycota +
-  Chytridiomycota + human PIF1). New `02_combine_cellular.py` keeps the whole 957-protein set
-  (subsampling unnecessary at this size); `02_select_representatives.py` retired but kept.
-- 2026-06-15: **Absolute dating = both** (bracket from a published clock + our own treePL/MCMCtree
-  relaxed clock). Added Stage 7 plan.
-- 2026-06-15: Sequences fetched (`04`, 957). Structures (`03`) and conda env building.
-- 2026-06-15: **Gap-folding route = localcolabfold on the home RTX 4090 via WSL2** (not Colab/AF3).
-  Folds only the 129 AFDB-absent proteins, AF2 to match AFDB, lean settings; ~one evening. ColabFold
-  has no native-Windows GPU, hence WSL2. Steps written to `HOWTO_predict_129.md`; plan Stage 2b.
-- 2026-06-15: Data acquisition complete — `pif1` env built (IQ-TREE v3.1.2 = binary `iqtree`);
-  828/957 AFDB structures, 129 → ColabFold (user chose full AF2 coverage; `05` corecut → 957
-  helicase cores; MAFFT FFT-NS-i + trimAl → 209-col alignment; IQ-TREE gene-tree search launched.
-  New scripts `05_corecut.py`, plus `data/structures/af3/HOWTO_predict_129.md` for the predictions.
