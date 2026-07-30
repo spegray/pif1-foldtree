@@ -100,7 +100,7 @@ conda config --env --set subdir osx-64
 conda list > env.lock.txt      # record exact versions (audit trail)
 ```
 
-### Stage 1 — gather cellular PIF1 per taxon  *(done)*
+### Stage 1 — gather cellular PIF1 per taxon
 ```bash
 for spec in 4890:ascomycota 5204:basidiomycota 1913637:mucoromycota 451435:chytridiomycota 9606:human; do
   python3 workflow/01_gather_homologs.py --taxon ${spec%%:*} --interpro IPR048293 \
@@ -108,18 +108,18 @@ for spec in 4890:ascomycota 5204:basidiomycota 1913637:mucoromycota 451435:chytr
 done
 ```
 
-### Stage 0/1 — combine into the master list  *(done)*
+### Stage 0/1 — combine into the master list
 ```bash
 python3 workflow/02_combine_cellular.py --indir data/seqs/cellular --out data/seqs/selected.tsv
 # selected.tsv is THE auditable taxon/protein list; group/role columns flag ingroup vs outgroup.
 ```
 
-### Stage 1b — fetch sequences  *(done)*
+### Stage 1b — fetch sequences 
 ```bash
 python3 workflow/04_fetch_fasta.py --in data/seqs/selected.tsv --out data/seqs/selected.faa
 ```
 
-### Stage 2 — fetch structures + manifest  *(running)*
+### Stage 2 — fetch structures + manifest
 ```bash
 python3 workflow/03_fetch_structures.py --in data/seqs/selected.tsv \
     --manifest manifest.csv --outdir data/structures/afdb --fmt cif
