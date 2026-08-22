@@ -31,6 +31,8 @@ data/proteomes/
 __pycache__/
 *.pyc
 *.swp
+# Microsoft Office lock/owner files (e.g. ~$deck.pptx) - transient, never commit
+~$*
 
 # --- ColabFold run intermediates & accidental installs (regenerable; never commit) ---
 data/structures/af3/out/
@@ -83,3 +85,14 @@ data/species_tree/*.zip
 results/reconciliation/**/*_reconciliated.xml
 # ...but keep the authoritative grafted-run recPhyloXML - Fig S4 (thirdkind) reproduces from it:
 !results/reconciliation/aa3di_grafted/run/reconciliations/pif1_reconciliated.xml
+# IQ-TREE ancestral-state posteriors (large; regenerate with workflow/19)
+*.state
+# AF3 fold outputs for the ancestor (bulky; kept out-of-repo like the modern structures -- scores tracked)
+results/asr/af3/folds/
+
+# --- Rendered figure binaries (regenerable from docs/figures/scripts/) --------
+# Pruned from the repo 2026-08; keep the generating scripts, not the renders.
+docs/figures/*.png
+docs/figures/*.pdf
+docs/figures/*.svg
+!docs/figures/scripts/**
